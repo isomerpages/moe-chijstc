@@ -2,6 +2,7 @@ collections:
   theresian-family:
     output: true
     order:
+      - Students/Exercise and Sports Science (ESS).md
       - Students/Students.md
       - Students/.keep
       - Partners/.keep
