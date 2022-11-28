@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Student Handbook/.keep
       - Theresian Awards.md
       - Theresian Sports Leaders.md
       - Exercise and Sports Science (ESS).md
