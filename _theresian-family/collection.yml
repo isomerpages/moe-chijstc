@@ -2,10 +2,10 @@ collections:
   theresian-family:
     output: true
     order:
-      - Partners.md
       - Students.md
+      - Partners.md
+      - Students/.keep
       - Students/Theresian Awards.md
       - Students/Theresian Sports Leaders.md
       - Students/Exercise and Sports Science (ESS).md
-      - Students/.keep
       - Partners/.keep
