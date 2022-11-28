@@ -2,7 +2,7 @@ collections:
   theresian-family:
     output: true
     order:
+      - Partners/.keep
+      - Partners/Partners.md
       - Partners/Parent Support Group (PSG).md
       - Partners/Theresian Alumni.md
-      - Partners/Partners.md
-      - Partners/.keep
