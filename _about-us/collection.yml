@@ -2,4 +2,5 @@ collections:
   about-us:
     output: true
     order:
+      - Non–Financial Information.md
       - Principal's Message.md
