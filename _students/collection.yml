@@ -2,5 +2,6 @@ collections:
   students:
     output: true
     order:
+      - Theresian Awards.md
       - Theresian Sports Leaders.md
       - Exercise and Sports Science (ESS).md
