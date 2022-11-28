@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Calendar.md
       - Class Time–Table.md
       - Co Curricular Activities (CCA)/.keep
       - 2022 Exam Timetable.md
