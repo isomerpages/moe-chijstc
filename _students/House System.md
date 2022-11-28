@@ -51,3 +51,22 @@ description: ""
 </tr>
 </tbody>
 </table>
+<p><strong><u>Key House Activities<br /></u></strong><strong>a) Sports Related activities&nbsp;</strong></p>
+<ul>
+<li><strong>Habits for life (Every Friday)</strong></li>
+<li><strong>House Practice</strong></li>
+<li><strong>International Friendship Day (IFD) Sports Carnival</strong></li>
+<li><strong>Cheerleading Competition</strong></li>
+<li><strong>Banner Painting Competition</strong></li>
+<li><strong>NAPFA (Secondary 2/4/5)</strong></li>
+<li><strong>House Values in action: Walk for rice events</strong></li>
+</ul>
+<p><strong>b) School wide activities</strong></p>
+<ul>
+<li><strong>Secondary 1 Orientation</strong></li>
+<li><strong>STC Battle of the Bands (Secondary 2)</strong></li>
+<li><strong>Infocomm Competition</strong></li>
+<li><strong>House colors day and House Trivia</strong></li>
+<li><strong>Inter-class Competitions</strong></li>
+<li><strong>House Values in action: old rubber shoes collection drive</strong></li>
+</ul>
