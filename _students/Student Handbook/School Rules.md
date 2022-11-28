@@ -70,6 +70,5 @@ third_nav_title: Student Handbook
 <p>n. The school reserves the right to ask the student to leave the school premises for inappropriate behaviour / appearance.</p>
 <h4><strong>4. DISCIPLINARY PROCEDURES</strong></h4>
 <p>Any student who violates the school rules and regulations is liable to face disciplinary action. Consequences meted out will commensurate with the severity of the offence. A student may face suspension or expulsion under any of these conditions:</p>
-<p>a. when the offender is recalcitrant and / or</p>
-<p>b. when the safety and security of students and staff are jeopardised.</p>
+<p>a. when the offender is recalcitrant and / or<br>b. when the safety and security of students and staff are jeopardised.</p>
 <p><strong>The school reserves the right to change or modify the school rules and its disciplinary procedures to serve the best interest of the student and the school community.</strong></p>
