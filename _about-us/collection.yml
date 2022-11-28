@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Archdiocesan Commission for Catholic Schools (ACCS).md
       - Contact Us.md
       - Our Vision, Mission & Values.md
       - Non–Financial Information.md
