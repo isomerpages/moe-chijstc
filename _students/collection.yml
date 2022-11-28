@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Student Handbook/Student Handbook.md
       - Student Handbook/.keep
       - Theresian Awards.md
       - Theresian Sports Leaders.md
