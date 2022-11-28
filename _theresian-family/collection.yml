@@ -2,5 +2,6 @@ collections:
   theresian-family:
     output: true
     order:
+      - Partners/Theresian Alumni.md
       - Partners/Partners.md
       - Partners/.keep
