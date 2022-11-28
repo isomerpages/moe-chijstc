@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Co Curricular Activities (CCA)/.keep
       - 2022 Exam Timetable.md
       - House System.md
       - Our School Song.md
