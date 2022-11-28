@@ -3,10 +3,10 @@ url: https://chijsttheresasconvent.moe.edu.sg
 favicon: /images/logo.png
 colors:
   primary-color: "#4000b1"
-  secondary-color: "#ad8c60"
+  secondary-color: "#006521"
   media-colors:
     - title: media-color-one
-      color: "#006521"
+      color: "#ad8c60"
     - title: media-color-two
       color: "#000000"
     - title: media-color-three
