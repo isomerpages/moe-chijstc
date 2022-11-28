@@ -2,5 +2,5 @@ collections:
   partners:
     output: true
     order:
-      - Theresian Alumni.md
       - Parent Support Group (PSG).md
+      - Theresian Alumni.md
