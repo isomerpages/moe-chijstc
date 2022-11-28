@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - IJ Board of Management.md
       - Archdiocesan Commission for Catholic Schools (ACCS).md
       - Contact Us.md
       - Our Vision, Mission & Values.md
