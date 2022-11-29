@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Design & Food Studies.md
       - English.md
       - Humanities.md
       - Information & Communication Technology.md
