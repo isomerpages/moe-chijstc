@@ -2,7 +2,7 @@ collections:
   clubs-and-societies:
     output: true
     order:
-      - Entrepreneurship Club.md
       - Infocomm Technology (Media Production).md
+      - Entrepreneurship Club.md
       - Debating and Public Speaking.md
       - Clubs and Societies.md
