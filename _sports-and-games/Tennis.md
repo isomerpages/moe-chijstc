@@ -11,5 +11,5 @@ description: ""
 <p><strong>Training Venue</strong><br />School / Yio Chu Kang Tennis Court.</p>
 <p><strong>Teachers-in-Charge</strong><br />Ms Eunice Hung (<a href="mailto:hung_pek_hui_eunice@moe.edu.sg">hung_pek_hui_eunice@moe.edu.sg</a>)<br />Mr Pek Aik Soon (<a href="mailto:pek_aik_soon@moe.edu.sg">pek_aik_soon@moe.edu.sg</a>)<br />Mr Steven Lim (<a href="mailto:lim_wen_yi_steven@moe.edu.sg">lim_wen_yi_steven@moe.edu.sg</a>)</p>
 <img src="/images/ten2.jpg"><br>
-<img src="/images/ten3.jpg"><br>
-<img src="/images/ten4.jpg">
+<img src="/images/ten3.jpeg"><br>
+<img src="/images/ten4.jpeg">
