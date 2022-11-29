@@ -2,8 +2,8 @@ collections:
   clubs-and-societies:
     output: true
     order:
+      - Clubs and Societies.md
       - Infant Jesus Youth Mission (IJYM).md
       - Infocomm Technology (Media Production).md
       - Entrepreneurship Club.md
       - Debating and Public Speaking.md
-      - Clubs and Societies.md
