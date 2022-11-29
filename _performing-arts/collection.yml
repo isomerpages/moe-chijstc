@@ -2,10 +2,10 @@ collections:
   performing-arts:
     output: true
     order:
+      - Performing Arts.md
       - Angklung.md
       - Choir.md
       - Dance and Movement.md
       - English Drama.md
       - Guitar.md
       - Concert Band.md
-      - Performing Arts.md
