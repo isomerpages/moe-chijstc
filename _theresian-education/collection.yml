@@ -2,4 +2,5 @@ collections:
   theresian-education:
     output: true
     order:
+      - Sexuality Education.md
       - Education Career Guidance (ECG).md
