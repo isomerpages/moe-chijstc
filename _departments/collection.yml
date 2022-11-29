@@ -2,4 +2,5 @@ collections:
   departments:
     output: true
     order:
+      - Physical Education and CCA.md
       - Science.md
