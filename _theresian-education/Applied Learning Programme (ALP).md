@@ -133,4 +133,4 @@ description: ""
 </tbody>
 </table>
 <p>Since the start of 2014, &ldquo;EFL: Developing Portable Skills through and for Real World Problem Solving&rdquo; has been recognised by the Ministry of Education as the school&rsquo;s Applied Learning Programme (ALP). This ALP is one of the school&rsquo;s two Distinctive Programmes which leverages its unique strengths to bring out the best in each and every Theresian.</p>
-<p>Click&nbsp;<a href="/photo-gallery#EFL+photos+2016-41465" target="">here</a>&nbsp;to access the EFL photo gallery!</p>
+<p>Click&nbsp;<a href="/photo-gallery-EFL-photos-2016-41465" target="">here</a>&nbsp;to access the EFL photo gallery!</p>
