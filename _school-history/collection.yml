@@ -1,0 +1,4 @@
+collections:
+  school-history:
+    output: true
+    order: []
