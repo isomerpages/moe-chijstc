@@ -2,5 +2,6 @@ collections:
   uniform-groups:
     output: true
     order:
+      - Girl Guides.md
       - NPCC.md
       - Uniform Groups.md
