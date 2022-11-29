@@ -10,3 +10,5 @@ description: ""
 <p><a href="/files/ForStudentsParentsupdated%202%20Nov.pdf">See more details here</a></p>
 <hr>
 <p><strong>2022 CHIJ St. Theresa&rsquo;s Convent CCA Information</strong><br />Please click&nbsp;<a href="/theresian-family/students/co-curricular-activities-cca">here</a>&nbsp;to see the overall CCA schedule and information (2022).</p>
+<hr>
+<p><strong>Sale of Textbooks and School Uniform - Sec 2 to 5 Students (2022)</strong><br />Please click <a href="/theresian-family/students/school-bookshop-uniform-n-pe-attire">here</a>&nbsp;for Sale of&nbsp;Textbooks and School Uniform - Sec 2 to 5 Students (2022)</p>
