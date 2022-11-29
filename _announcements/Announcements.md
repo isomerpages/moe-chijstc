@@ -3,5 +3,10 @@ title: Announcements
 permalink: /others/announcements/
 description: ""
 ---
-<p><a href="/others/announcement/from-the-principals-desk"><strong>From the Principal's Desk</strong></a><br />Please click&nbsp;<a href="/others/announcement/from-the-principals-desk">here</a>.</p>
+<p><strong>From the Principal's Desk</strong><br />Please click&nbsp;<a href="/others/announcement/from-the-principals-desk">here</a>.</p>
 <hr>
+<p><strong>Login to SLS using your student icon email address w.e.f 1 Dec 2022</strong><br />The Singapore Student Learning Space (SLS) will be temporarily&nbsp;unavailable&nbsp;during a system upgrade from Wednesday 30th Nov until the evening of Thursday 1st December 2022.</p>
+<p>&nbsp;After the upgrade, you will be able to enjoy a single sign-on experience to SLS using the MOE Identity Management System (MIMS).&nbsp;<strong>The sign-in will now be based on your MIMS id (your icon email account ending with @students.edu.sg) and password</strong>. You will have the option of using SLS id and password to sign in as per current method.</p>
+<p><a href="/files/ForStudentsParentsupdated%202%20Nov.pdf">See more details here</a></p>
+<hr>
+<p><strong>2022 CHIJ St. Theresa&rsquo;s Convent CCA Information</strong><br />Please click&nbsp;<a href="/theresian-family/students/co-curricular-activities-cca">here</a>&nbsp;to see the overall CCA schedule and information (2022).</p>
