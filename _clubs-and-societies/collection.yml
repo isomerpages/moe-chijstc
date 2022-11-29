@@ -2,4 +2,5 @@ collections:
   clubs-and-societies:
     output: true
     order:
+      - Debating and Public Speaking.md
       - Clubs and Societies.md
