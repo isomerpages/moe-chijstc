@@ -2,6 +2,7 @@ collections:
   performing-arts:
     output: true
     order:
+      - Choir.md
       - Dance and Movement.md
       - English Drama.md
       - Guitar.md
