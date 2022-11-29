@@ -421,5 +421,186 @@ description: ""
 <p style="text-align: left;"><strong>Meeting the Demands of a New Era</strong><br />Focused on preparing our students to meet the needs of the changing national and global economic environments, facilities have been upgraded and programmes designed. The Performing Arts Centre was opened by Dr S Vasoo, MP for Tanjong Pagar GRC in February 1997. &nbsp; The Theresian Learning Centre was declared open and the school&rsquo;s website was also launched by Ms Annabel Pennefather, Chairman of the IJ Board of Management on 1 October 1997.</p>
 </td>
 </tr>
+<tr>
+<td style="width: 15%; text-align: center;">
+<h4>1998 - 1999</h4>
+</td>
+<td style="width: 40%; text-align: center;">
+<h4><strong><img style="width: 85%;" src="/images/her33.jpg"></strong></h4>
+</td>
+<td style="width: 45%; text-align: center;">
+<p style="text-align: left;"><strong>Principal: Mrs Evelyn Ong (1998 - 2002)</strong><br />End 1997 saw Mrs Evelyn Ong succeed Mrs Hirubalan who was posted to MOE HQ. To meet the needs of a more sophisticated generation, Mrs Ong established the Parent Support Group.</p>
+<p style="text-align: left;">PAL (Parents Are Links) was inaugurated on 9 November 1999. The first chairperson was Mrs Vivien Woon. Simultaneously, Mrs Ong also began fundraising through a charity golf tournament to build the Theresian Archives.</p>
+</td>
+</tr>
+<tr>
+<td style="width: 15%; text-align: center;">
+<h4>2000</h4>
+</td>
+<td style="width: 40%; text-align: center;">
+<h4><strong><img style="width: 85%;" src="/images/her34.jpg"></strong></h4>
+</td>
+<td style="width: 45%; text-align: center;">
+<p style="text-align: left;"><strong>Building Bridges, Making Connections</strong><br />To make St. Theresa's a safer and more inviting environment, a pedstrian overhead bridge into the school compound was built and completed in 2000. The statue of our founder, Fr Nicholas Barre was also installed in the school's foyer on 20 October 2000.</p>
+<p style="text-align: left;">Sanctuaire de Barre is a quiet but an important reminder to all who enter the portals of CHIJ St. Theresa's that the school would not be in existence if not for the vision and courage of Fr Nicholas Barre and thecommitment of the IJ sisters.</p>
+</td>
+</tr>
+<tr>
+<td style="width: 15%; text-align: center;">
+<h4>2001</h4>
+</td>
+<td style="width: 40%; text-align: center;">
+<h4><strong><img style="width: 85%;" src="/images/her35.jpg"></strong></h4>
+</td>
+<td style="width: 45%; text-align: center;">
+<p style="text-align: left;"><strong>Inauguration of the Student Council &amp; Opening of Notre Heritage</strong><br />To broaden the roles and responsibilities of student leaders, the Prefectorial Board was developed into the Student Council which was inaugurated on 6 July 2001, in conjunction with Youth Day.</p>
+<p style="text-align: left;">The building of the Theresian Archives was also completed.</p>
+<p style="text-align: left;">Former President Dr Wee Kim Wee declared the Notre Heritage officially open on 22 October 2001.</p>
+</td>
+</tr>
+<tr>
+<td style="width: 15%; text-align: center;">
+<h4>2002 - 2003</h4>
+</td>
+<td style="width: 40%; text-align: center;">
+<h4><strong><img style="width: 85%;" src="/images/her36.jpg"></strong></h4>
+</td>
+<td style="width: 45%; text-align: center;">
+<p style="text-align: left;"><strong>Principal: Mrs Christine Anne Kong (2002 - 2007)</strong><br />Mrs Christine Kong was appointed principal in 2002. To meet the recreational needs of a more sophisticated generation, Mrs Kong began construction of a Student Activity Centre in 2002.</p>
+<p style="text-align: left;">The SARS (Severe Acute Respiratory Syndrome) outbreak in the first half of 2003 was a difficult time for the nation. St. Theresa's, like all other secondary schools was shut from 27 March 2013 to 14 April 2013. This however did not deter the school from marking its 70th anniversary.</p>
+<p style="text-align: left;">The Lighthouse was declared officially opened on 6 June 2003 by alumnus Mrs Margaret Tan who was then Principal of CHIJ Katong Primary.</p>
+</td>
+</tr>
+<tr>
+<td style="width: 15%; text-align: center;">
+<h4>2003</h4>
+</td>
+<td style="width: 40%; text-align: center;">
+<h4><strong><img style="width: 85%;" src="/images/her37.jpg"></strong></h4>
+</td>
+<td style="width: 45%; text-align: center;">
+<p style="text-align: left;"><strong>Celebrating 70 Years of Tradition: Theresians - Light of the Nation</strong><br />The National Education (NE) Heritage Gallery was declared officially open by Mr Koh Boon Long, Deputy Director, NE Branch on 8 August 2003, in conjunction with National Day celebration and the celebration of the 70th anniversary of the school's founding.</p>
+<p style="text-align: left;">The gallery comprises a creative display of panels that document the development of CHIJ St. Theresa's Convent in parallel with the development of Singapore. These panels were installed on the walls of the staircase well of Block C, which was the classroom block.</p>
+</td>
+</tr>
+<tr>
+<td style="width: 15%; text-align: center;">
+<h4>2004 - 2005</h4>
+</td>
+<td style="width: 40%; text-align: center;">
+<h4><strong><img style="width: 85%;" src="/images/her38.jpg"></strong></h4>
+</td>
+<td style="width: 45%; text-align: center;">
+<p style="text-align: left;"><strong>CHIJ 150th Anniversary Celebrations</strong><br />The IJ community marked its 150th year of IJ presence in Singapore. The book, Convent of the Holy Infant Jesus - 150 years in Singapore by Elaine Meyers was published.</p>
+<p style="text-align: left;">On 26 December 2004, the Indian Ocean earthquake triggered a series of devastating tsunamis that affected Indonesia, India, Sri Lanka and Thailand. Mindful of its social mission, St.Theresa's organised a school-wide event that involved the packing of relief supplies for the tsunami victims.</p>
+</td>
+</tr>
+<tr>
+<td style="width: 15%; text-align: center;">
+<h4>2006 - 2007</h4>
+</td>
+<td style="width: 40%; text-align: center;">
+<h4><strong><img style="width: 85%;" src="/images/her39.jpg"></strong></h4>
+</td>
+<td style="width: 45%; text-align: center;">
+<p style="text-align: left;"><strong>Celebrating Arts and Sports</strong><br />As Singapore continues to meet the needs of an increasingly sophisticated generation in arts and sports , CHIJ St. Theresa's similarly works at meeting the aspirations of Theresians. Performing Arts and sporting excellence remain the focus of a Theresian education.</p>
+<p style="text-align: left;">To this end, a 200m track was constructed and opened in 2006. A musical entitled 'Sing to the Dawn' was also produced in the same year in conjunction with Racial Harmony Day.</p>
+<p style="text-align: left;">In 2007, Developing Confident &amp; Resilient Leaders, Learners &amp; Ladies through Hockey was recognised as a niche programme by the Ministry of Education.</p>
+</td>
+</tr>
+<tr>
+<td style="width: 15%; text-align: center;">
+<h4>2008 - 2009</h4>
+</td>
+<td style="width: 40%; text-align: center;">
+<h4><strong><img style="width: 85%;" src="/images/her40.jpg"></strong></h4>
+</td>
+<td style="width: 45%; text-align: center;">
+<p style="text-align: left;"><strong>Principal: Mrs Pauline Wong (2008 to date)</strong><br />Mrs Kong was posted to MOE HQ as Cluster Superintendent and Pauline Wong took over as Principal. The school celebrated the 75th anniversary of its founding with 3 key events - a food &amp; fun fair in conjunction with International Friendship Day on 19 April 2008, the folding of 57,000 hearts from recycled paper to mark UN Day for Eradicaton of World Poverty on 17 October 2008 and a dinner for alumni, parents, staff, students and friends of the school in November.</p>
+<p style="text-align: left;">In 2009, the school also supported the inaugural Asian Youth Games (AYG) by involving 180 student helpers at the Beach Volleyball event at Sentosa.</p>
+</td>
+</tr>
+<tr>
+<td style="width: 15%; text-align: center;">
+<h4>2010 - 2011</h4>
+</td>
+<td style="width: 40%; text-align: center;">
+<h4><strong><img style="width: 85%;" src="/images/her41.jpg"></strong></h4>
+</td>
+<td style="width: 45%; text-align: center;">
+<p style="text-align: left;"><strong>Two years at Holding Site</strong><br />To make way for upgrading under PRIME, the school moved out to its holding site at Queensway. The Theresian Spirit burned bright even though we were away from home.</p>
+<p style="text-align: left;">Business was as usual after the school was blessed on 30 December 2009.</p>
+</td>
+</tr>
+<tr>
+<td style="width: 15%; text-align: center;">
+<h4>2010</h4>
+</td>
+<td style="width: 40%; text-align: center;">
+<h4><strong><img style="width: 85%;" src="/images/her42.jpg"></strong></h4>
+</td>
+<td style="width: 45%; text-align: center;">
+<p style="text-align: left;"><strong>Blazing the Trail - Youth Olympics Games (YOG) 2010</strong><br />Singapore hosted the inaugural AYG in 2009 and the inaugural YOG in August 2010. 800 of our Sec 1, 2 and 3 girls participated in the Closing Ceremony mass dance entitled Blazing the Trail. More than 25 practices were held from March to August that year to prepare our girls for the performance. Our Theresian ladies, staff and parent volunteers did us proud.</p>
+<p style="text-align: left;">Thursday, 26 August 2010 when our girls took to the stage is a momentous day in the history of both CHIJ St. Theresa's Convent and of Singapore. We have indeed blazed the trail!</p>
+</td>
+</tr>
+<tr>
+<td style="width: 15%; text-align: center;">
+<h4>2011</h4>
+</td>
+<td style="width: 40%; text-align: center;">
+<h4><strong><img style="width: 85%;" src="/images/her43.jpg"></strong></h4>
+</td>
+<td style="width: 45%; text-align: center;">
+<p style="text-align: left;"><strong>Light on the Hill returns</strong><br />Upgrading under PRIME was completed. The 200m track and the Lighthouse had to make way for a new competitive-sized hockey pitch with synthetic turf complete with water sprinklers. The school returned 'home' on 25 November 2011.</p>
+<p style="text-align: left;">On the 6th floor of the newly piled Block E, a 220 sqm space has been designated as the new Lighthouse. A symbolic home run from the holding site was held on 29 December 2011 followed by the school blessing by His Grace Msgr Nicholas Chia.</p>
+</td>
+</tr>
+<tr>
+<td style="width: 15%; text-align: center;">
+<h4>2013</h4>
+</td>
+<td style="width: 40%; text-align: center;">
+<h4><strong><img style="width: 85%;" src="/images/her44.jpg"></strong></h4>
+</td>
+<td style="width: 45%; text-align: center;">
+<p style="text-align: left;"><strong>80 Years of Love and Light - The Rose in Full Bloom Again</strong><br />In 2013, Education For Life - Developing Portable Skills through and for Real World Problem Solving was recognised as a second niche programme of the school by the Ministry of Education.</p>
+<p style="text-align: left;">On 19 July 2013, a Teaching &amp; Learning (T&amp;L) Fair was held in conjunction with Racial Harmony Day and The Rose Hallway was declared officially open by Senior Minister of State, Ms Indranee Rajah.</p>
+<p style="text-align: left;">The Rose Hallway captures our 80-year journey of strengthening founddations, guided by God's love and light. It comprises the amalgamation of the treasures from Notre Heritage and NE Heritage Gallery.</p>
+</td>
+</tr>
+<tr>
+<td style="width: 15%; text-align: center;">
+<h4>2014</h4>
+</td>
+<td style="width: 40%; text-align: center;">
+<h4><strong><img style="width: 85%;" src="/images/her.png"><img style="width: 85%;" src="/images/her45.jpg"></strong></h4>
+</td>
+<td style="width: 45%; text-align: center;">
+<p style="text-align: left;"><strong><u>160th Anniversary Forum</u></strong><br />The first CHIJ schools in Singapore was founded in 1854 by the Sisters who also set up an orphanage and provided assistance to the poor. The CHIJ schools celebrated its 160th anniversary with a record-breaking bid and the launch of a fund to help needy students. CHIJ Student leaders attended the 160th Anniversary Forum at Catholic Junior College in August 2014. The Theme of the forum was&rdquo; Women in the Footsteps of Mother Mathilde&rdquo;.</p>
+<p style="text-align: left;"><strong><u>The Rose Terrace<br /></u></strong>The Rose Terrace was officially declared open by our Guest-of-Honour, Mrs Rina Liang, ex-Thereian and Principal of Geylang Methodist Primary on 19 November 2014. Situated at the highest level of our school, The Rose Terrace&rsquo;s primary feature is a set of 4 solar panels which generate enough energy to power the light at the terrace. This night light serves as a reminder to present day Theresians that we are still the &lsquo;Light on the Hill&rsquo;.</p>
+<p style="text-align: left;">The Rose Terrace also encompasses much of what St Theresa&rsquo;s Convent represents. The rose, as a school emblem, exudes the radiance, beauty, promise and hope which we wish for in all Theresians.</p>
+</td>
+</tr>
+<tr>
+<td style="width: 15%; text-align: center;">
+<h4>2015</h4>
+</td>
+<td style="width: 40%; text-align: center;">
+<h4><strong><img style="width: 85%;" src="/images/her47.png"><img style="width: 85%;" src="/images/her48.png"><img style="width: 85%;" src="/images/her46.png"></strong></h4>
+</td>
+<td style="width: 45%; text-align: center;">
+<p style="text-align: left;"><strong><u>Habits of Life (HFL)<br /></u></strong>Inspired by the spirit of our pioneers, CHIJ STC launched their Habits For Life programme on 9 January 2015. This weekly 45-minute period comprises a variety of activities organised under 4 modules, shown as follows:</p>
+<ol style="text-align: left;">
+<li>HEART OF LIFE for Mindfulness, Aesthetic Appreciation &amp; Stress Management</li>
+<li>CIVICS FOR LIFE (Values Inculcation, Current Affairs &amp; Reading)</li>
+<li>FIT FOR LIFE (Healthy Eating &amp; Physical Exercises)</li>
+<li>ACTIVE FOR LIFE (Cardio vascular Fitness Activities)</li>
+</ol>
+<p style="text-align: left;">The objectives of HFL are to support the delivery of the school&rsquo;s Learning for Life Programme as well as to integrate other related school level initiatives like Values Inculcation, Silent Reading &amp; Reflection, and Aesthetic Appreciation. HFL modules provide learning experiences that promote development in Cognitive, Physical &amp; Aesthetics and Social &amp; Moral domains, thus strengthening the school&rsquo;s efforts at providing a well-rounded, holistic education.</p>
+<p style="text-align: left;"><strong>SG50 &ndash; The Pioneering Spirit since 1965<br /></strong>Theme for CHIJ STC for 2015 &ndash; Pioneers on the Hill, In Service and Love. To commemorate SG50, the Secondary Three start right programme had their learning Journey to Changi War museum, Johore Battery and Sook Ching massacre sites.</p>
+<p style="text-align: left;">All pioneers of CHIJ STC will be invited to our school National Day Celebration cum Student Leaders Investiture on 7 August 2015.</p>
+</td>
+</tr>
 </tbody>
 </table>
