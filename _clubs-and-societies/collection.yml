@@ -2,5 +2,6 @@ collections:
   clubs-and-societies:
     output: true
     order:
+      - Infocomm Technology (Media Production).md
       - Debating and Public Speaking.md
       - Clubs and Societies.md
