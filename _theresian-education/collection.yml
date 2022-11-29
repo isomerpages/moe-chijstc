@@ -1,4 +1,5 @@
 collections:
   theresian-education:
     output: true
-    order: []
+    order:
+      - Education Career Guidance (ECG).md
