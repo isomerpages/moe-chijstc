@@ -2,5 +2,6 @@ collections:
   sports-and-games:
     output: true
     order:
+      - Tennis.md
       - Track and Field.md
       - Sports & Games.md
