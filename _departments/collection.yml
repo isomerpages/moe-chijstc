@@ -2,5 +2,6 @@ collections:
   departments:
     output: true
     order:
+      - Mother Tongue Languages.md
       - Physical Education and CCA.md
       - Science.md
