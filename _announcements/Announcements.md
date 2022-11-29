@@ -12,3 +12,10 @@ description: ""
 <p><strong>2022 CHIJ St. Theresa&rsquo;s Convent CCA Information</strong><br />Please click&nbsp;<a href="/theresian-family/students/co-curricular-activities-cca">here</a>&nbsp;to see the overall CCA schedule and information (2022).</p>
 <hr>
 <p><strong>Sale of Textbooks and School Uniform - Sec 2 to 5 Students (2022)</strong><br />Please click <a href="/theresian-family/students/school-bookshop-uniform-n-pe-attire">here</a>&nbsp;for Sale of&nbsp;Textbooks and School Uniform - Sec 2 to 5 Students (2022)</p>
+<hr>
+<p><strong>PLD Information Kit for Students and Parents</strong><br />Please click&nbsp;<a href="/files/Student%20Device%20Information%20Kit_CHIJ%20STC.pdf">here</a>&nbsp;for your PLD information with regards to</p>
+<ul>
+<li>Service Centre Fault Reporting</li>
+<li>Warranty and insurance Coverage</li>
+<li>Reporting for loss of device</li>
+</ul>
