@@ -4,30 +4,18 @@ title: CHIJ St. Theresa's Convent
 description: Brief site description here
 image: /images/logo.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: Open House 2022! Saturday November 2022 8.30am to 12.30pm
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
+      background: /images/banner.gif
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+        - title: Announcements
+          description: ""
+          url: /others/announcement
+        - title: Our STC Story
+          description: ""
+          url: /our-stc-story
+        - title: Quick Links
+          description: ""
+          url: /quick-links/staff
 ---
-
-
