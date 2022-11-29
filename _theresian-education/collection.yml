@@ -2,5 +2,6 @@ collections:
   theresian-education:
     output: true
     order:
+      - Student Leadership Programme.md
       - Sexuality Education.md
       - Education Career Guidance (ECG).md
