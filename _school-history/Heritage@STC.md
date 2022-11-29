@@ -305,5 +305,110 @@ description: ""
 <p style="text-align: left;"><strong>Graduation Day</strong><br />The tradition of &lsquo;Graduation Day&rsquo; for Secondary Four school leavers was instituted. To this day, more than four decades later, annually, our graduating Theresians are presented in their whites before their proud parents.</p>
 </td>
 </tr>
+<tr>
+<td style="width: 15%; text-align: center;">
+<h4>1976 - 1983</h4>
+</td>
+<td style="width: 40%; text-align: center;">
+<h4><strong><img style="width: 85%;" src="/images/her24.jpg"></strong></h4>
+</td>
+<td style="width: 45%; text-align: center;">
+<p style="text-align: left;"><strong>A Full School turns 50!</strong><br />Ms Isabel Rodrigues left to head CHIJ Our Lady of Good Counsel and both primary and secondary sections were merged to become a full school under the leadership of Mrs Margaret Joseph. Plans for the physical upgrading of CHIJ St. Theresa's Convent also began.</p>
+<p style="text-align: left;">Mrs Joseph started many school programmes like parent education, moral science and public speaking to educate parents and students on her ethical beliefs. The school newsletter 'Echoes from the Hills' echoed her distinctive moral positions on subjects like self-esteem, relationships, social responsibility and the sanctity of life.</p>
+<p style="text-align: left;">To mark the school's 50th anniversary in 1983, Mrs Joseph rallied her staff to publish a book that discussed the value systems that undergirded marriages in the various cultural groups in Singapore.</p>
+</td>
+</tr>
+<tr>
+<td style="width: 15%; text-align: center;">
+<h4>1986</h4>
+</td>
+<td style="width: 40%; text-align: center;">
+<h4><strong></strong></h4>
+</td>
+<td style="width: 45%; text-align: center;">
+<p style="text-align: left;"><strong>St. Theresa's to focus on Secondary Education</strong><br />As Singapore underwent rapid change and renewal to provide quality living for its citizens, St. Theresa's was re-positioned to become a dedicated secondary school. In 1986, the phasing out of the Primary Section was set in motion when the school admitted its last intake of Primary One classes. This move was in line with the school's vision to provide quality education to those it served.</p>
+</td>
+</tr>
+<tr>
+<td style="width: 15%; text-align: center;">
+<h4>1989</h4>
+</td>
+<td style="width: 40%; text-align: center;">
+<h4><strong><img style="width: 85%;" src="/images/her25.jpg"></strong></h4>
+</td>
+<td style="width: 45%; text-align: center;">
+<p style="text-align: left;"><strong>Single Session</strong><br />St. Theresa&rsquo;s Convent became a single-session secondary school in 1989, with the its last three cohorts of primary classes.</p>
+</td>
+</tr>
+<tr>
+<td style="width: 15%; text-align: center;">
+<h4>1990</h4>
+</td>
+<td style="width: 40%; text-align: center;">
+<h4><strong><img style="width: 85%;" src="/images/her26.jpg"></strong></h4>
+</td>
+<td style="width: 45%; text-align: center;">
+<p style="text-align: left;"><strong>Principal: Sr Maria Lau (1990 - 1994)&nbsp;</strong>With the sudden passing of Mrs Joseph on 3 February 1990, Sister Maria Lau was appointed principal on 26 February 1990. Building works had already begun following a ground breaking ceremony on 13 February 1990.</p>
+<p style="text-align: left;">Sr Maria is remembered for her tenacity to ensure that the school is equipped to meet the needs of a new era. 1990 saw the official opening of Greenlodge, a sisters' residence and Computer Laboratory by Ms Annabel Pennefather, Chairperson of the Board of Management of CHIJ Schools.</p>
+</td>
+</tr>
+<tr>
+<td style="width: 15%; text-align: center;">
+<h4>1991</h4>
+</td>
+<td style="width: 40%; text-align: center;">
+<h4><strong><img style="width: 85%;" src="/images/her27.jpg"></strong></h4>
+</td>
+<td style="width: 45%; text-align: center;">
+<p style="text-align: left;"><strong>Education For Life, Uniquely Theresian</strong><br />In 1991, the last cohort of Primary 6 pupils graduated. &nbsp; Phase 1 of School Development project was completed on 31 October 1991. Through the physical upgrading, Sr Maria did not forget that the school is more than just brick and mortar. A staunch believer that all children can learn, Sr Maria pioneered the Education For Life (EFL)programme.</p>
+<p style="text-align: left;">In 2013, more than two decades later, EFL is recognised as a key and distinctive programme of the school that aims to equip Theresians with portable skills through and for real world problem solving.&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td style="width: 15%; text-align: center;">
+<h4>1992</h4>
+</td>
+<td style="width: 40%; text-align: center;">
+<h4><strong><img style="width: 85%;" src="/images/her28.jpg"></strong></h4>
+</td>
+<td style="width: 45%; text-align: center;">
+<p style="text-align: left;"><strong>A New Era</strong><br />The school started to function in the new administrative block. Phase 2 of building works commenced in December 1992. The school building and ground underwent transformation in order to best prepare students for a rapidly changing national environment that had to keep in step with global changes.</p>
+</td>
+</tr>
+<tr>
+<td style="width: 15%; text-align: center;">
+<h4>1993</h4>
+</td>
+<td style="width: 40%; text-align: center;">
+<h4><strong><img style="width: 85%;" src="/images/her29.jpg"></strong></h4>
+</td>
+<td style="width: 45%; text-align: center;">
+<p style="text-align: left;"><strong>Hockey Our Pride</strong><br />The school celebrated its 60th Anniversary. The Theresian Alumni was formed. From the vision of Mrs Maureen Martens, St. Theresa's became well-known for producing hockey players of quality.</p>
+<p style="text-align: left;">When the Singapore Women's Hockey Team won the SEA Games gold medal in 1993, 11 of the 16-member team were Theresians.</p>
+</td>
+</tr>
+<tr>
+<td style="width: 15%; text-align: center;">
+<h4>1994</h4>
+</td>
+<td style="width: 40%; text-align: center;">
+<h4><strong><img style="width: 85%;" src="/images/her30.jpg"></strong></h4>
+</td>
+<td style="width: 45%; text-align: center;">
+<p style="text-align: left;"><strong>A Rose in Full Bloom</strong><br />With the completion of the 4-storey classroom block, the Auditorium and Technical Workshop, St. Theresa's was given a major facelift that earned the school the description of 'A Rose in Full Bloom'.</p>
+<p style="text-align: left;">The school started to function in the new four-storey classroom block. A quiet room called 'The Cenacle' was added to remind Theresians that what houses the human spirit is more than just brick and mortar. In four short years, Sr Maria's work of building "a house where love can dwell" was complete.</p>
+</td>
+</tr>
+<tr>
+<td style="width: 15%; text-align: center;">
+<h4>1994 - 1996</h4>
+</td>
+<td style="width: 40%; text-align: center;">
+<h4><strong><img style="width: 85%;" src="/images/her31.jpg"></strong></h4>
+</td>
+<td style="width: 45%; text-align: center;">
+<p style="text-align: left;"><strong>Principal: Mrs Mano Hirubalan (1994 - 1998)</strong><br />Sister Maria was appointed Principal of Catholic Junior College on 28 November 1994. Mrs Mano Hirubalan assumed principalship of the school. The new school building was declared officially open by His Grace, Msgr Gregory Yong, Archbishop of Singapore on 25 March 1995. The third Computer Lab was officially opened by Deputy Director of Secondary Schools, Ms Seah Jiak Choo on 31 August 1996.</p>
+</td>
+</tr>
 </tbody>
 </table>
