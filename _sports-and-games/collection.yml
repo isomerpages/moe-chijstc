@@ -2,4 +2,5 @@ collections:
   sports-and-games:
     output: true
     order:
+      - Track and Field.md
       - Sports & Games.md
