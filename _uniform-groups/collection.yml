@@ -2,4 +2,5 @@ collections:
   uniform-groups:
     output: true
     order:
+      - NPCC.md
       - Uniform Groups.md
