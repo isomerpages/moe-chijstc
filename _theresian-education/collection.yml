@@ -2,6 +2,7 @@ collections:
   theresian-education:
     output: true
     order:
+      - Character and Citizenship Education (CCE).md
       - Full Subject–Based Banding (FSBB).md
       - Portrait of a Theresian Girl.md
       - Student Leadership Programme.md
