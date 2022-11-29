@@ -191,5 +191,119 @@ description: ""
 <p style="text-align: left;">In 1956, she became the 6th principal of CHIJ St. Theresa's Convent and will always be remembered for being ahead of her times. Students in the late 1950s were already engaged in out-of-class learning like visits to the printing press and the airport to see the bulwarks.</p>
 </td>
 </tr>
+<tr>
+<td style="width: 15%; text-align: center;">
+<h4>Late 1950s</h4>
+</td>
+<td style="width: 40%; text-align: center;">
+<h4><strong><img style="width: 85%;" src="/images/her14.jpg"></strong></h4>
+</td>
+<td style="width: 45%; text-align: center;">
+<p style="text-align: left;"><strong>Times of Rapid Expansion</strong><br />Under Sr Marie's leadership, the school underwent rapid expansion. To boost staff recruitment, Sr Marie turned to Senior Cambridge school leavers from Town Convent who were looking for jobs as teachers. One such blessing was Mrs Maureen Martens who later started hockey at St. Theresa's.</p>
+<p style="text-align: left;">Another gift to the school was Mrs Mabel Tan who joined as a teacher in 1957 and served the school for the next 42 years. Yet another gift to the school was Ms Chan Pui Chen who taught in St. Theresa's for 50 years straight after graduating from Town Convent.&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td style="width: 15%; text-align: center;">
+<h4>1959</h4>
+</td>
+<td style="width: 40%; text-align: center;">
+<h4><strong><img style="width: 85%;" src="/images/her15.jpg"></strong></h4>
+</td>
+<td style="width: 45%; text-align: center;">
+<p style="text-align: left;"><strong>Second Phase of Construction of the School</strong><br />Construction of the hall and tuckshop started.</p>
+</td>
+</tr>
+<tr>
+<td style="width: 15%; text-align: center;">
+<h4>1961</h4>
+</td>
+<td style="width: 40%; text-align: center;">
+<h4><strong><img style="width: 85%;" src="/images/her16.jpg"></strong></h4>
+</td>
+<td style="width: 45%; text-align: center;">
+<p style="text-align: left;"><strong>Bukit Purmei - A Road at last!</strong><br />Some semblance of a road leading to the school came into being when Bukit Purmei was first constructed in 1961.</p>
+</td>
+</tr>
+<tr>
+<td style="width: 15%; text-align: center;">
+<h4>1964</h4>
+</td>
+<td style="width: 40%; text-align: center;">
+<h4><strong><img style="width: 85%;" src="/images/her17.jpg"></strong></h4>
+</td>
+<td style="width: 45%; text-align: center;">
+<p style="text-align: left;"><strong>School Field and Science Labs - Facilities not to be taken for granted</strong><br />The hill behind the school made way for the school field &ndash; the Boswell Field, which was named after Colonel Boswell from the British Army.</p>
+<p style="text-align: left;">Colonel Boswell and his men assisted in clearing the field. As a result, the first annual Athletic Meet was held. &nbsp; The school&rsquo;s only science laboratory was also opened.</p>
+</td>
+</tr>
+<tr>
+<td style="width: 15%; text-align: center;">
+<h4>1965</h4>
+</td>
+<td style="width: 40%; text-align: center;">
+<h4><strong><img style="width: 85%;" src="/images/her18.jpg"></strong></h4>
+</td>
+<td style="width: 45%; text-align: center;">
+<p style="text-align: left;"><strong>Of Loss and Opportunities</strong><br />Just as separation from Malaysia gave Singapore the opportunity to test its resolve for independence, the lost of the hills provided opportunities for CHIJ St. Theresa's to hold its athletic meets and National Day parades on levelled ground.</p>
+</td>
+</tr>
+<tr>
+<td style="width: 15%; text-align: center;">
+<h4>1968</h4>
+</td>
+<td style="width: 40%; text-align: center;">
+<h4><strong><img style="width: 85%;" src="/images/her19.jpg"></strong></h4>
+</td>
+<td style="width: 45%; text-align: center;">
+<p style="text-align: left;"><strong>More Facilities, More Opportunities&nbsp;for Learning</strong><br />The third storey of three classrooms and the Haw Par Art room, at a cost of $85,000 was constructed.<br /><br />As a result of this extension, two of the classrooms were converted into a needlework room and a library. &nbsp; The school newsletter, &ldquo;Echoes from the Hill&rdquo; was first published.</p>
+</td>
+</tr>
+<tr>
+<td style="width: 15%; text-align: center;">
+<h4>1969</h4>
+</td>
+<td style="width: 40%; text-align: center;">
+<h4><strong><img style="width: 85%;" src="/images/her20.jpg"></strong></h4>
+</td>
+<td style="width: 45%; text-align: center;">
+<p style="text-align: left;"><strong>Official Opening of Extension Block</strong><br />The extension block was declared officially opened by Mr Govindasamy, MP for Telok Blangah, on 19th August 1969, in conjunction with 150th anniversary of Singapore&rsquo;s founding.</p>
+</td>
+</tr>
+<tr>
+<td style="width: 15%; text-align: center;">
+<h4>1970</h4>
+</td>
+<td style="width: 40%; text-align: center;">
+<h4><strong><img style="width: 85%;" src="/images/her21.jpg"></strong></h4>
+</td>
+<td style="width: 45%; text-align: center;">
+<p style="text-align: left;"><strong>Change of Batons</strong><br />1970 saw Sr Marie recalled to her native Bangkok to head Ruam Rudee International School. That year, the school organised its first cross country race of one mile from the hill through the old Radin Mas Primary School and back again. The first school magazine was also published.</p>
+<p style="text-align: left;">Miss Isabel Rodrigues acted as head of the secondary section during transitional period until Mrs Margaret Joseph was appointed as principal of the secondary section.</p>
+</td>
+</tr>
+<tr>
+<td style="width: 15%; text-align: center;">
+<h4>1970</h4>
+</td>
+<td style="width: 40%; text-align: center;">
+<h4><strong><img style="width: 65%;" src="/images/her22.jpg"></strong></h4>
+</td>
+<td style="width: 45%; text-align: center;">
+<p style="text-align: left;"><strong>Principal: Mrs Margaret Joseph (1971 - 1990)</strong><br />The impact of Mrs Joseph's leadership is felt to this day. A prolific writer, her writings on moral and social issues continue to inspire Theresians.</p>
+<p style="text-align: left;">Building on the foundation laid by Sr Marie, CCAs like Guiding and Hockey went on to scale great heights.</p>
+</td>
+</tr>
+<tr>
+<td style="width: 15%; text-align: center;">
+<h4>1972</h4>
+</td>
+<td style="width: 40%; text-align: center;">
+<h4><strong><img style="width: 85%;" src="/images/her23.jpg"></strong></h4>
+</td>
+<td style="width: 45%; text-align: center;">
+<p style="text-align: left;"><strong>Graduation Day</strong><br />The tradition of &lsquo;Graduation Day&rsquo; for Secondary Four school leavers was instituted. To this day, more than four decades later, annually, our graduating Theresians are presented in their whites before their proud parents.</p>
+</td>
+</tr>
 </tbody>
 </table>
