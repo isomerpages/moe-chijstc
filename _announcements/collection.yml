@@ -2,5 +2,6 @@ collections:
   announcements:
     output: true
     order:
+      - Non–Tamil Indian Languages (NTIL).md
       - From the Principal's Desk.md
       - Announcements.md
