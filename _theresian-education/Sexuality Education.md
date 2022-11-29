@@ -241,3 +241,238 @@ description: ""
 </tr>
 </tbody>
 </table>
+<h4 style="text-align: center;"><strong>Secondary 4</strong></h4>
+<table width="0">
+<thead>
+<tr>
+<td style="text-align: center;" width="112">
+<p><strong>UNIT</strong></p>
+</td>
+<td style="text-align: center;" width="170">
+<p><strong>LESSONS / DURATION</strong></p>
+</td>
+<td style="text-align: center;" width="483">
+<p><strong>Lesson Objectives</strong></p>
+<p><strong>At the end of the lesson, students will be able to:</strong></p>
+</td>
+<td style="text-align: center;" width="163">
+<p><strong>TIME PERIOD</strong></p>
+<p><strong>(Tentative)</strong></p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;" rowspan="3" width="112">
+<p>Respectful Relationships &amp; Safety</p>
+</td>
+<td style="text-align: center;" width="170">
+<p>1</p>
+<p>(60 mins)</p>
+</td>
+<td width="483">
+<ul>
+<li>Understand that the value of a person is not tied to one&rsquo;s gender and not conforming to gender stereotypes does not negate one&rsquo;s gender identity.</li>
+<li>Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.</li>
+<li>Know that imposing gender stereotypes on oneself and others can limit one&rsquo;s experiences, cause harm to the self-esteem of oneself and others and should be avoided.</li>
+</ul>
+</td>
+<td style="text-align: center;" width="163">
+<p>Term 1 Week 9</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="170">
+<p>2</p>
+<p>(60 mins)</p>
+</td>
+<td width="483">
+<ul>
+<li>Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.</li>
+<li>Recognise emotions caused by traumatic situations, e.g. bullying, abuse and dating violence, and understand the physiological and psychological, social impact on victims.</li>
+<li>Understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being.</li>
+<li>Understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship.</li>
+</ul>
+</td>
+<td style="text-align: center;" width="163">
+<p>Term 2 Week 1</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="170">
+<p>3</p>
+<p>(60 mins)</p>
+</td>
+<td width="483">
+<ul>
+<li>Know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions.&nbsp;&nbsp;</li>
+<li>Know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort.</li>
+<li>Understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage.</li>
+</ul>
+</td>
+<td style="text-align: center;" width="163">
+<p>Term 2 Week 2</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="112">&nbsp;</td>
+<td style="text-align: center;" width="170">
+<p>4</p>
+<p>(60 mins)</p>
+</td>
+<td width="483">
+<ul>
+<li>Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</li>
+</ul>
+</td>
+<td style="text-align: center;" width="163">
+<p>Term 2 Week 3</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4 style="text-align: center;"><strong>S</strong><strong>econdary 5</strong></h4>
+<table width="0">
+<thead>
+<tr>
+<td style="text-align: center;" width="112">
+<p><strong>UNIT</strong></p>
+</td>
+<td style="text-align: center;" width="170">
+<p><strong>LESSONS / DURATION</strong></p>
+</td>
+<td style="text-align: center;" width="483">
+<p><strong>Lesson Objectives</strong></p>
+<p><strong>At the end of the lesson, students will be able to:</strong></p>
+</td>
+<td style="text-align: center;" width="163">
+<p><strong>TIME PERIOD</strong></p>
+<p><strong>(Tentative)</strong></p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;" rowspan="3" width="112">
+<p>Respectful Relationships &amp; Safety</p>
+</td>
+<td style="text-align: center;" width="170">
+<p>1</p>
+<p>(60 mins)</p>
+</td>
+<td width="483">
+<ul>
+<li>Understand that the value of a person is not tied to one&rsquo;s gender and not conforming to gender stereotypes does not negate one&rsquo;s gender identity.</li>
+<li>Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.</li>
+<li>Know that imposing gender stereotypes on oneself and others can limit one&rsquo;s experiences, cause harm to the self-esteem of oneself and others and should be avoided.</li>
+</ul>
+</td>
+<td style="text-align: center;" width="163">
+<p>Term 1 Week 9</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="170">
+<p>2</p>
+<p>(60 mins)</p>
+</td>
+<td width="483">
+<ul>
+<li>Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.</li>
+<li>Recognise emotions caused by traumatic situations, e.g. bullying, abuse and dating violence, and understand the physiological and psychological, social impact on victims.</li>
+<li>Understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being.</li>
+<li>Understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship.</li>
+</ul>
+</td>
+<td style="text-align: center;" width="163">
+<p>Term 2 Week 1</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="170">
+<p>3</p>
+<p>(60 mins)</p>
+</td>
+<td width="483">
+<ul>
+<li>Know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions.&nbsp;&nbsp;</li>
+<li>Know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort.</li>
+<li>Understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage.</li>
+</ul>
+</td>
+<td style="text-align: center;" width="163">
+<p>Term 2 Week 2</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="112">&nbsp;</td>
+<td style="text-align: center;" width="170">
+<p>4</p>
+<p>(60 mins)</p>
+</td>
+<td width="483">
+<ul>
+<li>Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</li>
+</ul>
+</td>
+<td style="text-align: center;" width="163">
+<p>Term 2 Week 3</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong><em><u>eTeens</u></em></strong><strong><u>&nbsp;Programme</u></strong>:</p>
+<p><em>8. eTeens</em>&nbsp;is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective.&nbsp;<em>eTeens</em>&nbsp;is conducted in two segments &ndash; a mass talk segment and a classroom-based programme.</p>
+<p>9. Students are taught skills such as decision-making, assertiveness and negotiation to say &ldquo;no&rdquo; to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages.The desired outcome of the <em>eTeens</em>&nbsp;programme is that students are empowered to make wise, informed and sensible decisions.</p>
+<p><strong>At&nbsp;</strong><strong>CHIJ ST THERESA&rsquo;S CONVENT</strong><strong>, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2022:</strong></p>
+<table width="0">
+<thead>
+<tr>
+<td style="text-align: center;" width="177">
+<p><strong>Topics/Lessons</strong></p>
+</td>
+<td style="text-align: center;" width="482">
+<p><strong>Programme Learning Objectives</strong></p>
+</td>
+<td style="text-align: center;" width="160">
+<p><strong>Time Period</strong></p>
+<p><strong>(Tentative)</strong></p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td width="177">
+<p>Mass Talk by HPB appointed vendor</p>
+</td>
+<td width="482">
+<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Awareness of the different STIs and HIV/AIDS</p>
+<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Modes of transmission</p>
+<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Modes of protection, specifically on how the condom is used</p>
+<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Consequences and impact of STIs/HIV</p>
+<p>&nbsp;</p>
+</td>
+<td style="text-align: center;" width="160">
+<p>Term 2 Week 9</p>
+</td>
+</tr>
+<tr>
+<td width="177">
+<p>Classroom-based Lesson</p>
+</td>
+<td width="482">
+<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</p>
+<p>&nbsp;</p>
+</td>
+<td style="text-align: center;" width="160">
+<p>Term 2 Week 9</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Information for Parents</strong></p>
+<p>10. Parents may opt their children out of the Sexuality Education lessons,<em>eTeens</em>&nbsp;and/or supplementary sexuality education programmes by MOE-approved external providers.</p>
+<p>11. Parents who wish to opt their children out of the<strong>Sexuality Education lessons</strong>&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;<a href="https://drive.google.com/file/d/10gF8MdyoQdGir_2BbfUh6w2CWQeiCcpH/view?usp=sharing">here</a>. The completed form is to be submitted by&nbsp;<strong>17 January 2022</strong>.</p>
+<p>12. Parents who wish to opt their children out of the<strong><em>eTeens</em></strong><strong>&nbsp;programme</strong>&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;<u><a href="https://drive.google.com/file/d/1b7OKjixkHZEFJ6Uv0GwEWLlYQSmK5r-Z/view?usp=sharing">here</a></u>. &nbsp;The completed form is to be submitted by&nbsp;<strong>30</strong><strong>&nbsp;January 2022</strong>.</p>
+<p>13. Parents can contact the school at<strong>64775777</strong>&nbsp;or email to&nbsp;<a href="mailto:chijstcs@moe.edu.sg"><strong>chijstcs@moe.edu.sg</strong></a><strong>&nbsp;</strong>for discussion or to seek clarification about the school&rsquo;s sexuality education programme.</p>
+<p>14. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements</p>
