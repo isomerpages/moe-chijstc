@@ -410,5 +410,16 @@ description: ""
 <p style="text-align: left;"><strong>Principal: Mrs Mano Hirubalan (1994 - 1998)</strong><br />Sister Maria was appointed Principal of Catholic Junior College on 28 November 1994. Mrs Mano Hirubalan assumed principalship of the school. The new school building was declared officially open by His Grace, Msgr Gregory Yong, Archbishop of Singapore on 25 March 1995. The third Computer Lab was officially opened by Deputy Director of Secondary Schools, Ms Seah Jiak Choo on 31 August 1996.</p>
 </td>
 </tr>
+<tr>
+<td style="width: 15%; text-align: center;">
+<h4>1997</h4>
+</td>
+<td style="width: 40%; text-align: center;">
+<h4><strong><img style="width: 85%;" src="/images/her32.jpg"></strong></h4>
+</td>
+<td style="width: 45%; text-align: center;">
+<p style="text-align: left;"><strong>Meeting the Demands of a New Era</strong><br />Focused on preparing our students to meet the needs of the changing national and global economic environments, facilities have been upgraded and programmes designed. The Performing Arts Centre was opened by Dr S Vasoo, MP for Tanjong Pagar GRC in February 1997. &nbsp; The Theresian Learning Centre was declared open and the school&rsquo;s website was also launched by Ms Annabel Pennefather, Chairman of the IJ Board of Management on 1 October 1997.</p>
+</td>
+</tr>
 </tbody>
 </table>
