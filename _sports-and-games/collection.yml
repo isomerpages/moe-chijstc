@@ -2,6 +2,7 @@ collections:
   sports-and-games:
     output: true
     order:
+      - Hockey.md
       - Netball.md
       - Softball.md
       - Tennis.md
