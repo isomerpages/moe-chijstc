@@ -3,3 +3,193 @@ title: Heritage@STC
 permalink: /school-history/heritage-at-stc/
 description: ""
 ---
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 15%; text-align: center;">
+<h4><strong>Year</strong></h4>
+</td>
+<td style="width: 40%; text-align: center;">
+<h4><strong>Photo</strong></h4>
+</td>
+<td style="width: 45%; text-align: center;">
+<h4><strong>Event</strong></h4>
+</td>
+</tr>
+<tr>
+<td style="width: 15%; text-align: center;">
+<h4>1662</h4>
+</td>
+<td style="width: 40%; text-align: center;">
+<h4><strong><img style="width: 50%;" src="/images/her1.jpg"></strong></h4>
+</td>
+<td style="width: 45%; text-align: center;">
+<p style="text-align: left;"><strong>Our Founding Father<br /></strong>In Normandy, France, Minim priest Father Nicholas Barre started a class for under-privileged girls. With two women, he later established the order of the Infant Jesus Sisters.</p>
+</td>
+</tr>
+<tr>
+<td style="width: 15%; text-align: center;">
+<h4>1852</h4>
+</td>
+<td style="width: 40%; text-align: center;">
+<h4><strong><img style="width: 75%;" src="/images/her2.jpg"></strong></h4>
+</td>
+<td style="width: 45%; text-align: center;">
+<p style="text-align: left;"><strong>Our Pioneer Mother</strong><br />Five French sisters, one of whom was Mother Mathilde Raclot, left their homeland. They set sail for Singapore in 1852. Only two out of the five sisters survived the journey in good health.</p>
+<p style="text-align: left;">The Apotolic Vicar of Malaya felt that they were too inexperienced to set up a school in Singapore and sent them to Penang. A second group of sisters arrived in Penang in late 1852.</p>
+</td>
+</tr>
+<tr>
+<td style="width: 15%; text-align: center;">
+<h4>1854</h4>
+</td>
+<td style="width: 40%; text-align: center;">
+<h4><strong><img style="width: 85%;" src="/images/her3.jpg"></strong></h4>
+</td>
+<td style="width: 45%; text-align: center;">
+<p style="text-align: left;"><strong>IJ Presence in Singapore</strong><br />In 1854, Mother Mathilde who was then head of the Penang community was sent back to Singapore. Mother Mathilde and the IJ sisters founded the first IJ school in Singapore.</p>
+<p style="text-align: left;">Town Convent at Victoria Street was born. Mother Mathilde and her sisters left their homeland and became immigrants, displaced from their comforts and security. Their mission was simple - to educate girls from all social classes, especially the disadvantaged.</p>
+</td>
+</tr>
+<tr>
+<td style="width: 15%; text-align: center;">
+<h4>1929</h4>
+</td>
+<td style="width: 40%; text-align: center;">
+<h4><strong><img style="width: 85%;" src="/images/her4.jpg"></strong></h4>
+</td>
+<td style="width: 45%; text-align: center;">
+<p style="text-align: left;"><strong>The Founding Years</strong><br />As the colonial government struggled to meet the needs of Singapore's expanding population, the IJ sisters kept up with their mission to provide an education to girls. &nbsp;In response to an urgent need to reach out to the poor families in the slums around Kampong Bahru, &nbsp;the sisters started classes at the Church of St. Teresa.</p>
+<p style="text-align: left;">For four years, the school was run as a parish school. In 1933, the IJ sisters leased Hood Lodge, the house next to the church, and the parish school became a school of the Infant Jesus order, called St. Theresa's Convent.</p>
+</td>
+</tr>
+<tr>
+<td style="width: 15%; text-align: center;">
+<h4>1933</h4>
+</td>
+<td style="width: 40%; text-align: center;">
+<h4><strong><img style="width: 85%;" src="/images/her5.jpg"></strong></h4>
+</td>
+<td style="width: 45%; text-align: center;">
+<p style="text-align: left;"><strong>St. Theresa's Convent founded in 1933</strong><br /><strong>Principal: Madame St. Ignatius (1933 - 1944)</strong><br />With 25 students, St. Theresa's Convent operated out of the rented Hood Lodge at 501 Kampong Bahru Road. The school offered lessons instructed in both English and Tamil. By 1938, the enrolment increased to just 60.</p>
+<p style="text-align: left;">As there were no living quarters at Hood Lodge, the sisters who taught there travelled daily from Town Convent in horse drawn carriages on unpaved roads. Our first principal, Madame St. Ignatius was a tall and gentle lady who brought the school through its infanthood as a private school.</p>
+</td>
+</tr>
+<tr>
+<td style="width: 15%; text-align: center;">
+<h4>1942</h4>
+</td>
+<td style="width: 40%; text-align: center;">
+<h4><strong></strong></h4>
+</td>
+<td style="width: 45%; text-align: center;">
+<p style="text-align: left;"><strong>Move to 514 Kampong Bahru Road</strong><br />Unable to make ends meet, the sisters gave up Hood Lodge and the school almost closed down. St. Theresa's Convent moved to her second home in a house owned by the Christian Brothers who ran St. Joseph's Institution. This intervention by the Bishop greatly encouraged the sisters who once again found strength to rough out the bumpy 12 km journey twice each day to school.</p>
+</td>
+</tr>
+<tr>
+<td style="width: 15%; text-align: center;">
+<h4>1945</h4>
+</td>
+<td style="width: 40%; text-align: center;">
+<h4><strong><img style="width: 85%;" src="/images/her6.jpg"></strong></h4>
+</td>
+<td style="width: 45%; text-align: center;">
+<p style="text-align: left;"><strong>Principal : Sr Catherine Samy (1945 - 1949)</strong><br />After the Japanese Occupation, the British re-opned schools. Principal Sr Catherine Samy led the school during the difficult post-war years when the school functioned from two locations.</p>
+<p style="text-align: left;">The English Section of St. Theresa's functioned in a wooden hut which was abandoned by the Japanese and shared this hut with the Sacred Heart Boys' School. The Tamil Section functioned in another parish bungalow which stood on the site of the former De La Salle School.</p>
+</td>
+</tr>
+<tr>
+<td style="width: 15%; text-align: center;">
+<h4>1948</h4>
+</td>
+<td style="width: 40%; text-align: center;">
+<h4><strong></strong></h4>
+</td>
+<td style="width: 45%; text-align: center;">
+<p style="text-align: left;"><strong>The First Sight of our Present Site</strong><br />Our present site of 12 acres of land at Radin Mas was purchased by Rev Mother Charles. The Chinese Catholic owner found the land useless as it held a cemetery and was inaccessible from the main road. Today, CHIJ St. Theresa's Convent stands on land owned by the IJ sisters, all due to the far sightedness of Rev Mother St. Charles.</p>
+</td>
+</tr>
+<tr>
+<td style="width: 15%; text-align: center;">
+<h4>1949</h4>
+</td>
+<td style="width: 40%; text-align: center;">
+<h4><strong><img style="width: 85%;" src="/images/her7.jpg"></strong></h4>
+</td>
+<td style="width: 45%; text-align: center;">
+<p style="text-align: left;"><strong>Principal : Sr Caroline Labbe (1949 - 1952)</strong><br />As Singapore struggled to rebuild a nation, the staff of St. Theresas' continued to provide for the educational and spiritual needs of a community traumatised by three years of war.</p>
+<p style="text-align: left;">Under the leadership of Sr Caroline Labbe, the school started raising funds for the building of the school on Radin Mas Hill. Sr Caroline also reunited the Tamil and English sections and ran the school as one entity in the De La Salle School building while the new school building was being built.</p>
+</td>
+</tr>
+<tr>
+<td style="width: 15%; text-align: center;">
+<h4>1952</h4>
+</td>
+<td style="width: 40%; text-align: center;">
+<h4><strong><img style="width: 85%;" src="/images/her8.jpg"></strong></h4>
+</td>
+<td style="width: 45%; text-align: center;">
+<p style="text-align: left;"><strong>Principal : Sr Catherine Hendricks (1953 - 1956)</strong><br />The school did not lose focus despite the unstable social and political environment of the 1950s. It was under Sr Catherine Hendricks' leadership that St. Theresa's had its status changed from being a private school to a government-aided school.</p>
+<p style="text-align: left;">Following this, the Tamil Section was phased out in 1953. Sr Catherine also oversaw the move of the school to its present site at Radin Mas.</p>
+</td>
+</tr>
+<tr>
+<td style="width: 15%; text-align: center;">
+<h4>1953</h4>
+</td>
+<td style="width: 40%; text-align: center;">
+<h4><strong><img style="width: 85%;" src="/images/her9.jpg"></strong></h4>
+</td>
+<td style="width: 45%; text-align: center;">
+<p style="text-align: left;"><strong>Our Home on the Hill</strong><br />CHIJ St. Theresa's Convent moved to its present site on Radin Mas Hill. The school operated 14 classes in the newly built building. It was not easy getting to school as it was a long walk from the bottom of the hill.</p>
+<p style="text-align: left;">Access was via a dirt path and 58 back breaking steps carved out of the hill slope. But education was in demand and all made the sacrifice of a difficult journey.</p>
+</td>
+</tr>
+<tr>
+<td style="width: 15%; text-align: center;">
+<h4>1954</h4>
+</td>
+<td style="width: 40%; text-align: center;">
+<h4><strong><img style="width: 85%;" src="/images/her10.jpg"></strong></h4>
+</td>
+<td style="width: 45%; text-align: center;">
+<p style="text-align: left;"><strong>The Light on the Hill</strong><br />Street lighting was not a provision during the early years. The lighted school building was the sole source of light for the kampongs in the vicinity. CHIJ St. Theresa's Convent was henceforth called the "Light on the Hill"</p>
+</td>
+</tr>
+<tr>
+<td style="width: 15%; text-align: center;">
+<h4>1955</h4>
+</td>
+<td style="width: 40%; text-align: center;">
+<h4><strong><img style="width: 85%;" src="/images/her11.jpg"></strong></h4>
+</td>
+<td style="width: 45%; text-align: center;">
+<p style="text-align: left;"><strong>Principal: Ms Isabel Rodrigues (1956 - 1976)</strong><br />Mrs Isabel Rodrigues headed the primary section which became a feeder school to Town Convent in Victoria Street. She is remembered for the care and affection given to those who came under her charge.</p>
+<p style="text-align: left;">Mrs Rodrigues joined Sr Marie Jombunad and Mrs Margaret Joseph as three of the longest serving principals in the history of St. Theresa's.</p>
+</td>
+</tr>
+<tr>
+<td style="width: 15%; text-align: center;">
+<h4>1956</h4>
+</td>
+<td style="width: 40%; text-align: center;">
+<h4><strong><img style="width: 75%;" src="/images/her12.jpg"></strong></h4>
+</td>
+<td style="width: 45%; text-align: center;">
+<p style="text-align: left;"><strong>Principal: Sister Marie Jombunad (1956 - 1970)</strong><br />CHIJ St. Theresa's Convent became a full school in its own right with the appointment of Sr Marie Jombunad as Principal of the secndary section. The school presented its first candidates for the Senior Cambridge examinations in 1958.</p>
+</td>
+</tr>
+<tr>
+<td style="width: 15%; text-align: center;">
+<h4>1957</h4>
+</td>
+<td style="width: 40%; text-align: center;">
+<h4><strong><img style="width: 85%;" src="/images/her13.jpg"></strong></h4>
+</td>
+<td style="width: 45%; text-align: center;">
+<p style="text-align: left;"><strong>A Nun of Royal Descent and a Principal</strong><br />The history of St. Theresa's is never complete till the story of the nun of royal descent who later became principal is told. Adopted by a Thai prince, Sr Marie Jombunad left the comforts of her palace for an IJ Convent.</p>
+<p style="text-align: left;">In 1956, she became the 6th principal of CHIJ St. Theresa's Convent and will always be remembered for being ahead of her times. Students in the late 1950s were already engaged in out-of-class learning like visits to the printing press and the airport to see the bulwarks.</p>
+</td>
+</tr>
+</tbody>
+</table>
