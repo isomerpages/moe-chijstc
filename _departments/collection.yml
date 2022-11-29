@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Information & Communication Technology.md
       - Mathematics.md
       - Mother Tongue Languages.md
       - Physical Education and CCA.md
