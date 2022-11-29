@@ -19,3 +19,5 @@ description: ""
 <li>Warranty and insurance Coverage</li>
 <li>Reporting for loss of device</li>
 </ul>
+<hr>
+<p><strong>Non-Tamil Indian Languages (NTIL)</strong><br />CHIJ St. Theresa's Convent does not conduct Non-Tamil Indian Languages (NTIL) lessons. Please click&nbsp;<a href="/others/announcement/non-tamil-indian-languages-ntil">here</a>&nbsp;for more details.</p>
