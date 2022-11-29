@@ -2,6 +2,7 @@ collections:
   performing-arts:
     output: true
     order:
+      - English Drama.md
       - Guitar.md
       - Concert Band.md
       - Performing Arts.md
