@@ -2,4 +2,5 @@ collections:
   school-history:
     output: true
     order:
+      - Our Patron.md
       - Heritage@STC.md
