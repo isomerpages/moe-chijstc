@@ -2,6 +2,7 @@ collections:
   theresian-family:
     output: true
     order:
+      - Departments/Physical Education and CCA.md
       - Departments/Science.md
       - Departments/Departments.md
       - Departments/.keep
