@@ -2,6 +2,7 @@ collections:
   theresian-family:
     output: true
     order:
+      - Staff/Staff.md
       - Staff/.keep
       - Departments.md
       - Students.md
