@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Staff/.keep
-      - Staff.md
       - Departments.md
       - Students.md
       - Partners.md
