@@ -1,4 +1,5 @@
 collections:
   others:
     output: true
-    order: []
+    order:
+      - 2023 Weighted Assessment (WA) Schedule.md
