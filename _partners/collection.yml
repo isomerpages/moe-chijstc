@@ -1,5 +1,4 @@
 collections:
   partners:
     output: true
-    order:
-      - Parent Support Group (PSG).md
+    order: []
