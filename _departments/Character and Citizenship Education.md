@@ -3,6 +3,7 @@ title: Character and Citizenship Education
 permalink: /theresian-family/departments/character-and-citizenship-education/
 description: ""
 ---
+<img style="width: 80%;" src="/images/cce0.jpg" />
 <p><strong>Mission<br /></strong>To develop Theresian students to be persons for God and for others through the promotion of truth, justice, freedom and love.</p>
 <p><strong>Vision<br /></strong>To nurture Theresian students to be persons for God and for others, guided by the core Theresian values of Compassion, Conscience, Commitment and Courage.&nbsp;</p>
 <p><strong>Our Approach</strong></p>
