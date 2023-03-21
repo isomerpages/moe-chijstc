@@ -2,18 +2,18 @@ collections:
   students:
     output: true
     order:
-      - Co–Curricular Activities (CCA).md
       - CHIJ STC School Calendar 2023.md
       - Class Time–Table.md
+      - Co–Curricular Activities (CCA).md
       - Co Curricular Activities (CCA)/.keep
       - 2023 Exam Timetable.md
       - House System.md
       - Our School Song.md
       - School Bookshop, Uniform & PE Attire.md
+      - Student Handbook/.keep
       - Student Handbook/School Rules.md
       - Student Handbook/The Theresian Code of Conduct.md
       - Student Handbook/Student Handbook.md
-      - Student Handbook/.keep
       - Theresian Awards.md
       - Theresian Sports Leaders.md
       - Exercise and Sports Science (ESS).md
