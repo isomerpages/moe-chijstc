@@ -19,7 +19,7 @@ description: ""
 <p><strong>Staff</strong></p>
 <p><strong>Head of Department</strong>&nbsp;<strong>(</strong><strong>Student Well-being and Management)<br /></strong>Mr Leslie Francis&nbsp;(<a href="mailto:munipas_leslie_francis@moe.edu.sg">munipas_leslie_francis@moe.edu.sg</a>)</p>
 <p><strong>Head of Department (Physical Education and CCA)<br /></strong>Mr Darren Ng (<a href="mailto:ng_yong_sheng@moe.edu.sg">ng_yong_sheng@moe.edu.sg</a>)</p>
-<p><strong>Department Staff<br /></strong>Ms Nurul Atiqah Bte Rosli (<a href="mailto:nurul_atiqah_rosli@moe.edu.sg">nurul_atiqah_rosli@moe.edu.sg</a>)<br />Mr Sekaran S/O Chinna Govanden (<a href="mailto:sekaran_chinna_govanden@moe.edu.sg">sekaran_chinna_govanden@moe.edu.sg</a>)<br />Mr Steven Lim (<a href="mailto:lim_wen_yi_steven@moe.edu.sg">lim_wen_yi_steven@moe.edu.sg</a>)<br />Mr Toh Boon Hui (<a href="mailto:toh_boon_hui@moe.edu.sg">toh_boon_hui@moe.edu.sg</a>)</p>
+<p><strong>Department Staff<br /></strong>Ms Nurul Atiqah Bte Rosli (<a href="mailto:nurul_atiqah_rosli@moe.edu.sg">nurul_atiqah_rosli@moe.edu.sg</a>)<br />Mr Sekaran S/O Chinna Govanden (<a href="mailto:sekaran_chinna_govanden@moe.edu.sg">sekaran_chinna_govanden@moe.edu.sg</a>)<br />Mr Mohammad Fairuz bin Selamat (<a href="mailto:mohammad_fairuz_selamat@schools.gov.sg" target="">mohammad_fairuz_selamat@schools.gov.sg</a>)<br />Mr Toh Boon Hui (<a href="mailto:toh_boon_hui@moe.edu.sg">toh_boon_hui@moe.edu.sg</a>)</p>
 <p><strong><u>PE Curriculum / Programmes</u></strong></p>
 <ol>
 <li><strong>Sports and Games</strong></li>
