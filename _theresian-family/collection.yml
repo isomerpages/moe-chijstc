@@ -2,10 +2,12 @@ collections:
   theresian-family:
     output: true
     order:
-      - Partners/Parent Support Group (PSG).md
-      - Partners/Theresian Alumni.md
-      - Partners/Partners.md
-      - Partners/.keep
+      - Staff/.keep
+      - Staff/Staff.md
+      - Staff/Executive Committee (EXCO).md
+      - Staff/Teaching Staff.md
+      - Staff/Executive & Administrative Staff (EAS).md
+      - Departments/.keep
       - Departments/Character and Citizenship Education.md
       - Departments/Design & Food Studies.md
       - Departments/English.md
@@ -16,10 +18,8 @@ collections:
       - Departments/Physical Education and CCA.md
       - Departments/Science.md
       - Departments/Departments.md
-      - Departments/.keep
-      - Staff/.keep
-      - Staff/Staff.md
-      - Staff/Executive Committee (EXCO).md
-      - Staff/Teaching Staff.md
-      - Staff/Executive & Administrative Staff (EAS).md
       - Students.md
+      - Partners/.keep
+      - Partners/Parent Support Group (PSG).md
+      - Partners/Theresian Alumni.md
+      - Partners/Partners.md
