@@ -4,7 +4,7 @@ permalink: /theresian-family/departments/humanities/
 description: ""
 ---
 <img style="width: 80%;" src="/images/human0.jpg" />
-<h4><strong>"The calling of the Humanities is to make us truly human in the best sense of the word."&nbsp;-- J. Irwin Miller</strong></h4>
+<p><strong>"The calling of the Humanities is to make us truly human in the best sense of the word."&nbsp;-- J. Irwin Miller</strong></p>
 <p><strong>Mission<br /></strong>To develop critical and innovative thinkers who are imbued with inquiring minds, enabling them to anticipate and respond to global changes in a socially responsible manner as they make links with what they have learnt to the real world contexts.</p>
 <p><strong>Investigative and Inquiry-based Learning<br /></strong>Students will experience investigative and inquiry-based learning by conducting geographical investigation, historical investigation and issue investigation for Geography, History and Social Studies subjects respectively</p>
 <p><strong><u>Geographical Investigation</u></strong>&nbsp;(GI) is a form of geographical inquiry where students are required to investigate a geographical issue and demonstrate their learning by completing an end product. Students follow a guided framework when doing the geographical investigation. They analyse an assigned GI question; gather data online from publications and from the field; analyse data to construct geographical interpretations; consolidate and reflect as a group and as an individual of their findings to form a conclusion.</p>
