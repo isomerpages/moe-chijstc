@@ -2,6 +2,7 @@ collections:
   theresian-family:
     output: true
     order:
+      - Partners/.keep
       - Departments/Character and Citizenship Education.md
       - Departments/Design & Food Studies.md
       - Departments/English.md
