@@ -4,10 +4,10 @@ links:
     collection: about-us
   - title: School History
     collection: school-history
-  - title: Theresian Education
-    collection: theresian-education
   - title: Theresian Family
     collection: theresian-family
+  - title: Theresian Education
+    collection: theresian-education
   - title: Others
     url: /newsletter
     sublinks:
