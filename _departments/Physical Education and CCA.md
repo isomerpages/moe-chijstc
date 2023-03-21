@@ -3,6 +3,7 @@ title: Physical Education and CCA
 permalink: /theresian-family/departments/physical-education-and-cca/
 description: ""
 ---
+<img style="width: 80%;" src="/images/pe0.jpg" />
 <p><strong>Mission<br /></strong>To provide a comprehensive 4 to 5-year long Physical Education Programme to develop the physical, intellectual, social and emotional aspects of all our students through physical activities.&nbsp;</p>
 <p><strong><u>Department Goals</u></strong></p>
 <p>We aim to:</p>
