@@ -2,6 +2,7 @@ collections:
   theresian-family:
     output: true
     order:
+      - Departments/Humanities.md
       - Departments/Information & Communication Technology.md
       - Departments/Mathematics.md
       - Departments/Mother Tongue Languages.md
