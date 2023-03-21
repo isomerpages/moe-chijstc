@@ -4,12 +4,11 @@ permalink: /theresian-family/staff/executive-n-administrative-staff-eas/
 description: ""
 third_nav_title: Staff
 ---
-
 <table border="0" width="492" cellspacing="0" cellpadding="0"><colgroup><col width="252" /><col width="240" /></colgroup>
 <tbody>
 <tr>
-<td style="text-align: center;" width="252" height="26">Name</td>
-<td style="text-align: center;" width="240">Designation</td>
+<td style="text-align: center;" width="252" height="26"><strong>Name</strong></td>
+<td style="text-align: center;" width="240"><strong>Designation</strong></td>
 </tr>
 <tr>
 <td style="text-align: center;" width="252" height="26">Ms Tang Mun Wah</td>
@@ -20,15 +19,19 @@ third_nav_title: Staff
 <td style="text-align: center;" width="240">Operations Manager</td>
 </tr>
 <tr>
+<td style="text-align: center;">Mr Paul Ho</td>
+<td style="text-align: center;">Operations Manager&nbsp;</td>
+</tr>
+<tr>
 <td style="text-align: center;">Mr Park Tarn</td>
-<td style="text-align: center;">Administration Executive&nbsp;</td>
+<td style="text-align: center;">Administration Executive</td>
 </tr>
 <tr>
 <td style="text-align: center;" width="252" height="26">Mdm Phevian Jong</td>
 <td style="text-align: center;" width="240">Corporate Support Officer</td>
 </tr>
 <tr>
-<td style="text-align: center;" width="252" height="26">Mdm Norelliah Omar&nbsp;</td>
+<td style="text-align: center;" width="252" height="26">Mdm Norelliah Omar</td>
 <td style="text-align: center;" width="240">Corporate Support Officer</td>
 </tr>
 <tr>
@@ -49,11 +52,11 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td style="text-align: center;">Mdm Toh Mui Hoong</td>
-<td style="text-align: center;">School Laboratory Technician&nbsp;</td>
+<td style="text-align: center;">School Laboratory Technician</td>
 </tr>
 <tr>
-<td style="text-align: center;">Mr Steven Kuah&nbsp;</td>
-<td style="text-align: center;">ICT Manager&nbsp;</td>
+<td style="text-align: center;">Mr Steven Kuah</td>
+<td style="text-align: center;">ICT Manager</td>
 </tr>
 <tr>
 <td style="text-align: center;">Mr Jason Wong</td>
@@ -76,12 +79,8 @@ third_nav_title: Staff
 <td style="text-align: center;" width="240">Operations Support Officer</td>
 </tr>
 <tr>
-<td style="text-align: center;" width="252" height="26">Mdm Lim Chye Hong</td>
-<td style="text-align: center;" width="240">Operations Support Officer</td>
-</tr>
-<tr>
 <td style="text-align: center;">Mdm Serene Ang</td>
-<td style="text-align: center;">Operations Support Officer&nbsp;</td>
+<td style="text-align: center;">Operations Support Officer</td>
 </tr>
 </tbody>
 </table>
