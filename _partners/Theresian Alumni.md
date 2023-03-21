@@ -3,7 +3,6 @@ title: Theresian Alumni
 permalink: /theresian-family/partners/theresian-alumni/
 description: ""
 ---
-
 <h4><strong>Introduction</strong></h4>
 <p>Started in 1993, the STC Alumni was established to provide a link between Theresians and the School and also, to support the school as it grooms its future graduates into fine young ladies. We were given the opportunities to be inspired by the nurturing guidance of the Sisters, Teachers and Principals who instilled in us lifelong values of love, honesty, compassion, integrity and courage. We shall strive to be caring women of distinction and stay true to the IJ motto: Simple in Virtue, Steadfast in Duty.</p>
 <p>With the increased involvement of the Alumnae in the School&rsquo;s activities, it is hoped that each girl will continue their relationship with the School. Students who have graduated are strongly encouraged to join the Alumni and participate in its activities.</p>
@@ -53,9 +52,7 @@ description: ""
 <p>The teachers-in-charge are Mrs Alice Poh and Ms Cassandra Lee.</p>
 <p><strong>Other Info and Links</strong></p>
 <p>Theresians who wish to assist in the Theresian alumni activities are requested to contact the school at 6477&nbsp;5777.</p>
-<p><a href="https://www.facebook.com/chijtheresianalumni">https://www.facebook.com/chijtheresianalumni</a></p>
-<p><a href="https://thetheresianalumni.wordpress.com/">https://thetheresianalumni.wordpress.com</a></p>
-<p><a href="http://stc-grads.livejournal.com/">http://stc-grads.livejournal.com/</a></p>
+<p><a href="https://www.facebook.com/chijtheresianalumni">https://www.facebook.com/chijtheresianalumni</a><br><a href="https://thetheresianalumni.wordpress.com/">https://thetheresianalumni.wordpress.com</a><br><a href="http://stc-grads.livejournal.com/">http://stc-grads.livejournal.com/</a></p>
 <p><strong><u>Photos from Events</u></strong></p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
