@@ -3,6 +3,7 @@ title: Design & Food Studies
 permalink: /theresian-family/departments/design-n-food-studies/
 description: ""
 ---
+<img style="width: 80%;" src="/images/dfs0.jpg" />
 <h4><strong>"Learn, Collaborate &amp; Impact"</strong></h4>
 <p>Design &amp; Food Studies and Aesthetics Department is made up of Art &amp; Design, Design &amp; Technology, Food and Consumer Education/Food and Nutrition and Music.</p>
 <p><strong>Mission</strong></p>
