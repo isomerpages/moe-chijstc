@@ -2,6 +2,7 @@ collections:
   theresian-family:
     output: true
     order:
+      - Departments/Mathematics.md
       - Departments/Mother Tongue Languages.md
       - Departments/Physical Education and CCA.md
       - Departments/Science.md
