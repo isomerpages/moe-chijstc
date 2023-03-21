@@ -2,11 +2,11 @@ collections:
   theresian-family:
     output: true
     order:
+      - Staff/.keep
+      - Staff/Staff.md
+      - Staff/Executive Committee (EXCO).md
       - Staff/Teaching Staff.md
       - Staff/Executive & Administrative Staff (EAS).md
-      - Staff/Executive Committee (EXCO).md
-      - Staff/Staff.md
-      - Staff/.keep
       - Departments.md
       - Students.md
       - Partners.md
