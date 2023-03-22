@@ -19,7 +19,7 @@ description: ""
 <p>More information regarding the DSA can be found on the MOE website:&nbsp;</p>
 <p><a href="https://www.moe.gov.sg/admissions/direct-admissions/dsa-sec">https://www.moe.gov.sg/admissions/direct-admissions/dsa-sec</a></p>
 <p><strong><u>DSA (ALP) Selection Process</u></strong></p>
-<p>All applications are considered by a selection panel comprising teachers, middle managers and school leaders.&nbsp;</p>
+<p>All applications are considered by a selection panel comprising teachers, middle managers and school leaders.</p>
 <table width="0">
 <tbody>
 <tr>
@@ -121,7 +121,7 @@ description: ""
 <td style="text-align: center;" width="137">
 <p>5 May 2022<br />to<br />1 June 2022</p>
 </td>
-<td style="text-align: center;" width="456">
+<td style="text-align: left;" width="456">
 <p><strong>Application is open</strong> for all Primary Six female students studying in national schools, Returning Singaporeans, Permanent Residents and International Students.</p>
 <p>Applications should be made via a common online portal from the&nbsp;2022&nbsp;DSA-Sec Exercise by MOE.</p>
 </td>
@@ -130,7 +130,7 @@ description: ""
 <td style="text-align: center;" width="137">
 <p>27 Jun 2022<br />to<br />12 Sep 2022</p>
 </td>
-<td style="text-align: center;" width="456">
+<td style="text-align: left;" width="456">
 <p>Shortlisted applicants will be contacted via phone/email, to come down to the school physically on a mutually convenient date/time to carry out a performance task, and undergo face-to-face interviews.</p>
 </td>
 </tr>
@@ -138,7 +138,7 @@ description: ""
 <td style="text-align: center;" width="137">
 <p>13 to 15 Sep 2022</p>
 </td>
-<td style="text-align: center;" width="456">
+<td style="text-align: left;" width="456">
 <p><strong>Notice of Selection Outcome for DSA-Sec application</strong></p>
 <p>Letters will be issued to all candidates informing them on the status of their application:</p>
 <p>(i) Confirmed Offer (CO), (ii) Wait List (WL) or (iii) Rejected.</p>
@@ -148,7 +148,7 @@ description: ""
 <td style="text-align: center;" width="137">
 <p>31 Oct to 4 Nov 2022</p>
 </td>
-<td style="text-align: center;" width="456">
+<td style="text-align: left;" width="456">
 <p><strong>School Preference Submission (SPS)</strong></p>
 </td>
 </tr>
@@ -156,7 +156,7 @@ description: ""
 <td style="text-align: center;" width="137">
 <p>Early to mid Nov 2022</p>
 </td>
-<td style="text-align: center;" width="456">
+<td style="text-align: left;" width="456">
 <p><strong>DSA Allocation</strong></p>
 </td>
 </tr>
@@ -164,7 +164,7 @@ description: ""
 <td style="text-align: center;" width="137">
 <p>Late Nov 2022</p>
 </td>
-<td style="text-align: center;" width="456">
+<td style="text-align: left;" width="456">
 <p><strong>Release of DSA school posting results by MOE.</strong></p>
 </td>
 </tr>
