@@ -4,7 +4,6 @@ permalink: /theresian-family/departments/physical-education-and-cca/
 description: ""
 third_nav_title: Departments
 ---
-
 <img style="width: 80%;" src="/images/pe0.jpg" />
 <p><strong>Mission<br /></strong>To provide a comprehensive 4 to 5-year long Physical Education Programme to develop the physical, intellectual, social and emotional aspects of all our students through physical activities.&nbsp;</p>
 <p><strong><u>Department Goals</u></strong></p>
@@ -132,4 +131,4 @@ third_nav_title: Departments
 <li>Student feeling unwell during the PE lesson can use a<u>&lsquo;time out&rsquo;</u>&nbsp;to inform PE teacher.</li>
 <li><u>Do not force</u>yourself to play if you are unwell even if your friends ask you to.</li>
 </ol>
-<p><strong><u>Useful Links<br /></u></strong><a href="/theresian-family/students/house-system">House System</a><br /><a href="/theresian-family/students/theresian-sports-leaders">Theresian Sports Leaders</a><br /><a href="/theresian-family/students/exercise-and-sports-science-ess">Information about Exercise and Sports Science (ESS)</a></p>
+<p><strong><u>Useful Links</u></strong><br /><a href="/theresian-family/students/house-system">House System</a><br /><a href="/theresian-family/students/theresian-sports-leaders">Theresian Sports Leaders</a><br /><a href="/theresian-family/students/exercise-and-sports-science-ess">Information about Exercise and Sports Science (ESS)</a></p>
