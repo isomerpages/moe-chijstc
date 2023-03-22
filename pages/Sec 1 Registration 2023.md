@@ -60,3 +60,27 @@ description: ""
 <p>Sec 1 students may wear their primary school attire (including PE attire for PE lessons) for the first two weeks of Term 1, to allow more time for the changeover to STC attire.</p>
 <p><strong>Other Information<br /></strong><em>Non-Tamil Indian Languages (NTIL)<br /></em>Please note that the Non-Tamil Languages (NTIL) lessons are&nbsp;<u>not</u>&nbsp;conducted in CHIJ St. Theresa&rsquo;s Convent. Students who are taking NTIL will go to designated schools for their lessons. For more information on NTIL matters, please refer to Board or the Teaching and Testing of South Asian Languages. (<a href="http://www.bttsal.com/">http://www.bttsal.com</a>)</p>
 <p>For questions related to Mother Tongue Languages, please approach Mdm Lee Chai Yen (<a href="mailto:Lee_Chai_Yen@schools.gov.sg">Lee_Chai_Yen@schools.gov.sg</a>).</p>
+<p><strong>Cutoff Points (COP)</strong></p>
+<table>
+<tbody>
+<tr>
+<th style="text-align: center;">Description</th>
+<th style="text-align: center;">Exp</th>
+<th style="text-align: center;">NA</th>
+<th style="text-align: center;">NT</th>
+</tr>
+<tr>
+<td style="text-align: center;">Non-Affiliated COP</td>
+<td style="text-align: center;">15</td>
+<td style="text-align: center;">23</td>
+<td style="text-align: center;">30</td>
+</tr>
+<tr>
+<td style="text-align: center;">Affiliated COP</td>
+<td style="text-align: center;">20</td>
+<td style="text-align: center;">25</td>
+<td style="text-align: center;">29</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Information for Financial Assistance Scheme (FAS) Application<br /></strong>If you wish to apply or need more information for the MOE Financial Assistance Scheme, you may read the details in the school website (click&nbsp;<a href="/others/home-tab-box/parents/moe-financial-assistance-scheme-fas"><strong>here</strong></a>).</p>
