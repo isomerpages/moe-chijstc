@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Clubs and Societies/Infant Jesus Youth Mission (IJYM).md
       - Clubs and Societies/Infocomm Technology (Media Production).md
       - Clubs and Societies/Entrepreneurship Club.md
       - Clubs and Societies/Debating and Public Speaking.md
