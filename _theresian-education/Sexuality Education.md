@@ -24,219 +24,267 @@ description: ""
 <p>6. The values and attitudes of our youth towards sexuality are increasingly shaped by their peers, exposure to the media, popular culture and the internet. Adolescence is a complex stage in life as the adolescent attempts to find his/her own identity and often struggles with new social relationships. The period of middle adolescence (generally from 15 &ndash; 17 years old) can be a turbulent period for adolescents. The gap between physical and emotional/cognitive maturity may result in a tendency to act on impulse, experiment with various activities (including sexual activities), sometimes without understanding the unpleasant consequences that may arise from such experimentation. The need for peer acceptance can be overwhelmingly strong, and hinder one&rsquo;s ability to act responsibly. Given the pressures faced by the middle adolescent from within themselves and from peers, it is important to build a strong sense of self-worth, personal conviction and an understanding of the possible consequences of sexual behaviour.</p>
 <p>7. Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.</p>
 <p><strong>At&nbsp;</strong><strong>CHIJ ST THERESA&rsquo;S CONVENT</strong><strong>, the following Sexuality Education lessons will be taught in&nbsp;<u>2023</u>:</strong></p>
-<h4 style="text-align: center;"><strong>Secondary 1</strong></h4>
-<table width="0">
+<p style="text-align: center;"><strong>2023 Sexuality Education Lessons in CCE 2021</strong></p>
+<p style="text-align: center;"><strong>Secondary 1</strong></p>
+<table width="1030">
 <thead>
 <tr>
-<td style="text-align: center;" width="112">
-<p><strong>UNIT</strong></p>
+<td style="text-align: center;" width="108">
+<p><strong>Unit</strong></p>
 </td>
-<td style="text-align: center;" width="170">
-<p><strong>LESSONS / DURATION</strong></p>
+<td style="text-align: center;" width="120">
+<p><strong>Lesson Title / Duration<s></s></strong></p>
 </td>
-<td style="text-align: center;" width="483">
+<td style="text-align: center;" width="378">
+<p><strong>Lesson Overview</strong></p>
+</td>
+<td style="text-align: center;" width="342">
 <p><strong>Lesson Objectives</strong></p>
-<p><strong>At the end of the lesson, students will be able to:</strong></p>
+<p>At the end of the lesson, students will be able to:</p>
 </td>
-<td style="text-align: center;" width="165">
-<p><strong>TIME PERIOD</strong></p>
-<p><strong>(Tentative)</strong></p>
+<td style="text-align: center;" width="82">
+<p><strong>Time Period</strong></p>
 </td>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td rowspan="3" width="112">
-<p style="text-align: center;">Respectful Relationships &amp; Safety</p>
-</td>
-<td width="170">
-<p style="text-align: center;">1</p>
-<p style="text-align: center;">(60 mins)</p>
-</td>
-<td width="483">
-<ul>
-<li>Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles</li>
-<li>Recognise that there are different forms of love (e.g. familial, platonic, romantic love)</li>
-<li>Recognise the importance and understand what builds healthy and supportive relationships, both online and offline</li>
-<li>Understand what dating is, and recognise that the readiness and interest in dating vary among individuals</li>
-</ul>
-</td>
-<td width="165">
-<p style="text-align: center;">Term 2 Week 7</p>
-</td>
-</tr>
-<tr>
-<td width="170">
-<p style="text-align: center;">2</p>
-<p style="text-align: center;">(60 mins)</p>
-</td>
-<td width="483">
-<ul>
-<li>Understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person&rsquo;s self-concept</li>
-</ul>
-</td>
-<td width="165">
-<p style="text-align: center;">Term 2 Week 8</p>
-</td>
-</tr>
-<tr>
-<td width="170">
-<p style="text-align: center;">3</p>
-<p style="text-align: center;">(60 mins)</p>
-</td>
-<td width="483">
-<ul>
-<li>Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences</li>
-<li>Recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)</li>
-</ul>
-</td>
-<td width="165">
-<p style="text-align: center;">Term 2 Week 9</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4 style="text-align: center;"><strong>Secondary 2</strong></h4>
-<table width="0">
-<thead>
-<tr>
-<td style="text-align: center;" width="112">
-<p><strong>UNIT</strong></p>
-</td>
-<td style="text-align: center;" width="170">
-<p><strong>LESSONS / DURATION</strong></p>
-</td>
-<td style="text-align: center;" width="483">
-<p><strong>Lesson Objectives</strong></p>
-<p><strong>At the end of the lesson, students will be able to:</strong></p>
-</td>
-<td style="text-align: center;" width="163">
-<p><strong>TIME PERIOD</strong></p>
-<p><strong>(Tentative)</strong></p>
-</td>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td rowspan="3" width="112">
-<p style="text-align: center;">Respectful Relationships &amp; Safety</p>
-</td>
-<td style="text-align: center;" width="170">
-<p>1</p>
-<p>(60&nbsp;mins)</p>
-</td>
-<td width="483">
-<ul>
-<li>Know that one&rsquo;s understanding of gender roles should not be limited by gender stereotypes</li>
-<li>Develop an appreciation of one&rsquo;s own unique qualities and characteristics as a male or female</li>
-<li>Understand what sexual orientation entails</li>
-</ul>
-</td>
-<td style="text-align: center;" width="163">
-<p>Term 1 Week 3</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="170">
-<p>2A</p>
-<p>(60 mins)</p>
-</td>
-<td width="483">
-<ul>
-<li>Recognise one&rsquo;s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline</li>
-</ul>
-</td>
-<td style="text-align: center;" width="163">
-<p>Term 1 Week 4</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="170">
-<p>2B</p>
-<p>(60 mins)</p>
-</td>
-<td width="483">
-<ul>
-<li>Recognise the importance of self-respect and respect for others in relating to members of the opposite gender</li>
-<li>Recognise one&rsquo;s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online</li>
-</ul>
-</td>
-<td style="text-align: center;" width="163">
-<p>Term 1 Week 5</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4 style="text-align: center;"><strong>Secondary 3</strong></h4>
-<table width="0">
-<thead>
-<tr>
-<td style="text-align: center;" width="112"><strong><br /></strong>
-<p><strong>UNIT</strong></p>
-</td>
-<td style="text-align: center;" width="170">
-<p><strong>LESSONS / DURATION</strong></p>
-</td>
-<td style="text-align: center;" width="483">
-<p><strong>Lesson Objectives</strong></p>
-<p><strong>At the end of the lesson, students will be able to:</strong></p>
-</td>
-<td style="text-align: center;" width="163">
-<p><strong>TIME PERIOD</strong></p>
-<p><strong>(Tentative)</strong></p>
-</td>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align: center;" rowspan="3" width="112">
+<td style="text-align: center;" rowspan="3" width="108">
 <p>Respectful Relationships &amp; Safety</p>
 </td>
-<td style="text-align: center;" width="170">
-<p>1A</p>
+<td style="text-align: center;" width="120">
+<p>Steady or Not</p>
+<p>Lesson 1</p>
 <p>(60 mins)</p>
 </td>
-<td width="483">
+<td width="378">
+<p>This lesson helps students understand more about relationship building and the different types of love (e.g. familial, platonic, romantic). They will have the opportunity to better understand the considerations involved in making responsible decisions towards dating and romantic relationships and understand how to build healthy and supportive relationships, both online and offline.</p>
+</td>
+<td width="342">
 <ul>
-<li>Know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline.</li>
-<li>Understand that expectations of oneself and others may differ and can affect one&rsquo;s emotions, thoughts and behaviours.</li>
-<li>Recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship.</li>
+<li>recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles</li>
+<li>recognise that there are different forms of love (e.g. familial, platonic, romantic love)</li>
+<li>recognise the importance and understand what builds healthy and supportive relationships, both online and offline</li>
+<li>understand what dating is, and recognise that the readiness and interest in dating vary among individuals</li>
 </ul>
 </td>
-<td style="text-align: center;" width="163">
-<p>Term 2 Week 6</p>
+<td style="text-align: center;" width="82">
+<p>Term 2<br>Week 4</p>
 </td>
 </tr>
 <tr>
-<td style="text-align: center;" width="170">
-<p>1B</p>
+<td style="text-align: center;" width="120">
+<p>Being Aware, Being Safe</p>
+<p>Lesson 2</p>
 <p>(60 mins)</p>
 </td>
-<td width="483">
+<td width="378">
+<p>This lesson focuses on helping students to be safe from the dangers of sexual grooming and on respecting one&rsquo;s right to safety. Students will also learn about the legal provisions against sexual abuse, and the impact of sexual abuse on victims, including the psychological impact on the sense of self.&nbsp;</p>
+<p>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</p>
+</td>
+<td width="342">
 <ul>
-<li>Know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges.</li>
-<li>Know that a decision to end a relationship will have consequences on oneself and others.</li>
-<li>Know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience.</li>
-<li>Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.</li>
+<li>understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person&rsquo;s self-concept</li>
 </ul>
 </td>
-<td style="text-align: center;" width="163">
+<td style="text-align: center;" width="82">
+<p>Term 2</p>
+<p>Week 5</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="120">
+<p>More than Meets the Eye</p>
+<p>Lesson 3</p>
+<p>(60 mins)</p>
+</td>
+<td width="378">
+<p>This lesson touches on two areas relevant to an adolescent&rsquo;s curiosity on matters related to sexuality &ndash; masturbation and pornography. Students will gain awareness of the health, legal and moral issues related to viewing, downloading and/or distributing pornography. While students may perceive watching pornography as a private issue without consequences to bear, they will learn that it could lead to addiction and/or other risky sexual behaviours.</p>
+<p>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</p>
+</td>
+<td width="342">
+<ul>
+<li>understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences</li>
+<li>recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)</li>
+</ul>
+</td>
+<td style="text-align: center;" width="82">
+<p>Term 2 Week 9</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;"><strong>Secondary 2</strong></p>
+<table width="1032">
+<thead>
+<tr>
+<td style="text-align: center;" width="108">
+<p><strong>Unit</strong></p>
+</td>
+<td style="text-align: center;" width="150">
+<p><strong>Lesson Title/ Duration</strong></p>
+</td>
+<td style="text-align: center;" width="354">
+<p><strong>Lesson Overview</strong></p>
+</td>
+<td style="text-align: center;" width="354">
+<p><strong>Lesson Objectives</strong></p>
+<p>At the end of the lesson, students will be able to:</p>
+</td>
+<td style="text-align: center;" width="66">
+<p><strong>Time Period</strong></p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;" rowspan="3" width="108">
+<p>Respectful Relationships &amp; Safety</p>
+</td>
+<td style="text-align: center;" width="150">
+<p>A Role for Everyone</p>
+<p>Lesson&nbsp;1</p>
+<p>(60&nbsp;mins)</p>
+</td>
+<td width="354">
+<p>This lesson focus on how the family, culture and society can influence one&rsquo;s perception of their gender roles. Students will learn what gender stereotypes are (e.g. males traditionally as breadwinners and females traditionally as doing household chores) and how gender stereotypes are formed.&nbsp;&nbsp;Students will discuss how one&rsquo;s understanding of gender roles should not be limited by gender stereotypes, for example women can be pilots, while men can be nurses.</p>
+<p>Students learn to focus on their personal strengths to pursue their interests and build their self- confidence.</p>
+<p>Students will also learn about the definitions of biological sex, gender identity, gender expression and sexual orientation. They will learn to treat everyone with respect and empathy.</p>
+</td>
+<td width="354">
+<ul>
+<li>know that one&rsquo;s understanding of gender roles should not be limited by gender stereotypes</li>
+<li>develop an appreciation of one&rsquo;s own unique qualities and characteristics as a male or female</li>
+<li>understand what sexual orientation entails</li>
+</ul>
+</td>
+<td style="text-align: center;" width="66">
+<p>Term 2 Week 3</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="150">
+<p>Online Safety Challenge</p>
+<p>Lesson&nbsp;2A</p>
+<p>(60 mins)</p>
+</td>
+<td width="354">
+<p>This lesson focuses on the issue of online grooming and cyber-flashing. It emphasises the need for help-seeking, peer support and positive peer influence. The lesson encourages the safe and responsible use of social media, and aims to deepen students&rsquo; conviction, and extend a call to action to students to taking appropriate decisions to safeguard their well-being and safety.</p>
+<p>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</p>
+</td>
+<td width="354">
+<ul>
+<li>recognise one&rsquo;s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline</li>
+</ul>
+</td>
+<td style="text-align: center;" width="66">
+<p>Term 2 Week 4</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="150">
+<p>Do I or Don&rsquo;t I</p>
+<p>Lesson&nbsp;2B</p>
+<p>(60 mins)</p>
+</td>
+<td width="354">
+<p>This lesson focuses on respect for personal boundaries; and how to be safe from risky sexual behaviour, teenage pregnancy and abortion. Students will learn the importance of respecting one another&rsquo;s boundaries in relationships. This lesson emphasises the importance of responsible decision-making, the value of sexual abstinence, the need for help seeking. Students will be aware of Singapore laws protecting minors, such as the legal consequences of having sex with a minor, abortion and the abandonment of babies.&nbsp;</p>
+</td>
+<td width="354">
+<ul>
+<li>recognise the importance of self-respect and respect for others in relating to members of the opposite gender</li>
+<li>recognise one&rsquo;s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online</li>
+</ul>
+</td>
+<td style="text-align: center;" width="66">
+<p>Term 4 Week 1</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;"><strong>Secondary 3</strong></p>
+<table width="1032">
+<thead>
+<tr>
+<td style="text-align: center;" width="108">
+<p><strong>Unit</strong></p>
+</td>
+<td style="text-align: center;" width="138">
+<p><strong>Lesson Title/ Duration</strong></p>
+</td>
+<td style="text-align: center;" width="348">
+<p><strong>Lesson Overview</strong></p>
+</td>
+<td style="text-align: center;" width="372">
+<p><strong>Lesson Objectives</strong></p>
+<p>At the end of the lesson, students will be able to:</p>
+</td>
+<td style="text-align: center;" width="66">
+<p><strong>Time Period</strong></p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;" rowspan="3" width="108">
+<p>Respectful Relationships &amp; Safety</p>
+</td>
+<td style="text-align: center;" width="138">
+<p>Love Yourself, Love Others</p>
+<p>Lesson&nbsp;1A</p>
+<p>(60 mins)</p>
+</td>
+<td width="348">
+<p>This lesson focuses on dating respectfully in healthy relationships. Students will learn about self-esteem, their sources of influence (e.g. friends&rsquo; perception) on self-esteem, the impact of one&rsquo;s self-esteem on our mental well-being as well as relationships with others. Students will also learn how emotional reactions can affect relationships positively or negatively. Students will also learn that maturity and readiness are important when entering into a dating relationship.&nbsp;</p>
+</td>
+<td width="372">
+<ul>
+<li>know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline</li>
+<li>understand that expectations of oneself and others may differ and can affect one&rsquo;s emotions, thoughts and behaviours</li>
+<li>recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship</li>
+</ul>
+</td>
+<td style="text-align: center;" width="66">
+<p>Term 2 Week 4</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="138">
+<p>Mending a&nbsp;Broken Heart&nbsp;Lesson&nbsp;1B</p>
+<p>(60 mins)</p>
+</td>
+<td width="348">
+<p>Students will learn how to manage their emotions if they were to face a breakup and know that relationship building involves person emotions and vulnerabilities, and changes and challenges. Students will also learn that a decision to end a relationship will have consequences on oneself and others, and that grief and loss due to rejections and broken relationships is normal and that one can recover from the experience. They will learn that there are healthy ways of coping with breakdowns in relationships and that family and friends are important pillars of support.</p>
+</td>
+<td width="372">
+<ul>
+<li>know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges</li>
+<li>know that a decision to end a relationship will have consequences on oneself and others</li>
+<li>know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience</li>
+<li>know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support</li>
+</ul>
+</td>
+<td style="text-align: center;" width="66">
+<p>Term 2 Week 5</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="138">
+<p>When Respect Takes Centre Stage</p>
+<p>Lesson&nbsp;2</p>
+<p>(60 mins)</p>
+</td>
+<td width="348">
+<p>This lesson aims to help students think critically and make informed decisions in the contexts of sexting and voyeurism, and encourages students to exert a positive influence as a respectful online user. It will also deepen students&rsquo; convictions about making moral decisions by taking into consideration the impact of their decisions and actions on their well-being and safety, their loved ones, and the community. Students learn that they have a right and responsibility to be safe and protect their personal space and body. They also learn that sexting, voyeurism and other related sexual offences are never justifiable and they can seek help in times of need.</p>
+</td>
+<td width="372">
+<ul>
+<li>recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them</li>
+<li>understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs</li>
+</ul>
+</td>
+<td style="text-align: center;" width="66">
 <p>Term 2 Week 7</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="170">
-<p>2</p>
-<p>(60 mins)</p>
-</td>
-<td width="483">
-<ul>
-<li>Recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them.</li>
-<li>Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</li>
-</ul>
-</td>
-<td style="text-align: center;" width="163">
-<p>Term 2 Week 8</p>
 </td>
 </tr>
 </tbody>
