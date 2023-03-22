@@ -289,182 +289,156 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h4 style="text-align: center;"><strong>Secondary 4</strong></h4>
-<table width="0">
+<p style="text-align: center;"><strong>Secondary 4</strong></p>
+<table width="1049">
 <thead>
 <tr>
-<td style="text-align: center;" width="112">
-<p><strong>UNIT</strong></p>
+<td style="text-align: center;" width="114">
+<p><strong>Unit</strong></p>
 </td>
-<td style="text-align: center;" width="170">
-<p><strong>LESSONS / DURATION</strong></p>
+<td style="text-align: center;" width="150">
+<p><strong>Lesson Title</strong></p>
 </td>
-<td style="text-align: center;" width="483">
+<td style="text-align: center;" width="331">
+<p><strong>Lesson Overview</strong></p>
+</td>
+<td style="text-align: center;" width="383">
 <p><strong>Lesson Objectives</strong></p>
-<p><strong>At the end of the lesson, students will be able to:</strong></p>
+<p>At the end of the lesson, students will be able to:</p>
 </td>
-<td style="text-align: center;" width="163">
-<p><strong>TIME PERIOD</strong></p>
-<p><strong>(Tentative)</strong></p>
+<td style="text-align: center;" width="71">
+<p><strong>Time Period</strong></p>
 </td>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="text-align: center;" rowspan="3" width="112">
+<td style="text-align: center;" rowspan="3" width="114">
 <p>Respectful Relationships &amp; Safety</p>
 </td>
-<td style="text-align: center;" width="170">
-<p>1</p>
+<td style="text-align: center;" width="150">
+<p>Levelling the Ground&nbsp;Lesson&nbsp;1</p>
 <p>(60 mins)</p>
 </td>
-<td width="483">
+<td width="331">
+<p>This lesson aims to help students think critically about gender stereotypes that exist in our society in the contexts of career and family (e.g. males typically perceived as main breadwinners and females typically perceived as main caregivers in the family), and the impact of these stereotypes on individuals. Students will learn to be aware of possible gender stereotypes that may affect one&rsquo;s family and future decisions. They will also learn to reframe their perspectives and not judge others based on their own or others&rsquo; values and principles, with regard to gender stereotypes.</p>
+</td>
+<td width="383">
 <ul>
-<li>Understand that the value of a person is not tied to one&rsquo;s gender and not conforming to gender stereotypes does not negate one&rsquo;s gender identity.</li>
-<li>Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.</li>
-<li>Know that imposing gender stereotypes on oneself and others can limit one&rsquo;s experiences, cause harm to the self-esteem of oneself and others and should be avoided.</li>
+<li>understand that the value of a person is not tied to one&rsquo;s gender and not conforming to gender stereotypes does not negate one&rsquo;s gender identity</li>
+<li>understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations</li>
+<li>know that imposing gender stereotypes on oneself and others can limit one&rsquo;s experiences, cause harm to the self-esteem of oneself and others and should be avoided</li>
 </ul>
 </td>
-<td style="text-align: center;" width="163">
-<p>Term 1 Week 9</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="170">
-<p>2</p>
-<p>(60 mins)</p>
-</td>
-<td width="483">
-<ul>
-<li>Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.</li>
-<li>Recognise emotions caused by traumatic situations, e.g. bullying, abuse and dating violence, and understand the physiological and psychological, social impact on victims.</li>
-<li>Understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being.</li>
-<li>Understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship.</li>
-</ul>
-</td>
-<td style="text-align: center;" width="163">
-<p>Term 2 Week 1</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="170">
-<p>3</p>
-<p>(60 mins)</p>
-</td>
-<td width="483">
-<ul>
-<li>Know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions.&nbsp;&nbsp;</li>
-<li>Know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort.</li>
-<li>Understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage.</li>
-</ul>
-</td>
-<td style="text-align: center;" width="163">
+<td style="text-align: center;" width="71">
 <p>Term 2 Week 2</p>
 </td>
 </tr>
 <tr>
-<td style="text-align: center;" width="112">&nbsp;</td>
-<td style="text-align: center;" width="170">
-<p>4</p>
+<td style="text-align: center;" width="150">
+<p>When Love Hurts</p>
+<p>Lesson&nbsp;2</p>
 <p>(60 mins)</p>
 </td>
-<td width="483">
+<td width="331">
+<p>This lesson aims to help students recognise unhealthy relationships and build their help-seeking skills. Students will learn to identify potential signs of an unhealthy relationship and recognise the different forms of dating violence. They will get to understand why dating violence occurs, why victims often feel &ldquo;trapped&rdquo; in such unhealthy relationships, and how one can get out of such a relationship safely. Students will learn when, where and how to seek help from trusted adults (e.g. family, teachers, school counsellors) in the supportive environment that they have if they or their friends are involved in an unhealthy relationship.</p>
+</td>
+<td width="383">
 <ul>
-<li>Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</li>
+<li>know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support</li>
+<li>recognise emotions caused by traumatic situations, e.g. bullying, abuse and dating violence, and understand the physiological and psychological, social impact on victims</li>
+<li>understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being</li>
+<li>understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship</li>
 </ul>
 </td>
-<td style="text-align: center;" width="163">
+<td style="text-align: center;" width="71">
 <p>Term 2 Week 3</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="150">
+<p>For Better or For Worse</p>
+<p>Lesson 3</p>
+<p>(60 mins)</p>
+</td>
+<td width="331">
+<p>This lesson focuses on building a positive relationship with one&rsquo;s partner in a marriage. Students will understand that while a marriage, defined in Singapore as a union between a man and a woman, requires mutual commitment and effort like the other relationships in their lives, what sets a marriage apart is its lifelong commitment. Students will learn that what really matters to sustain and maintain a long-term romantic relationship leading to marriage is understanding the other person&rsquo;s perspective and effectively communicating with each other.&nbsp;</p>
+</td>
+<td width="383">
+<ul>
+<li>know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions</li>
+<li>know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort</li>
+<li>understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage</li>
+</ul>
+</td>
+<td style="text-align: center;" width="71">
+<p>Term 2 Week 4</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="114">
+<p>&nbsp;</p>
+</td>
+<td style="text-align: center;" width="150">
+<p>There&rsquo;s Always More to a Story</p>
+<p>Lesson&nbsp;4</p>
+<p>(60 mins)</p>
+</td>
+<td width="331">
+<p>In this lesson, students will revisit the impact of pornography and deepen their understanding on its impact on relationships. Students will also learn about revenge pornography, including its definition and legal provisions. They will also learn that they can turn to trusted adults for help in setting boundaries and overcoming difficulties in making sound decisions, to prevent themselves from encountering danger.</p>
+</td>
+<td width="383">
+<ul>
+<li>understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs</li>
+</ul>
+</td>
+<td style="text-align: center;" width="71">
+<p>Term 2 Week 5</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4 style="text-align: center;"><strong>S</strong><strong>econdary 5</strong></h4>
-<table width="0">
+<p style="text-align: center;"><strong>Secondary 5</strong></p>
+<table width="1038">
 <thead>
 <tr>
-<td style="text-align: center;" width="112">
+<td style="text-align: center;" width="108">
 <p><strong>UNIT</strong></p>
 </td>
-<td style="text-align: center;" width="170">
-<p><strong>LESSONS / DURATION</strong></p>
+<td style="text-align: center;" width="126">
+<p><strong>Lesson Title</strong></p>
 </td>
-<td style="text-align: center;" width="483">
+<td style="text-align: center;" width="462">
+<p><strong>Lesson Overview</strong></p>
+</td>
+<td style="text-align: center;" width="270">
 <p><strong>Lesson Objectives</strong></p>
-<p><strong>At the end of the lesson, students will be able to:</strong></p>
+<p>At the end of the lesson, students will be able to:</p>
 </td>
-<td style="text-align: center;" width="163">
-<p><strong>TIME PERIOD</strong></p>
-<p><strong>(Tentative)</strong></p>
+<td style="text-align: center;" width="72">
+<p><strong>Time Period</strong></p>
 </td>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="text-align: center;" rowspan="3" width="112">
+<td style="text-align: center;" width="108">
 <p>Respectful Relationships &amp; Safety</p>
 </td>
-<td style="text-align: center;" width="170">
-<p>1</p>
+<td style="text-align: center;" width="126">
+<p>This is Where I Draw the Line</p>
 <p>(60 mins)</p>
 </td>
-<td width="483">
+<td width="462">
+<p>In this lesson, students will understand that different individuals have different emotional and physical boundaries. This lesson highlights the need to respect the boundaries of others and reinforces the importance of showing respect to the opposite sex by using appropriate words and actions. Students will examine personal boundaries from different perspectives and learn the importance of making sound values-based decisions and acting in consideration of the well-being of themselves and others.</p>
+</td>
+<td width="270">
 <ul>
-<li>Understand that the value of a person is not tied to one&rsquo;s gender and not conforming to gender stereotypes does not negate one&rsquo;s gender identity.</li>
-<li>Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.</li>
-<li>Know that imposing gender stereotypes on oneself and others can limit one&rsquo;s experiences, cause harm to the self-esteem of oneself and others and should be avoided.</li>
+<li>understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs</li>
 </ul>
 </td>
-<td style="text-align: center;" width="163">
-<p>Term 1 Week 9</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="170">
-<p>2</p>
-<p>(60 mins)</p>
-</td>
-<td width="483">
-<ul>
-<li>Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.</li>
-<li>Recognise emotions caused by traumatic situations, e.g. bullying, abuse and dating violence, and understand the physiological and psychological, social impact on victims.</li>
-<li>Understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being.</li>
-<li>Understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship.</li>
-</ul>
-</td>
-<td style="text-align: center;" width="163">
-<p>Term 2 Week 1</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="170">
-<p>3</p>
-<p>(60 mins)</p>
-</td>
-<td width="483">
-<ul>
-<li>Know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions.&nbsp;&nbsp;</li>
-<li>Know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort.</li>
-<li>Understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage.</li>
-</ul>
-</td>
-<td style="text-align: center;" width="163">
-<p>Term 2 Week 2</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="112">&nbsp;</td>
-<td style="text-align: center;" width="170">
-<p>4</p>
-<p>(60 mins)</p>
-</td>
-<td width="483">
-<ul>
-<li>Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</li>
-</ul>
-</td>
-<td style="text-align: center;" width="163">
-<p>Term 2 Week 3</p>
+<td width="72">
+<p style="text-align: center;">Term 2 Week 2</p>
 </td>
 </tr>
 </tbody>
