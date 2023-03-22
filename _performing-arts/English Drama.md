@@ -13,8 +13,6 @@ description: ""
 <li>Puppetry (how to hold and manipulate a puppet in order to bring it to life!)</li>
 <li>Students are also required to keep a learning journal to highlight and reflect upon what they learn and experience.</li>
 </ul>
-</div>
-<div>
 <p><strong>2022 CCA Training Days and Hours<br /></strong>Tuesdays and Wednesdays : 2.45pm - *5.45pm<br />*Staggered dismissal</p>
 <p><strong>Teachers-in-Charge</strong><br />Ms Shehana Binte Zulazmi (<a href="mailto:shehana_zulazmi@moe.edu.sg" target="">shehana_zulazmi@moe.edu.sg</a>)<br />Ms Shirley Sim (<a href="mailto:sim_ai_ling_shirley@moe.edu.sg" target="">sim_ai_ling_shirley@moe.edu.sg</a>)<br />Mr Timothy Chow (<a href="mailto:timothy_chow_rui_jun@moe.edu.sg" target="">timothy_chow_rui_jun@moe.edu.sg</a>)</p>
 <img src="/images/ed2.jpeg"><br>
