@@ -2,5 +2,6 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Uniform Groups/Girl Guides.md
       - Uniform Groups/NPCC.md
       - Uniform Groups/.keep
