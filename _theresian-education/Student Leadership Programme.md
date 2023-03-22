@@ -114,6 +114,8 @@ description: ""
 <li>An overseas community service programme&nbsp;</li>
 </ul>
 <p><strong><u>Assessment<br /></u></strong>The assessment stage involves both the student leaders themselves and the leadership teachers, who will conduct mid and end-term reviews on the student leaders&rsquo; performance.</p>
+<img style="width: 90%;" src="/images/te1.jpg">
+<img src="/images/te2.jpg">
 <p><strong><u>Overview of the 3-module student leadership module to develop Theresian Leaders</u></strong></p>
 <p>The desired outcomes and values-based curriculum of the 3 modules are as follows:</p>
 <table>
