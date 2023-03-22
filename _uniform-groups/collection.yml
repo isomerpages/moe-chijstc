@@ -1,5 +1,4 @@
 collections:
   uniform-groups:
     output: true
-    order:
-      - Uniform Groups.md
+    order: []
