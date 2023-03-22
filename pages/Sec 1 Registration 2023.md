@@ -100,3 +100,9 @@ description: ""
 <img src="/images/tf11.png">
 <img src="/images/tf2.png">
 <p><a href="https://drive.google.com/file/d/1YB_zHNqpMEfR9tmCTDJEtFXKaycgI_Hc/view?usp=share_link">PDF to traffic flow map</a></p>
+<p><strong>Orientation Programme<br /></strong>The Secondary 1 Orientation is compulsory for all Secondary 1 students and will take place from&nbsp;<strong>3 to 5 Jan 2023, 7.30am &ndash; 5.00pm</strong>. You can view the detailed programme in the e-booklet here.</p>
+<p><a href="https://drive.google.com/file/d/1aFv6hI2OxtDZGCyqQ_NdzO0IZwQNaXxc/view?usp=share_link">e-booklet</a></p>
+<p><strong>Sec 1 Parents Info Night (Online)<br /></strong>All Parents/Guardians are warmly invited to join the upcoming Sec 1 Parents&rsquo; Info Night webinar. Your daughter/ward should attend with you. Details are as follows.</p>
+<p>Please refer to the slides&nbsp;<a href="/files/For%20website%20Sec%201%20Info%20Night%202023.pdf">here</a>.</p>
+<p><strong>USE OF PHOTOGRAPH(S) AND VIDEO IMAGES(S)<br /></strong><strong>Photograph(s) or video image(s) of students and their parents may be captured during school activities and events such as classroom lessons, CCA, school camps, school concerts. The school may use and publish such photographs and / or video recordings in school publications, website, social media channels and other communication channels.</strong></p>
+<p><strong>For any concerns, please email our school at&nbsp;</strong><a href="mailto:chijstcs@moe.edu.sg"><strong>chijstcs@moe.edu.sg</strong></a><strong>.</strong></p>
