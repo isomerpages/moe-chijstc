@@ -446,48 +446,49 @@ description: ""
 <p><strong><em><u>eTeens</u></em></strong><strong><u>&nbsp;Programme</u></strong>:</p>
 <p><em>8. eTeens</em>&nbsp;is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective.&nbsp;<em>eTeens</em>&nbsp;is conducted in two segments &ndash; a mass talk segment and a classroom-based programme.</p>
 <p>9. Students are taught skills such as decision-making, assertiveness and negotiation to say &ldquo;no&rdquo; to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages.The desired outcome of the <em>eTeens</em>&nbsp;programme is that students are empowered to make wise, informed and sensible decisions.</p>
-<p><strong>At&nbsp;</strong><strong>CHIJ ST THERESA&rsquo;S CONVENT</strong><strong>, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2022:</strong></p>
-<table width="0">
+<p><strong>At&nbsp;</strong><strong>CHIJ St. Theresa&rsquo;s Convent&rsquo;s</strong><strong>, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2023:</strong></p>
+<table width="966">
 <thead>
 <tr>
-<td style="text-align: center;" width="177">
+<td style="text-align: center;" width="122">
 <p><strong>Topics/Lessons</strong></p>
 </td>
-<td style="text-align: center;" width="482">
-<p><strong>Programme Learning Objectives</strong></p>
+<td width="748">
+<p style="text-align: center;"><strong>Programme Learning Objectives</strong></p>
 </td>
-<td style="text-align: center;" width="160">
+<td style="text-align: center;" width="96">
 <p><strong>Time Period</strong></p>
-<p><strong>(Tentative)</strong></p>
 </td>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td width="177">
+<td style="text-align: center;" width="122">
 <p>Mass Talk by HPB appointed vendor</p>
 </td>
-<td width="482">
-<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Awareness of the different STIs and HIV/AIDS</p>
-<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Modes of transmission</p>
-<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Modes of protection, specifically on how the condom is used</p>
-<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Consequences and impact of STIs/HIV</p>
-<p>&nbsp;</p>
+<td width="748">
+<ul>
+<li>Awareness of the different STIs and HIV/AIDS</li>
+<li>Modes of transmission</li>
+<li>Modes of protection, specifically on how the condom is used</li>
+<li>Consequences and impact of STIs/HIV</li>
+</ul>
 </td>
-<td style="text-align: center;" width="160">
-<p>Term 2 Week 9</p>
+<td style="text-align: center;" width="96">
+<p>Term 3 Week 2</p>
 </td>
 </tr>
 <tr>
-<td width="177">
+<td style="text-align: center;" width="122">
 <p>Classroom-based Lesson</p>
 </td>
-<td width="482">
-<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</p>
-<p>&nbsp;</p>
+<td width="748">
+<ul>
+<li>Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</li>
+</ul>
 </td>
-<td style="text-align: center;" width="160">
-<p>Term 2 Week 9</p>
+<td style="text-align: center;" width="96">
+<p>Term 3 Week 3</p>
 </td>
 </tr>
 </tbody>
