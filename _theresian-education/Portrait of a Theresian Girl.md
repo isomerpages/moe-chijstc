@@ -8,10 +8,10 @@ description: ""
 <tbody>
 <tr>
 <td style="width: 300px;">
-<div><strong>CHARACTER&nbsp;</strong>(Behavioural Outcomes)</div>
+<p><strong>CHARACTER&nbsp;</strong>(Behavioural Outcomes)</p>
 </td>
 <td style="width: 436.125px;">
-<div><strong>COMPETENCE </strong>(Learning Outcomes)</div>
+<p><strong>COMPETENCE </strong>(Learning Outcomes)</p>
 </td>
 </tr>
 <tr>
