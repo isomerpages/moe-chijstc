@@ -84,3 +84,19 @@ description: ""
 </tbody>
 </table>
 <p><strong>Information for Financial Assistance Scheme (FAS) Application<br /></strong>If you wish to apply or need more information for the MOE Financial Assistance Scheme, you may read the details in the school website (click&nbsp;<a href="/others/home-tab-box/parents/moe-financial-assistance-scheme-fas"><strong>here</strong></a>).</p>
+<p><strong>Appeal for transfer</strong><br>For appeals due to serious medical conditions, please refer to the following&nbsp;<a href="https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer"><strong>MOE webpage</strong></a></p>
+<p>If you wish to apply for transfer due to non-medical reasons, please click&nbsp;<a href="https://form.gov.sg/639bdb22ad255700121bac88"><strong>here</strong></a>&nbsp;to complete the FormSG and submit by&nbsp;<strong>29 December 2022, 12pm</strong>. Please note that your child needs to meet our school&rsquo;s admission criteria and our school must have available vacancies.</p>
+<p><strong>First Day of School 2023<br /></strong><strong>Reporting date</strong>: 3rd January 2023 (Tuesday)<br /><strong>Reporting time</strong>: 7.20 am<br /><strong>Venue</strong>: AVA Room (Level 4)<br /><strong>Attire</strong>: Students can report in their IJ Uniform or in their Primary School Uniform<br /><strong>Things to bring</strong>:</p>
+<ul>
+<li>Writing materials</li>
+<li>Water bottle</li>
+<li>PE attire or primary school PE attire</li>
+<li>A storybook</li>
+</ul>
+<p>Please refer to the Orientation Programme for daily dismissal time for 3<sup>rd</sup>, 4<sup>th</sup>&nbsp;and 5<sup>th</sup>&nbsp;January 2022.&nbsp;More details will be made available nearer the date.</p>
+<p><strong>Traffic Flow<br /></strong>&nbsp;The school operates a 2-way traffic flow system during the morning peak period. Cars may either (i) enter from the main gate along Lower Delta Road and exit by the back gate along Telok Blangah Way;&nbsp;<u>OR</u>&nbsp;(ii) enter from the gate along Telok Blangah Way and exit by the main gate along Lower Delta Road.</p>
+<p>During the afternoon peak period, only 1-way traffic flow is allowed. Cars may only enter from the main gate along Lower Delta Road and exit by the back gate along Telok Blangah Way.</p>
+<p>Please see the maps below for more information.</p>
+<img src="/images/tf11.png">
+<img src="/images/tf2.png">
+<p><a href="https://drive.google.com/file/d/1YB_zHNqpMEfR9tmCTDJEtFXKaycgI_Hc/view?usp=share_link">&lt;To attach traffic flow map&gt;</a></p>
