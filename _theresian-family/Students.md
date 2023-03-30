@@ -4,7 +4,7 @@ permalink: /theresian-family/students/
 description: ""
 ---
 <ul>
-<li><a href="/theresian-family/students/chij-stc-school-calendar-2023">School Calendar 2023</a></li>
+<li><a href="https://drive.google.com/file/d/1CKofxXTB4YNhll25kLxmTmwA9L3FvbJb/view">School Calendar 2023</a></li>
 <li><a href="/theresian-family/students/class-time-table" target="">Class Timetable</a></li>
 <li><a href="/theresian-family/students/co-curricular-activities-cca">Co-Curricular Activities (CCA)</a></li>
 <li><a href="/others/2023-exam-timetable" target="">Exam Timetable</a></li>
