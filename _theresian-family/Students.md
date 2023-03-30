@@ -15,4 +15,5 @@ description: ""
 <li><a href="/theresian-family/students/theresian-awards" target="">Theresian Awards</a></li>
 <li><a href="/theresian-family/students/theresian-sports-leaders" target="">Theresian Sports Leaders</a></li>
 <li><a href="/theresian-family/students/exercise-and-sports-science-ess" target="">Information about Exercise and Sports Science (ESS)</a></li>
+<li><a href="/others/2023-weighted-assessment-wa-schedule" target="">WA Schedule</a></li>
 </ul>
