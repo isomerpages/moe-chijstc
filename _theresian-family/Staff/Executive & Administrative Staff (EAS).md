@@ -1,10 +1,10 @@
 ---
-title: Executive & Administrative Staff (EAS)
+title: Executive &amp; Administrative Staff (EAS)
 permalink: /theresian-family/staff/executive-n-administrative-staff-eas/
 description: ""
 third_nav_title: Staff
 ---
-<table border="0" width="492" cellspacing="0" cellpadding="0"><colgroup><col width="252" /><col width="240" /></colgroup>
+<table border="0" width="492" cellspacing="0" cellpadding="0"><colgroup><col width="252"><col width="240"></colgroup>
 <tbody>
 <tr>
 <td style="text-align: center;" width="252" height="26"><strong>Name</strong></td>
@@ -12,6 +12,10 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td style="text-align: center;" width="252" height="26">Ms Tang Mun Wah</td>
+<td style="text-align: center;" width="240">Administration Manager</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="252" height="26">Ms Lisa Lam</td>
 <td style="text-align: center;" width="240">Administration Manager</td>
 </tr>
 <tr>
