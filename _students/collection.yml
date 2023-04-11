@@ -2,7 +2,6 @@ collections:
   students:
     output: true
     order:
-      - 2023 Weighted Assessment (WA) Schedule.md
       - CHIJ STC School Calendar 2023.md
       - Class Time–Table.md
       - Co–Curricular Activities (CCA).md
@@ -17,3 +16,4 @@ collections:
       - Theresian Awards.md
       - Theresian Sports Leaders.md
       - Exercise and Sports Science (ESS).md
+      - 2023 Weighted Assessment (WA) Schedule.md
