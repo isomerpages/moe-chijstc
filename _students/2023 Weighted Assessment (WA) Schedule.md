@@ -13,5 +13,13 @@ description: ""
 <p><a class="refobj" href="/files/Term%201%20WA%20Schedule%20Sec%201-Sec%204_5.pdf">Term 1 WA Schedule Sec 1-Sec 4_5.pdf</a></p>
 </td>
 </tr>
+<tr>
+<td style="width: 50%;">
+<p>Term 2 WA</p>
+</td>
+<td style="width: 50%;">
+<p><a class="refobj" href="/files/term%202%20wa%20schedule%20sec%201-sec%204_5.pdf">Term 2 WA Schedule Sec 1-Sec 4_5.pdf</a></p>
+</td>
+</tr>
 </tbody>
 </table>
