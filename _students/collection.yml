@@ -1,0 +1,19 @@
+collections:
+  students:
+    output: true
+    order:
+      - CHIJ STC School Calendar 2023.md
+      - Class Time–Table.md
+      - Co–Curricular Activities (CCA).md
+      - 2023 Exam Timetable.md
+      - House System.md
+      - Our School Song.md
+      - School Bookshop, Uniform & PE Attire.md
+      - Student Handbook/.keep
+      - Student Handbook/Student Handbook.md
+      - Student Handbook/School Rules.md
+      - Student Handbook/The Theresian Code of Conduct.md
+      - Theresian Awards.md
+      - Theresian Sports Leaders.md
+      - Exercise and Sports Science (ESS).md
+      - 2023 Weighted Assessment (WA) Schedule.md

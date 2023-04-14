@@ -1,0 +1,25 @@
+collections:
+  theresian-family:
+    output: true
+    order:
+      - Staff/.keep
+      - Staff/Staff.md
+      - Staff/Executive Committee (EXCO).md
+      - Staff/Teaching Staff.md
+      - Staff/Executive & Administrative Staff (EAS).md
+      - Departments/.keep
+      - Departments/Departments.md
+      - Departments/Character and Citizenship Education.md
+      - Departments/Design & Food Studies.md
+      - Departments/English.md
+      - Departments/Humanities.md
+      - Departments/Information & Communication Technology.md
+      - Departments/Mathematics.md
+      - Departments/Mother Tongue Languages.md
+      - Departments/Physical Education and CCA.md
+      - Departments/Science.md
+      - Students.md
+      - Partners/.keep
+      - Partners/Partners.md
+      - Partners/Parent Support Group (PSG).md
+      - Partners/Theresian Alumni.md

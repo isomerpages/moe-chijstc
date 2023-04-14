@@ -1,0 +1,11 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Our Founder.md
+      - IJ Board of Management.md
+      - Archdiocesan Commission for Catholic Schools (ACCS).md
+      - Contact Us.md
+      - Our Vision, Mission & Values.md
+      - Non–Financial Information.md
+      - Principal's Message.md

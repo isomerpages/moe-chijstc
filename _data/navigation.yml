@@ -1,15 +1,23 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About Us
+    collection: about-us
+  - title: School History
+    collection: school-history
+  - title: Theresian Family
+    collection: theresian-family
+  - title: Theresian Education
+    collection: theresian-education
+  - title: Others
+    url: /newsletter
+    sublinks:
+      - title: Newsletter
+        url: /newsletter
+      - title: Direct School Admission (DSA)
+        url: /direct-school-admission-dsa
+      - title: Follow us on Instagram!
+        url: https://www.instagram.com/chijstc.sg/?hl=en
+      - title: NDLP (1:1 Learning)
+        url: /ndlp-1-1-learning
+      - title: Sec 1 Registration 2023
+        url: /sec-1-registration-2023
