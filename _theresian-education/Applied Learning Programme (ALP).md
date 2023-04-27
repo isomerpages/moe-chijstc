@@ -3,134 +3,52 @@ title: Applied Learning Programme (ALP)
 permalink: /theresian-education/applied-learning-programme-alp/
 description: ""
 ---
-<h4><strong>Education For Life (EFL): Developing Portable Skills through and for Real World Problem Solving</strong></h4>
-<p><strong><u>Background</u></strong></p>
-<p>EFL was first started in 1992 with the objective of taking learning beyond the classroom so as to strengthen the theory-application nexus. Over the years, in tandem with changes in the educational landscape, EFL evolved from activity-based learning to interdisciplinary learning to ensure that all Theresian students develop into future-ready learners who demonstrate 21<sup>st</sup>&nbsp;century competencies. An integrated approach to learning is adopted with 21st Century Skills, macro-concepts, Social &amp; Emotional (SE) competencies and curriculum subjects identified for cross-disciplinary learning at each grade level.</p>
-<img src="/images/alp.png">
-<p><strong><u>Overview</u></strong></p>
-<p>EFL is the school&rsquo;s flagship programme for the integration of 21<sup>st</sup>&nbsp;century learning into both the curriculum and co-curriculum. This inter-disciplinary programme comprises 4 modules for Express and NT students and 5 modules for NA students, with each module being deployed at each grade level of the student&rsquo;s 4 or 5 years with the school.</p>
-<p>The curricular component has two parts: &ndash;</p>
-<p>1. the explicit learning of 21<sup>st</sup>&nbsp;century skills (Problem Solving skills, Research Skills and Communication &amp; Expression of Ideas) during curriculum time for Sec 1, 2 and 3, and</p>
-<p>2. the assessment of 21<sup>st</sup>&nbsp;century skills (Problem Solving skills, Research Skills and Communication &amp; Expression of Ideas) which is integrated into the assigned curriculum subjects for Sec 1, 2 and 3</p>
-<p>The co-curricular component is a learning journey which encompasses day excursions, camps, retreats and service learning projects which can be local or overseas. During the learning journey, students carry out data collection for their curricular tasks and engage in various learning activities which develop their 21<sup>st</sup>&nbsp;century skills and social-emotional competencies.&nbsp;</p>
-<p>Scaffolding of the students&rsquo; learning follows a developmental approach (Self-Team-School-Community) where the Theresian girl is first guided to attain personal mastery, then placed in team settings to be developed as a valuable team player, a collaborator and competitor at school level and finally as a responsible, global Singaporean. In the process, she acquires subject-specific concepts and skills, essential social-emotional competencies and portable skills (21CC) that lead to the Theresian Girl being developed as a confident person, self-directed learner, active contributor and concerned citizen.</p>
-<p>Macro-concepts guide the programme design process beginning with &ldquo;Change&rdquo; at Sec 1, &ldquo;Relationships&rdquo; at Sec 2, &ldquo;Interconnectedness&rdquo; at Sec 3, &ldquo;Purpose&rdquo; at Sec 4 and &ldquo;Mission&rdquo; at Sec 5.</p>
-<p>The key features of the EFL Programme are as follows:</p>
-<table width="658">
-<tbody>
-<tr>
-<td style="text-align: center;" width="73">
-<p><strong>Module</strong></p>
-</td>
-<td style="text-align: center;" width="142">
-<p><strong>Macro-Concept</strong></p>
-</td>
-<td style="text-align: center;" width="132">
-<p><strong>SE Competencies / School Values</strong></p>
-</td>
-<td style="text-align: center;" width="170">
-<p><strong>Assessment via Curriculum</strong></p>
-<p><strong>Subjects</strong></p>
-</td>
-<td style="text-align: center;" width="140">
-<p><strong>Co-curricular component (Learning Journey)</strong></p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="73">
-<p>EFL Sec 1</p>
-</td>
-<td style="text-align: center;" width="142">
-<p>Change</p>
-</td>
-<td style="text-align: center;" width="132">
-<p>Self-Awareness and</p>
-<p>Self-Management</p>
-<p>/ Commitment to Love</p>
-</td>
-<td style="text-align: center;" width="170">
-<p>Portfolio Assessment</p>
-<p>(Express/N(A): Literature, History;</p>
-<p>N(T): Social Skills, Social Studies)</p>
-</td>
-<td style="text-align: center;" width="140">
-<p>Local</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="73">
-<p>EFL Sec 2</p>
-</td>
-<td style="text-align: center;" width="142">
-<p>Relationship</p>
-</td>
-<td style="text-align: center;" width="132">
-<p>Relationship Management /</p>
-<p>Truth in Conscience</p>
-</td>
-<td style="text-align: center;" width="170">
-<p>Project Work (Science, Geography)</p>
-</td>
-<td style="text-align: center;" width="140">
-<p>Overseas</p>
-<p>(Kota Tinggi)</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="73">
-<p>EFL Sec 3</p>
-</td>
-<td style="text-align: center;" width="142">
-<p>Interconnectedness</p>
-</td>
-<td style="text-align: center;" width="132">
-<p>Social Awareness / Compassion in Justice</p>
-</td>
-<td style="text-align: center;" width="170">
-<p>Problem-Based Learning</p>
-<p>(Social Studies)</p>
-</td>
-<td style="text-align: center;" width="140">
-<p>Overseas</p>
-<p>(Bintan/Batam)</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="73">
-<p>EFL Sec 4</p>
-</td>
-<td style="text-align: center;" width="142">
-<p>Purpose</p>
-</td>
-<td style="text-align: center;" width="132">
-<p>Responsible Decision Making / Courage for Freedom</p>
-</td>
-<td style="text-align: center;" width="170">
-<p>Values Education</p>
-</td>
-<td style="text-align: center;" width="140">
-<p>Local</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="73">
-<p>EFL Sec 5</p>
-</td>
-<td style="text-align: center;" width="142">
-<p>Mission</p>
-</td>
-<td style="text-align: center;" width="132">
-<p>Responsible Decision Making / Service in Mission</p>
-</td>
-<td style="text-align: center;" width="170">
-<p>Values Education</p>
-<p>(VIA &ndash; Service Learning project )</p>
-</td>
-<td style="text-align: center;" width="140">
-<p>Local</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>Since the start of 2014, &ldquo;EFL: Developing Portable Skills through and for Real World Problem Solving&rdquo; has been recognised by the Ministry of Education as the school&rsquo;s Applied Learning Programme (ALP). This ALP is one of the school&rsquo;s two Distinctive Programmes which leverages its unique strengths to bring out the best in each and every Theresian.</p>
-<p>Click&nbsp;<a href="/photo-gallery-EFL-photos-2016-41465" target="">here</a>&nbsp;to access the EFL photo gallery!</p>
+<!-- /\* Font Definitions \*/ @font-face {font-family:Wingdings; panose-1:5 0 0 0 0 0 0 0 0 0;} @font-face {font-family:Latha; panose-1:2 0 4 0 0 0 0 0 0 0;} @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4;} @font-face {font-family:DengXian; panose-1:2 1 6 0 3 1 1 1 1 1;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4;} @font-face {font-family:inherit; panose-1:0 0 0 0 0 0 0 0 0 0;} @font-face {font-family:Lato; panose-1:2 15 5 2 2 2 4 3 2 3;} @font-face {font-family:"\\@DengXian"; panose-1:2 1 6 0 3 1 1 1 1 1;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {margin-top:0in; margin-right:0in; margin-bottom:8.0pt; margin-left:0in; line-height:107%; font-size:11.0pt; font-family:"Calibri",sans-serif;} p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph {margin-top:0in; margin-right:0in; margin-bottom:8.0pt; margin-left:.5in; line-height:107%; font-size:11.0pt; font-family:"Calibri",sans-serif;} p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst {margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; line-height:107%; font-size:11.0pt; font-family:"Calibri",sans-serif;} p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle {margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; line-height:107%; font-size:11.0pt; font-family:"Calibri",sans-serif;} p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast {margin-top:0in; margin-right:0in; margin-bottom:8.0pt; margin-left:.5in; line-height:107%; font-size:11.0pt; font-family:"Calibri",sans-serif;} .MsoChpDefault {font-family:"Calibri",sans-serif;} .MsoPapDefault {margin-bottom:8.0pt; line-height:107%;} @page WordSection1 {size:8.5in 11.0in; margin:1.0in 1.0in 1.0in 1.0in;} div.WordSection1 {page:WordSection1;} /\* List Definitions \*/ ol {margin-bottom:0in;} ul {margin-bottom:0in;} -->
+
+**Applied Learning Programme (ALP)**
+
+**Background**
+
+The school’s Applied Learning Programme (ALP) is one component of our flagship programme known as the Education for Life (EfL) Programme, aimed at developing Portable Skills through and for Real World Problem Solving. &nbsp;Being one of the school’s distinctive programmes, ALP aims to develop all Theresians into future-ready citizens who demonstrate 21st century competencies.
+
+**Education for Life (EfL): Developing Portable Skills through and for Real World Problem Solving**
+
+EfL was first started in 1992 with the objective of taking learning beyond the classroom to strengthen the theory-application nexus. In tandem with changes in the educational landscape, EFL has evolved to ensure that all Theresians develop into future-ready citizens who demonstrate 21st&nbsp;century competencies. An integrated approach to learning is adopted to develop 21st century skills and Social &amp; Emotional (SE) competencies undergirded by macro concepts at each level. Specific curriculum subjects have been identified for multi-disciplinary learning.
+
+**The EfL Framework**
+
+![](/images/Applied%20Learning%20Prog/image001.jpg)
+
+**Applied Learning Programme (ALP) Outcomes**
+
+§&nbsp; To develop **21st century ready Theresians** who are self-directed, confident, resilient, committed to lifelong learning and **equipped with portable skills through&amp; for real world problem solving**.
+
+§&nbsp; To connect **academic knowledge** and **skills across subject disciplines in real world contexts.**
+
+§&nbsp; To help Theresians appreciate the **relevance** and **value** of what they are learning in the academic curriculum and develop **stronger motivation** **and purpose** to acquire knowledge and skills.
+
+**Overview of ALP Activities**
+
+<table cellpadding="0" cellspacing="0" border="1" style="border: currentColor; border-image: none; width: 472.2pt; border-collapse: collapse;" class="MsoTableGrid" width="630"><tbody><tr style="height: 12.55pt;"><td style="padding: 0in 5.4pt; border: 1pt solid windowtext; border-image: none; width: 71.75pt; height: 12.55pt;" valign="top" width="96"><p style="text-align: center; line-height: normal;" class="MsoNormal" align="center"><b><span style="font-family: &quot;Lato&quot;,sans-serif; font-size: 10pt;">Level</span></b></p></td><td style="border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: windowtext windowtext windowtext currentColor; padding: 0in 5.4pt; border-image: none; width: 1.5in; height: 12.55pt;" valign="top" width="144"><p style="text-align: center; line-height: normal;" class="MsoNormal" align="center"><b><span style="font-family: &quot;Lato&quot;,sans-serif; font-size: 10pt;">Theme</span></b></p></td><td style="border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: windowtext windowtext windowtext currentColor; padding: 0in 5.4pt; border-image: none; width: 174.4pt; height: 12.55pt;" valign="top" width="233"><p style="text-align: center; line-height: normal;" class="MsoNormal" align="center"><b><span style="font-family: &quot;Lato&quot;,sans-serif; font-size: 10pt;">Activity</span></b></p></td><td style="border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: windowtext windowtext windowtext currentColor; padding: 0in 5.4pt; border-image: none; width: 118.05pt; height: 12.55pt;" valign="top" width="157"><p style="text-align: center; line-height: normal;" class="MsoNormal" align="center"><b><span style="font-family: &quot;Lato&quot;,sans-serif; font-size: 10pt;">21st Century Competencies</span></b></p></td></tr><tr style="height: 12.55pt;"><td style="border-width: medium 1pt 1pt; border-style: none solid solid; border-color: currentColor windowtext windowtext; padding: 0in 5.4pt; border-image: none; width: 71.75pt; height: 12.55pt;" valign="top" width="96"><p style="text-align: justify; line-height: normal; margin-bottom: 0in; -ms-text-justify: inter-ideograph;" class="MsoNormal"><span style="font-family: &quot;Lato&quot;,sans-serif; font-size: 10pt;">Secondary 1</span></p></td><td style="border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentColor windowtext windowtext currentColor; padding: 0in 5.4pt; width: 1.5in; height: 12.55pt;" valign="top" width="144"><p style="text-align: justify; line-height: normal; margin-bottom: 0in; -ms-text-justify: inter-ideograph;" class="MsoNormal"><span style="font-family: &quot;Lato&quot;,sans-serif; font-size: 10pt;">Sustainability</span></p><p style="text-align: justify; line-height: normal; margin-bottom: 0in; -ms-text-justify: inter-ideograph;" class="MsoNormal"><span style="font-family: &quot;Lato&quot;,sans-serif; font-size: 10pt;">Heritage of Singapore</span></p></td><td style="border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentColor windowtext windowtext currentColor; padding: 0in 5.4pt; width: 174.4pt; height: 12.55pt;" valign="top" width="233"><p style="margin: 0in 0in 0in 12.5pt; line-height: normal; text-indent: -12.5pt;" class="MsoNormal"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10pt;">●<span style="font: 7pt/normal &quot;Times New Roman&quot;; font-size-adjust: none; font-stretch: normal;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-family: &quot;Lato&quot;,sans-serif; font-size: 10pt;">Water Testing at MacRitchie Reservoir to understand the importance of water in Singapore.</span></p><p style="margin: 0in 0in 0in 12.5pt; line-height: normal; text-indent: -12.5pt;" class="MsoNormal"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10pt;">●<span style="font: 7pt/normal &quot;Times New Roman&quot;; font-size-adjust: none; font-stretch: normal;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-family: &quot;Lato&quot;,sans-serif; font-size: 10pt;">Learning Journey to Science Centre Singapore to understand human’s impact on the environment.</span></p><p style="margin: 0in 0in 0in 12.5pt; line-height: normal; text-indent: -12.5pt;" class="MsoNormal"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10pt;">●<span style="font: 7pt/normal &quot;Times New Roman&quot;; font-size-adjust: none; font-stretch: normal;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-family: &quot;Lato&quot;,sans-serif; font-size: 10pt;">Poetry and the study of historical sources to understand past contributions of the Chinese community.</span></p><p style="text-align: justify; line-height: normal; margin-bottom: 0in; -ms-text-justify: inter-ideograph;" class="MsoNormal"><span style="font-family: &quot;Lato&quot;,sans-serif; font-size: 10pt;">&nbsp;</span></p></td><td style="border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentColor windowtext windowtext currentColor; padding: 0in 5.4pt; width: 118.05pt; height: 12.55pt;" valign="top" width="157"><p style="margin: 0in 0in 0in 13.5pt; text-align: justify; line-height: normal; text-indent: -13.5pt; -ms-text-justify: inter-ideograph;" class="MsoListParagraphCxSpFirst"><span style="font-family: Symbol; font-size: 10pt;">·<span style="font: 7pt/normal &quot;Times New Roman&quot;; font-size-adjust: none; font-stretch: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-family: &quot;Lato&quot;,sans-serif; font-size: 10pt;">Civic Literacy</span></p><p style="margin: 0in 0in 0in 13.5pt; text-align: justify; line-height: normal; text-indent: -13.5pt; -ms-text-justify: inter-ideograph;" class="MsoListParagraphCxSpMiddle"><span style="font-family: Symbol; font-size: 10pt;">·<span style="font: 7pt/normal &quot;Times New Roman&quot;; font-size-adjust: none; font-stretch: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-family: &quot;Lato&quot;,sans-serif; font-size: 10pt;">Critical and Inventive Thinking</span></p><p style="margin: 0in 0in 0in 13.5pt; text-align: justify; line-height: normal; text-indent: -13.5pt; -ms-text-justify: inter-ideograph;" class="MsoListParagraphCxSpMiddle"><span style="font-family: Symbol; font-size: 10pt;">·<span style="font: 7pt/normal &quot;Times New Roman&quot;; font-size-adjust: none; font-stretch: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-family: &quot;Lato&quot;,sans-serif; font-size: 10pt;">Collaboration Skills</span></p><p style="margin: 0in 0in 0in 13.5pt; text-align: justify; line-height: normal; text-indent: -13.5pt; -ms-text-justify: inter-ideograph;" class="MsoListParagraphCxSpMiddle"><span style="font-family: Symbol; font-size: 10pt;">·<span style="font: 7pt/normal &quot;Times New Roman&quot;; font-size-adjust: none; font-stretch: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-family: &quot;Lato&quot;,sans-serif; font-size: 10pt;">Information Skills</span></p><p style="margin: 0in 0in 0in 13.5pt; text-align: justify; line-height: normal; -ms-text-justify: inter-ideograph;" class="MsoListParagraphCxSpLast"><span style="font-family: &quot;Lato&quot;,sans-serif; font-size: 10pt;">&nbsp;</span></p></td></tr><tr style="height: 12.55pt;"><td style="border-width: medium 1pt 1pt; border-style: none solid solid; border-color: currentColor windowtext windowtext; padding: 0in 5.4pt; border-image: none; width: 71.75pt; height: 12.55pt;" valign="top" width="96"><p style="text-align: justify; line-height: normal; margin-bottom: 0in; -ms-text-justify: inter-ideograph;" class="MsoNormal"><span style="font-family: &quot;Lato&quot;,sans-serif; font-size: 10pt;">Secondary 2</span></p></td><td style="border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentColor windowtext windowtext currentColor; padding: 0in 5.4pt; width: 1.5in; height: 12.55pt;" valign="top" width="144"><p style="text-align: justify; line-height: normal; margin-bottom: 0in; -ms-text-justify: inter-ideograph;" class="MsoNormal"><span style="font-family: &quot;Lato&quot;,sans-serif; font-size: 10pt;">Sustainability</span></p></td><td style="border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentColor windowtext windowtext currentColor; padding: 0in 5.4pt; width: 174.4pt; height: 12.55pt;" valign="top" width="233"><p style="margin: 0in 0in 0in 12.5pt; line-height: normal; text-indent: -13.5pt;" class="MsoNormal"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10pt;">●<span style="font: 7pt/normal &quot;Times New Roman&quot;; font-size-adjust: none; font-stretch: normal;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-family: &quot;Lato&quot;,sans-serif; font-size: 10pt;">Learning Journey to Sustainable Singapore Gallery to understand Singapore’s sustainability efforts.</span></p><p style="margin: 0in 0in 0in 12.5pt; line-height: normal; text-indent: -13.5pt;" class="MsoNormal"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10pt;">●<span style="font: 7pt/normal &quot;Times New Roman&quot;; font-size-adjust: none; font-stretch: normal;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-family: &quot;Lato&quot;,sans-serif; font-size: 10pt;">Coding workshop to develop prototypes to address sustainability issues.</span></p><p style="text-align: justify; line-height: normal; margin-bottom: 0in; -ms-text-justify: inter-ideograph;" class="MsoNormal"><span style="font-family: &quot;Lato&quot;,sans-serif; font-size: 10pt;">&nbsp;</span></p></td><td style="border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentColor windowtext windowtext currentColor; padding: 0in 5.4pt; width: 118.05pt; height: 12.55pt;" valign="top" width="157"><p style="margin: 0in 0in 0in 13.5pt; text-align: justify; line-height: normal; text-indent: -13.5pt; -ms-text-justify: inter-ideograph;" class="MsoListParagraphCxSpFirst"><span style="font-family: Symbol; font-size: 10pt;">·<span style="font: 7pt/normal &quot;Times New Roman&quot;; font-size-adjust: none; font-stretch: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-family: &quot;Lato&quot;,sans-serif; font-size: 10pt;">Critical and Inventive Thinking</span></p><p style="margin: 0in 0in 0in 13.5pt; text-align: justify; line-height: normal; text-indent: -13.5pt; -ms-text-justify: inter-ideograph;" class="MsoListParagraphCxSpMiddle"><span style="font-family: Symbol; font-size: 10pt;">·<span style="font: 7pt/normal &quot;Times New Roman&quot;; font-size-adjust: none; font-stretch: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-family: &quot;Lato&quot;,sans-serif; font-size: 10pt;">Collaboration Skills</span></p><p style="margin: 0in 0in 0in 13.5pt; text-align: justify; line-height: normal; text-indent: -13.5pt; -ms-text-justify: inter-ideograph;" class="MsoListParagraphCxSpMiddle"><span style="font-family: Symbol; font-size: 10pt;">·<span style="font: 7pt/normal &quot;Times New Roman&quot;; font-size-adjust: none; font-stretch: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-family: &quot;Lato&quot;,sans-serif; font-size: 10pt;">Information Skills</span></p><p style="margin: 0in 0in 0in 13.5pt; text-align: justify; line-height: normal; text-indent: -13.5pt; -ms-text-justify: inter-ideograph;" class="MsoListParagraphCxSpLast"><span style="font-family: Symbol; font-size: 10pt;">·<span style="font: 7pt/normal &quot;Times New Roman&quot;; font-size-adjust: none; font-stretch: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-family: &quot;Lato&quot;,sans-serif; font-size: 10pt;">Communication Skills</span></p><p style="text-align: justify; line-height: normal; margin-bottom: 0in; -ms-text-justify: inter-ideograph;" class="MsoNormal"><span style="font-family: &quot;Lato&quot;,sans-serif; font-size: 10pt;">&nbsp;</span></p></td></tr><tr style="height: 12.55pt;"><td style="border-width: medium 1pt 1pt; border-style: none solid solid; border-color: currentColor windowtext windowtext; padding: 0in 5.4pt; border-image: none; width: 71.75pt; height: 12.55pt;" valign="top" width="96"><p style="text-align: justify; line-height: normal; margin-bottom: 0in; -ms-text-justify: inter-ideograph;" class="MsoNormal"><span style="font-family: &quot;Lato&quot;,sans-serif; font-size: 10pt;">Secondary 3</span></p></td><td style="border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentColor windowtext windowtext currentColor; padding: 0in 5.4pt; width: 1.5in; height: 12.55pt;" valign="top" width="144"><p style="text-align: justify; line-height: normal; margin-bottom: 0in; -ms-text-justify: inter-ideograph;" class="MsoNormal"><span style="font-family: &quot;Lato&quot;,sans-serif; font-size: 10pt;">Inclusivity in Society</span></p></td><td style="border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentColor windowtext windowtext currentColor; padding: 0in 5.4pt; width: 174.4pt; height: 12.55pt;" valign="top" width="233"><p style="margin: 0in 0in 0in 12.5pt; line-height: normal; text-indent: -12.5pt;" class="MsoNormal"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10pt;">●<span style="font: 7pt/normal &quot;Times New Roman&quot;; font-size-adjust: none; font-stretch: normal;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-family: &quot;Lato&quot;,sans-serif; font-size: 10pt;">An investigative study at Khatib Central on how inclusive a Singapore neighbourhood is.</span></p><p style="text-align: justify; line-height: normal; margin-bottom: 0in; -ms-text-justify: inter-ideograph;" class="MsoNormal"><b><span style="font-family: &quot;Lato&quot;,sans-serif; font-size: 10pt;">&nbsp;</span></b></p></td><td style="border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentColor windowtext windowtext currentColor; padding: 0in 5.4pt; width: 118.05pt; height: 12.55pt;" valign="top" width="157"><p style="margin: 0in 0in 0in 13.5pt; text-align: justify; line-height: normal; text-indent: -13.5pt; -ms-text-justify: inter-ideograph;" class="MsoListParagraphCxSpFirst"><span style="font-family: Symbol; font-size: 10pt;">·<span style="font: 7pt/normal &quot;Times New Roman&quot;; font-size-adjust: none; font-stretch: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-family: &quot;Lato&quot;,sans-serif; font-size: 10pt;">Critical and Inventive Thinking</span></p><p style="margin: 0in 0in 0in 13.5pt; text-align: justify; line-height: normal; text-indent: -13.5pt; -ms-text-justify: inter-ideograph;" class="MsoListParagraphCxSpMiddle"><span style="font-family: Symbol; font-size: 10pt;">·<span style="font: 7pt/normal &quot;Times New Roman&quot;; font-size-adjust: none; font-stretch: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-family: &quot;Lato&quot;,sans-serif; font-size: 10pt;">Collaboration Skills</span></p><p style="margin: 0in 0in 0in 13.5pt; text-align: justify; line-height: normal; text-indent: -13.5pt; -ms-text-justify: inter-ideograph;" class="MsoListParagraphCxSpMiddle"><span style="font-family: Symbol; font-size: 10pt;">·<span style="font: 7pt/normal &quot;Times New Roman&quot;; font-size-adjust: none; font-stretch: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-family: &quot;Lato&quot;,sans-serif; font-size: 10pt;">Information Skills</span></p><p style="margin: 0in 0in 0in 13.5pt; text-align: justify; line-height: normal; text-indent: -13.5pt; -ms-text-justify: inter-ideograph;" class="MsoListParagraphCxSpLast"><span style="font-family: Symbol; font-size: 10pt;">·<span style="font: 7pt/normal &quot;Times New Roman&quot;; font-size-adjust: none; font-stretch: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-family: &quot;Lato&quot;,sans-serif; font-size: 10pt;">Communication Skills</span></p><p style="text-align: justify; line-height: normal; margin-bottom: 0in; -ms-text-justify: inter-ideograph;" class="MsoNormal"><span style="font-family: &quot;Lato&quot;,sans-serif; font-size: 10pt;">&nbsp;</span></p></td></tr></tbody></table>
+
+**ALP Activities**
+
+**Geographical Investigations (Sec 1)**
+
+![](/images/Applied%20Learning%20Prog/image002.jpg)
+
+**Singapore Science Centre (Sec 1)**
+
+![](/images/Applied%20Learning%20Prog/image003.jpg)
+
+Singapore Chinese Cultural Centre (Sec 1)
+
+![](/images/Applied%20Learning%20Prog/image004.jpg)
+
+Singapore Sustainable Gallery (Sec 2)
+
+![](/images/Applied%20Learning%20Prog/image005.jpg)
+
+**Understanding Inclusivity in Society @ Khatib Central (Sec 3)**
+
+![](/images/Applied%20Learning%20Prog/image006.jpg)
