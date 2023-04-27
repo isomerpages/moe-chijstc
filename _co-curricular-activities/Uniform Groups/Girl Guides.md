@@ -4,7 +4,7 @@ permalink: /theresian-family/students/co-curricular-activities-cca/uniform-group
 description: ""
 third_nav_title: Uniform Groups
 ---
-<img src="/images/gg.jpg">
+<img src="/images/gg1234.jpg">
 <h4><strong>Introduction</strong></h4>
 <p>Girl Guides - Be Prepared&nbsp;</p>
 <p>Girl Guides is one of the first few CCAs that have existed since the founding of CHIJ St. Theresa’s Convent. Girl Guiding is a worldwide movement that aims to develop girls in different domains of personal and social development, outdoors, home, community and international. Plenty of opportunities are provided for its members to acquire life skills beyond the classroom.&nbsp;</p>
