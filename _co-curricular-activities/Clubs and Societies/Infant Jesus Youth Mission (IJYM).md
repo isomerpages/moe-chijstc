@@ -4,7 +4,7 @@ permalink: /theresian-family/students/co-curricular-activities-cca/clubs-and-soc
 description: ""
 third_nav_title: Clubs and Societies
 ---
-<img src="/images/ij1.jpg">
+<img src="/images/ij1234.jpg">
 <h4><strong>Introduction</strong></h4>
 <p><strong>IJYM - Serving the disadvantaged</strong></p>
 <p>The Infant Jesus Youth Mission (IJYM) is a mission CCA which enables its members to give back to the society and be a person for others. Being in IJYM allows students to be in the shoes of others, experiencing what others go through in life, especially the less fortunate in the community. We strive to be the light to others, and to serve with our hearts.</p>
