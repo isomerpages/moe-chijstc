@@ -4,7 +4,7 @@ permalink: /theresian-family/students/co-curricular-activities-cca/sports-n-game
 description: ""
 third_nav_title: Sports & Games
 ---
-<img src="/images/ten1.jpg">
+<img src="/images/ten123.jpg">
 <h4><strong>Introduction</strong></h4>
 <p><strong>Tennis - Sometimes You Win, Sometimes You Learn, Work Hard, Train Harder! - FINAL</strong></p>
 <p>Skill development, tactical focus, physical and mental training are a few of the areas which CHIJ St. Theresa’s Convent Tennis CCA focuses on during the trainings. Students participate in various Tennis-related activities to gain more exposure. Through Tennis, the CCA aims to develop a passion for the sport, sense of resilience, confidence and fighting spirit in its members.</p>
