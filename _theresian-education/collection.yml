@@ -2,7 +2,6 @@ collections:
   theresian-education:
     output: true
     order:
-      - Example1.md
       - Applied Learning Programme (ALP).md
       - Learning for Life Programme (LLP).md
       - Character and Citizenship Education (CCE).md
