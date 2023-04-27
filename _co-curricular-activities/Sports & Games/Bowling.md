@@ -4,7 +4,7 @@ permalink: /theresian-family/students/co-curricular-activities-cca/sports-n-game
 description: ""
 third_nav_title: Sports & Games
 ---
-<img src="/images/bowl1.jpeg">
+<img src="/images/bowl11.jpg">
 <h4><strong>Introduction</strong></h4>
 <p><strong>Tenpin Bowling: Leave No Pin Standing</strong></p>
 <p>The CHIJ St. Theresa’s Convent Tenpin Bowling team trains by the motto of “Steadfast, Tenacious, Committed” through a programme carefully designed to develop its members’ potential and love for the sport. We seek to nurture each member to exercise discipline and pursue continual self-improvement, by supporting each and every member in a warm and vibrant team culture.</p>
