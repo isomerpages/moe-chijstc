@@ -4,7 +4,7 @@ permalink: /theresian-family/students/co-curricular-activities-cca/sports-n-game
 description: ""
 third_nav_title: Sports & Games
 ---
-<img src="/images/tf1.jpg">
+<img src="/images/tf1234.jpg">
 <h4><strong>Introduction</strong></h4>
 <p><strong>Track and Field - Always fighters, never quitters!</strong></p>
 <p>STC Track &amp; Field may have had a place in the school history as one of the oldest CCA’s in our school. With the characters shaped and the attitudes carried forward, our athletes fight with strong passion and great determination. Driven by our motto "Always Fighters, Never Quitters!” we greatly believe in giving our utmost effort in all we do.</p>
