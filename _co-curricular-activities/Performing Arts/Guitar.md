@@ -4,7 +4,7 @@ permalink: /theresian-family/students/co-curricular-activities-cca/performing-ar
 description: ""
 third_nav_title: Performing Arts
 ---
-<img src="/images/gui1.jpg">
+<img src="/images/gui123.jpg">
 <h4><strong>Introduction</strong></h4>
 <p><strong>Guitar - Strum with commitment, play with graciousness, reach out with music</strong></p>
 <p>The Guitar Ensemble is a CCA which provides opportunities to enable members to learn guitar skills, to challenge their potential and develop leadership skills. We are actively involved in school events and also take part in the yearly Guitar Festival Exchange Programme where students are given the opportunity to learn from other ensembles.</p>
