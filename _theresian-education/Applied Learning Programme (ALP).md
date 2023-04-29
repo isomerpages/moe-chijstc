@@ -51,4 +51,4 @@ Singapore Sustainable Gallery (Sec 2)
 
 **Understanding Inclusivity in Society @ Khatib Central (Sec 3)**
 
-![]<img height="50" width="100" src="/images/Applied%20Learning%20Prog/image006.jpg">
+<img height="50" width="50" src="/images/Applied%20Learning%20Prog/image006.jpg">
