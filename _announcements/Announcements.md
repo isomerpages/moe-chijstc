@@ -21,7 +21,6 @@ description: ""
 <hr>
 <p><strong>2023 Sec 2 and 3 Parent Info Night</strong><br>Please click&nbsp;<a href="/files/Open%20Houses%202023_amended%20003.pdf">here</a>&nbsp;for more information</p>
 <hr>
-<p><strong>Application Form for 2023 Sec 2 Trainee Student Leaders</strong><br>Please click link&nbsp;<a href="https://drive.google.com/file/d/1SjE9k-OIhTvpVnaJqZ_EUijZdfacfaB2/view?usp=sharing">here</a>.</p>
 <hr>
 <p><strong>Polytechnic Open Houses 2023</strong><br>Please click&nbsp;<a href="/others/announcement/from-the-principals-desk">here</a>.</p>
 <hr>
