@@ -3,11 +3,6 @@ title: Direct School Admission (DSA)
 permalink: /direct-school-admission-dsa/
 description: ""
 ---
-
-
-
-
-
 <style>
 <!--
  /* Font Definitions */
@@ -570,7 +565,3 @@ font-family:&quot;Lato&quot;,sans-serif;color:black">Key Dates for DSA</span></u
 <p class="MsoNormal">&nbsp;</p>
 
 </div>
-
-
-
-
