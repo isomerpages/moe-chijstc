@@ -64,8 +64,8 @@ description: ""
 <p>(the portfolio can comprise school projects, assignments, class presentations, participation and achievements in competitions etc.).</p>
 </td>
 <td width="198">
-<p>DSA (ALP) Coordinator:<br>Mr Bryan Lim</p>
-<p>Email:<br><a href="mailto:lim_choon_huat@moe.edu.sg">lim_choon_huat@moe.edu.sg</a></p>
+<p>DSA (ALP) Coordinator:<br>Ms Melanie Lim</p>
+<p>Email:<br><a href="mailto:melanie_lim@moe.edu.sg">melanie_lim@moe.edu.sg</a></p>
 </td>
 </tr>
 <tr>
