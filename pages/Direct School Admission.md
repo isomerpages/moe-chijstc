@@ -119,7 +119,7 @@ description: ""
 <tbody>
 <tr>
 <td style="text-align: center;" width="137">
-<p>5 May 2022<br>to<br>1 June 2022</p>
+<p>4 May 2023<br>to<br>31 May 2023</p>
 </td>
 <td style="text-align: left;" width="456">
 <p><strong>Application is open</strong> for all Primary Six female students studying in national schools, Returning Singaporeans, Permanent Residents and International Students.</p>
@@ -128,7 +128,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" width="137">
-<p>27 Jun 2022<br>to<br>12 Sep 2022</p>
+<p>26 Jun 2023<br>to<br>11 Sep 2023</p>
 </td>
 <td style="text-align: left;" width="456">
 <p>Shortlisted applicants will be contacted via phone/email, to come down to the school physically on a mutually convenient date/time to carry out a performance task, and undergo face-to-face interviews.</p>
@@ -136,7 +136,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" width="137">
-<p>13 to 15 Sep 2022</p>
+<p>12 to 14 Sep 2023</p>
 </td>
 <td style="text-align: left;" width="456">
 <p><strong>Notice of Selection Outcome for DSA-Sec application</strong></p>
@@ -146,7 +146,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" width="137">
-<p>31 Oct to 4 Nov 2022</p>
+<p>23 Oct to 27 Oct 2023</p>
 </td>
 <td style="text-align: left;" width="456">
 <p><strong>School Preference Submission (SPS)</strong></p>
@@ -154,7 +154,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" width="137">
-<p>Early to mid Nov 2022</p>
+<p>Early to mid Nov 2023</p>
 </td>
 <td style="text-align: left;" width="456">
 <p><strong>DSA Allocation</strong></p>
@@ -162,7 +162,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" width="137">
-<p>Late Nov 2022</p>
+<p>Late Nov 2023</p>
 </td>
 <td style="text-align: left;" width="456">
 <p><strong>Release of DSA school posting results by MOE.</strong></p>
