@@ -130,7 +130,7 @@ resilience of Theresians through an active lifestyle. </span></p>
  <li style="line-height:normal;background:white" class="MsoNormal"><span style="color:black"><a href="https://www.chijsttheresasconvent.moe.edu.sg/others/direct-school-admission-dsa/direct-school-admission-dsa"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">DSA
      Admission Criteria</span></a></span></li>
 -->
- <li class="MsoNormal" style="line-height:normal;background:white"><span style="color:black"><a href="#DSA Process"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">DSA
+ <li class="MsoNormal" style="line-height:normal;background:white"><span style="color:black"><a href="#DSA Process" target="\_blank" rel="noopener"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">DSA
      Selection Criteria &amp; Process</span></a></span><span style="font-size:12.0pt;
      font-family:&quot;Lato&quot;,sans-serif;color:black">&nbsp;</span></li>
  <li class="MsoNormal" style="line-height:normal;background:white"><span style="color:black"><a href="https://www.chijsttheresasconvent.moe.edu.sg/others/direct-school-admission-dsa/direct-school-admission-dsa"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">Programmes,
@@ -208,7 +208,7 @@ website:&nbsp;</span></p>
 <p style="background:white"><span style="color:black"><a href="https://www.moe.gov.sg/admissions/direct-admissions/dsa-sec"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">https://www.moe.gov.sg/admissions/direct-admissions/dsa-sec</span></a></span></p>
 
 <p style="background:white"><strong><u><span style="font-size:12.0pt;
-font-family:&quot;Lato&quot;,sans-serif;color:black">DSA (ALP) Selection Process</span></u></strong></p>
+font-family:&quot;Lato&quot;,sans-serif;color:black"><a id="DSA Process">DSA (ALP) Selection Process in school</a></span></u></strong></p>
 
 <p style="background:white"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
 color:black">All applications are considered by a selection panel comprising
