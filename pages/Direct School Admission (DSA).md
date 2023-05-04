@@ -137,7 +137,7 @@ resilience of Theresians through an active lifestyle. </span></p>
 	 <a href="#Talent Development Opportunities" target="\_blank" rel="noopener"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">Programmes,
      activities and/or opportunities for successful DSA applicants</span></a></span></li>
  
- <li class="MsoNormal" style="line-height:normal;background:white"><span style="color:black"><a href="https://www.chijsttheresasconvent.moe.edu.sg/others/direct-school-admission-dsa/direct-school-admission-dsa"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">Key
+ <li class="MsoNormal" style="line-height:normal;background:white"><span style="color:black"><a href="#KeyDates for DSA" target="\_blank&quot;" rel="noopener"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">Key
      Dates for DSA</span></a></span></li>
 
 
@@ -406,9 +406,9 @@ information on DSA-Sec, please refer to the MOE website at&nbsp;</span></b></em>
 font-family:&quot;Lato&quot;,sans-serif"><span style="text-decoration:none">&nbsp;</span></span></u></strong></p>
 
 <p style="background:white"><strong><u><span style="text-decoration:none">&nbsp;</span></u></strong></p>
-
+<a id="Key Dates for DSA">
 <p style="background:white"><strong><u><span style="font-size:12.0pt;
-font-family:&quot;Lato&quot;,sans-serif;color:black">Key Dates for DSA</span></u></strong></p>
+	font-family:&quot;Lato&quot;,sans-serif;color:black">Key Dates for DSA</span></u></strong></p></a>
 
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="683" style="width:512.45pt;border-collapse:collapse;border:none">
  <tbody><tr style="height:46.65pt">
