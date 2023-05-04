@@ -65,12 +65,12 @@ ul
 
 <div class="WordSection1">
 
-<p style="line-height:normal;background:white" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">DIRECT
+<p class="MsoNormal" style="line-height:normal;background:white"><b><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">DIRECT
 SCHOOL ADMISSION FOR SECONDARY SCHOOLS (DSA – SEC) </span></b></p>
 
 
-<p style="text-align:justify;text-justify:inter-ideograph;
-line-height:normal;background:white" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+<p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
+line-height:normal;background:white"><span style="font-size:12.0pt;font-family:
 &quot;Lato&quot;,sans-serif;color:black">
 CHIJ St. Theresa’s Convent has two programmes which are recognised by the
 Ministry of Education as the school’s Distinctive Programmes. In line with
@@ -79,28 +79,28 @@ to bring out the best in themselves through our Distinctive Programmes to join
 the school through the 2023 Direct School Admission – Secondary (DSA-SEC)
 Exercise.</span></p>
 
-<p style="text-align:justify;text-justify:inter-ideograph;
-line-height:normal;background:white" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+<p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
+line-height:normal;background:white"><span style="font-size:12.0pt;font-family:
 &quot;Lato&quot;,sans-serif;color:black">Parents and students are encouraged to choose
 schools wisely based on the student’s aptitudes and strengths, bearing in mind
 the schools’ academic and non-academic requirements, and the programmes
 available to develop the area of talent.</span></p>
 
-<p style="text-align:justify;text-justify:inter-ideograph;
-line-height:normal;background:white" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+<p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
+line-height:normal;background:white"><span style="font-size:12.0pt;font-family:
 &quot;Lato&quot;,sans-serif;color:black">Students who are successfully admitted to the
 school via DSA are expected to honour their commitment to the school, and
 participate in the activities related to the talent they are selected for during
 their secondary school years. </span></p>
 
-<p style="line-height:normal;background:white" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">Distinctive
+<p class="MsoNormal" style="line-height:normal;background:white"><b><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">Distinctive
 Programme 1:<br>
 Applied Learning Programme (ALP):&nbsp;</span></b><i><span style="font-size:
 10.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">Education For Life (EFL):
 Developing Portable Skills through and for Real World Problem Solving</span></i></p>
 
-<p style="text-align:justify;text-justify:inter-ideograph;
-line-height:normal;background:white" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+<p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
+line-height:normal;background:white"><span style="font-size:12.0pt;font-family:
 &quot;Lato&quot;,sans-serif;color:black">EFL is the school’s flagship programme for the
 integration of 21<sup>st</sup>&nbsp;century learning into both the curriculum
 and co-curriculum. The curricular component involves the explicit learning of
@@ -110,14 +110,14 @@ subjects after the students complete the compulsory learning journeys which
 could include day excursions, camps, retreats and service-learning expeditions
 which can be local or overseas, depending on the grade level of the student.</span></p>
 
-<p style="line-height:normal;background:white" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">Distinctive
+<p class="MsoNormal" style="line-height:normal;background:white"><b><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">Distinctive
 Programme 2:<br>
 Learning for Life Programme (LLP): </span></b><i><span style="font-size:12.0pt;
 font-family:&quot;Lato&quot;,sans-serif;color:black">Developing Self-directed, Confident
 and Resilient Leaders, Learners and Ladies through Sports &amp; Hockey</span></i></p>
 
-<p style="text-align:justify;text-justify:inter-ideograph;
-line-height:normal;background:white" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+<p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
+line-height:normal;background:white"><span style="font-size:12.0pt;font-family:
 &quot;Lato&quot;,sans-serif;color:black">CHIJ St. Theresa’s Convent hopes to build on its
 unique strengths and achievements in Hockey to develop Theresians who are
 self-directed, confident and resilient leaders, learners and ladies through
@@ -130,18 +130,18 @@ resilience of Theresians through an active lifestyle. </span></p>
  <li style="line-height:normal;background:white" class="MsoNormal"><span style="color:black"><a href="https://www.chijsttheresasconvent.moe.edu.sg/others/direct-school-admission-dsa/direct-school-admission-dsa"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">DSA
      Admission Criteria</span></a></span></li>
 -->
- <li style="line-height:normal;background:white" class="MsoNormal"><span style="color:black"><a href="#DSA Process"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">DSA
+ <li class="MsoNormal" style="line-height:normal;background:white"><span style="color:black"><a href="#DSA Process"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">DSA
      Selection Criteria &amp; Process</span></a></span><span style="font-size:12.0pt;
      font-family:&quot;Lato&quot;,sans-serif;color:black">&nbsp;</span></li>
- <li style="line-height:normal;background:white" class="MsoNormal"><span style="color:black"><a href="https://www.chijsttheresasconvent.moe.edu.sg/others/direct-school-admission-dsa/direct-school-admission-dsa"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">Programmes,
+ <li class="MsoNormal" style="line-height:normal;background:white"><span style="color:black"><a href="https://www.chijsttheresasconvent.moe.edu.sg/others/direct-school-admission-dsa/direct-school-admission-dsa"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">Programmes,
      activities and/or opportunities for successful DSA applicants</span></a></span></li>
- <li style="line-height:normal;background:white" class="MsoNormal"><span style="color:black"><a href="https://www.chijsttheresasconvent.moe.edu.sg/others/direct-school-admission-dsa/direct-school-admission-dsa"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">DSA
+ <li class="MsoNormal" style="line-height:normal;background:white"><span style="color:black"><a href="https://www.chijsttheresasconvent.moe.edu.sg/others/direct-school-admission-dsa/direct-school-admission-dsa"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">DSA
      Selection Process</span></a></span></li>
- <li style="line-height:normal;background:white" class="MsoNormal"><span style="color:black"><a href="https://www.chijsttheresasconvent.moe.edu.sg/others/direct-school-admission-dsa/direct-school-admission-dsa"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">Key
+ <li class="MsoNormal" style="line-height:normal;background:white"><span style="color:black"><a href="https://www.chijsttheresasconvent.moe.edu.sg/others/direct-school-admission-dsa/direct-school-admission-dsa"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">Key
      Dates for DSA</span></a></span></li>
 
 
-<p style="line-height:normal;background:white" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">Click&nbsp;</span><span style="color:black"><a href="https://www.chijsttheresasconvent.moe.edu.sg/theresian-education/applied-learning-programme-alp"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">here</span></a></span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">&nbsp;to
+<p class="MsoNormal" style="line-height:normal;background:white"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">Click&nbsp;</span><span style="color:black"><a href="https://www.chijsttheresasconvent.moe.edu.sg/theresian-education/applied-learning-programme-alp"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">here</span></a></span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">&nbsp;to
 find out more information about our ALP-Education for Life Programme<br>
 Click&nbsp;</span><span style="color:black"><a href="https://www.chijsttheresasconvent.moe.edu.sg/theresian-education/learning-for-life-programme-llp"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">here</span></a></span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">&nbsp;to
 find out more information about our LLP – Developing Self-directed, Confident
@@ -214,77 +214,77 @@ font-family:&quot;Lato&quot;,sans-serif;color:black">DSA (ALP) Selection Process
 color:black">All applications are considered by a selection panel comprising
 teachers, middle managers and school leaders.</span></p>
 
-<table style="width:520.3pt;border-collapse:collapse;border:none" width="694" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable">
+<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="694" style="width:520.3pt;border-collapse:collapse;border:none">
  <tbody><tr>
-  <td style="width:68.0pt;border:solid windowtext 1.0pt;
-  padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top" width="91">
-  <p style="text-align:center" align="center"><strong><span style="font-size:
+  <td width="91" valign="top" style="width:68.0pt;border:solid windowtext 1.0pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt">
+  <p align="center" style="text-align:center"><strong><span style="font-size:
   9.0pt;font-family:&quot;Lato&quot;,sans-serif">DSA Main Category</span></strong></p>
   </td>
-  <td style="width:73.95pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top" width="99">
-  <p style="text-align:center" align="center"><strong><span style="font-size:
+  <td width="99" valign="top" style="width:73.95pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:6.0pt 9.0pt 6.0pt 9.0pt">
+  <p align="center" style="text-align:center"><strong><span style="font-size:
   9.0pt;font-family:&quot;Lato&quot;,sans-serif">DSA Talent Area(s)</span></strong></p>
   </td>
-  <td style="width:105.3pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top" width="140">
-  <p style="text-align:center" align="center"><strong><span style="font-size:
+  <td width="140" valign="top" style="width:105.3pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:6.0pt 9.0pt 6.0pt 9.0pt">
+  <p align="center" style="text-align:center"><strong><span style="font-size:
   9.0pt;font-family:&quot;Lato&quot;,sans-serif">Selection Criteria</span></strong></p>
   </td>
-  <td style="width:129.25pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top" width="172">
-  <p style="text-align:center" align="center"><strong><span style="font-size:
+  <td width="172" valign="top" style="width:129.25pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:6.0pt 9.0pt 6.0pt 9.0pt">
+  <p align="center" style="text-align:center"><strong><span style="font-size:
   9.0pt;font-family:&quot;Lato&quot;,sans-serif">Selection Process</span></strong></p>
   </td>
-  <td style="width:143.8pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top" width="192">
-  <p style="text-align:center" align="center"><strong><span style="font-size:
+  <td width="192" valign="top" style="width:143.8pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:6.0pt 9.0pt 6.0pt 9.0pt">
+  <p align="center" style="text-align:center"><strong><span style="font-size:
   9.0pt;font-family:&quot;Lato&quot;,sans-serif">DSA Coordinator(s)</span></strong></p>
   </td>
  </tr>
  <tr>
-  <td style="width:68.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top" width="91">
-  <p style="text-align:center" align="center"><span style="font-size:9.0pt;
+  <td width="91" valign="top" style="width:68.0pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:6.0pt 9.0pt 6.0pt 9.0pt">
+  <p align="center" style="text-align:center"><span style="font-size:9.0pt;
   font-family:&quot;Lato&quot;,sans-serif">Language and Humanities</span></p>
   </td>
-  <td style="width:73.95pt;border-top:none;border-left:
+  <td width="99" valign="top" style="width:73.95pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top" width="99">
-  <p style="text-align:center" align="center"><span style="font-size:9.0pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt">
+  <p align="center" style="text-align:center"><span style="font-size:9.0pt;
   font-family:&quot;Lato&quot;,sans-serif">Research and Presentation Skills</span></p>
   </td>
-  <td style="width:105.3pt;border-top:none;border-left:
+  <td width="140" valign="top" style="width:105.3pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top" width="140">
+  padding:6.0pt 9.0pt 6.0pt 9.0pt">
   <p><span style="font-size:9.0pt;font-family:&quot;Lato&quot;,sans-serif">Applicants
   should:</span></p>
   <ul type="disc">
-   <li style="line-height:normal" class="MsoNormal"><span style="font-size:9.0pt;
+   <li class="MsoNormal" style="line-height:normal"><span style="font-size:9.0pt;
        font-family:&quot;Lato&quot;,sans-serif">demonstrate a positive attitude and a
        keen aptitude for research and critical thinking (in the humanities)</span></li>
-   <li style="line-height:normal" class="MsoNormal"><span style="font-size:9.0pt;
+   <li class="MsoNormal" style="line-height:normal"><span style="font-size:9.0pt;
        font-family:&quot;Lato&quot;,sans-serif">display an interest and a willingness to
        actively engage in real-world problem solving</span></li>
-   <li style="line-height:normal" class="MsoNormal"><span style="font-size:9.0pt;
+   <li class="MsoNormal" style="line-height:normal"><span style="font-size:9.0pt;
        font-family:&quot;Lato&quot;,sans-serif">possess clear communication skills when
        discussing and presenting ideas</span></li>
   </ul>
   </td>
-  <td style="width:129.25pt;border-top:none;border-left:
+  <td width="172" valign="top" style="width:129.25pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top" width="172">
+  padding:6.0pt 9.0pt 6.0pt 9.0pt">
   <p><span style="font-size:9.0pt;font-family:&quot;Lato&quot;,sans-serif">Shortlisted
   applicants will</span></p>
-  <p style="margin-left:.5in;text-indent:-.25in;line-height:
-  normal" class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Lato&quot;,sans-serif">1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:9.0pt;font-family:&quot;Lato&quot;,sans-serif">carry out a timed
+  <p class="MsoNormal" style="margin-left:.5in;text-indent:-.25in;line-height:
+  normal"><span style="font-size:9.0pt;font-family:&quot;Lato&quot;,sans-serif">1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:9.0pt;font-family:&quot;Lato&quot;,sans-serif">carry out a timed
   performance task to demonstrate their ability to present research clearly,
   and to think critically and creatively to solve a real-world problem</span></p>
-  <p style="margin-left:.5in;text-indent:-.25in;line-height:
-  normal" class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Lato&quot;,sans-serif">2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:9.0pt;font-family:&quot;Lato&quot;,sans-serif">undergo an interview
+  <p class="MsoNormal" style="margin-left:.5in;text-indent:-.25in;line-height:
+  normal"><span style="font-size:9.0pt;font-family:&quot;Lato&quot;,sans-serif">2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:9.0pt;font-family:&quot;Lato&quot;,sans-serif">undergo an interview
   with a panel to demonstrate their ability to communicate clearly and
   effectively</span></p>
-  <p style="line-height:normal" class="MsoNormal"><i><span style="font-size:9.0pt;
+  <p class="MsoNormal" style="line-height:normal"><i><span style="font-size:9.0pt;
   font-family:&quot;Lato&quot;,sans-serif">Shortlisted applicants are encouraged to
   submit a portfolio that showcase their experiences in research and problem
   solving.</span></i></p>
@@ -292,9 +292,9 @@ teachers, middle managers and school leaders.</span></p>
   portfolio can comprise school projects, assignments, class presentations,
   participation and achievements in competitions etc.</span></i></p>
   </td>
-  <td style="width:143.8pt;border-top:none;border-left:
+  <td width="192" valign="top" style="width:143.8pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top" width="192">
+  padding:6.0pt 9.0pt 6.0pt 9.0pt">
   <p><span style="font-size:9.0pt;font-family:&quot;Lato&quot;,sans-serif">DSA (ALP)
   Coordinator:<br>
   Ms. Melanie Lim </span></p>
@@ -304,51 +304,51 @@ teachers, middle managers and school leaders.</span></p>
   </td>
  </tr>
  <tr>
-  <td style="width:68.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top" rowspan="5" width="91">
-  <p style="text-align:center" align="center"><span style="font-size:9.0pt;
+  <td width="91" rowspan="5" valign="top" style="width:68.0pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:6.0pt 9.0pt 6.0pt 9.0pt">
+  <p align="center" style="text-align:center"><span style="font-size:9.0pt;
   font-family:&quot;Lato&quot;,sans-serif">Sports</span></p>
   </td>
-  <td style="width:73.95pt;border-top:none;border-left:
+  <td width="99" valign="top" style="width:73.95pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top" width="99">
-  <p style="text-align:center" align="center"><span style="font-size:9.0pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt">
+  <p align="center" style="text-align:center"><span style="font-size:9.0pt;
   font-family:&quot;Lato&quot;,sans-serif">Hockey</span></p>
   </td>
-  <td style="width:105.3pt;border-top:none;
+  <td width="140" rowspan="5" valign="top" style="width:105.3pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top" rowspan="5" width="140">
+  padding:6.0pt 9.0pt 6.0pt 9.0pt">
   <p><span style="font-size:9.0pt;font-family:&quot;Lato&quot;,sans-serif">Applicants
   should:</span></p>
   <ul type="disc">
-   <li style="line-height:normal" class="MsoNormal"><span style="font-size:9.0pt;
+   <li class="MsoNormal" style="line-height:normal"><span style="font-size:9.0pt;
        font-family:&quot;Lato&quot;,sans-serif">possess a good foundation, strong skills
        and interest in the sports she is applying for,&nbsp;</span></li>
-   <li style="line-height:normal" class="MsoNormal"><span style="font-size:9.0pt;
+   <li class="MsoNormal" style="line-height:normal"><span style="font-size:9.0pt;
        font-family:&quot;Lato&quot;,sans-serif">are physically inclined and possess
        strong motor skills,&nbsp;</span></li>
-   <li style="line-height:normal" class="MsoNormal"><span style="font-size:9.0pt;
+   <li class="MsoNormal" style="line-height:normal"><span style="font-size:9.0pt;
        font-family:&quot;Lato&quot;,sans-serif">are able to contribute effectively in a
        team, and&nbsp;</span></li>
-   <li style="line-height:normal" class="MsoNormal"><span style="font-size:9.0pt;
+   <li class="MsoNormal" style="line-height:normal"><span style="font-size:9.0pt;
        font-family:&quot;Lato&quot;,sans-serif">display strong leadership abilities.</span></li>
   </ul>
   </td>
-  <td style="width:129.25pt;border-top:none;
+  <td width="172" rowspan="5" valign="top" style="width:129.25pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top" rowspan="5" width="172">
+  padding:6.0pt 9.0pt 6.0pt 9.0pt">
   <p><span style="font-size:9.0pt;font-family:&quot;Lato&quot;,sans-serif">Shortlisted
   applicants will&nbsp;undergo:</span></p>
-  <p style="margin-left:.5in;text-indent:-.25in;line-height:
-  normal" class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Lato&quot;,sans-serif">1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:9.0pt;font-family:&quot;Lato&quot;,sans-serif">a series of tests to
+  <p class="MsoNormal" style="margin-left:.5in;text-indent:-.25in;line-height:
+  normal"><span style="font-size:9.0pt;font-family:&quot;Lato&quot;,sans-serif">1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:9.0pt;font-family:&quot;Lato&quot;,sans-serif">a series of tests to
   show their fitness and sports potential in their sport of choice</span></p>
-  <p style="margin-left:.5in;text-indent:-.25in;line-height:
-  normal" class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Lato&quot;,sans-serif">2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:9.0pt;font-family:&quot;Lato&quot;,sans-serif">an interview to learn
+  <p class="MsoNormal" style="margin-left:.5in;text-indent:-.25in;line-height:
+  normal"><span style="font-size:9.0pt;font-family:&quot;Lato&quot;,sans-serif">2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:9.0pt;font-family:&quot;Lato&quot;,sans-serif">an interview to learn
   more about the applicant’s background, interest and motivation</span></p>
   </td>
-  <td style="width:143.8pt;border-top:none;
+  <td width="192" rowspan="5" valign="top" style="width:143.8pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top" rowspan="5" width="192">
+  padding:6.0pt 9.0pt 6.0pt 9.0pt">
   <p><span style="font-size:9.0pt;font-family:&quot;Lato&quot;,sans-serif">DSA (LLP)
   Coordinator:<br>
   Mr Darren Ng / Mr Toh Boon Hui</span></p>
@@ -361,34 +361,34 @@ teachers, middle managers and school leaders.</span></p>
   </td>
  </tr>
  <tr>
-  <td style="width:73.95pt;border-top:none;border-left:
+  <td width="99" valign="top" style="width:73.95pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top" width="99">
-  <p style="text-align:center" align="center"><span style="font-size:9.0pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt">
+  <p align="center" style="text-align:center"><span style="font-size:9.0pt;
   font-family:&quot;Lato&quot;,sans-serif">Floorball</span></p>
   </td>
  </tr>
  <tr>
-  <td style="width:73.95pt;border-top:none;border-left:
+  <td width="99" valign="top" style="width:73.95pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top" width="99">
-  <p style="text-align:center" align="center"><span style="font-size:9.0pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt">
+  <p align="center" style="text-align:center"><span style="font-size:9.0pt;
   font-family:&quot;Lato&quot;,sans-serif">Netball</span></p>
   </td>
  </tr>
  <tr>
-  <td style="width:73.95pt;border-top:none;border-left:
+  <td width="99" valign="top" style="width:73.95pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top" width="99">
-  <p style="text-align:center" align="center"><span style="font-size:9.0pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt">
+  <p align="center" style="text-align:center"><span style="font-size:9.0pt;
   font-family:&quot;Lato&quot;,sans-serif">Softball</span></p>
   </td>
  </tr>
  <tr>
-  <td style="width:73.95pt;border-top:none;border-left:
+  <td width="99" valign="top" style="width:73.95pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top" width="99">
-  <p style="text-align:center" align="center"><span style="font-size:9.0pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt">
+  <p align="center" style="text-align:center"><span style="font-size:9.0pt;
   font-family:&quot;Lato&quot;,sans-serif">Track &amp; Field (Throws, Sprints,
   Long-distance Track, and Cross-Country)</span></p>
   </td>
@@ -410,17 +410,17 @@ font-family:&quot;Lato&quot;,sans-serif"><span style="text-decoration:none">&nbs
 <p style="background:white"><strong><u><span style="font-size:12.0pt;
 font-family:&quot;Lato&quot;,sans-serif;color:black">Key Dates for DSA</span></u></strong></p>
 
-<table style="width:512.45pt;border-collapse:collapse;border:none" width="683" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable">
+<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="683" style="width:512.45pt;border-collapse:collapse;border:none">
  <tbody><tr style="height:46.65pt">
-  <td style="width:61.05pt;border:solid windowtext 1.0pt;
-  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:46.65pt" valign="top" width="81">
-  <p style="text-align:center" align="center"><span style="font-size:9.0pt;
+  <td width="81" valign="top" style="width:61.05pt;border:solid windowtext 1.0pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:46.65pt">
+  <p align="center" style="text-align:center"><span style="font-size:9.0pt;
   font-family:&quot;Lato&quot;,sans-serif">4 May 2023<br>
   to<br>
   31 May 2023</span></p>
   </td>
-  <td style="width:451.4pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:6.0pt 9.0pt 6.0pt 9.0pt;height:46.65pt" valign="top" width="602">
+  <td width="602" valign="top" style="width:451.4pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:6.0pt 9.0pt 6.0pt 9.0pt;height:46.65pt">
   <p><strong><span style="font-size:9.0pt;font-family:&quot;Lato&quot;,sans-serif">Application
   is open</span></strong><span style="font-size:9.0pt;font-family:&quot;Lato&quot;,sans-serif">&nbsp;for
   all Primary Six female students studying in national schools, Returning
@@ -431,16 +431,16 @@ font-family:&quot;Lato&quot;,sans-serif;color:black">Key Dates for DSA</span></u
   </td>
  </tr>
  <tr style="height:32.6pt">
-  <td style="width:61.05pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:6.0pt 9.0pt 6.0pt 9.0pt;height:32.6pt" valign="top" width="81">
-  <p style="text-align:center" align="center"><span style="font-size:9.0pt;
+  <td width="81" valign="top" style="width:61.05pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:6.0pt 9.0pt 6.0pt 9.0pt;height:32.6pt">
+  <p align="center" style="text-align:center"><span style="font-size:9.0pt;
   font-family:&quot;Lato&quot;,sans-serif">26 Jun 2023<br>
   to<br>
   11 Sep 2023</span></p>
   </td>
-  <td style="width:451.4pt;border-top:none;border-left:
+  <td width="602" valign="top" style="width:451.4pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:32.6pt" valign="top" width="602">
+  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:32.6pt">
   <p><span style="font-size:9.0pt;font-family:&quot;Lato&quot;,sans-serif">Shortlisted
   applicants will be contacted via phone/email, to come down to the school
   physically on a mutually convenient date/time to carry out a performance
@@ -448,14 +448,14 @@ font-family:&quot;Lato&quot;,sans-serif;color:black">Key Dates for DSA</span></u
   </td>
  </tr>
  <tr style="height:60.2pt">
-  <td style="width:61.05pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:6.0pt 9.0pt 6.0pt 9.0pt;height:60.2pt" valign="top" width="81">
-  <p style="text-align:center" align="center"><span style="font-size:9.0pt;
+  <td width="81" valign="top" style="width:61.05pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:6.0pt 9.0pt 6.0pt 9.0pt;height:60.2pt">
+  <p align="center" style="text-align:center"><span style="font-size:9.0pt;
   font-family:&quot;Lato&quot;,sans-serif">12 to 14 Sep 2023</span></p>
   </td>
-  <td style="width:451.4pt;border-top:none;border-left:
+  <td width="602" valign="top" style="width:451.4pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:60.2pt" valign="top" width="602">
+  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:60.2pt">
   <p><strong><span style="font-size:9.0pt;font-family:&quot;Lato&quot;,sans-serif">Notice
   of Selection Outcome for DSA-Sec application</span></strong></p>
   <p><span style="font-size:9.0pt;font-family:&quot;Lato&quot;,sans-serif">Letters will
@@ -466,40 +466,40 @@ font-family:&quot;Lato&quot;,sans-serif;color:black">Key Dates for DSA</span></u
   </td>
  </tr>
  <tr style="height:21.55pt">
-  <td style="width:61.05pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:6.0pt 9.0pt 6.0pt 9.0pt;height:21.55pt" valign="top" width="81">
-  <p style="text-align:center" align="center"><span style="font-size:9.0pt;
+  <td width="81" valign="top" style="width:61.05pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:6.0pt 9.0pt 6.0pt 9.0pt;height:21.55pt">
+  <p align="center" style="text-align:center"><span style="font-size:9.0pt;
   font-family:&quot;Lato&quot;,sans-serif">23 Oct to 27 Oct 2023</span></p>
   </td>
-  <td style="width:451.4pt;border-top:none;border-left:
+  <td width="602" valign="top" style="width:451.4pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:21.55pt" valign="top" width="602">
+  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:21.55pt">
   <p><strong><span style="font-size:9.0pt;font-family:&quot;Lato&quot;,sans-serif">School
   Preference Submission (SPS)</span></strong></p>
   </td>
  </tr>
  <tr style="height:21.55pt">
-  <td style="width:61.05pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:6.0pt 9.0pt 6.0pt 9.0pt;height:21.55pt" valign="top" width="81">
-  <p style="text-align:center" align="center"><span style="font-size:9.0pt;
+  <td width="81" valign="top" style="width:61.05pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:6.0pt 9.0pt 6.0pt 9.0pt;height:21.55pt">
+  <p align="center" style="text-align:center"><span style="font-size:9.0pt;
   font-family:&quot;Lato&quot;,sans-serif">Early to mid Nov 2023</span></p>
   </td>
-  <td style="width:451.4pt;border-top:none;border-left:
+  <td width="602" valign="top" style="width:451.4pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:21.55pt" valign="top" width="602">
+  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:21.55pt">
   <p><strong><span style="font-size:9.0pt;font-family:&quot;Lato&quot;,sans-serif">DSA
   Allocation</span></strong></p>
   </td>
  </tr>
  <tr style="height:22.05pt">
-  <td style="width:61.05pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:6.0pt 9.0pt 6.0pt 9.0pt;height:22.05pt" valign="top" width="81">
-  <p style="text-align:center" align="center"><span style="font-size:9.0pt;
+  <td width="81" valign="top" style="width:61.05pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:6.0pt 9.0pt 6.0pt 9.0pt;height:22.05pt">
+  <p align="center" style="text-align:center"><span style="font-size:9.0pt;
   font-family:&quot;Lato&quot;,sans-serif">Late Nov 2023</span></p>
   </td>
-  <td style="width:451.4pt;border-top:none;border-left:
+  <td width="602" valign="top" style="width:451.4pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:22.05pt" valign="top" width="602">
+  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:22.05pt">
   <p><strong><span style="font-size:9.0pt;font-family:&quot;Lato&quot;,sans-serif">Release
   of DSA school posting results by MOE.</span></strong></p>
   </td>
@@ -509,29 +509,29 @@ font-family:&quot;Lato&quot;,sans-serif;color:black">Key Dates for DSA</span></u
 <p style="background:white"><strong><u><span style="font-size:9.0pt;font-family:
 &quot;Lato&quot;,sans-serif;color:black">Talent Development Area</span></u></strong></p>
 
-<table style="width:467.95pt;border-collapse:collapse;border:none" width="624" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable">
+<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="624" style="width:467.95pt;border-collapse:collapse;border:none">
  <tbody><tr style="height:10.3pt">
-  <td style="width:97.75pt;border:solid windowtext 1.0pt;
-  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:10.3pt" valign="top" width="130">
-  <p style="text-align:center" align="center"><strong><span style="font-size:
+  <td width="130" valign="top" style="width:97.75pt;border:solid windowtext 1.0pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:10.3pt">
+  <p align="center" style="text-align:center"><strong><span style="font-size:
   9.0pt;font-family:&quot;Lato&quot;,sans-serif">Talent Area</span></strong></p>
   </td>
-  <td style="width:370.2pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:6.0pt 9.0pt 6.0pt 9.0pt;height:10.3pt" valign="top" width="494">
-  <p style="text-align:center" align="center"><strong><span style="font-size:
+  <td width="494" valign="top" style="width:370.2pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:6.0pt 9.0pt 6.0pt 9.0pt;height:10.3pt">
+  <p align="center" style="text-align:center"><strong><span style="font-size:
   9.0pt;font-family:&quot;Lato&quot;,sans-serif">Programmes, activities and/or
   opportunities that students can expect to participate in for each talent area</span></strong></p>
   </td>
  </tr>
  <tr style="height:32.0pt">
-  <td style="width:97.75pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:6.0pt 9.0pt 6.0pt 9.0pt;height:32.0pt" valign="top" width="130">
+  <td width="130" valign="top" style="width:97.75pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:6.0pt 9.0pt 6.0pt 9.0pt;height:32.0pt">
   <p><span style="font-size:9.0pt;font-family:&quot;Lato&quot;,sans-serif">Research and Presentation
   Skills</span></p>
   </td>
-  <td style="width:370.2pt;border-top:none;border-left:
+  <td width="494" valign="top" style="width:370.2pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:32.0pt" valign="top" width="494">
+  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:32.0pt">
   <p><span style="font-size:9.0pt;font-family:&quot;Lato&quot;,sans-serif">Successful
   DSA(ALP) applicants will be provided with leadership opportunities. They will
   be appointed as ALP Champions, and assist the school’s ALP committee in the
@@ -540,15 +540,15 @@ font-family:&quot;Lato&quot;,sans-serif;color:black">Key Dates for DSA</span></u
   </td>
  </tr>
  <tr style="height:53.15pt">
-  <td style="width:97.75pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:6.0pt 9.0pt 6.0pt 9.0pt;height:53.15pt" valign="top" width="130">
+  <td width="130" valign="top" style="width:97.75pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:6.0pt 9.0pt 6.0pt 9.0pt;height:53.15pt">
   <p><span style="font-size:9.0pt;font-family:&quot;Lato&quot;,sans-serif">Hockey,
   Netball, Softball,&nbsp;Floorball, Track &amp; Field (Throws, Sprints,
   Long-distance Track, and Cross-Country)</span></p>
   </td>
-  <td style="width:370.2pt;border-top:none;border-left:
+  <td width="494" valign="top" style="width:370.2pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:53.15pt" valign="top" width="494">
+  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:53.15pt">
   <p><span style="font-size:9.0pt;font-family:&quot;Lato&quot;,sans-serif">Successful
   DSA(LLP) applicants will have opportunities to participate in the National
   Schools Games, friendly competitions and overseas training trips. They will
@@ -557,7 +557,7 @@ font-family:&quot;Lato&quot;,sans-serif;color:black">Key Dates for DSA</span></u
  </tr>
 </tbody></table>
 
-<p style="line-height:normal;background:white" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif">&nbsp;</span></p>
+<p class="MsoNormal" style="line-height:normal;background:white"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif">&nbsp;</span></p>
 
 <p class="MsoNormal">&nbsp;</p>
 
