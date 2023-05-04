@@ -134,10 +134,10 @@ resilience of Theresians through an active lifestyle. </span></p>
      Selection Criteria &amp; Process</span></a></span><span style="font-size:12.0pt;
      font-family:&quot;Lato&quot;,sans-serif;color:black">&nbsp;</span></li>
  <li class="MsoNormal" style="line-height:normal;background:white"><span style="color:black">
-	 <a href="#Talent Development Opportunities" target="\_blank" rel="noopener"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">Programmes,
+	 <a href="#Talent Development Opportunities"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">Programmes,
      activities and/or opportunities for successful DSA applicants</span></a></span></li>
  
- <li class="MsoNormal" style="line-height:normal;background:white"><span style="color:black"><a href="#Key Dates for DSA" target="\_blank" rel="noopener"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">Key
+ <li class="MsoNormal" style="line-height:normal;background:white"><span style="color:black"><a href="#Key Dates for DSA"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">Key
      Dates for DSA</span></a></span></li>
 
 
