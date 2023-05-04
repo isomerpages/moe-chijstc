@@ -191,7 +191,9 @@ description: ""
 </tr>
 <tr>
 <td width="150">
-<p>Hockey, Netball, Softball,&nbsp;Floorball</p>
+<p>Hockey, Netball, 
+	Softball,Floorball,
+	Track &amp; Field (Throws, Sprints, Long-distance track and X-country)</p>
 </td>
 <td width="453">
 <p>Successful DSA(LLP) applicants will have opportunities to participate in the National Schools Games, friendly competitions and overseas training trips. They will also have various opportunities to develop their leadership potential.</p>
