@@ -71,13 +71,12 @@ SCHOOL ADMISSION FOR SECONDARY SCHOOLS (DSA – SEC) </span></b></p>
 
 <p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
 line-height:normal;background:white"><span style="font-size:12.0pt;font-family:
-&quot;Lato&quot;,sans-serif;color:black">Every school is distinctive with unique
-strengths to cater to its profile of students.<br>
+&quot;Lato&quot;,sans-serif;color:black">
 CHIJ St. Theresa’s Convent has two programmes which are recognised by the
 Ministry of Education as the school’s Distinctive Programmes. In line with
 this, CHIJ St. Theresa’s Convent invites current Primary Six students who seek
 to bring out the best in themselves through our Distinctive Programmes to join
-the school through the 2023Direct School Admission – Secondary (DSA-SEC)
+the school through the 2023 Direct School Admission – Secondary (DSA-SEC)
 Exercise.</span></p>
 
 <p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
