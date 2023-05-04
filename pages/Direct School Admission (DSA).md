@@ -71,13 +71,12 @@ SCHOOL ADMISSION FOR SECONDARY SCHOOLS (DSA – SEC) </span></b></p>
 
 <p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
 line-height:normal;background:white"><span style="font-size:12.0pt;font-family:
-&quot;Lato&quot;,sans-serif;color:black">Every school is distinctive with unique
-strengths to cater to its profile of students.<br>
+&quot;Lato&quot;,sans-serif;color:black">
 CHIJ St. Theresa’s Convent has two programmes which are recognised by the
 Ministry of Education as the school’s Distinctive Programmes. In line with
 this, CHIJ St. Theresa’s Convent invites current Primary Six students who seek
 to bring out the best in themselves through our Distinctive Programmes to join
-the school through the 2023Direct School Admission – Secondary (DSA-SEC)
+the school through the 2023 Direct School Admission – Secondary (DSA-SEC)
 Exercise.</span></p>
 
 <p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
@@ -126,22 +125,24 @@ sports, not just limited to Hockey alone. Through the Hockey Programme and the
 Physical and Sports Education Programme, we hope to foster a school culture
 that embraces sports, a culture that seeks to strengthen the character and
 resilience of Theresians through an active lifestyle. </span></p>
-
+<!--
 <ul type="disc">
- <li class="MsoNormal" style="line-height:normal;background:white"><span style="color:black"><a href="https://www.chijsttheresasconvent.moe.edu.sg/others/direct-school-admission-dsa/direct-school-admission-dsa"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">DSA
+ <li style="line-height:normal;background:white" class="MsoNormal"><span style="color:black"><a href="https://www.chijsttheresasconvent.moe.edu.sg/others/direct-school-admission-dsa/direct-school-admission-dsa"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">DSA
      Admission Criteria</span></a></span></li>
- <li class="MsoNormal" style="line-height:normal;background:white"><span style="color:black"><a href="https://www.chijsttheresasconvent.moe.edu.sg/others/direct-school-admission-dsa/direct-school-admission-dsa"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">DSA
-     Application Process</span></a></span><span style="font-size:12.0pt;
+-->
+ <li class="MsoNormal" style="line-height:normal;background:white"><span style="color:black"><a href="#DSA Process"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">DSA
+     Selection Criteria &amp; Process</span></a></span><span style="font-size:12.0pt;
      font-family:&quot;Lato&quot;,sans-serif;color:black">&nbsp;</span></li>
- <li class="MsoNormal" style="line-height:normal;background:white"><span style="color:black"><a href="https://www.chijsttheresasconvent.moe.edu.sg/others/direct-school-admission-dsa/direct-school-admission-dsa"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">Programmes,
+ <li class="MsoNormal" style="line-height:normal;background:white"><span style="color:black">
+	 <a href="#Talent Development Opportunities"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">Programmes,
      activities and/or opportunities for successful DSA applicants</span></a></span></li>
- <li class="MsoNormal" style="line-height:normal;background:white"><span style="color:black"><a href="https://www.chijsttheresasconvent.moe.edu.sg/others/direct-school-admission-dsa/direct-school-admission-dsa"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">DSA
-     Selection Process</span></a></span></li>
- <li class="MsoNormal" style="line-height:normal;background:white"><span style="color:black"><a href="https://www.chijsttheresasconvent.moe.edu.sg/others/direct-school-admission-dsa/direct-school-admission-dsa"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">Key
+ 
+ <li class="MsoNormal" style="line-height:normal;background:white"><span style="color:black"><a href="#Key Dates for DSA"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">Key
      Dates for DSA</span></a></span></li>
-</ul>
 
-<p class="MsoNormal" style="line-height:normal;background:white"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">Click&nbsp;</span><span style="color:black"><a href="https://www.chijsttheresasconvent.moe.edu.sg/theresian-education/applied-learning-programme-alp"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">here</span></a></span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">&nbsp;to
+
+<p class="MsoNormal" style="line-height:normal;background:white"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">Click&nbsp;</span><span style="color:black"><a href="https://www.chijsttheresasconvent.moe.edu.sg/theresian-education/applied-learning-programme-alp"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">here</span></a></span>
+<span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">&nbsp;to
 find out more information about our ALP-Education for Life Programme<br>
 Click&nbsp;</span><span style="color:black"><a href="https://www.chijsttheresasconvent.moe.edu.sg/theresian-education/learning-for-life-programme-llp"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">here</span></a></span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">&nbsp;to
 find out more information about our LLP – Developing Self-directed, Confident
@@ -208,7 +209,7 @@ website:&nbsp;</span></p>
 <p style="background:white"><span style="color:black"><a href="https://www.moe.gov.sg/admissions/direct-admissions/dsa-sec"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">https://www.moe.gov.sg/admissions/direct-admissions/dsa-sec</span></a></span></p>
 
 <p style="background:white"><strong><u><span style="font-size:12.0pt;
-font-family:&quot;Lato&quot;,sans-serif;color:black">DSA (ALP) Selection Process</span></u></strong></p>
+font-family:&quot;Lato&quot;,sans-serif;color:black"><a id="DSA Process">DSA (ALP) Selection Process in school</a></span></u></strong></p>
 
 <p style="background:white"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
 color:black">All applications are considered by a selection panel comprising
@@ -406,9 +407,9 @@ information on DSA-Sec, please refer to the MOE website at&nbsp;</span></b></em>
 font-family:&quot;Lato&quot;,sans-serif"><span style="text-decoration:none">&nbsp;</span></span></u></strong></p>
 
 <p style="background:white"><strong><u><span style="text-decoration:none">&nbsp;</span></u></strong></p>
-
+<a id="Key Dates for DSA">
 <p style="background:white"><strong><u><span style="font-size:12.0pt;
-font-family:&quot;Lato&quot;,sans-serif;color:black">Key Dates for DSA</span></u></strong></p>
+	font-family:&quot;Lato&quot;,sans-serif;color:black">Key Dates for DSA</span></u></strong></p></a>
 
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="683" style="width:512.45pt;border-collapse:collapse;border:none">
  <tbody><tr style="height:46.65pt">
@@ -505,9 +506,9 @@ font-family:&quot;Lato&quot;,sans-serif;color:black">Key Dates for DSA</span></u
   </td>
  </tr>
 </tbody></table>
-
-<p style="background:white"><strong><u><span style="font-size:9.0pt;font-family:
-&quot;Lato&quot;,sans-serif;color:black">Talent Development Area</span></u></strong></p>
+<a id="Talent Development Opportunities">
+<p style="background:white"><strong><u><span style="font-size:12.0pt;font-family:
+&quot;Lato&quot;,sans-serif;color:black">Talent Development Opportunities</span></u></strong></p></a>
 
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="624" style="width:467.95pt;border-collapse:collapse;border:none">
  <tbody><tr style="height:10.3pt">
