@@ -123,7 +123,7 @@ description: ""
 </td>
 <td style="text-align: left;" width="456">
 <p><strong>Application is open</strong> for all Primary Six female students studying in national schools, Returning Singaporeans, Permanent Residents and International Students.</p>
-<p>Applications should be made via a common online portal from the&nbsp;2022&nbsp;DSA-Sec Exercise by MOE.</p>
+<p>Applications should be made via a common online portal from the&nbsp;2023&nbsp;DSA-Sec Exercise by MOE.</p>
 </td>
 </tr>
 <tr>
@@ -191,7 +191,9 @@ description: ""
 </tr>
 <tr>
 <td width="150">
-<p>Hockey, Netball, Softball,&nbsp;Floorball</p>
+<p>Hockey, Netball, 
+	Softball, Floorball,
+	Track &amp; Field (Throws, Sprints, Long-distance Track and X-country)</p>
 </td>
 <td width="453">
 <p>Successful DSA(LLP) applicants will have opportunities to participate in the National Schools Games, friendly competitions and overseas training trips. They will also have various opportunities to develop their leadership potential.</p>
