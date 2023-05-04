@@ -68,9 +68,6 @@ ul
 <p class="MsoNormal" style="line-height:normal;background:white"><b><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">DIRECT
 SCHOOL ADMISSION FOR SECONDARY SCHOOLS (DSA – SEC) </span></b></p>
 
-<p class="MsoNormal" style="line-height:normal;background:white"><i><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">The
-selection criteria and process for the talent areas will be updated from
-early-May. For more information on DSA-Sec, please refer to MOE website at https://www.moe.gov.sg/secondary/dsa</span></i></p>
 
 <p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
 line-height:normal;background:white"><span style="font-size:12.0pt;font-family:
