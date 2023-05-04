@@ -137,11 +137,12 @@ resilience of Theresians through an active lifestyle. </span></p>
 	 <a href="#Talent Development Opportunities" target="\_blank" rel="noopener"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">Programmes,
      activities and/or opportunities for successful DSA applicants</span></a></span></li>
  
- <li class="MsoNormal" style="line-height:normal;background:white"><span style="color:black"><a href="#KeyDates for DSA" target="\_blank&quot;" rel="noopener"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">Key
+ <li class="MsoNormal" style="line-height:normal;background:white"><span style="color:black"><a href="#Key Dates for DSA" target="\_blank&quot;" rel="noopener"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">Key
      Dates for DSA</span></a></span></li>
 
 
-<p class="MsoNormal" style="line-height:normal;background:white"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">Click&nbsp;</span><span style="color:black"><a href="https://www.chijsttheresasconvent.moe.edu.sg/theresian-education/applied-learning-programme-alp"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">here</span></a></span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">&nbsp;to
+<p class="MsoNormal" style="line-height:normal;background:white"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">Click&nbsp;</span><span style="color:black"><a href="https://www.chijsttheresasconvent.moe.edu.sg/theresian-education/applied-learning-programme-alp"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">here</span></a></span>
+<span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">&nbsp;to
 find out more information about our ALP-Education for Life Programme<br>
 Click&nbsp;</span><span style="color:black"><a href="https://www.chijsttheresasconvent.moe.edu.sg/theresian-education/learning-for-life-programme-llp"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">here</span></a></span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">&nbsp;to
 find out more information about our LLP – Developing Self-directed, Confident
