@@ -133,10 +133,10 @@ resilience of Theresians through an active lifestyle. </span></p>
  <li class="MsoNormal" style="line-height:normal;background:white"><span style="color:black"><a href="#DSA Process" target="\_blank" rel="noopener"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">DSA
      Selection Criteria &amp; Process</span></a></span><span style="font-size:12.0pt;
      font-family:&quot;Lato&quot;,sans-serif;color:black">&nbsp;</span></li>
- <li class="MsoNormal" style="line-height:normal;background:white"><span style="color:black"><a href="https://www.chijsttheresasconvent.moe.edu.sg/others/direct-school-admission-dsa/direct-school-admission-dsa"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">Programmes,
+ <li class="MsoNormal" style="line-height:normal;background:white"><span style="color:black">
+	 <a href="#Talent Development Opportunities" target="\_blank" rel="noopener"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">Programmes,
      activities and/or opportunities for successful DSA applicants</span></a></span></li>
- <li class="MsoNormal" style="line-height:normal;background:white"><span style="color:black"><a href="https://www.chijsttheresasconvent.moe.edu.sg/others/direct-school-admission-dsa/direct-school-admission-dsa"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">DSA
-     Selection Process</span></a></span></li>
+ 
  <li class="MsoNormal" style="line-height:normal;background:white"><span style="color:black"><a href="https://www.chijsttheresasconvent.moe.edu.sg/others/direct-school-admission-dsa/direct-school-admission-dsa"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">Key
      Dates for DSA</span></a></span></li>
 
@@ -505,9 +505,9 @@ font-family:&quot;Lato&quot;,sans-serif;color:black">Key Dates for DSA</span></u
   </td>
  </tr>
 </tbody></table>
-
-<p style="background:white"><strong><u><span style="font-size:9.0pt;font-family:
-&quot;Lato&quot;,sans-serif;color:black">Talent Development Area</span></u></strong></p>
+<a id="Talent Development Opportunities">
+<p style="background:white"><strong><u><span style="font-size:12.0pt;font-family:
+&quot;Lato&quot;,sans-serif;color:black">Talent Development Opportunities</span></u></strong></p></a>
 
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="624" style="width:467.95pt;border-collapse:collapse;border:none">
  <tbody><tr style="height:10.3pt">
