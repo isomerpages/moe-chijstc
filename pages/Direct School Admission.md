@@ -3,7 +3,6 @@ title: Direct School Admission
 permalink: /others/direct-school-admission-dsa/direct-school-admission-dsa/
 description: ""
 ---
-
 <p><strong><u>Distinctive Programme 1:</u></strong></p>
 <p>Applied Learning Programme (ALP): Education For Life (EFL): Developing Portable Skills through and for Real World Problem Solving</p>
 <p><strong>DSA Main Category:</strong>&nbsp;Language and Humanities</p>
@@ -13,8 +12,8 @@ description: ""
 <p><strong>DSA Main Category:</strong>&nbsp;Sports and Games</p>
 <p><strong>DSA Talent Areas:</strong>&nbsp;Hockey, Netball, Softball, Floorball.</p>
 <p><strong><u>Centralised DSA-Sec Application Process</u></strong></p>
-<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from&nbsp;<strong><u>5 May 2022 to 1 Jun 2022</u></strong>.</p>
-<p>For more details, please refer to the MOE website &ndash;&nbsp;<a href="http://www.moe.gov.sg/dsa-sec">www.moe.gov.sg/dsa-sec</a>.</p>
+<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from&nbsp;<strong><u>4 May 2023 to 31 May 2023</u></strong>.</p>
+<p>For more details, please refer to the MOE website –&nbsp;<a href="http://www.moe.gov.sg/dsa-sec">www.moe.gov.sg/dsa-sec</a>.</p>
 <p><strong><u>Note:</u></strong></p>
 <p><strong>We regret that we will not be able to consider&nbsp;</strong><strong>applications that are not done through the centralised portal or if they are submitted after the deadline.</strong></p>
 <p>More information regarding the DSA can be found on the MOE website:&nbsp;</p>
@@ -65,8 +64,8 @@ description: ""
 <p>(the portfolio can comprise school projects, assignments, class presentations, participation and achievements in competitions etc.).</p>
 </td>
 <td width="198">
-<p>DSA (ALP) Coordinator:<br />Mr Bryan Lim</p>
-<p>Email:<br /><a href="mailto:lim_choon_huat@moe.edu.sg">lim_choon_huat@moe.edu.sg</a></p>
+<p>DSA (ALP) Coordinator:<br>Ms Melanie Lim</p>
+<p>Email:<br><a href="mailto:melanie_lim@moe.edu.sg">melanie_lim@moe.edu.sg</a></p>
 </td>
 </tr>
 <tr>
@@ -89,12 +88,12 @@ description: ""
 <p>Shortlisted applicants will&nbsp;undergo:</p>
 <ol>
 <li>a series of tests to show their fitness and sports potential in their sport of choice</li>
-<li>an interview to learn more about the applicant&rsquo;s background, interest and motivation</li>
+<li>an interview to learn more about the applicant’s background, interest and motivation</li>
 </ol>
 </td>
 <td rowspan="4" width="198">
-<p>DSA (LLP) Coordinator:<br />Mr Darren Ng / Mr Toh Boon Hui</p>
-<p>Email:<br /><a href="mailto:ng_yong_sheng@moe.edu.sg">ng_yong_sheng@moe.edu.sg</a><br /><br /><a href="mailto:toh_boon_hui@moe.edu.sg">toh_boon_hui@moe.edu.sg</a></p>
+<p>DSA (LLP) Coordinator:<br>Mr Darren Ng / Mr Toh Boon Hui</p>
+<p>Email:<br><a href="mailto:ng_yong_sheng@moe.edu.sg">ng_yong_sheng@moe.edu.sg</a><br><br><a href="mailto:toh_boon_hui@moe.edu.sg">toh_boon_hui@moe.edu.sg</a></p>
 </td>
 </tr>
 <tr>
@@ -114,13 +113,13 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p><em>* Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.<br /></em><strong><em>The selection criteria and process for the talent areas will be updated by early-June. For more information on DSA-Sec, please refer to the MOE website at&nbsp;</em></strong><a href="https://www.moe.gov.sg/dsa-sec"><strong><em>https://www.moe.gov.sg/dsa-sec</em></strong></a></p>
+<p><em>* Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.<br></em><strong><em>The selection criteria and process for the talent areas will be updated by early-June. For more information on DSA-Sec, please refer to the MOE website at&nbsp;</em></strong><a href="https://www.moe.gov.sg/dsa-sec"><strong><em>https://www.moe.gov.sg/dsa-sec</em></strong></a></p>
 <p><strong><u>Key Dates for DSA</u></strong></p>
 <table width="0">
 <tbody>
 <tr>
 <td style="text-align: center;" width="137">
-<p>5 May 2022<br />to<br />1 June 2022</p>
+<p>4 May 2023<br>to<br>31 May 2023</p>
 </td>
 <td style="text-align: left;" width="456">
 <p><strong>Application is open</strong> for all Primary Six female students studying in national schools, Returning Singaporeans, Permanent Residents and International Students.</p>
@@ -129,7 +128,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" width="137">
-<p>27 Jun 2022<br />to<br />12 Sep 2022</p>
+<p>26 Jun 2023<br>to<br>11 Sep 2023</p>
 </td>
 <td style="text-align: left;" width="456">
 <p>Shortlisted applicants will be contacted via phone/email, to come down to the school physically on a mutually convenient date/time to carry out a performance task, and undergo face-to-face interviews.</p>
@@ -137,7 +136,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" width="137">
-<p>13 to 15 Sep 2022</p>
+<p>12 to 14 Sep 2023</p>
 </td>
 <td style="text-align: left;" width="456">
 <p><strong>Notice of Selection Outcome for DSA-Sec application</strong></p>
@@ -147,7 +146,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" width="137">
-<p>31 Oct to 4 Nov 2022</p>
+<p>23 Oct to 27 Oct 2023</p>
 </td>
 <td style="text-align: left;" width="456">
 <p><strong>School Preference Submission (SPS)</strong></p>
@@ -155,7 +154,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" width="137">
-<p>Early to mid Nov 2022</p>
+<p>Early to mid Nov 2023</p>
 </td>
 <td style="text-align: left;" width="456">
 <p><strong>DSA Allocation</strong></p>
@@ -163,7 +162,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" width="137">
-<p>Late Nov 2022</p>
+<p>Late Nov 2023</p>
 </td>
 <td style="text-align: left;" width="456">
 <p><strong>Release of DSA school posting results by MOE.</strong></p>
@@ -187,7 +186,7 @@ description: ""
 <p>Research and Presentation Skills</p>
 </td>
 <td width="453">
-<p>Successful DSA(ALP) applicants will be provided with leadership opportunities. They will be appointed as ALP Champions, and assist the school&rsquo;s ALP committee in the implementation of the ALP curriculum and programme, and serve as ambassadors for the school&rsquo;s ALP programme during Open House.</p>
+<p>Successful DSA(ALP) applicants will be provided with leadership opportunities. They will be appointed as ALP Champions, and assist the school’s ALP committee in the implementation of the ALP curriculum and programme, and serve as ambassadors for the school’s ALP programme during Open House.</p>
 </td>
 </tr>
 <tr>
