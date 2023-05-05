@@ -146,10 +146,10 @@ resilience of Theresians through an active lifestyle. </span></p>
 find out more information about our ALP-Education for Life Programme<br>
 Click&nbsp;</span><span style="color:black"><a href="https://www.chijsttheresasconvent.moe.edu.sg/theresian-education/learning-for-life-programme-llp"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">here</span></a></span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">&nbsp;to
 find out more information about our LLP – Developing Self-directed, Confident
-&amp; Resilient Leaders, Learners and Ladies through Sports</span></p>
-
+&amp; Resilient Leaders, Learners and Ladies through Sports &amp; Hockey</span></p>
+<!--
 <p style="background:white"><strong><u><span style="font-size:12.0pt;
-font-family:&quot;Lato&quot;,sans-serif"><span style="text-decoration:none">&nbsp;</span></span></u></strong></p>
+font-family:&quot;Lato&quot;,sans-serif"><span style="text-decoration:none">&nbsp;</span></span></u></strong></p>-->
 
 <p style="background:white"><strong><u><span style="font-size:12.0pt;
 font-family:&quot;Lato&quot;,sans-serif;color:black">Distinctive Programme 1:</span></u></strong></p>
