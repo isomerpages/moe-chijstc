@@ -96,7 +96,7 @@ their secondary school years. </span></p>
 <p class="MsoNormal" style="line-height:normal;background:white"><b><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">Distinctive
 Programme 1:<br>
 Applied Learning Programme (ALP):&nbsp;</span></b><i><span style="font-size:
-10.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">Education For Life (EFL):
+12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">Education For Life (EFL):
 Developing Portable Skills through and for Real World Problem Solving</span></i></p>
 
 <p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
@@ -146,74 +146,68 @@ resilience of Theresians through an active lifestyle. </span></p>
 find out more information about our ALP-Education for Life Programme<br>
 Click&nbsp;</span><span style="color:black"><a href="https://www.chijsttheresasconvent.moe.edu.sg/theresian-education/learning-for-life-programme-llp"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">here</span></a></span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">&nbsp;to
 find out more information about our LLP – Developing Self-directed, Confident
-&amp; Resilient Leaders, Learners and Ladies through Sports</span></p>
+&amp; Resilient Leaders, Learners and Ladies through Sports &amp; Hockey</span></p>
+<!--
+<p style="background:white"><strong><u><span style="font-size:12.0pt;
+font-family:&quot;Lato&quot;,sans-serif"><span style="text-decoration:none">&nbsp;</span></span></u></strong></p>-->
 
 <p style="background:white"><strong><u><span style="font-size:12.0pt;
-font-family:&quot;Lato&quot;,sans-serif"><span style="text-decoration:none">&nbsp;</span></span></u></strong></p>
-
-<p style="background:white"><strong><u><span style="font-size:12.0pt;
-font-family:&quot;Lato&quot;,sans-serif;color:black">Distinctive Programme 1:</span></u></strong></p>
-
-<p style="background:white"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+font-family:&quot;Lato&quot;,sans-serif;color:black">Distinctive Programme 1:</span></u></strong>
+	<br>
+	<span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
 color:black">Applied Learning Programme (ALP): Education For Life (EFL):
-Developing Portable Skills through and for Real World Problem Solving</span></p>
-
-<p style="background:white"><strong><span style="font-size:12.0pt;font-family:
+Developing Portable Skills through and for Real World Problem Solving</span>
+<br><strong><span style="font-size:12.0pt;font-family:
 &quot;Lato&quot;,sans-serif;color:black">DSA Main Category:</span></strong><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">&nbsp;Language
-and Humanities</span></p>
-
-<p style="background:white"><strong><span style="font-size:12.0pt;font-family:
+and Humanities</span>
+	<br><strong><span style="font-size:12.0pt;font-family:
 &quot;Lato&quot;,sans-serif;color:black">DSA Talent Area:</span></strong><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">&nbsp;Research
 and Presentation Skills</span></p>
 
 <p style="background:white"><strong><u><span style="font-size:12.0pt;
-font-family:&quot;Lato&quot;,sans-serif;color:black">Distinctive Programme 2:</span></u></strong></p>
-
-<p style="background:white"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+font-family:&quot;Lato&quot;,sans-serif;color:black">Distinctive Programme 2:</span></u></strong>
+	<br><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
 color:black">Learning for Life Programme (LLP): Developing Self-directed,
 Confident and Resilient Leaders, Learners and Ladies through Sports &amp;
-Hockey</span></p>
-
-<p style="background:white"><strong><span style="font-size:12.0pt;font-family:
+Hockey</span>
+	<br>
+	<strong><span style="font-size:12.0pt;font-family:
 &quot;Lato&quot;,sans-serif;color:black">DSA Main Category:</span></strong><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">&nbsp;Sports
-and Games</span></p>
-
-<p style="background:white"><strong><span style="font-size:12.0pt;font-family:
+and Games</span>
+	<br><strong><span style="font-size:12.0pt;font-family:
 &quot;Lato&quot;,sans-serif;color:black">DSA Talent Areas:</span></strong><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">&nbsp;Hockey,
 Netball, Softball, Floorball, Track &amp; Field (Throws, Sprints, Long-distance
 Track, and Cross-Country)</span></p>
 
+
 <p style="background:white"><strong><u><span style="font-size:12.0pt;
 font-family:&quot;Lato&quot;,sans-serif;color:black">Centralised DSA-Sec Application
-Process</span></u></strong></p>
-
-<p style="background:white"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+Process</span></u></strong>
+	<br><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
 color:black">Application for DSA-Sec can be submitted through the online
 DSA-Sec Portal. The application is free-of-charge and will be open from&nbsp;<strong><u><span style="font-family:&quot;Lato&quot;,sans-serif">4 May 2023 to 31 May 2023</span></u></strong>.</span></p>
+
 
 <p style="background:white"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
 color:black">For more details, please refer to the MOE website –&nbsp;</span><span style="color:black"><a href="http://www.moe.gov.sg/dsa-sec"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">www.moe.gov.sg/dsa-sec</span></a></span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">.</span></p>
 
 <p style="background:white"><strong><u><span style="font-size:12.0pt;
-font-family:&quot;Lato&quot;,sans-serif;color:black">Note:</span></u></strong></p>
-
-<p style="background:white"><strong><span style="font-size:12.0pt;font-family:
+font-family:&quot;Lato&quot;,sans-serif;color:black">Note:</span></u></strong>
+	<br><strong><span style="font-size:12.0pt;font-family:
 &quot;Lato&quot;,sans-serif;color:black">We regret that we will not be able to
 consider&nbsp;applications that are not done through the centralised portal or
-if they are submitted after the deadline.</span></strong></p>
-
-<p style="background:white"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+if they are submitted after the deadline.</span></strong>
+	<br><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
 color:black">More information regarding the DSA can be found on the MOE
-website:&nbsp;</span></p>
-
-<p style="background:white"><span style="color:black"><a href="https://www.moe.gov.sg/admissions/direct-admissions/dsa-sec"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">https://www.moe.gov.sg/admissions/direct-admissions/dsa-sec</span></a></span></p>
+website:&nbsp;</span>
+	<br><span style="color:black"><a href="https://www.moe.gov.sg/admissions/direct-admissions/dsa-sec"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">https://www.moe.gov.sg/admissions/direct-admissions/dsa-sec</span></a></span></p>
 
 <p style="background:white"><strong><u><span style="font-size:12.0pt;
-font-family:&quot;Lato&quot;,sans-serif;color:black"><a id="DSA Process">DSA (ALP) Selection Process in school</a></span></u></strong></p>
-
-<p style="background:white"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+font-family:&quot;Lato&quot;,sans-serif;color:black"><a id="DSA Process">DSA (ALP) Selection Process in school</a></span></u></strong>
+	<br><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
 color:black">All applications are considered by a selection panel comprising
 teachers, middle managers and school leaders.</span></p>
+
 
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="694" style="width:520.3pt;border-collapse:collapse;border:none">
  <tbody><tr>
@@ -401,12 +395,11 @@ color:black">* Please note that meeting all the criteria does not guarantee the
 student will be shortlisted/given an offer.</span></em><i><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black"><br>
 <em><b><span style="font-family:&quot;Lato&quot;,sans-serif">The selection criteria and
 process for the talent areas will be updated by early-June. For more
-information on DSA-Sec, please refer to the MOE website at&nbsp;</span></b></em></span></i><span style="color:black"><a href="https://www.moe.gov.sg/dsa-sec"><em><b><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">https://www.moe.gov.sg/dsa-sec</span></b></em></a></span></p>
+information on DSA-Sec, please refer to the MOE website at&nbsp;</span></b></em></span></i><span style="color:black"><a href="https://www.moe.gov.sg/dsa-sec"><em><b><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">https://www.moe.gov.sg/dsa-sec</span></b></em></a></span><br></p>
 
-<p style="background:white"><strong><u><span style="font-size:12.0pt;
-font-family:&quot;Lato&quot;,sans-serif"><span style="text-decoration:none">&nbsp;</span></span></u></strong></p>
 
-<p style="background:white"><strong><u><span style="text-decoration:none">&nbsp;</span></u></strong></p>
+
+
 <a id="Key Dates for DSA">
 <p style="background:white"><strong><u><span style="font-size:12.0pt;
 	font-family:&quot;Lato&quot;,sans-serif;color:black">Key Dates for DSA</span></u></strong></p></a>
