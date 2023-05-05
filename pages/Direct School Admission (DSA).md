@@ -96,7 +96,7 @@ their secondary school years. </span></p>
 <p class="MsoNormal" style="line-height:normal;background:white"><b><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">Distinctive
 Programme 1:<br>
 Applied Learning Programme (ALP):&nbsp;</span></b><i><span style="font-size:
-10.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">Education For Life (EFL):
+12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">Education For Life (EFL):
 Developing Portable Skills through and for Real World Problem Solving</span></i></p>
 
 <p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
@@ -152,9 +152,9 @@ find out more information about our LLP – Developing Self-directed, Confident
 font-family:&quot;Lato&quot;,sans-serif"><span style="text-decoration:none">&nbsp;</span></span></u></strong></p>-->
 
 <p style="background:white"><strong><u><span style="font-size:12.0pt;
-font-family:&quot;Lato&quot;,sans-serif;color:black">Distinctive Programme 1:</span></u></strong></p>
-
-<p style="background:white"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+font-family:&quot;Lato&quot;,sans-serif;color:black">Distinctive Programme 1:</span></u></strong>
+	<br>
+	<span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
 color:black">Applied Learning Programme (ALP): Education For Life (EFL):
 Developing Portable Skills through and for Real World Problem Solving</span>
 <br><strong><span style="font-size:12.0pt;font-family:
@@ -169,11 +169,9 @@ font-family:&quot;Lato&quot;,sans-serif;color:black">Distinctive Programme 2:</s
 	<br><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
 color:black">Learning for Life Programme (LLP): Developing Self-directed,
 Confident and Resilient Leaders, Learners and Ladies through Sports &amp;
-Hockey</span></p>
-
-
-
-<p style="background:white"><strong><span style="font-size:12.0pt;font-family:
+Hockey</span>
+	<br>
+	<strong><span style="font-size:12.0pt;font-family:
 &quot;Lato&quot;,sans-serif;color:black">DSA Main Category:</span></strong><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">&nbsp;Sports
 and Games</span>
 	<br><strong><span style="font-size:12.0pt;font-family:
@@ -397,7 +395,7 @@ color:black">* Please note that meeting all the criteria does not guarantee the
 student will be shortlisted/given an offer.</span></em><i><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black"><br>
 <em><b><span style="font-family:&quot;Lato&quot;,sans-serif">The selection criteria and
 process for the talent areas will be updated by early-June. For more
-information on DSA-Sec, please refer to the MOE website at&nbsp;</span></b></em></span></i><span style="color:black"><a href="https://www.moe.gov.sg/dsa-sec"><em><b><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">https://www.moe.gov.sg/dsa-sec</span></b></em></a></span></p>
+information on DSA-Sec, please refer to the MOE website at&nbsp;</span></b></em></span></i><span style="color:black"><a href="https://www.moe.gov.sg/dsa-sec"><em><b><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;color:black">https://www.moe.gov.sg/dsa-sec</span></b></em></a></span><br></p>
 
 
 
