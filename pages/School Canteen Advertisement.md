@@ -21,7 +21,7 @@ description: ""
  * Address: 160 Lower Delta Road S(099138)
 * Contact No: 64775777
 * Email: chijstcs@moe.edu.sg
-* Contact Person: 
+* Contact Person: Tang Mun Wah
 
 **How to get there?**
 <br>Bus Services:
