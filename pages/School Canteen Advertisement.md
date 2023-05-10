@@ -4,7 +4,7 @@ permalink: /school-canteen-advertisement/
 description: ""
 ---
 | Type of Stall | Closing Date | Requirements |
-| -------- | -------- | -------- 
+| -------- | -------- | -------- |
 | Chinese Rice     | 15 June 2023     | Mixed Rice is acceptable     |
 | Halal Noodles     | 15 June 2023     |      |
 **Application Procedure**
