@@ -26,7 +26,7 @@ description: ""
 65, 121, 123, 123M, 124, 131, 195, 195A, 272 , 275, 855
 <br>MRT:
 **EWL** : Tiong Bahru
-**NEL **: Harbourfront
+**NEL** : Harbourfront
 
 **Interest applicants must meet the following criteria:**
 * Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
