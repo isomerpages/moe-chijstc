@@ -3,12 +3,10 @@ title: School Canteen Advertisement
 permalink: /school-canteen-advertisement/
 description: ""
 ---
-       
-
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- 
-| Chinese Rice     | 31 May 2023     | Mixed Rice is acceptable     |
-
+| Chinese Rice     | 15 June 2023     | Mixed Rice is acceptable     |
+| Halal Noodles     | 15 June 2023     |      |
 **Application Procedure**
 
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
@@ -45,4 +43,3 @@ description: ""
 
 
 *Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.*
-       
