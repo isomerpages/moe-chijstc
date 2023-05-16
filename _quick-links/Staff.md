@@ -10,6 +10,7 @@ description: ""
 <li><a href="https://icollaborate.moe.gov.sg/myitb/projects/ITD%20School%20Collaboration/Forms/AllItems.aspx" target="">iCollaborate (Authorised Users Only)</a></li>
 <li><a href="https://schoolcockpit.moe.gov.sg/" target="_blank" rel="noopener">School Cockpit</a></li>
 <li><a href="https://iexams.seab.gov.sg/login" target="_blank" rel="noopener">iExams2</a></li>
+<li><a href="https://myexamduty.seab.gov.sg" target="_blank" rel="noopener">Exam Personnel Portal (EPP)</a></li>
 <li><a href="https://www.hrp.gov.sg/hrp/#/" target="_blank" rel="noopener">HRP</a></li>
 <li><a href="https://intranet.gebiz.gov.sg/" target="">GeBiz</a></li>
 <li><a href="http://www.moe.gov.sg/" target="_blank" rel="noopener">MOE Internet</a></li>
