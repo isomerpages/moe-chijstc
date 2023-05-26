@@ -13,6 +13,7 @@ All nominations must reach the school by 30th June 2023 (Friday) 4pm.
 </li><li><a href="https://docs.google.com/document/d/17Pc4FDEyowQ1W7CKN-I13sAXlvx_eIUf/edit?usp=share_link&amp;ouid=115100829659052463291&amp;rtpof=true&amp;sd=true">  ECHA Nomination Form</a>
 </li><li><a href="https://drive.google.com/file/d/1SuYCthj1y0ZDFSJvZdyQ1z1X8WOmUpxn/view?usp=share_link">  2023 ECHA Briefing Slides</a>
 </li></ol>
+<hr>
 <p><strong>2023 Sec 4 and 5 Parent Info Night</strong><br>Please click below for more information.</p>
 <ol>
 <li><a href="https://drive.google.com/file/d/121n_v3sVjLK0ceewBuMBYIhT5DDK2mhn/view?usp=share_link">Principal Address</a></li>
