@@ -12,7 +12,7 @@ All nominations must reach the school by 30th June 2023 (Friday) 4pm.
 <li><a href="https://drive.google.com/file/d/1vBeVO5y3vTnT7QAa3bKuP5P0rFaiwzl9/view?usp=share_link">  ECHA 2023</a></li>
 <li><a href="https://docs.google.com/document/d/17Pc4FDEyowQ1W7CKN-I13sAXlvx_eIUf/edit?usp=share_link&amp;ouid=115100829659052463291&amp;rtpof=true&amp;sd=true">  ECHA Nomination Form</a></li>
 <li><a href="https://drive.google.com/file/d/1SuYCthj1y0ZDFSJvZdyQ1z1X8WOmUpxn/view?usp=share_link">  2023 ECHA Briefing Slides</a>
-</li></ol>
+</li></ol>CHIJ St. Theresa’s Convent
 <hr>
 <p><strong>2023 Sec 4 and 5 Parent Info Night</strong><br>Please click below for more information.</p>
 <ol>
@@ -31,9 +31,6 @@ All nominations must reach the school by 30th June 2023 (Friday) 4pm.
 </ol>
 <hr>
 <p><strong>2023 Sec 2 and 3 Parent Info Night</strong><br>Please click&nbsp;<a href="/files/Open%20Houses%202023_amended%20003.pdf">here</a>&nbsp;for more information</p>
-<hr>
-<hr>
-<p><strong>Polytechnic Open Houses 2023</strong><br>Please click&nbsp;<a href="/others/announcement/from-the-principals-desk">here</a>.</p>
 <hr>
 <p><strong>Login to SLS using your student icon email address w.e.f 1 Dec 2022</strong><br>The Singapore Student Learning Space (SLS) will be temporarily&nbsp;unavailable&nbsp;during a system upgrade from Wednesday 30th Nov until the evening of Thursday 1st December 2022.</p>
 <p>&nbsp;After the upgrade, you will be able to enjoy a single sign-on experience to SLS using the MOE Identity Management System (MIMS).&nbsp;<strong>The sign-in will now be based on your MIMS id (your icon email account ending with @students.edu.sg) and password</strong>. You will have the option of using SLS id and password to sign in as per current method.</p>
