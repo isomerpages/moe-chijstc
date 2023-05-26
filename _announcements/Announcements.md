@@ -3,6 +3,11 @@ title: Announcements
 permalink: /others/announcement/
 description: ""
 ---
+<p><strong>2023 ECHA Application</strong><br>The nominations for ECHA 2023 are open to the whole school community and the school key stakeholders such as parents, alumni, partners, as well as members of the public.
+The nomination form can be downloaded below.
+Nominations can be submitted via hardcopy to the General Office or softcopy through the school email chijstcs@moe.edu.sg 
+All nominations must reach the school by 30th June 2023 (Friday) 4pm.
+<br>Please see following documents for more details.</p>
 <p><strong>2023 Sec 4 and 5 Parent Info Night</strong><br>Please click below for more information.</p>
 <ol>
 <li><a href="https://drive.google.com/file/d/121n_v3sVjLK0ceewBuMBYIhT5DDK2mhn/view?usp=share_link">Principal Address</a></li>
