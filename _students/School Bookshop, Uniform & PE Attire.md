@@ -18,9 +18,9 @@ description: ""
 </td>
 </tr>
 <tr>
-<td style="text-align: center;" width="205"><a href="https://drive.google.com/file/d/1uHQ-ST_D39hRqWfM6LMaPmmuyz2KSBQC/view?usp=share_link" target="">BOOKLIST 2023 - 1EXP (G3).pdf</a><br /><a href="https://drive.google.com/file/d/1ouUc-9rhFz__-J-WQjXoX91WxKV6ZaNn/view?usp=share_link" target="">BOOKLIST 2023 - 2EXP (G3).pdf</a><br /><a href="https://drive.google.com/file/d/17ymeQj6RNwUfUYoIAV3qthCyGZgov2wP/view?usp=share_link" target="">BOOKLIST 2023 - 3EXP.pdf</a><br /><a href="https://drive.google.com/file/d/178tp346HhVWtpX4uBSLjgTb4dv62JeMJ/view?usp=share_link" target="">BOOKLIST 2023 - 4EXP.pdf</a></td>
-<td style="text-align: center;" width="205"><a href="https://drive.google.com/file/d/1Oo4Pj3T7fPGQR0n9YM95DPhHB-bkhC7k/view?usp=share_link" target="">BOOKLIST 2023 - 1NA (G2).pdf</a><br /><a class="refobj" href="https://drive.google.com/file/d/1bbxbcQ0vzILRu7bCqbcKqUx7yQvhlWLY/view?usp=share_link" target="">BOOKLIST 2023 - 2NA (G2).pdf</a><br /><a class="refobj" href="https://drive.google.com/file/d/1TZD8BuEWfxNBUel2-usefDd83FKq3HkO/view?usp=share_link" target="">BOOKLIST 2023 - 3NA.pdf</a><br /><a class="refobj" href="https://drive.google.com/file/d/1FqG3Ry0lyx62pLwq6ckssqGe1fYeooKv/view?usp=share_link" target="">BOOKLIST 2023 - 4NA.pdf</a><br /><a class="refobj" href="https://drive.google.com/file/d/1TojG_FnVVJbI4cqywSU9vc5vUpNHVlQX/view?usp=share_link" target="">BOOKLIST 2023 - 5NA.pdf</a></td>
-<td style="text-align: center;" width="205"><a href="https://drive.google.com/file/d/19onbdaBE068OPASbtM_OKP1GGUjBi-oS/view?usp=share_link" target="">BOOKLIST 2023 - 1NT (G1).pdf</a><br /><a class="refobj" href="https://drive.google.com/file/d/1PE8w-ARki02Y9J_tr8plYv_bsxRZmASC/view?usp=share_link" target="">BOOKLIST 2023 - 2NT (G1).pdf</a><br /><a class="refobj" href="https://drive.google.com/file/d/1q0wI7adv8uDSK00wLW7cdyIgXOa_DV1I/view?usp=share_link" target="">BOOKLIST 2023 - 3NT.pdf</a><br /><a class="refobj" href="https://drive.google.com/file/d/1T_TlIu5gxopISNzbvy0u95979OHbXPb5/view?usp=share_link" target="">BOOKLIST 2023 - 4NT.pdf</a></td>
+<td style="text-align: center;" width="205"><a href="https://drive.google.com/file/d/1uHQ-ST_D39hRqWfM6LMaPmmuyz2KSBQC/view?usp=share_link" target="">BOOKLIST 2023 - 1EXP (G3).pdf</a><br><a href="https://drive.google.com/file/d/1ouUc-9rhFz__-J-WQjXoX91WxKV6ZaNn/view?usp=share_link" target="">BOOKLIST 2023 - 2EXP (G3).pdf</a><br><a href="https://drive.google.com/file/d/17ymeQj6RNwUfUYoIAV3qthCyGZgov2wP/view?usp=share_link" target="">BOOKLIST 2023 - 3EXP.pdf</a><br><a href="https://drive.google.com/file/d/178tp346HhVWtpX4uBSLjgTb4dv62JeMJ/view?usp=share_link" target="">BOOKLIST 2023 - 4EXP.pdf</a></td>
+<td style="text-align: center;" width="205"><a href="https://drive.google.com/file/d/1Oo4Pj3T7fPGQR0n9YM95DPhHB-bkhC7k/view?usp=share_link" target="">BOOKLIST 2023 - 1NA (G2).pdf</a><br><a class="refobj" href="https://drive.google.com/file/d/1bbxbcQ0vzILRu7bCqbcKqUx7yQvhlWLY/view?usp=share_link" target="">BOOKLIST 2023 - 2NA (G2).pdf</a><br><a class="refobj" href="https://drive.google.com/file/d/1TZD8BuEWfxNBUel2-usefDd83FKq3HkO/view?usp=share_link" target="">BOOKLIST 2023 - 3NA.pdf</a><br><a class="refobj" href="https://drive.google.com/file/d/1FqG3Ry0lyx62pLwq6ckssqGe1fYeooKv/view?usp=share_link" target="">BOOKLIST 2023 - 4NA.pdf</a><br><a class="refobj" href="https://drive.google.com/file/d/1TojG_FnVVJbI4cqywSU9vc5vUpNHVlQX/view?usp=share_link" target="">BOOKLIST 2023 - 5NA.pdf</a></td>
+<td style="text-align: center;" width="205"><a href="https://drive.google.com/file/d/19onbdaBE068OPASbtM_OKP1GGUjBi-oS/view?usp=share_link" target="">BOOKLIST 2023 - 1NT (G1).pdf</a><br><a class="refobj" href="https://drive.google.com/file/d/1PE8w-ARki02Y9J_tr8plYv_bsxRZmASC/view?usp=share_link" target="">BOOKLIST 2023 - 2NT (G1).pdf</a><br><a class="refobj" href="https://drive.google.com/file/d/1q0wI7adv8uDSK00wLW7cdyIgXOa_DV1I/view?usp=share_link" target="">BOOKLIST 2023 - 3NT.pdf</a><br><a class="refobj" href="https://drive.google.com/file/d/1T_TlIu5gxopISNzbvy0u95979OHbXPb5/view?usp=share_link" target="">BOOKLIST 2023 - 4NT.pdf</a></td>
 </tr>
 </tbody>
 </table>
@@ -44,11 +44,12 @@ description: ""
 </td>
 <td style="text-align: center;" width="316">
 <p>KH Uniform Pte. Ltd.</p>
-<p>115A Commonwealth Drive #04-15/16</p>
-<p>Tanglin Halt Industrial Estate</p>
+<p>115A Commonwealth Drive #02-28</p>
 <p>Singapore 149596</p>
 <p>Tel: 6479 6811</p>
 <p>&nbsp;Fax: 6474 4037&nbsp;</p>
+<p>Online Store : www.khuniform.com</p>
+<p>Email : sales@khuniform.com</p>
 </td>
 </tr>
 <tr>
@@ -57,7 +58,7 @@ description: ""
 <p>Mondays to Fridays - 7.00 am to 3.00 pm&nbsp;</p>
 </td>
 <td style="text-align: center;" width="316">
-<p>You may buy the school uniform (pinafore and blouse) and school PE attire (PE t-shirt, PE shorts, house t-shirt and&nbsp;skorts) via the school&rsquo;s bookshop during school days.&nbsp;</p>
+<p>You may buy the school uniform (pinafore and blouse) and school PE attire (PE t-shirt, PE shorts, house t-shirt and&nbsp;skorts) via the school’s bookshop during school days.&nbsp;</p>
 </td>
 </tr>
 </tbody>
