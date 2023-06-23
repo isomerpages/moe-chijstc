@@ -6,8 +6,7 @@ description: ""
 <p>2023 Class time-table</p>
 <table>
 <tbody>
-<tr><td><strong>Semester 2 Time-Table</strong></td>
-<td><a href="/files/2023_sem2_tt_class.pdf">2023_SEM2_TT_Class.pdf</a></td>
+<tr>
 </tr>
 </tbody>
 </table>
