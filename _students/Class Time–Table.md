@@ -8,7 +8,7 @@ description: ""
 <tbody>
 
 <tr><td><strong>Semester 2 Time-Table</strong></td>
-<td><a href="/files/2023_sem2_tt_class%20(updated24jun).pdf">2023_SEM2_TT_Class (updated24Jun).pdf</a></td>
+<td><a href="/files/2023_sem2_24jun.pdf">2023_SEM2_TT_Class (updated24Jun).pdf</a></td>
 </tr>
 </tbody>
 </table>
