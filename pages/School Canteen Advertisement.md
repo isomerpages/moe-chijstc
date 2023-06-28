@@ -5,14 +5,13 @@ description: ""
 ---
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Chinese Rice     | 15 June 2023     | Mixed Rice is acceptable     |
-| Halal Noodles     | 15 June 2023     |      |
+| Halal Noodles     | 31 August 2023     |      |
 
 
 **Application Procedure**
 
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.<br>
-[Download Application form](/files/School%20Canteen%20Advertisements/application%20form.pdf)<br>[Download Stall Advertisement - Chinese Rice](/files/School%20Canteen%20Advertisements/stall%20advertisement%20-%20chinese%20rice.pdf)<br>[Download Stall Advertisement - Muslim Noodles (Halal)](/files/School%20Canteen%20Advertisements/stall%20advertisement%20-%20muslim%20noodles%20(halal)%20stall.pdf)
+[Download Application form](/files/School%20Canteen%20Advertisements/application%20form.pdf)<br>[Download Stall Advertisement - Muslim Noodles (Halal)](/files/School%20Canteen%20Advertisements/stall%20advertisement%20-%20muslim%20noodles%20(halal)%20stall.pdf)
 2. Attached the following documents together with the application form:
 * Photocopy of the NRIC (front and back)
 * List of proposed menu and pricing for all items
