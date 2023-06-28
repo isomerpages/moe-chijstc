@@ -26,8 +26,8 @@ description: ""
 <p>Term 3 WA</p>
 </td>
 <td style="width: 50%;">
-<p><a class="refobj" href="/files/term%302%20wa%20schedule%20sec%201-sec%203.pdf">Term 3 WA Schedule Sec 1-Sec 3.pdf</a></p>
+<p><a class="refobj" href="/files/term%203%20wa%20schedule%20sec%201-3.pdf">Term 3 WA Schedule Sec 1-Sec 3.pdf</a></p>
 </td>
 </tr>
 </tbody>
-</table>
+</table>term 3 wa schedule sec 1-3
