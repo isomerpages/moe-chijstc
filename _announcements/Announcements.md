@@ -9,7 +9,7 @@ description: ""
 <li><a href="https://drive.google.com/file/d/1pOxVSk79rqPET87ASBL5rwPpb9j-S6O3/view?usp=sharing](https://drive.google.com/file/d/1pOxVSk79rqPET87ASBL5rwPpb9j-S6O3/view?usp=sharing)">Subject Option Zoom Briefing for G3/Exp</a></li>
 <li><a href="https://drive.google.com/file/d/1BeSevSOEi5b2c0CK6JVUH5Rym7EFW1Mm/view?usp=sharing">Subject Option Zoom Briefing for G2/NA</a></li>
 <li><a href="https://drive.google.com/file/d/1FyKl4g1YT9g-eZ-pjKxwWWlFX9sbfDC4/view?usp=sharing">Subject Option Zoom Briefing for G1/NT</a></li>
-<li><a href="https://drive.google.com/file/d/1K-L544KMopmCMiA-7vduHvSJbv_S9ZCF/view?usp=share_link">Q&amp;A for Parents Info Session</a></li>
+<li><a href="https://drive.google.com/file/d/1cmmPsIWJs5jsUNVs3P9sIj_UuoUaUDZY/view?usp=sharing">Q&amp;A for Parents Info Session</a></li>
 <p><strong>2023 ECHA Application</strong><br>The nominations for ECHA 2023 are open to the whole school community and the school key stakeholders such as parents, alumni, partners, as well as members of the public.<br>
 The nomination form can be downloaded below.<br>
 Nominations can be submitted via hardcopy to the General Office or softcopy through the school email chijstcs@moe.edu.sg<br>
