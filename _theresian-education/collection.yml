@@ -2,7 +2,6 @@ collections:
   theresian-education:
     output: true
     order:
-      - House System.md
       - Applied Learning Programme (ALP).md
       - Co–Curricular Activities (CCA).md
       - Character and Citizenship Education (CCE).md
