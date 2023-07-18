@@ -2,6 +2,7 @@ collections:
   theresian-education:
     output: true
     order:
+      - Co–Curricular Activities (CCA).md
       - Applied Learning Programme (ALP).md
       - Character and Citizenship Education (CCE).md
       - Education Career Guidance (ECG).md
