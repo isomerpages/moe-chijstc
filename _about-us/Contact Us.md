@@ -9,7 +9,7 @@ During school holidays, General Office is open from 7.30am to 5.30pm (Mon - Fri)
 
 [School terms and holidays](https://www.moe.gov.sg/calendar)
 
-On 31 Aug Thu, school will be closed at 12pm for a staff appreciation event.
+On 31 Aug 2023 Thu, school will be closed at 12pm for a staff appreciation event.
 </p>
 <h4><strong>Contact number:&nbsp;</strong></h4>
 <p>64775777 (Tel), 64775700 (Fax)</p>
