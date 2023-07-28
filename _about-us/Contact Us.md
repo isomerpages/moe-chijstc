@@ -7,7 +7,7 @@ description: ""
 
 During school holidays, General Office is open from 7.30am to 5.30pm (Mon - Fri) except public holidays.
 
-School terms and holidays
+[School terms and holidays](https://www.moe.gov.sg/calendar)
 
 On 31 Aug Thu, school will be closed at 12pm for a staff appreciation event.
 </p>
