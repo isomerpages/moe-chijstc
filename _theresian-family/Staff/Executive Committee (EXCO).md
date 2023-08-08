@@ -290,7 +290,7 @@ third_nav_title: Staff
 <p>SH Student Discipline &amp; Parent Engagement</p>
 </td>
 <td style="text-align: center;">
-<p><a href="mailto:Zaynab_Abdul_Rahman@schools.gov.sg" target="">Zaynab_Abdul_Rahman@schools.gov.sg</a></p>
+<p><a href="mailto:Zaynab_Abdul_Rahman@moe.edu.sg" target="">Zaynab_Abdul_Rahman@moe.edu.sg</a></p>
 </td>
 </tr>
 <tr>
