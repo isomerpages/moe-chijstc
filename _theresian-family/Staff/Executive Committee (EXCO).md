@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Staff
 ---
 <img src="/images/exco.jpg"><br>
-<table width="787"><colgroup><col width="148" /><col width="362" /><col width="277" /></colgroup>
+<table width="787"><colgroup><col width="148"><col width="362"><col width="277"></colgroup>
 <tbody>
 <tr>
 <td style="text-align: center;" width="148" height="20">
@@ -136,7 +136,7 @@ third_nav_title: Staff
 <p>Sec 1 Year Head</p>
 </td>
 <td style="text-align: center;">
-<p><a href="mailto:cheah_suet_ping@schools.gov.sg" target="">cheah_suet_ping@schools.gov.sg</a>&nbsp;</p>
+<p><a href="mailto:cheah_suet_ping@moe.edu.sg" target="">cheah_suet_ping@moe.edu.sg</a>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -169,7 +169,7 @@ third_nav_title: Staff
 <p>HOD Humanities</p>
 </td>
 <td style="text-align: center;">
-<p><a href="mailto:melanie_lim@schools.gov.sg" target="">melanie_lim@schools.gov.sg</a></p>
+<p><a href="mailto:melanie_lim@moe.edu.sg" target="">melanie_lim@moe.edu.sg</a></p>
 </td>
 </tr>
 <tr>
@@ -323,7 +323,7 @@ third_nav_title: Staff
 <p>Operation Manager 2</p>
 </td>
 <td style="text-align: center;">
-<p><a href="mailto:Poh_Joo_Heng@schools.gov.sg" target="">Poh_Joo_Heng@schools.gov.sg</a></p>
+<p><a href="mailto:Poh_Joo_Heng@moe.edu.sg" target="">Poh_Joo_Heng@moe.edu.sg</a></p>
 </td>
 </tr>
 </tbody>
