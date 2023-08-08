@@ -4,7 +4,7 @@ permalink: /theresian-family/staff/teaching-staff/
 description: ""
 third_nav_title: Staff
 ---
-<table style="width: 667px;" width="615"><colgroup><col span="2" width="64" /><col width="204" /><col width="283" /></colgroup>
+<table style="width: 667px;" width="615"><colgroup><col span="2" width="64"><col width="204"><col width="283"></colgroup>
 <tbody>
 <tr>
 <td style="width: 55.6094px; text-align: center;" height="20"><strong>S/N</strong>&nbsp;</td>
@@ -34,31 +34,31 @@ third_nav_title: Staff
 <td style="width: 55.6094px; text-align: center;" height="20">&nbsp;</td>
 <td style="width: 57.3594px; text-align: center;">&nbsp;</td>
 <td style="width: 186.281px; text-align: center;">Ms Du Liang</td>
-<td style="width: 339.75px; text-align: center;"><a href="mailto:du_liang@schools.gov.sg">du_liang@schools.gov.sg</a></td>
+<td style="width: 339.75px; text-align: center;"><a href="mailto:du_liang@moe.edu.sg">du_liang@moe.edu.sg</a></td>
 </tr>
 <tr>
 <td style="width: 55.6094px; text-align: center;" height="20">3</td>
 <td style="width: 57.3594px; text-align: center;">1C</td>
 <td style="width: 186.281px; text-align: center;">Ms Shirley Sim</td>
-<td style="width: 339.75px; text-align: center;"><a href="mailto:sim_ai_ling_shirley@schools.gov.sg">sim_ai_ling_shirley@schools.gov.sg</a></td>
+<td style="width: 339.75px; text-align: center;"><a href="mailto:sim_ai_ling_shirley@moe.edu.sg">sim_ai_ling_shirley@moe.edu.sg</a></td>
 </tr>
 <tr>
 <td style="width: 55.6094px; text-align: center;" height="20">&nbsp;</td>
 <td style="width: 57.3594px; text-align: center;">&nbsp;</td>
 <td style="width: 186.281px; text-align: center;">Mr Philip Tan</td>
-<td style="width: 339.75px; text-align: center;"><a href="mailto:tan_en_yaw_philip@schools.gov.sg">tan_en_yaw_philip@schools.gov.sg</a></td>
+<td style="width: 339.75px; text-align: center;"><a href="mailto:tan_en_yaw_philip@moe.edu.sg">tan_en_yaw_philip@moe.edu.sg</a></td>
 </tr>
 <tr>
 <td style="width: 55.6094px; text-align: center;" height="20">4</td>
 <td style="width: 57.3594px; text-align: center;">1D</td>
 <td style="width: 186.281px; text-align: center;">Ms Eugenie Pui</td>
-<td style="width: 339.75px; text-align: center;"><a href="mailto:pui_ang_yii_eugenie@schools.gov.sg">pui_ang_yii_eugenie@schools.gov.sg</a></td>
+<td style="width: 339.75px; text-align: center;"><a href="mailto:pui_ang_yii_eugenie@moe.edu.sg">pui_ang_yii_eugenie@moe.edu.sg</a></td>
 </tr>
 <tr>
 <td style="width: 55.6094px; text-align: center;" height="20">&nbsp;</td>
 <td style="width: 57.3594px; text-align: center;">&nbsp;</td>
 <td style="width: 186.281px; text-align: center;">Mr Fairuz Mohammed</td>
-<td style="width: 339.75px; text-align: center;"><a href="mailto:mohammad_fairuz_selamat@schools.gov.sg">mohammad_fairuz_selamat@schools.gov.sg</a></td>
+<td style="width: 339.75px; text-align: center;"><a href="mailto:mohammad_fairuz_selamat@moe.edu.sg">mohammad_fairuz_selamat@moe.edu.sg</a></td>
 </tr>
 <tr>
 <td style="width: 55.6094px; text-align: center;" height="20">5</td>
@@ -82,7 +82,7 @@ third_nav_title: Staff
 <td style="width: 55.6094px; text-align: center;" height="20">&nbsp;</td>
 <td style="width: 57.3594px; text-align: center;">&nbsp;</td>
 <td style="width: 186.281px; text-align: center;">Mr Natarajan Saravanan</td>
-<td style="width: 339.75px; text-align: center;"><a href="mailto:Natarajan_saravanan@schools.gov.sg">Natarajan_saravanan@schools.gov.sg</a></td>
+<td style="width: 339.75px; text-align: center;"><a href="mailto:Natarajan_saravanan@moe.edu.sg">Natarajan_saravanan@moe.edu.sg</a></td>
 </tr>
 <tr>
 <td style="width: 55.6094px; text-align: center;" height="20">7</td>
@@ -118,7 +118,7 @@ third_nav_title: Staff
 <td style="width: 55.6094px; text-align: center;" height="20">&nbsp;</td>
 <td style="width: 57.3594px; text-align: center;">&nbsp;</td>
 <td style="width: 186.281px; text-align: center;">Mr Kelvin Lim</td>
-<td style="width: 339.75px; text-align: center;"><a href="mailto:kelvin_lim_poh_san@schools.gov.sg">kelvin_lim_poh_san@schools.gov.sg</a></td>
+<td style="width: 339.75px; text-align: center;"><a href="mailto:kelvin_lim_poh_san@moe.edu.sg">kelvin_lim_poh_san@moe.edu.sg</a></td>
 </tr>
 <tr>
 <td style="width: 55.6094px; text-align: center;" height="20">10</td>
@@ -130,7 +130,7 @@ third_nav_title: Staff
 <td style="width: 55.6094px; text-align: center;" height="20">&nbsp;</td>
 <td style="width: 57.3594px; text-align: center;">&nbsp;</td>
 <td style="width: 186.281px; text-align: center;">Mr Wang Qiming</td>
-<td style="width: 339.75px; text-align: center;"><a href="mailto:wang_qiming@schools.gov.sg">wang_qiming@schools.gov.sg</a></td>
+<td style="width: 339.75px; text-align: center;"><a href="mailto:wang_qiming@moe.edu.sg">wang_qiming@moe.edu.sg</a></td>
 </tr>
 <tr>
 <td style="width: 55.6094px; text-align: center;" height="20">11</td>
@@ -154,7 +154,7 @@ third_nav_title: Staff
 <td style="width: 55.6094px; text-align: center;" height="20">&nbsp;</td>
 <td style="width: 57.3594px; text-align: center;">&nbsp;</td>
 <td style="width: 186.281px; text-align: center;">Mr Andrew Lau</td>
-<td style="width: 339.75px; text-align: center;"><a href="mailto:andrew_lau_fu_yang@schools.gov.sg">andrew_lau_fu_yang@schools.gov.sg</a></td>
+<td style="width: 339.75px; text-align: center;"><a href="mailto:andrew_lau_fu_yang@moe.edu.sg">andrew_lau_fu_yang@moe.edu.sg</a></td>
 </tr>
 <tr>
 <td style="width: 55.6094px; text-align: center;" height="20">13</td>
@@ -214,7 +214,7 @@ third_nav_title: Staff
 <td style="width: 55.6094px; text-align: center;" height="20">&nbsp;</td>
 <td style="width: 57.3594px; text-align: center;">&nbsp;</td>
 <td style="width: 186.281px; text-align: center;">Ms Eileen Teng</td>
-<td style="width: 339.75px; text-align: center;"><a href="mailto:Teng_Mei_Juan_Eileen_A@schools.gov.sg">Teng_Mei_Juan_Eileen_A@schools.gov.sg</a></td>
+<td style="width: 339.75px; text-align: center;"><a href="mailto:Teng_Mei_Juan_Eileen_A@moe.edu.sg">Teng_Mei_Juan_Eileen_A@moe.edu.sg</a></td>
 </tr>
 <tr>
 <td style="width: 55.6094px; text-align: center;" height="20">18</td>
@@ -274,7 +274,7 @@ third_nav_title: Staff
 <td style="width: 55.6094px; text-align: center;" height="20">22</td>
 <td style="width: 57.3594px; text-align: center;">4A</td>
 <td style="width: 186.281px; text-align: center;">Mr Timothy Chow</td>
-<td style="width: 339.75px; text-align: center;"><a href="mailto:timothy_chow_rui_jun@schools.gov.sg">timothy_chow_rui_jun@schools.gov.sg</a></td>
+<td style="width: 339.75px; text-align: center;"><a href="mailto:timothy_chow_rui_jun@moe.edu.sg">timothy_chow_rui_jun@moe.edu.sg</a></td>
 </tr>
 <tr>
 <td style="width: 55.6094px; text-align: center;" height="20">&nbsp;</td>
@@ -316,7 +316,7 @@ third_nav_title: Staff
 <td style="width: 55.6094px; text-align: center;">&nbsp;</td>
 <td style="width: 57.3594px; text-align: center;">&nbsp;</td>
 <td style="width: 186.281px; text-align: center;">Mr Toh Boon Hui</td>
-<td style="width: 339.75px; text-align: center;"><a href="mailto:toh_boon_hui@@schools.gov.sg">toh_boon_hui@@schools.gov.sg</a></td>
+<td style="width: 339.75px; text-align: center;"><a href="mailto:toh_boon_hui@@moe.edu.sg">toh_boon_hui@@moe.edu.sg</a></td>
 </tr>
 <tr>
 <td style="width: 55.6094px; text-align: center;" height="20">26</td>
@@ -352,7 +352,7 @@ third_nav_title: Staff
 <td style="width: 55.6094px; text-align: center;" height="20">&nbsp;</td>
 <td style="width: 57.3594px; text-align: center;">&nbsp;</td>
 <td style="width: 186.281px; text-align: center;">Ms Haslina Ramat</td>
-<td style="width: 339.75px; text-align: center;"><a href="mailto:haslinda_ramat@schools.gov.sg">haslinda_ramat@schools.gov.sg</a></td>
+<td style="width: 339.75px; text-align: center;"><a href="mailto:haslinda_ramat@moe.edu.sg">haslinda_ramat@moe.edu.sg</a></td>
 </tr>
 <tr>
 <td style="width: 55.6094px; text-align: center;" height="20">29</td>
