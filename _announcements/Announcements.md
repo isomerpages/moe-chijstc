@@ -7,7 +7,7 @@ description: ""
 <br>Dear Students,<br> 
 Please take note of the submission deadline for the Change of CCA form is Tuesday 12th September. 
 <br>Thank you and God Bless.<br>
-<a href="/files/ForStudentsParentsupdated%202%20Nov.pdf">2023 Change of CCA form</a>
+<a href="/files/2023_change_of_cca_form_(as_of_15_aug).pdf">2023 Change of CCA form (As of 15 Aug)</a>
 </p><hr>
 <p></p>
 <p><strong>2023 Sec 2 Parents Info Session</strong>
