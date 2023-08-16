@@ -3,9 +3,13 @@ title: Announcements
 permalink: /others/announcement/
 description: ""
 ---
+<p><strong>Change of CCA Exercise 2023</strong>
+<br>Dear Students, 
+Please take note of the submission deadline for the Change of CCA form is Tuesday 12th September. 
+Thank you and God Bless.
+	[2023 Change of CCA form (As of 15 Aug)](/files/2023_change_of_cca_form_(as_of_15_aug).pdf)</p>
 <p><strong>2023 Sec 2 Parents Info Session</strong>
-<br>Please click below for more information.</p>
-<ol>
+<br>Please click below for more information.</p><ol>
 <li><a href="https://drive.google.com/file/d/1pOxVSk79rqPET87ASBL5rwPpb9j-S6O3/view?usp=sharing](https://drive.google.com/file/d/1pOxVSk79rqPET87ASBL5rwPpb9j-S6O3/view?usp=sharing)">Subject Option Zoom Briefing for G3/Exp</a></li>
 <li><a href="https://drive.google.com/file/d/1BeSevSOEi5b2c0CK6JVUH5Rym7EFW1Mm/view?usp=sharing">Subject Option Zoom Briefing for G2/NA</a></li>
 <li><a href="https://drive.google.com/file/d/1FyKl4g1YT9g-eZ-pjKxwWWlFX9sbfDC4/view?usp=sharing">Subject Option Zoom Briefing for G1/NT</a></li>
