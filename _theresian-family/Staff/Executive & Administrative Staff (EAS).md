@@ -1,5 +1,5 @@
 ---
-title: Executive &amp; Administrative Staff (EAS)
+title: Executive & Administrative Staff (EAS)
 permalink: /theresian-family/staff/executive-n-administrative-staff-eas/
 description: ""
 third_nav_title: Staff
@@ -23,7 +23,7 @@ third_nav_title: Staff
 <td style="text-align: center;" width="240">Operations Manager</td>
 </tr>
 <tr>
-<td style="text-align: center;">Mr Paul Ho</td>
+<td style="text-align: center;">Mr Paul Poh</td>
 <td style="text-align: center;">Operations Manager&nbsp;</td>
 </tr>
 <tr>
