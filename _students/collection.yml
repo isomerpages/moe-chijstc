@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Group Personal Accident (GPA) Insurance For Student.md
       - CHIJ STC School Calendar 2023.md
       - Class Time–Table.md
       - Co–Curricular Activities (CCA).md
