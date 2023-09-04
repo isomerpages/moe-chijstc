@@ -298,7 +298,7 @@ third_nav_title: Staff
 <p>Tang Mun Wah (Ms)</p>
 </td>
 <td style="text-align: center;">
-<p>Administration Manager 1</p>
+<p>Administration Manager </p>
 </td>
 <td style="text-align: center;">
 <p><a href="mailto:tang_mun_wah@schools.gov.sg" target="">tang_mun_wah@schools.gov.sg</a>&nbsp;</p>
@@ -306,10 +306,21 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td style="text-align: center;">
+<p>Lisa Lam (Ms)</p>
+</td>
+<td style="text-align: center;">
+<p>Administration Manager </p>
+</td>
+<td style="text-align: center;">
+<p><a href="mailto:lisa_lam_yok@schools.gov.sg" target="">lisa_lam_yok@schools.gov.sg</a>&nbsp;</p>
+</td>
+</tr>
+	<tr>
+<td style="text-align: center;">
 <p>Kwong Kwok Keung (Mr)</p>
 </td>
 <td style="text-align: center;">
-<p>Operations Manager 1</p>
+<p>Operations Manager </p>
 </td>
 <td style="text-align: center;">
 <p><a href="mailto:kwong_kwok_keung@moe.edu.sg" target="">kwong_kwok_keung@moe.edu.sg</a>&nbsp;</p>
@@ -317,10 +328,10 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td style="text-align: center;">
-<p>Paul Ho (Mr)</p>
+<p>Paul Poh (Mr)</p>
 </td>
 <td style="text-align: center;">
-<p>Operation Manager 2</p>
+<p>Operations Manager </p>
 </td>
 <td style="text-align: center;">
 <p><a href="mailto:Poh_Joo_Heng@moe.edu.sg" target="">Poh_Joo_Heng@moe.edu.sg</a></p>
