@@ -23,7 +23,7 @@ third_nav_title: Staff
 <td style="text-align: center;" width="240">Operations Manager</td>
 </tr>
 <tr>
-<td style="text-align: center;">Mr Paul Poh</td>
+<td style="text-align: center;">Mr Poh Joo Heng</td>
 <td style="text-align: center;">Operations Manager&nbsp;</td>
 </tr>
 <tr>
