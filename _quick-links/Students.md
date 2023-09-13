@@ -15,5 +15,5 @@ description: ""
 <li><a href="/others/2022-exam-timetable" target="">Exam Timetable</a></li>
 <li><a href="/others/2023-weighted-assessment-wa-schedule" target="">WA Schedule</a></li>
 <li><a href="/theresian-family/students/student-handbook" target="">Student Handbook</a></li>
-<li><a href="/others/home-tab-box/students/group-personal-accident-gpa-insurance-for-student" target="">Group Personal Accident Insurance</a></li>
+<!--<li><a target="" href="/others/home-tab-box/students/group-personal-accident-gpa-insurance-for-student">Group Personal Accident Insurance</a></li>-->
 </ul>

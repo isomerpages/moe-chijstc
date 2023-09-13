@@ -224,7 +224,7 @@ description: ""
 <p><strong>Dual:</strong></p>
 <ol>
 <li>Badminton</li>
-<li>Tennis</li>
+<!--<li>Tennis</li>-->
 </ol>
 <p><strong>Team Activities:</strong></p>
 <ol>
