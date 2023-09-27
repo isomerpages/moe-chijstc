@@ -11,7 +11,7 @@ description: ""
 **Application Procedure**
 
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.<br>
-[Download Application form](/files/School%20Canteen%20Advertisements/application%20form.pdf)<br>[Download Stall Advertisement - Muslim Noodles (Halal)](/files/School%20Canteen%20Advertisements/stall%20advertisement%20-%20muslim%20noodles%20(halal)%20stall.pdf)
+[Download Application form](/files/School%20Canteen%20Advertisements/application%20form.pdf)<br>[Download Stall Advertisement - Muslim Noodles (Halal)](/files/School%20Canteen%20Advertisements/stall%20advertisement%20-%20muslim%20noodles%20(halal)%20stall.pdf)<br>
 [Download Stall advertisement - Cold Drinks and Fruits Stall](/files/School%20Canteen%20Advertisements/stall_advertisement%20_cold_drinks_fruits_stall.pdf)
 <br>
 2. Attached the following documents together with the application form:
