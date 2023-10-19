@@ -14,3 +14,5 @@ Please click below link for more information :
 [MOE FAS Pamphet - Malay](/files/MOE%20Financial%20Assistance/moe%20fas%20pamphet%20-%20ml.pdf)
 <br>
 [MOE FAS Pamphet - Tamil](/files/MOE%20Financial%20Assistance/moe%20fas%20pamphet%20-%20tl.pdf)
+<br>
+[MOE FAS Application Form](/files/MOE%20Financial%20Assistance/2024%20moe%20fas%20application%20form.pdf)
