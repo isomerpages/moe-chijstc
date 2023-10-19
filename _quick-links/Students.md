@@ -6,7 +6,7 @@ description: ""
 <ul>
 <li><a href="/theresian-family/students/theresian-awards" target="">Theresian Awards</a></li>
 <li><a href="/theresian-family/students/school-bookshop-uniform-n-pe-attire" target="">School Bookshop, Uniform &amp; PE Attire</a></li>
-<li><a href="/others/home-tab-box/parents/moe-financial-assistance-scheme-fas" target="">Financial Assistance</a></li>
+<!--<li><a target="" href="/others/home-tab-box/parents/moe-financial-assistance-scheme-fas">Financial Assistance</a></li>-->
 <li><a href="/theresian-family/students/information-about-o-level-pe" target="">Information about O-level PE</a></li>
 <li><a href="http://chijsttheresasconvent.spydus.com.sg/cgi-bin/spydus.exe/MSGTRN/OPAC/HOME" target="_blank" rel="noopener">School Library and OPAC System</a></li>
 <li><a href="/theresian-family/students/calendar" target="">Calendar</a></li>
