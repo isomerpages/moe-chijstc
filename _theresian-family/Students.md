@@ -17,4 +17,5 @@ description: ""
 <li><a href="/theresian-family/students/exercise-and-sports-science-ess" target="">Information about Exercise and Sports Science (ESS)</a></li>
 <li><a href="/others/2023-weighted-assessment-wa-schedule" target="">WA Schedule</a></li>
 <li><a href="/folders/students/group-personal-accident-gpa-insurance-for-student" target="">Group Personal Accident Insurance</a></li>
+	<li><a href="/theresian-family/students/" target="">MOE Finanacial Assistance Scheme</a></li>
 </ul>
