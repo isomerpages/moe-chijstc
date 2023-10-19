@@ -2,7 +2,6 @@ collections:
   students:
     output: true
     order:
-      - MOE Financial Assistance Scheme.md
       - CHIJ STC School Calendar 2023.md
       - Class Time–Table.md
       - Co–Curricular Activities (CCA).md
@@ -19,3 +18,4 @@ collections:
       - Exercise and Sports Science (ESS).md
       - 2023 Weighted Assessment (WA) Schedule.md
       - Group Personal Accident (GPA) Insurance For Student.md
+      - MOE Financial Assistance Scheme.md
