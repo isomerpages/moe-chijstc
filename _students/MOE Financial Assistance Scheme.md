@@ -12,3 +12,5 @@ Please click below link for more information :
 [MOE FAS Pamphet - Chinese](/files/MOE%20Financial%20Assistance/moe%20fas%20pamphet%20-%20cl.pdf)
 <br>
 [MOE FAS Pamphet - Malay](/files/MOE%20Financial%20Assistance/moe%20fas%20pamphet%20-%20ml.pdf)
+<br>
+[MOE FAS Pamphet - Tamil](/files/MOE%20Financial%20Assistance/moe%20fas%20pamphet%20-%20tl.pdf)
