@@ -3,8 +3,9 @@ title: Character and Citizenship Education (CCE)
 permalink: /theresian-education/character-and-citizenship-education-cce/
 description: ""
 ---
-<h4><strong>The Theresian Approach to Citizenship &amp; Character Education (CCE)</strong></h4>
-<p><em><strong>'</strong></em>The school takes a 3 &lsquo;A&rsquo;s approach of "Awareness-Actions-Attitudes" to nurture Theresians of character and competence into active citizens who will contribute to the community and nation. Through KNOWLEDGE building, AWARENESS is enhanced. The mastery of SKILLS will guide students&rsquo; ACTIONS. Through the implicit and explicit teaching of values, ATTITUDES will be shaped eventually.&nbsp;</p>
+
+![](/images/2023CCA/cce%20formal.jpg)<h4><strong>The Theresian Approach to Citizenship &amp; Character Education (CCE)</strong></h4>
+<p><em><strong>'</strong></em>The school takes a 3 ‘A’s approach of "Awareness-Actions-Attitudes" to nurture Theresians of character and competence into active citizens who will contribute to the community and nation. Through KNOWLEDGE building, AWARENESS is enhanced. The mastery of SKILLS will guide students’ ACTIONS. Through the implicit and explicit teaching of values, ATTITUDES will be shaped eventually.&nbsp;</p>
 <p>The desired competencies and character traits are encapsulated in the Portrait of the Theresian Girl. The Behavioural Outcomes under the 4 Theresian Values serve as the 4 Level Outcomes in our CCE Curriculum, shown as follows:.</p>
 <table width="688">
 <tbody>
@@ -62,7 +63,7 @@ description: ""
 <p>The 8-step Values Internalisation Process underpins the explicit teaching of Theresian values under the CHIJ STC Integrated Values Education Programme.</p>
 <img style="width: 80%;" src="/images/cce.jpg">
 <p><em>Adapted from: Julia Ong and Patricia Lee</em></p>
-<p>The Theresian Code of Conduct describes the behaviour that all Theresian students should aspire towards. The School Rules and 4 Self-Management Questions guide and re-direct Theresians in their actions so that they can constantly answer the call to be &ldquo;a light to others&rdquo;.</p>
+<p>The Theresian Code of Conduct describes the behaviour that all Theresian students should aspire towards. The School Rules and 4 Self-Management Questions guide and re-direct Theresians in their actions so that they can constantly answer the call to be “a light to others”.</p>
 <p>1. Is this HONEST? Am I promoting TRUTH?</p>
 <p>2. Is this FAIR? Am I promoting JUSTICE?</p>
 <p>3. Is this KIND? Am I promoting LOVE?</p>
