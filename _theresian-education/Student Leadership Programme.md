@@ -3,7 +3,7 @@ title: Student Leadership Programme
 permalink: /theresian-education/student-leadership-programme/
 description: ""
 ---
-![](/images/2023CCA/sports%20leaders.jpg)
+
 <p><strong><u>Student Leadership Development @ STC</u></strong></p>
 <p><strong><u>Introduction</u></strong><br>At CHIJ St. Theresa's Convent, leadership development of all students is aligned to its vision of developing a community of leaders and learners for God and for others. Accordingly, the leadership development programme is organised at two strata:&nbsp;</p>
 <ol>
