@@ -4,7 +4,8 @@ permalink: /theresian-family/students/co-curricular-activities-cca/uniform-group
 description: ""
 third_nav_title: Uniform Groups
 ---
-<img src="/images/npcc12.jpg">
+<!--<img src="/images/npcc12.jpg">-->
+![](/images/2023CCA/npcc%20formal.jpg)
 <h4><strong>Introduction</strong></h4>
 <p><strong>NPCC - Developing leaders with characters and values</strong>&nbsp;<br>NPCC believes in training our girls to become leaders who are respectful, resilient and responsible. Some of the activities we offer include Adventure and Survival Training Camp, Revolver Shoots, Unarmed Combat, Parades, Police Patrols and campcraft. These activities challenge our cadets to be independent and resilient.</p>
 
