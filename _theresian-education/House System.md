@@ -72,6 +72,6 @@ description: ""
 </ul>
 
 
-| Column 1 | Column 2 | Column 3 |
+| Catherine | Ignatius | Isabel  |
 | -------- | -------- | -------- |
-| Text![](/images/2023CCA/hl_catherine.jpg)     | Text ![](/images/2023CCA/hl_ignatius.jpg)    | Text![](/images/2023CCA/hl_isabel.jpg)     |
+| ![](/images/2023CCA/hl_catherine.jpg)     |  ![](/images/2023CCA/hl_ignatius.jpg)    | ![](/images/2023CCA/hl_isabel.jpg)     |
