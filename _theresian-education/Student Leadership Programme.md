@@ -3,11 +3,12 @@ title: Student Leadership Programme
 permalink: /theresian-education/student-leadership-programme/
 description: ""
 ---
-<p><strong><u>Student Leadership Development @ STC</u></strong></p>
-<p><strong><u>Introduction</u></strong><br />At CHIJ St. Theresa's Convent, leadership development of all students is aligned to its vision of developing a community of leaders and learners for God and for others. Accordingly, the leadership development programme is organised at two strata:&nbsp;</p>
+
+![](/images/2023CCA/sports%20leaders.jpg)<p><strong><u>Student Leadership Development @ STC</u></strong></p>
+<p><strong><u>Introduction</u></strong><br>At CHIJ St. Theresa's Convent, leadership development of all students is aligned to its vision of developing a community of leaders and learners for God and for others. Accordingly, the leadership development programme is organised at two strata:&nbsp;</p>
 <ol>
 <li>Leadership for all Theresians; and</li>
-<li>Leadership for Theresian Student Leaders.<br />The Theresian Student Leader is recognised as the leader of leaders. She must:</li>
+<li>Leadership for Theresian Student Leaders.<br>The Theresian Student Leader is recognised as the leader of leaders. She must:</li>
 <ul>
 <ul>
 <li>have gone through the formal selection process mandatory for all student leaders;&nbsp;</li>
@@ -16,7 +17,7 @@ description: ""
 </ul>
 </ul>
 </ol>
-<p><strong><u>Structure and underlying principles</u></strong><br />Student leadership development in STC seeks to cultivate the leadership potential of our students to its fullest. Throughout their secondary school life in STC, Theresians will have opportunities to equip themselves with leadership skills and apply their learning through service to the school and community. By developing strong personal mastery, social-emotional competencies and social responsibility in Theresians, STC aims to shape our students into leaders of good character.<br /><br /><strong><u>Qualities of the Theresian Girl as a Leader and the Theresian Student Leader</u></strong></p>
+<p><strong><u>Structure and underlying principles</u></strong><br>Student leadership development in STC seeks to cultivate the leadership potential of our students to its fullest. Throughout their secondary school life in STC, Theresians will have opportunities to equip themselves with leadership skills and apply their learning through service to the school and community. By developing strong personal mastery, social-emotional competencies and social responsibility in Theresians, STC aims to shape our students into leaders of good character.<br><br><strong><u>Qualities of the Theresian Girl as a Leader and the Theresian Student Leader</u></strong></p>
 <table>
 <tbody>
 <tr>
@@ -35,8 +36,8 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p><strong><u>Developmental Approach<br /></u></strong>The Student leadership development E4 approach is used to engage different segments of students. E4 represents &ndash; Engage (leadership development for all), Encourage (leadership development for the disadvantaged), Enthuse (leadership development based on specific interests) and Enlighten (leadership development for student leaders selected to take up positions in the highest tier).</p>
-<p><strong><u>A. Tier 1 : To Engage and Encourage all Theresians in leadership development.</u></strong><br />The Student Leadership Programme takes a values-based approach that emphasises the individual's ability to work effectively with others to create community change. There is progression in the leadership development of all Theresians, which is illustrated in the table below:</p>
+<p><strong><u>Developmental Approach<br></u></strong>The Student leadership development E4 approach is used to engage different segments of students. E4 represents – Engage (leadership development for all), Encourage (leadership development for the disadvantaged), Enthuse (leadership development based on specific interests) and Enlighten (leadership development for student leaders selected to take up positions in the highest tier).</p>
+<p><strong><u>A. Tier 1 : To Engage and Encourage all Theresians in leadership development.</u></strong><br>The Student Leadership Programme takes a values-based approach that emphasises the individual's ability to work effectively with others to create community change. There is progression in the leadership development of all Theresians, which is illustrated in the table below:</p>
 <table>
 <tbody>
 <tr>
@@ -58,8 +59,8 @@ description: ""
 </table>
 <p>At the Self level, Theresians recognise the need to be proactive in their actions. They are able to identify their short and long term goals. This allows them to be learners and leaders who can influence their peers positively.</p>
 <p>At the Team level, Theresians recognise the need to collaborate and accommodate during group work so that they can perform more effectively as a team to achieve common objectives and goals.</p>
-<p>Students from disadvantaged backgrounds are given equal opportunities to participate in leadership programmes through subsidy from the financial assistance scheme and opportunity fund.<br /><u></u></p>
-<p><strong><u>B. Tier 2: To Enthuse and Enlighten Theresian Student Leaders on their leadership journey</u></strong><br />Students who have excelled in the first two stages of leadership development will move on to the next two levels as officially appointed Theresian Student Leaders.</p>
+<p>Students from disadvantaged backgrounds are given equal opportunities to participate in leadership programmes through subsidy from the financial assistance scheme and opportunity fund.<br><u></u></p>
+<p><strong><u>B. Tier 2: To Enthuse and Enlighten Theresian Student Leaders on their leadership journey</u></strong><br>Students who have excelled in the first two stages of leadership development will move on to the next two levels as officially appointed Theresian Student Leaders.</p>
 <table>
 <tbody>
 <tr>
@@ -86,7 +87,7 @@ description: ""
 <li>The School will identify and promote a wide range of opportunities for student leaders to grow and develop their leadership potential.&nbsp;</li>
 </ul>
 <p>From Secondary 1 to Secondary 3, Theresian Student Leaders will attend one SLP module per year. Module 1 and Module 2, which are non-hierarchical, will be conducted on alternate years for all Theresian Student Leaders, largely from the lower secondary levels. By the end of her first two years in STC, each Theresian Student Leader would have completed both modules (the order of the modules attended would differ for consecutive cohorts, as Module 1 alternates yearly with Module 2). In her third year in STC, she would be given the opportunity to complete Module 3, which is conducted every year for Secondary 3 Theresian Student Leaders.</p>
-<p><strong><u>Post-Training Assignments</u></strong><br />Theresian Student Leaders who have completed at least one module of the 3-module SLP are expected to undertake the following activities as part of the fulfilment of their post-training requirements:<br />They will:</p>
+<p><strong><u>Post-Training Assignments</u></strong><br>Theresian Student Leaders who have completed at least one module of the 3-module SLP are expected to undertake the following activities as part of the fulfilment of their post-training requirements:<br>They will:</p>
 <p>1. Plan and lead the implementation of one of the following:</p>
 <ul>
 <li>Secondary One Orientation Camp&nbsp;</li>
@@ -113,7 +114,7 @@ description: ""
 <li>External leadership events such as the Red Cross Donation Drive or Special Olympics Family Day.&nbsp;</li>
 <li>An overseas community service programme&nbsp;</li>
 </ul>
-<p><strong><u>Assessment<br /></u></strong>The assessment stage involves both the student leaders themselves and the leadership teachers, who will conduct mid and end-term reviews on the student leaders&rsquo; performance.</p>
+<p><strong><u>Assessment<br></u></strong>The assessment stage involves both the student leaders themselves and the leadership teachers, who will conduct mid and end-term reviews on the student leaders’ performance.</p>
 <img style="width: 90%;" src="/images/te1.jpg">
 <img src="/images/te2.jpg">
 <p><strong><u>Overview of the 3-module student leadership module to develop Theresian Leaders</u></strong></p>
