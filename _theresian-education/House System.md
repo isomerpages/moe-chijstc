@@ -70,3 +70,4 @@ description: ""
 <li><strong>Inter-class Competitions</strong></li>
 <li><strong>House Values in action: old rubber shoes collection drive</strong></li>
 </ul>
+![House Leaders (Caroline)](/images/2023CCA/hl_caroline.jpg)
