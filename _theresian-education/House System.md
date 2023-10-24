@@ -75,4 +75,3 @@ description: ""
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
 | Text![](/images/2023CCA/hl_catherine.jpg)     | Text ![](/images/2023CCA/hl_ignatius.jpg)    | Text![](/images/2023CCA/hl_isabel.jpg)     |
-
