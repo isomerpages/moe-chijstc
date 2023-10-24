@@ -3,8 +3,8 @@ title: Character and Citizenship Education (CCE)
 permalink: /theresian-education/character-and-citizenship-education-cce/
 description: ""
 ---
-
-![](/images/2023CCA/cce%20formal.jpg)<h4><strong>The Theresian Approach to Citizenship &amp; Character Education (CCE)</strong></h4>
+![](/images/2023CCA/cce%20formal.jpg)
+<h4><strong>The Theresian Approach to Citizenship &amp; Character Education (CCE)</strong></h4>
 <p><em><strong>'</strong></em>The school takes a 3 ‘A’s approach of "Awareness-Actions-Attitudes" to nurture Theresians of character and competence into active citizens who will contribute to the community and nation. Through KNOWLEDGE building, AWARENESS is enhanced. The mastery of SKILLS will guide students’ ACTIONS. Through the implicit and explicit teaching of values, ATTITUDES will be shaped eventually.&nbsp;</p>
 <p>The desired competencies and character traits are encapsulated in the Portrait of the Theresian Girl. The Behavioural Outcomes under the 4 Theresian Values serve as the 4 Level Outcomes in our CCE Curriculum, shown as follows:.</p>
 <table width="688">
