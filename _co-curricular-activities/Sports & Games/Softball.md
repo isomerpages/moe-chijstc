@@ -4,7 +4,8 @@ permalink: /theresian-family/students/co-curricular-activities-cca/sports-n-game
 description: ""
 third_nav_title: Sports & Games
 ---
-<img src="/images/sb1234.jpg">
+<!--<img src="/images/sb1234.jpg">-->
+![](/images/2023CCA/softball.jpg)
 <h4><strong>Introduction</strong></h4>
 <p><strong>Softball - Speed, Win, Game (S.W.I.N.G) FINAL</strong></p>
 <p>The softball team in CHIJ St. Theresa’s Convent was formed in 2004. It started out as a small CCA, barely making a team. Eventually, the team expanded, leading to our current team of passionate and committed players. With guidance under our coach and consistent practice, we learn advance planning and clear communication among players. After all, softball is a strategic game that requires strong mental focus.</p>

@@ -4,7 +4,8 @@ permalink: /theresian-family/students/co-curricular-activities-cca/clubs-and-soc
 description: ""
 third_nav_title: Clubs and Societies
 ---
-<img src="/images/inf123.jpg">
+<!--<img src="/images/inf123.jpg">-->
+![](/images/2023CCA/infocomm.jpg)
 <h4><strong>Introduction</strong></h4>
 <p><strong>Infocomm Club - Technology Connects Us, Unites Us, Amplifies Our Power</strong></p>
 <p>The Infocomm Club is always in search of opportunities for our members to offer their expertise within the school and beyond. The club has thus far played a crucial role in rendering services to the school in providing video and photographic coverage of school events.</p>

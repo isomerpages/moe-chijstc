@@ -4,7 +4,8 @@ permalink: /theresian-family/students/co-curricular-activities-cca/performing-ar
 description: ""
 third_nav_title: Performing Arts
 ---
-<img src="/images/ed1234.jpg">
+<!--<img src="/images/ed1234.jpg">-->
+![](/images/2023CCA/drama%20formal.jpg)
 <h4><strong>Introduction</strong></h4>
 <p>Members of the English Drama Club attend instructional workshops conducted by professional drama trainers on the various aspects of play production. They include vocal training, physical training for movement and ensemble work, as well as stage production. The students also have the opportunity to learn the basics of puppetry, using Muppet-style puppets. They work towards annual productions within the school and in collaboration with other schools and organizations. This year students will be involved in the production of a Drama Night and performances during the lunch periods to showcase their talent. The CCA is coached by instructors from the award-winning theatre company, Cake Theatrical Productions.</p>
 <p><strong>Training Programme</strong></p>

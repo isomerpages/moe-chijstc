@@ -70,3 +70,15 @@ description: ""
 <li><strong>Inter-class Competitions</strong></li>
 <li><strong>House Values in action: old rubber shoes collection drive</strong></li>
 </ul>
+
+
+|  Catherine |    Ignatius |    Isabel  |
+| -------- | -------- | -------- |
+| ![](/images/2023CCA/hl_catherine.jpg)     |  ![](/images/2023CCA/hl_ignatius.jpg)    | ![](/images/2023CCA/hl_isabel.jpg)     |
+
+
+
+| Caroline   | Joseph   | Marie   |
+| -------- | -------- | -------- |
+| ![](/images/2023CCA/hl_caroline.jpg)     | ![](/images/2023CCA/hl_joseph.jpg)     | ![](/images/2023CCA/hl_marie.jpg)     |
+

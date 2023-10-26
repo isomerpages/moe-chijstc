@@ -4,7 +4,8 @@ permalink: /theresian-family/students/co-curricular-activities-cca/clubs-and-soc
 description: ""
 third_nav_title: Clubs and Societies
 ---
-<img src="/images/ec1234.jpg">
+<!--<img src="/images/ec1234.jpg">-->
+![](/images/2023CCA/e_club.jpg)
 <h4><strong>Introduction and Training Programme&nbsp;</strong></h4>
 <p>During each CCA session, every member is required to think and provide realistic ideas for events we either host or take part in. Putting practicability, accessibility of materials, budget and expected profits into utmost consideration, we select the most promising ideas and make plans to convert them into reality. One such example would be taking part in the National Youth Business Challenge annually, where members will have an opportunity to experience and make use of entrepreneurship skills acquired during CCA training sessions, in real life.</p>
 <p>Our teachers-in-charge have helped the CCA to loosen up and become more bonded. Their efforts are greatly appreciated by every member of the club.</p>

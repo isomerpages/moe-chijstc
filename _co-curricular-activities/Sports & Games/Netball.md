@@ -4,7 +4,8 @@ permalink: /theresian-family/students/co-curricular-activities-cca/sports-n-game
 description: ""
 third_nav_title: Sports & Games
 ---
-<img src="/images/nb1234.jpg">
+<!--<img src="/images/nb1234.jpg">-->
+![](/images/2023CCA/netball.jpg)
 <h4><strong>Introduction</strong></h4>
 <p><strong>Netball: One Team, One Dream</strong></p>
 <p>Embracing the motto of “One Team, One Dream”, the fearless STC Netballers brace and overcome all challenges with unyielding grit, resilience and confidence as a team. Indeed, we are driven by our team’s shared vision and common goals. This inspires us to achieve greater heights together.</p>

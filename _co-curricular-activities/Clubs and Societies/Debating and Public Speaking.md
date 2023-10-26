@@ -4,7 +4,8 @@ permalink: /theresian-family/students/co-curricular-activities-cca/clubs-and-soc
 description: ""
 third_nav_title: Clubs and Societies
 ---
-<img src="/images/db1234.jpg">
+<!--<img src="/images/db1234.jpg">-->
+![](/images/2023CCA/debates.jpg)
 <h4><strong>Introduction</strong></h4>
 <p>The objectives of the society are :</p>
 <p>1. To encourage the use of standard English in spoken communication</p>
