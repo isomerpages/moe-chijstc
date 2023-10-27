@@ -18,12 +18,4 @@ sections:
         - title: Quick Links
           description: ""
           url: /quick-links/staff
-  - infopic:
-      title: Infopic
-      subtitle: Test
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      image: /images/ang3.jpg
-      alt: Image alt text
 ---
