@@ -3,11 +3,12 @@ title: School Canteen Advertisement
 permalink: /school-canteen-advertisement/
 description: ""
 ---
+
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Halal Noodles     | 15 November 2023     |      |
-| Cold Drink &amp; Fruits     | 31 October 2023     |    | 
-|Halal Rice   | 30 November 2023  |     |
+| Halal Noodles     | 15 November 2023    |     |
+| Halal Rice            | 30 November 2023    |     |
+| Cold Drink &amp; Fruits    | 31 October 2023     |     |
 <br>**Application Procedure**
 
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.<br>
