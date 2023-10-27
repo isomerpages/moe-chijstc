@@ -6,9 +6,9 @@ description: ""
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
 | Halal Noodles     | 15 November 2023     |      |
-| Cold Drink &amp; Fruits     | 31 October 2023     |     | Halal Rice     | 30 November 2023     |      | 
+| Cold Drink &amp; Fruits     | 31 October 2023     |    | |Halal Rice     | 30 November 2023     |      | 
 
-**Application Procedure**
+**Application Procedure*
 
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.<br>
 [Download Application form](/files/School%20Canteen%20Advertisements/application%20form.pdf)<br>[Download Stall Advertisement - Muslim Noodles (Halal)](/files/School%20Canteen%20Advertisements/stall%20advertisement%20-%20muslim%20noodles%20(halal)%20stall.pdf)<br>
