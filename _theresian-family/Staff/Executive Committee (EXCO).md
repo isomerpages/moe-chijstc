@@ -3,8 +3,9 @@ title: Executive Committee (EXCO)
 permalink: /theresian-family/staff/executive-committee-exco/
 description: ""
 third_nav_title: Staff
+variant: markdown
 ---
-<img src="/images/exco.jpg"><br>
+<img src="/images/2023DepartmentPhotos/exco2023.jpg"><br>
 <table width="787"><colgroup><col width="148"><col width="362"><col width="277"></colgroup>
 <tbody>
 <tr>
