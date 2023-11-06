@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Departments
 variant: markdown
 ---
-<img style="width: 100%;" src="images/2023DepartmentPhotos/dfs2023.jpg">
+<img style="width: 100%;" src="/images/2023DepartmentPhotos/dfs2023.jpg">
 <h4><strong>"Learn, Collaborate &amp; Impact"</strong></h4>
 <p>Design &amp; Food Studies and Aesthetics Department is made up of Art &amp; Design, Design &amp; Technology, Food and Consumer Education/Food and Nutrition and Music.</p>
 <p><strong>Mission</strong></p>
