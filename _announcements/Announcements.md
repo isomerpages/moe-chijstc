@@ -2,6 +2,7 @@
 title: Announcements
 permalink: /others/announcement/
 description: ""
+variant: markdown
 ---
 <!--<p><strong>Change of CCA Exercise 2023</strong>
 <br>Dear Students,<br> 
@@ -10,9 +11,10 @@ Please take note of the submission deadline for the Change of CCA form is Tuesda
 <a href="/files/2023_change_of_cca_form_(as_of_15_aug).pdf">2023 Change of CCA form (As of 15 Aug)</a>
 </p><hr>
 <p></p>-->
-<p><strong>2023 Open House Webinar</strong>
-<img src="/images/2023_chijstc_webinar_broadcast_poster.jpg">
-<br>CHIJ St. Theresa’s Convent warmly invites all Primary 6 students and their parents/guardians to our Open House Webinar 2023! The webinar will feature a sharing by our Principal, Mrs Jenny Leong, as well as Q&amp;A with School Leaders and Key Personnel. Details are as follows:
+<p><strong>2023 Homecoming Dinner</strong>
+<img src="/images/latest banner for moe for stc homecoming 2023.jpg"><br>
+</p><p><strong>2023 Open House Webinar</strong>
+<img src="/images/2023_chijstc_webinar_broadcast_poster.jpg"><br>CHIJ St. Theresa’s Convent warmly invites all Primary 6 students and their parents/guardians to our Open House Webinar 2023! The webinar will feature a sharing by our Principal, Mrs Jenny Leong, as well as Q&amp;A with School Leaders and Key Personnel. Details are as follows:
 <br>
 Date: Tuesday 14 November 2023<br>
 Time: 4.00pm – 5.00pm 

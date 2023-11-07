@@ -3,11 +3,11 @@ title: Character and Citizenship Education
 permalink: /theresian-family/departments/character-and-citizenship-education/
 description: ""
 third_nav_title: Departments
+variant: markdown
 ---
-
-<img style="width: 80%;" src="/images/cce0.jpg" />
-<p><strong>Mission<br /></strong>To develop Theresian students to be persons for God and for others through the promotion of truth, justice, freedom and love.</p>
-<p><strong>Vision<br /></strong>To nurture Theresian students to be persons for God and for others, guided by the core Theresian values of Compassion, Conscience, Commitment and Courage.&nbsp;</p>
+<img style="width: 100%;" src="/images/2023DepartmentPhotos/cce2023.jpg">
+<p><strong>Mission<br></strong>To develop Theresian students to be persons for God and for others through the promotion of truth, justice, freedom and love.</p>
+<p><strong>Vision<br></strong>To nurture Theresian students to be persons for God and for others, guided by the core Theresian values of Compassion, Conscience, Commitment and Courage.&nbsp;</p>
 <p><strong>Our Approach</strong></p>
 <ul>
 <li>Providing opportunities for character formation and good citizenship through a school-wide integrated Values Education programme comprising Pastoral Care, CCE, Career Guidance and National Education programmes.</li>
@@ -23,8 +23,8 @@ third_nav_title: Departments
 <li>Counselling services are provided by the Full-Time School Counsellor and Teacher Counsellors for students-at-risk as well as students who need special care and attention.&nbsp;</li>
 <li>Clear Discipline framework, guidelines and processes help students in self-management and develop good discipline and relationships with others.&nbsp;</li>
 <li>Career Guidance Programme includes visits to junior colleges, polytechnics and technical institutions as well as talks by representatives from these organizations to inform and raise career awareness of pupils regarding the benefits of various options available to them. Speakers from various professions are also invited to educate pupils about career opportunities.&nbsp;</li>
-<li>Partnership Programme involves close collaboration and engagement with parents as partners in the development and nurturing of the students. Regular Parent-Teacher Conferences, Parents&rsquo; Info Sessions, Breakfast with Principal are various platforms for parental involvement. Parent Support Group and Singapore Family Education programmes include talks and workshops for parents to engage their support, enhance and build their capacities to nurture healthy bonds with their daughters.&nbsp;</li>
+<li>Partnership Programme involves close collaboration and engagement with parents as partners in the development and nurturing of the students. Regular Parent-Teacher Conferences, Parents’ Info Sessions, Breakfast with Principal are various platforms for parental involvement. Parent Support Group and Singapore Family Education programmes include talks and workshops for parents to engage their support, enhance and build their capacities to nurture healthy bonds with their daughters.&nbsp;</li>
 <li>The Theresian Heart and Rosebud Awards recognise exemplary behaviour and attitude as well as good academic progress throughout the year. Other prestigious school awards recognize graduating students who have done well in other areas pertaining to academic progress, sports and service to the school community throughout the school experience.</li>
 </ul>
-<p><strong>Head of Department&nbsp;</strong><strong>CCE &amp; Values Education<br /></strong>Mrs Amanda Tan&nbsp;(<a href="mailto:teo_hui_rong_amanda@moe.edu.sg">teo_hui_rong_amanda@moe.edu.sg</a>)</p>
-<p><strong>Senior Teacher CCE &amp; Values Education<br /></strong>Mrs Clara Ang (<a href="mailto:wong_kit_han_clara@moe.edu.sg">wong_kit_han_clara@moe.edu.sg</a>)</p>
+<p><strong>Head of Department&nbsp;</strong><strong>CCE &amp; Values Education<br></strong>Mrs Amanda Tan&nbsp;(<a href="mailto:teo_hui_rong_amanda@moe.edu.sg">teo_hui_rong_amanda@moe.edu.sg</a>)</p>
+<p><strong>Senior Teacher CCE &amp; Values Education<br></strong>Mrs Clara Ang (<a href="mailto:wong_kit_han_clara@moe.edu.sg">wong_kit_han_clara@moe.edu.sg</a>)</p>

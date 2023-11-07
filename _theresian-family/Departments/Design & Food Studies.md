@@ -3,9 +3,9 @@ title: Design & Food Studies
 permalink: /theresian-family/departments/design-n-food-studies/
 description: ""
 third_nav_title: Departments
+variant: markdown
 ---
-
-<img style="width: 80%;" src="/images/dfs0.jpg" />
+<img style="width: 100%;" src="/images/2023DepartmentPhotos/dfs2023.jpg">
 <h4><strong>"Learn, Collaborate &amp; Impact"</strong></h4>
 <p>Design &amp; Food Studies and Aesthetics Department is made up of Art &amp; Design, Design &amp; Technology, Food and Consumer Education/Food and Nutrition and Music.</p>
 <p><strong>Mission</strong></p>
@@ -23,10 +23,10 @@ third_nav_title: Departments
 <h4><u><strong>Head of Department</strong></u></h4>
 <p>Mdm Chin Pooi Pooi (<a href="mailto:chin_pooi_pooi@moe.edu.sg">chin_pooi_pooi@moe.edu.sg</a>)</p>
 <h4><strong><u>Department Staff</u></strong></h4>
-<p><strong>Art and Design</strong><br />Mr Edgar Seow (<a href="mailto:seow_siang_kim_edgar@moe.edu.sg">seow_siang_kim_edgar@moe.edu.sg</a>)<br />Ms Shehana Binte Zulazmi (<a href="mailto:shehana_zulazmi@moe.edu.sg">shehana_zulazmi@moe.edu.sg</a>)<br /><strong>Design and Technology<br /></strong>Mr Lim Choon Hong (<a href="mailto:lim_choon_hong@moe.edu.sg">lim_choon_hong@moe.edu.sg</a>)<br />Mr Pek Aik Soon (<a href="mailto:pek_aik_soon@moe.edu.sg">pek_aik_soon@moe.edu.sg</a>)<br />Ms Rachel Chong (<a href="mailto:chong_shufen@moe.edu.sg">chong_shufen@moe.edu.sg</a>)<br />Mr Philip Tan (<a href="mailto:tan_en_yaw_philip@schools.gov.sg" target="">tan_en_yaw_philip@schools.gov.sg</a>)<br /><strong>Food and Consumer Education/Food and Nutrition<br /></strong>Ms Angela Yang Huihui (<a href="mailto:angela_yang_hui_hui@moe.edu.sg">angela_yang_hui_hui@moe.edu.sg</a>)<br />Mr Jerry Ho (<a href="mailto:ho_kok_leong_jerry@moe.edu.sg">ho_kok_leong_jerry@moe.edu.sg</a>)<br /><strong>Music<br /></strong>Ms Eugenie Pui (<a href="mailto:pui_ang_yii_eugenie@moe.edu.sg">pui_ang_yii_eugenie@moe.edu.sg</a>)</p>
+<p><strong>Art and Design</strong><br>Mr Edgar Seow (<a href="mailto:seow_siang_kim_edgar@moe.edu.sg">seow_siang_kim_edgar@moe.edu.sg</a>)<br>Ms Shehana Binte Zulazmi (<a href="mailto:shehana_zulazmi@moe.edu.sg">shehana_zulazmi@moe.edu.sg</a>)<br><strong>Design and Technology<br></strong>Mr Lim Choon Hong (<a href="mailto:lim_choon_hong@moe.edu.sg">lim_choon_hong@moe.edu.sg</a>)<br>Mr Pek Aik Soon (<a href="mailto:pek_aik_soon@moe.edu.sg">pek_aik_soon@moe.edu.sg</a>)<br>Ms Rachel Chong (<a href="mailto:chong_shufen@moe.edu.sg">chong_shufen@moe.edu.sg</a>)<br>Mr Philip Tan (<a href="mailto:tan_en_yaw_philip@schools.gov.sg" target="">tan_en_yaw_philip@schools.gov.sg</a>)<br><strong>Food and Consumer Education/Food and Nutrition<br></strong>Ms Angela Yang Huihui (<a href="mailto:angela_yang_hui_hui@moe.edu.sg">angela_yang_hui_hui@moe.edu.sg</a>)<br>Mr Jerry Ho (<a href="mailto:ho_kok_leong_jerry@moe.edu.sg">ho_kok_leong_jerry@moe.edu.sg</a>)<br><strong>Music<br></strong>Ms Eugenie Pui (<a href="mailto:pui_ang_yii_eugenie@moe.edu.sg">pui_ang_yii_eugenie@moe.edu.sg</a>)</p>
 <h4><strong>Syllabuses</strong></h4>
-<p><strong>Lower Secondary<br /></strong>Food and Nutrition - Lower Secondary<br />Visual Arts - Lower Secondary<br />Design &amp; Technology Syllabus - Lower Secondary: Exp / N(A) / N(T)<br />Music &ndash; Secondary</p>
-<p><strong>Programmes/ Enrichments<br /></strong>Sec 2 E/NA/NT &ndash; Dance Enrichment<br />Sec 3NT &ndash; Food and Nutrition Enrichment</p>
+<p><strong>Lower Secondary<br></strong>Food and Nutrition - Lower Secondary<br>Visual Arts - Lower Secondary<br>Design &amp; Technology Syllabus - Lower Secondary: Exp / N(A) / N(T)<br>Music – Secondary</p>
+<p><strong>Programmes/ Enrichments<br></strong>Sec 2 E/NA/NT – Dance Enrichment<br>Sec 3NT – Food and Nutrition Enrichment</p>
 <h4><strong>Useful Links</strong></h4>
 <p><strong>Design and Technology:</strong></p>
 <ul>

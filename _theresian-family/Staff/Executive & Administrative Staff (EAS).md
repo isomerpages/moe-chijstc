@@ -3,7 +3,9 @@ title: Executive & Administrative Staff (EAS)
 permalink: /theresian-family/staff/executive-n-administrative-staff-eas/
 description: ""
 third_nav_title: Staff
+variant: markdown
 ---
+<img src="/images/2023DepartmentPhotos/eas2023.jpg"><br>
 <table border="0" width="492" cellspacing="0" cellpadding="0"><colgroup><col width="252"><col width="240"></colgroup>
 <tbody>
 <tr>
