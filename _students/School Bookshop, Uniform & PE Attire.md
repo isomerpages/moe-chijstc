@@ -25,6 +25,9 @@ variant: markdown
 </tr>
 </tbody>
 </table>
+<p><strong>Purchase Instructions</strong></p>
+[Download purchase instructions for school textbooks](/files/Booklist/purchase%20of%20school%20textbooks%20and%20stationery.pdf)<br>
+[Download purchase instructions for school uniform](/files/Booklist/purchase%20of%20school%20uniform%20and%20pe%20attire.pdf)
 <p><strong>Vendors</strong></p>
 <table width="0">
 <tbody>
