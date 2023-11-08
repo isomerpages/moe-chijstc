@@ -2,6 +2,7 @@
 title: School Bookshop, Uniform & PE Attire
 permalink: /theresian-family/students/school-bookshop-uniform-n-pe-attire/
 description: ""
+variant: markdown
 ---
 <h4><strong>Book and Stationery Lists</strong></h4>
 <table>
@@ -18,12 +19,15 @@ description: ""
 </td>
 </tr>
 <tr>
-<td style="text-align: center;" width="205"><a href="https://drive.google.com/file/d/1uHQ-ST_D39hRqWfM6LMaPmmuyz2KSBQC/view?usp=share_link" target="">BOOKLIST 2023 - 1EXP (G3).pdf</a><br><a href="https://drive.google.com/file/d/1ouUc-9rhFz__-J-WQjXoX91WxKV6ZaNn/view?usp=share_link" target="">BOOKLIST 2023 - 2EXP (G3).pdf</a><br><a href="https://drive.google.com/file/d/17ymeQj6RNwUfUYoIAV3qthCyGZgov2wP/view?usp=share_link" target="">BOOKLIST 2023 - 3EXP.pdf</a><br><a href="https://drive.google.com/file/d/178tp346HhVWtpX4uBSLjgTb4dv62JeMJ/view?usp=share_link" target="">BOOKLIST 2023 - 4EXP.pdf</a></td>
-<td style="text-align: center;" width="205"><a href="https://drive.google.com/file/d/1Oo4Pj3T7fPGQR0n9YM95DPhHB-bkhC7k/view?usp=share_link" target="">BOOKLIST 2023 - 1NA (G2).pdf</a><br><a class="refobj" href="https://drive.google.com/file/d/1bbxbcQ0vzILRu7bCqbcKqUx7yQvhlWLY/view?usp=share_link" target="">BOOKLIST 2023 - 2NA (G2).pdf</a><br><a class="refobj" href="https://drive.google.com/file/d/1TZD8BuEWfxNBUel2-usefDd83FKq3HkO/view?usp=share_link" target="">BOOKLIST 2023 - 3NA.pdf</a><br><a class="refobj" href="https://drive.google.com/file/d/1FqG3Ry0lyx62pLwq6ckssqGe1fYeooKv/view?usp=share_link" target="">BOOKLIST 2023 - 4NA.pdf</a><br><a class="refobj" href="https://drive.google.com/file/d/1TojG_FnVVJbI4cqywSU9vc5vUpNHVlQX/view?usp=share_link" target="">BOOKLIST 2023 - 5NA.pdf</a></td>
-<td style="text-align: center;" width="205"><a href="https://drive.google.com/file/d/19onbdaBE068OPASbtM_OKP1GGUjBi-oS/view?usp=share_link" target="">BOOKLIST 2023 - 1NT (G1).pdf</a><br><a class="refobj" href="https://drive.google.com/file/d/1PE8w-ARki02Y9J_tr8plYv_bsxRZmASC/view?usp=share_link" target="">BOOKLIST 2023 - 2NT (G1).pdf</a><br><a class="refobj" href="https://drive.google.com/file/d/1q0wI7adv8uDSK00wLW7cdyIgXOa_DV1I/view?usp=share_link" target="">BOOKLIST 2023 - 3NT.pdf</a><br><a class="refobj" href="https://drive.google.com/file/d/1T_TlIu5gxopISNzbvy0u95979OHbXPb5/view?usp=share_link" target="">BOOKLIST 2023 - 4NT.pdf</a></td>
+<td style="text-align: center;" width="205"><a href="/files/Booklist/secondary%201%20exp%20(g3)%20-%202024.pdf" target="">BOOKLIST 2024 - 1EXP (G3).pdf</a><br><a href="/files/Booklist/secondary%202%20exp%20(g3)%20-%202024.pdf" target="">BOOKLIST 2024 - 2EXP (G3).pdf</a><br><a href="/files/Booklist/secondary%203%20exp%20(g3)%20-%202024.pdf" target="">BOOKLIST 2024 - 3EXP(G3).pdf</a><br><a href="/files/Booklist/secondary%204%20exp%20-%202024.pdf" target="">BOOKLIST 2024 - 4EXP.pdf</a></td>
+<td style="text-align: center;" width="205"><a href="/files/Booklist/secondary%201%20na%20(g2)%20-%202024.pdf" target="">BOOKLIST 2024 - 1NA (G2).pdf</a><br><a href="/files/Booklist/secondary%202%20na%20(g2)%20-%202024.pdf" target="">BOOKLIST 2024 - 2NA (G2).pdf</a><br><a href="/files/Booklist/secondary%203%20na%20(g2)%20-%202024.pdf" target="">BOOKLIST 2024 - 3NA(G2).pdf</a><br><a href="/files/Booklist/secondary%204%20na%20-%202024.pdf" target="">BOOKLIST 2024 - 4NA.pdf</a><br><a href="/files/Booklist/secondary%205%20na%20-%202024.pdf" target="">BOOKLIST 2024 - 5NA.pdf</a></td>
+<td style="text-align: center;" width="205"><a href="/files/Booklist/secondary%201%20nt%20(g1)%20-%202024.pdf" target="">BOOKLIST 2024 - 1NT (G1).pdf</a><br><a href="/files/Booklist/secondary%202%20nt%20(g1)%20-%202024.pdf" target="">BOOKLIST 2024 - 2NT (G1).pdf</a><br><a href="/files/Booklist/secondary%203%20nt%20(g1)%20-%202024.pdf" target="">BOOKLIST 2024 - 3NT(G1).pdf</a><br><a href="/files/Booklist/secondary%204%20nt%20-%202024.pdf" target="">BOOKLIST 2024 - 4NT.pdf</a></td>
 </tr>
 </tbody>
 </table>
+<p><strong>Purchase Instructions</strong></p>
+[Download purchase instructions for school textbooks](/files/Booklist/purchase%20of%20school%20textbooks%20and%20stationery.pdf)<br>
+[Download purchase instructions for school uniform](/files/Booklist/purchase%20of%20school%20uniform%20and%20pe%20attire.pdf)
 <p><strong>Vendors</strong></p>
 <table width="0">
 <tbody>
