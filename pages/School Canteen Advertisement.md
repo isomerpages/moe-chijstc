@@ -13,8 +13,8 @@ variant: markdown
 **Application Procedure**
 
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.<br>
-[Download Application form](/files/School%20Canteen%20Advertisements/application%20form.pdf)<br>[Download Stall Advertisement - Muslim Noodles (Halal)](/files/School%20Canteen%20Advertisements/stall%20advertisement%20-%20muslim%20noodles%20(halal)%20stall.pdf)
-<br>[Download Stall Advertisement - Halal Rice Stall](/files/School%20Canteen%20Advertisements/stall_advertisement_halal_rice_stall.pdf)
+[Download Application form](/files/School%20Canteen%20Advertisements/application%20form.pdf)<br>[Stall Advertisement for Halal Noodles Staff](/files/School%20Canteen%20Advertisements/Stall_Advertisement___Halal_Noodles_Stall.pdf)
+<br>[Stall Advertisement for Halal Rice Stall](/files/School%20Canteen%20Advertisements/Stall_Advertisement___Halal_Rice_Stall.pdf)
 <br>
 2. Attached the following documents together with the application form:
 * Photocopy of the NRIC (front and back)
