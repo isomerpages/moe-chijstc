@@ -2,11 +2,12 @@
 title: School Canteen Advertisement
 permalink: /school-canteen-advertisement/
 description: ""
+variant: markdown
 ---
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Halal Noodles     | 15 November 2023    |     |
-| Halal Rice            | 30 November 2023    |     |
+| Halal Noodles     | 19 December 2023    |     |
+| Halal Rice            | 19 December 2023    |     |
 |     |       |     |
 
 **Application Procedure**
