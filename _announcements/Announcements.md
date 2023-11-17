@@ -15,8 +15,7 @@ Please take note of the submission deadline for the Change of CCA form is Tuesda
 <img src="/images/latest banner for moe for stc homecoming 2023.jpg"><br>
 </p><hr>
 <p><strong>2023 Open House Webinar</strong></p><p>
-CHIJ St. Theresa’s Convent held our Open House 2023 webinar on Tuesday 14 November 2023. The webinar featured a sharing by our Principal, Mrs Jenny Leong, as well as Q&amp;A with School Leaders and Key Personnel.<br> Primary 6 students and their Parents/Guardians who did not manage to attend are warmly invited to look through the Open House briefing slides attached here . If you have any queries, please write in to chijstcs@moe.edu.sg. 
-[2023 Open House For Sharing](/files/2023_Open_House_For_Sharing.pdf)
+CHIJ St. Theresa’s Convent held our Open House 2023 webinar on Tuesday 14 November 2023. The webinar featured a sharing by our Principal, Mrs Jenny Leong, as well as Q&amp;A with School Leaders and Key Personnel.<br> Primary 6 students and their Parents/Guardians who did not manage to attend are warmly invited to look through the Open House briefing slides attached <a href="/files/2023_Open_Houses_For_Sharing.pdf">here.</a> If you have any queries, please write in to chijstcs@moe.edu.sg. 
 
 Thank you.
 </p><hr><strong>2023 Sec 2 Parents Info Session</strong>
