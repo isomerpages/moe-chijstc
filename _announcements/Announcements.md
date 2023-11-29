@@ -11,7 +11,7 @@ Please take note of the submission deadline for the Change of CCA form is Tuesda
 <a href="/files/2023_change_of_cca_form_(as_of_15_aug).pdf">2023 Change of CCA form (As of 15 Aug)</a>
 </p><hr>
 <p></p>-->
-<p><strong>2023 Homecoming Dinner</strong>
+<p><strong>2023 Year End Message From IJBOM Chairperson</strong>
 <img src="/images/latest banner for moe for stc homecoming 2023.jpg"><br>
 </p><hr>
 <p><strong>2023 Open House Webinar</strong></p><p>
