@@ -11,8 +11,8 @@ Please take note of the submission deadline for the Change of CCA form is Tuesda
 <a href="/files/2023_change_of_cca_form_(as_of_15_aug).pdf">2023 Change of CCA form (As of 15 Aug)</a>
 </p><hr>
 <p></p>-->
-<p><strong>2023 Year End Message From IJBOM Chairperson</strong>
-<a href="/files/2023_Year_End_Message_from_IJBOM_Chairperson.pdf">Please click here to download the Year End Message</a></p><hr>
+<p><strong>2023 Year End Message From IJBOM Chairperson</strong><br>
+<a href="/files/2023_Year_End_Message_from_IJBOM_Chairperson.pdf">Please click here to view the Year End Message</a></p><hr>
 <p><strong>2023 Open House Webinar</strong></p><p>
 CHIJ St. Theresa’s Convent held our Open House 2023 webinar on Tuesday 14 November 2023. The webinar featured a sharing by our Principal, Mrs Jenny Leong, as well as Q&amp;A with School Leaders and Key Personnel.<br> Primary 6 students and their Parents/Guardians who did not manage to attend are warmly invited to look through the Open House briefing slides attached <a href="/files/2023_Open_House_For_Sharing.pdf">here.</a> If you have any queries, please write in to chijstcs@moe.edu.sg. 
 
