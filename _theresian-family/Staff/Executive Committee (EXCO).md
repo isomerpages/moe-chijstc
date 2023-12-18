@@ -43,7 +43,7 @@ variant: markdown
 </tr>
 <tr>
 <td style="text-align: center;" width="148" height="40">
-<p>Felicia Kuo (Ms)</p>
+<p>Janice Wee (Ms)</p>
 </td>
 <td style="text-align: center;" width="362">
 <p>Vice-Principal 2 &amp; Sec 1&amp;3 Level Advisor</p>
