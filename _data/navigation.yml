@@ -8,6 +8,8 @@ links:
     collection: theresian-family
   - title: Theresian Education
     collection: theresian-education
+  - title: Sec1 Registration
+    collection: about-us
   - title: Others
     url: /newsletter
     sublinks:
