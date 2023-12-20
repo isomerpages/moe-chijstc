@@ -12,7 +12,7 @@ variant: markdown
 <!--<img src="/images/sec1.jpg">-->
 <p>When you receive your posting to CHIJ St Theresa’s Convent, you&nbsp;do not need to be physically present&nbsp;in our school on that day as the Sec 1 Registration will be conducted online.</p>
 <p>For our Principal's Welcome Letter, please click below.</p>
-[Principal Welcome Letter](/files/2024_Principal_s_Welcome_Letter___Sec_1.pdf)
+[Principal Welcome Letter](/files/V2_2024_Principal_s_Welcome_Letter___Sec_1.pdf)
 <p><strong>Sec 1 Registration Day<br></strong>Results of the Secondary School Posting are released on Wednesday, 20 December 2023. Please join us for the Sec 1 Registration Day webinar at 9.00am on 21 December 2023. You do not need to be physically present in our school on 21 December.
 </p><p>Details of the webinar are as follows:
 <br>
