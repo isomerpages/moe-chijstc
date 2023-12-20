@@ -9,15 +9,15 @@ variant: markdown
 <p style="text-align: center;">2024 Theme: CHIJ 170th Anniversary (Hold On To Our Dream)<br>CHIJ St Theresa’s Convent Welcomes all our<br>2024 Sec 1 Students and Parents!</p>
 <p><strong>The Theresian community warmly welcomes you!</strong></p>
 <p>We are pleased that you have made CHIJ St. Theresa's Convent (STC) your school of choice. You are entering into a new and an exciting phase of school life. At CHIJ STC, we aim to involve you in all aspects of school life so as to develop a strong community of leaders and learners for God and for others.&nbsp;For the students, we understand that transiting from primary to secondary school is a big step and that many of you will need time to adjust to a new environment and new expectations. There will be numerous opportunities to learn and to forge new friendships.</p>
-<img src="/images/sec1.jpg">
+<!--<img src="/images/sec1.jpg">-->
 <p>When you receive your posting to CHIJ St Theresa’s Convent, you&nbsp;do not need to be physically present&nbsp;in our school on that day as the Sec 1 Registration will be conducted online.</p>
 <p>For our Principal's Welcome Letter, please click below.</p>
 [Principal Welcome Letter](/files/2024_Principal_s_Welcome_Letter___Sec_1.pdf)
 <p><strong>Sec 1 Registration Day<br></strong>Results of the Secondary School Posting are released on Wednesday, 20 December 2023. Please join us for the Sec 1 Registration Day webinar at 9.00am on 21 December 2023. You do not need to be physically present in our school on 21 December.
 </p><p>Details of the webinar are as follows:
 <br>
-https://moe-singapore.zoom.us/j/81450699252<br>
- Passcode: 965690<br>
+<a href="https://moe-singapore.zoom.us/j/81450699252"><strong>https://moe-singapore.zoom.us/j/81450699252</strong></a>																									
+	Passcode: 965690
 	
 For identification purposes, please observe the following naming convention for the webinar:
 	
