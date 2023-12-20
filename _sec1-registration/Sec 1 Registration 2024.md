@@ -6,7 +6,7 @@ variant: markdown
 ---
 <h4><strong>Information for Sec 1 Registration 2024</strong></h4>
 <h4 style="text-align: center;">Sec 1 Registration 2024</h4>
-<p style="text-align: center;">2024 Theme: CHIJ 170th Anniversary (Hold On To Our Dream)<br>CHIJ St Theresa’s Convent Welcomes all our<br>2024 Sec 1 Students and Parents!</p>
+<p style="text-align: center;">2024 Theme: CHIJ 170th Anniversary (Hold On To Our IJ Dream)<br>CHIJ St Theresa’s Convent Welcomes all our<br>2024 Sec 1 Students and Parents!</p>
 <p><strong>The Theresian community warmly welcomes you!</strong></p>
 <p>We are pleased that you have made CHIJ St. Theresa's Convent (STC) your school of choice. You are entering into a new and an exciting phase of school life. At CHIJ STC, we aim to involve you in all aspects of school life so as to develop a strong community of leaders and learners for God and for others.&nbsp;For the students, we understand that transiting from primary to secondary school is a big step and that many of you will need time to adjust to a new environment and new expectations. There will be numerous opportunities to learn and to forge new friendships.</p>
 <!--<img src="/images/sec1.jpg">-->
@@ -80,7 +80,7 @@ If you are unable to join us for the Registration Day webinar, you can view the 
 <li>PE attire or primary school PE attire</li>
 <li>A storybook</li>
 </ul>
-<p>Please refer to the Orientation Programme for daily dismissal time for 3<sup>rd</sup>, 4<sup>th</sup>&nbsp;and 5<sup>th</sup>&nbsp;January 2024.&nbsp;More details will be made available nearer the date.</p>
+<p>Please refer to the Orientation Programme for daily dismissal time for 2<sup>nd</sup>, 3<sup>rd</sup>, 4<sup>th</sup>&nbsp;and 5<sup>th</sup>&nbsp;January 2024.&nbsp;More details will be made available nearer the date.</p>
 <p><strong>Traffic Flow<br></strong>&nbsp;The school operates a 2-way traffic flow system during the morning peak period. Cars may either (i) enter from the main gate along Lower Delta Road and exit by the back gate along Telok Blangah Way;&nbsp;<u>OR</u>&nbsp;(ii) enter from the gate along Telok Blangah Way and exit by the main gate along Lower Delta Road.</p>
 <p>During the afternoon peak period, only 1-way traffic flow is allowed. Cars may only enter from the main gate along Lower Delta Road and exit by the back gate along Telok Blangah Way.</p>
 <p>Please see the maps below for more information.</p>
