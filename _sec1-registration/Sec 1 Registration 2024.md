@@ -88,5 +88,5 @@ If you are unable to join us for the Registration Day webinar, you can view the 
 <img src="/images/tf2.png">
 
 
-<p><strong>USE OF PHOTOGRAPH(S) AND VIDEO IMAGES(S)<br></strong><strong>Photograph(s) or video image(s) of students and their parents may be captured during school activities and events such as classroom lessons, CCA, school camps, school concerts. The school may use and publish such photographs and / or video recordings in school publications, website, social media channels and other communication channels.</strong></p>
-<p><strong>For any concerns, please email our school at&nbsp;</strong><a href="mailto:chijstcs@moe.edu.sg"><strong>chijstcs@moe.edu.sg</strong></a><strong>.</strong></p>and cc to the Secondary One Year Head, Ms Angela Yang at angela_yang_hui_hui@moe.edu.sg.
+<p><strong>USE OF PHOTOGRAPH(S) AND VIDEO IMAGES(S)<br></strong>Photograph(s) or video image(s) of students and their parents may be captured during school activities and events such as classroom lessons, CCA, school camps, school concerts. The school may use and publish such photographs and / or video recordings in school publications, website, social media channels and other communication channels.</p>
+<p><strong>For any concerns, please email our school at&nbsp;</strong><a href="mailto:chijstcs@moe.edu.sg"><strong>chijstcs@moe.edu.sg</strong></a><strong>.and cc to the Secondary One Year Head, Ms Angela Yang at&nbsp; angela_yang_hui_hui@moe.edu.sg.</strong></p>
