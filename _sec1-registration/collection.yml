@@ -1,0 +1,4 @@
+collections:
+  sec1-registration:
+    output: true
+    order: []
