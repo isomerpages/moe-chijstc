@@ -26,7 +26,7 @@ For identification purposes, please observe the following naming convention for 
 	
 If you are unable to join us for the Registration Day webinar, you can view the slides that will be shared here after the webinar.
 </p><p><strong>Online E-Registration Form</strong><br>Please ensure you have your Parents Gateway app to complete the Sec 1 online e-registration on Sec 1 Registration Day. After you have received your school posting, CHIJ St. Theresa’s Convent should be automatically reflected on the Parents Gateway app and you will be able to receive notifications from our school.</p>
-<p>On Sec 1 Registration Day, you will receive a notification via the Parents Gateway app to complete the online e-registration form on FormSG. This will allow you to complete the Sec 1 registration online. Please complete and submit the form&nbsp;<a href="https://form.gov.sg/639bcc0657f0eb0012fd6442"><strong>here</strong></a> before 26 December 2023, 5pm.</p>
+<p>On Sec 1 Registration Day, you will receive a notification via the Parents Gateway app to complete the online e-registration form on FormSG. This will allow you to complete the Sec 1 registration online. Please complete and submit the form&nbsp;<a href="https://form.gov.sg/65814ab51a441c00115f3144"><strong>here</strong></a> before 26 December 2023, 5pm.</p>
 <p>For students who intend to put in an appeal to another school, you will still need to fill up this form and notify CHIJ STC General Office should you be successful in your appeal.</p>
 <p><strong>Purchase of School Uniform, PE Attire, Textbooks &amp; Stationery<br></strong>You are encouraged to make your orders online.&nbsp;Purchase can be done via&nbsp;<u>online</u>&nbsp;order (to opt for either home delivery or self-collection in school) or&nbsp;<strong><u>non</u></strong><u>-online</u>&nbsp;order (to order and self-collect in school).</p>
 <table width="623">
@@ -59,7 +59,7 @@ If you are unable to join us for the Registration Day webinar, you can view the 
 </ul>
 • Strictly based on making an e-appointment to book a date/time for self-collection in school: ➢ Each customer will receive a confirmation email listing the appointment time. 
 ➢ Please keep to your timing and show your confirmation email at the Security Guard House (main gate). 
-➢ You need only make one e-appointment via this link for the purchase of school uniform, PE attire, textbooks and stationery.
+➢ You need only make one e-appointment via this <a href="https://www.picktime.com/stc2023"><strong>link </strong></a>for the purchase of school uniform, PE attire, textbooks and stationery.
 
 • Student who is under the MOE/School-based FAS is also required to make an e-appointment to book a date to collect the required items in school.
 
