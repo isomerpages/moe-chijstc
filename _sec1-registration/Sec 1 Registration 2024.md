@@ -15,7 +15,7 @@ variant: markdown
 [Principal Welcome Letter](/files/2024_Principal_s_Welcome_Letter___Sec_1.pdf)
 <p><strong>Sec 1 Registration Day<br></strong>Results of the Secondary School Posting are released on Wednesday, 20 December 2023. Please join us for the Sec 1 Registration Day webinar at 9.00am on 21 December 2023. You do not need to be physically present in our school on 21 December.
 </p><p>Details of the webinar are as follows:
-	
+<br>
 https://moe-singapore.zoom.us/j/81450699252
  Passcode: 965690<br>
 	
@@ -29,7 +29,7 @@ If you are unable to join us for the Registration Day webinar, you can view the 
 </p><p><strong>Online E-Registration Form</strong><br>Please ensure you have your Parents Gateway app to complete the Sec 1 online e-registration on Sec 1 Registration Day. After you have received your school posting, CHIJ St. Theresa’s Convent should be automatically reflected on the Parents Gateway app and you will be able to receive notifications from our school.</p>
 <p>On Sec 1 Registration Day, you will receive a notification via the Parents Gateway app to complete the online e-registration form on FormSG. This will allow you to complete the Sec 1 registration online. Please complete and submit the form&nbsp;<a href="https://form.gov.sg/65814ab51a441c00115f3144"><strong>here</strong></a> before 26 December 2023, 5pm.</p>
 <p>For students who intend to put in an appeal to another school, you will still need to fill up this form and notify CHIJ STC General Office should you be successful in your appeal.</p>
-<p><strong>Purchase of School Uniform, PE Attire, Textbooks &amp; Stationery<br></strong>You are encouraged to make your orders online.&nbsp;Purchase can be done via&nbsp;<u>online</u>&nbsp;order (to opt for either home delivery or self-collection in school) or&nbsp;<strong><u>non</u></strong><u>-online</u>&nbsp;order (to order and self-collect in school).</p>
+<p><strong>Purchase of School Uniform, PE Attire, Textbooks &amp; Stationery<br></strong>You are encouraged to make your orders online.Purchase can be done via online order (to opt for either home delivery or self-collection in school) or non online order (to order and self-collect in school).</p>
 <table width="623">
 <tbody>
 <tr>
