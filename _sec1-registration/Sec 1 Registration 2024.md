@@ -16,7 +16,7 @@ variant: markdown
 <p><strong>Sec 1 Registration Day<br></strong>Results of the Secondary School Posting are released on Wednesday, 20 December 2023. Please join us for the Sec 1 Registration Day webinar at 9.00am on 21 December 2023. You do not need to be physically present in our school on 21 December.
 </p><p>Details of the webinar are as follows:
 <br>
-https://moe-singapore.zoom.us/j/81450699252
+https://moe-singapore.zoom.us/j/81450699252<br>
  Passcode: 965690<br>
 	
 For identification purposes, please observe the following naming convention for the webinar:
@@ -72,7 +72,7 @@ If you are unable to join us for the Registration Day webinar, you can view the 
 
 <p><strong>Information for Financial Assistance Scheme (FAS) Application<br></strong>If you wish to apply or need more information for the MOE Financial Assistance Scheme, you may read the details in the school website (click&nbsp;<a href="/others/home-tab-box/parents/moe-financial-assistance-scheme-fas"><strong>here</strong></a>).</p>
 <p><strong>Appeal for transfer</strong><br>For appeals due to serious medical conditions, please refer to the following&nbsp;<a href="https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer"><strong>MOE webpage</strong></a></p>
-<p>If you wish to apply for transfer due to non-medical reasons, please click&nbsp;<a href="https://form.gov.sg/639bdb22ad255700121bac88"><strong>here</strong></a>&nbsp;to complete the FormSG and submit by&nbsp;<strong>29 December 2023, 12pm</strong>. Please note that your child needs to meet our school’s admission criteria and our school must have available vacancies.</p>
+<p>If you wish to apply for transfer due to non-medical reasons, please click&nbsp;<a href="https://form.gov.sg/65814ad1448a4300128e8b43"><strong>here</strong></a>&nbsp;to complete the FormSG and submit by&nbsp;<strong>29 December 2023, 12pm</strong>. Please note that your child needs to meet our school’s admission criteria and our school must have available vacancies.</p>
 <p><strong>First Day of School 2024<br></strong><strong>Reporting date</strong>: 2nd January 2024 (Tuesday)<br><strong>Reporting time</strong>: 7.20 am<br><strong>Venue</strong>: AVA Room (Level 4)<br><strong>Attire</strong>: Students can report in their IJ Uniform or in their Primary School Uniform<br><strong>Things to bring</strong>:</p>
 <ul>
 <li>Writing materials</li>
