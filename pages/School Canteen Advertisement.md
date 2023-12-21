@@ -6,8 +6,8 @@ variant: markdown
 ---
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Halal Noodles     | 31 December 2023    |     |
-| Halal Rice            | 31 December 2023    |     |
+| Halal Noodles     | 31 January 2024    |     |
+| Halal Rice            | 31 January 2024    |     |
 |     |       |     |
 
 **Application Procedure**
