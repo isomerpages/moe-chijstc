@@ -6,15 +6,15 @@ variant: markdown
 ---
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Halal Noodles     | 19 December 2023    |     |
-| Halal Rice            | 19 December 2023    |     |
+| Halal Noodles     | 31 January 2024    |     |
+| Halal Rice            | 31 January 2024    |     |
 |     |       |     |
 
 **Application Procedure**
 
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.<br>
-[Download Application form](/files/School%20Canteen%20Advertisements/application%20form.pdf)<br>[Stall Advertisement for Halal Noodles Staff](/files/School%20Canteen%20Advertisements/Stall_Advertisement___Halal_Noodles_Stall.pdf)
-<br>[Stall Advertisement for Halal Rice Stall](/files/School%20Canteen%20Advertisements/Stall_Advertisement___Halal_Rice_Stall.pdf)
+[Download Application form](/files/School%20Canteen%20Advertisements/application%20form.pdf)<br>[Stall Advertisement for Halal Noodles Staff](/files/School%20Canteen%20Advertisements/Stall_Advertisement___Halal_Noodles_Stall_01.pdf)
+<br>[Stall Advertisement for Halal Rice Stall](/files/School%20Canteen%20Advertisements/Stall_Advertisement___Halal_Rice_Stall_01.pdf)
 <br>
 2. Attached the following documents together with the application form:
 * Photocopy of the NRIC (front and back)
