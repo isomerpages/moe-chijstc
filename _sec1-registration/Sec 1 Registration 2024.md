@@ -26,7 +26,7 @@ For identification purposes, please observe the following naming convention for 
 • Parents/Guardians: Student’s name_parent’s/guardian’s name (e.g. Sarah Tan_Bryan Tan)
 	
 If you are unable to join us for the Registration Day webinar, you can view the slides that will be shared here after the webinar.</p>
-[2024 Sec 1 Registration Day Webinar Slides](/files/2024_sec_1_registration_day_webinar_slides.pdf)
+[2024 Sec 1 Registration Day Webinar Slides](/files/v2_2024_sec_1_registration_day_slides.pdf)
 <p><strong>Online E-Registration Form</strong><br>Please ensure you have your Parents Gateway app to complete the Sec 1 online e-registration on Sec 1 Registration Day. After you have received your school posting, CHIJ St. Theresa’s Convent should be automatically reflected on the Parents Gateway app and you will be able to receive notifications from our school.</p>
 <p>On Sec 1 Registration Day, you will receive a notification via the Parents Gateway app to complete the online e-registration form on FormSG. This will allow you to complete the Sec 1 registration online. Please complete and submit the form&nbsp;<a href="https://form.gov.sg/65814ab51a441c00115f3144"><strong>here</strong></a> before 26 December 2023, 5pm.</p>
 <p>For students who intend to put in an appeal to another school, you will still need to fill up this form and notify CHIJ STC General Office should you be successful in your appeal.</p>
