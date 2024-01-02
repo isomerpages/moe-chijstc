@@ -251,26 +251,26 @@ variant: markdown
 </td>
 </tr>
 <tr>
-<td style="text-align: center;" width="148" height="40">
+<!--<td height="40" width="148" style="text-align: center;">
 <p>Shivani Rohan (Mrs)</p>
 </td>
-<td style="text-align: center;" width="362">
+<td width="362" style="text-align: center;">
 <p>HOD English Language &amp; Literature (Covering)</p>
 </td>
 <td style="text-align: center;">
-<p><a href="mailto:vivaukandan_shivani@moe.edu.sg" target="">vivaukandan_shivani@moe.edu.sg</a></p>
+<p><a target="" href="mailto:vivaukandan_shivani@moe.edu.sg">vivaukandan_shivani@moe.edu.sg</a></p>
 </td>
 </tr>
 <tr>
-<td style="text-align: center;" width="148" height="40">
+<td height="40" width="148" style="text-align: center;">
 <p>Veronica Chia (Ms)</p>
 </td>
-<td style="text-align: center;" width="362">
+<td width="362" style="text-align: center;">
 <p>HOD Science</p>
 </td>
 <td style="text-align: center;">
-<p><a href="mailto:veronica_chia@moe.edu.sg" target="">veronica_chia@moe.edu.sg</a></p>
-</td>
+<p><a target="" href="mailto:veronica_chia@moe.edu.sg">veronica_chia@moe.edu.sg</a></p>-->
+
 </tr>
 <tr>
 <td style="text-align: center;">
