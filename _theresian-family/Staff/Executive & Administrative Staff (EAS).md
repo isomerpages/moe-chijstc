@@ -53,14 +53,14 @@ variant: markdown
 <td style="text-align: center;" width="240">Education Workshop Instructor</td>
 </tr>
 <tr>
-<td style="text-align: center;">Mdm Siew Mun Ying</td>
+<!--<td style="text-align: center;">Mdm Siew Mun Ying</td>
 <td style="text-align: center;">School Laboratory Technician</td>
 </tr>
 <tr>
 <td style="text-align: center;">Mdm Toh Mui Hoong</td>
 <td style="text-align: center;">School Laboratory Technician</td>
 </tr>
-<tr>
+<tr>-->
 <td style="text-align: center;">Mr Steven Kuah</td>
 <td style="text-align: center;">ICT Manager</td>
 </tr>
