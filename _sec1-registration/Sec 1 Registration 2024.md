@@ -81,7 +81,8 @@ If you are unable to join us for the Registration Day webinar, you can view the 
 <li>PE attire or primary school PE attire</li>
 <li>A storybook</li>
 </ul>
-<p>Please refer to the Orientation Programme for daily dismissal time for 2<sup>nd</sup>, 3<sup>rd</sup>, 4<sup>th</sup>&nbsp;and 5<sup>th</sup>&nbsp;January 2024.&nbsp;More details will be made available nearer the date.</p>
+<p>Please refer to the Orientation Programme for daily dismissal time for 2<sup>nd</sup>, 3<sup>rd</sup>, 4<sup>th</sup>&nbsp;and 5<sup>th</sup>&nbsp;January 2024.&nbsp;More details will be made available nearer the date.</p><br>
+[2024 Orientation Booklet](/files/2024_orientation_booklet.pdf)
 <p><strong>Traffic Flow<br></strong>&nbsp;The school operates a 2-way traffic flow system during the morning peak period. Cars may either (i) enter from the main gate along Lower Delta Road and exit by the back gate along Telok Blangah Way;&nbsp;<u>OR</u>&nbsp;(ii) enter from the gate along Telok Blangah Way and exit by the main gate along Lower Delta Road.</p>
 <p>During the afternoon peak period, only 1-way traffic flow is allowed. Cars may only enter from the main gate along Lower Delta Road and exit by the back gate along Telok Blangah Way.</p>
 <p>Please see the maps below for more information.</p>
