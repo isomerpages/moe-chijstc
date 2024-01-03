@@ -15,7 +15,7 @@ variant: markdown
 <li>To develop a culture of professional teaching excellence built on experience, practice, sharing and continual learning.</li>
 </ul>
 <h4><strong>Head of Department English Language &amp; Literature</strong></h4>
-<p>Mrs Shivani Rohan - (Covering) (<a href="mailto:vivaukandan_shivani@moe.edu.sg">vivaukandan_shivani@moe.edu.sg</a>)</p>
+<p><!--Mrs Shivani Rohan - (Covering) (<a href="mailto:vivaukandan_shivani@moe.edu.sg">vivaukandan_shivani@moe.edu.sg</a>)--></p>
 <h4><strong>Subject Head Literature</strong></h4>
 <p>Mr Timothy Chow (<a href="mailto:timothy_chow_rui_jun@moe.edu.sg">timothy_chow_rui_jun@moe.edu.sg</a>)</p>
 <h4><strong><u>Department Staff</u></strong></h4>
