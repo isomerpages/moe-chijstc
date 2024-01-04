@@ -3,6 +3,7 @@ title: Softball
 permalink: /theresian-family/students/co-curricular-activities-cca/sports-n-games/softball/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 <!--<img src="/images/sb1234.jpg">-->
 ![](/images/2023CCA/softball.jpg)
@@ -15,7 +16,7 @@ third_nav_title: Sports & Games
 <p>During the off–season, we focus on physical training to build up our stamina and strength in time for the next season, always keeping in mind our target of being Top 4.</p>
 <p>Every year, the softball team organises team building activities such as BBQs and dinners. Also, under the Sports Education Programme (SEP), we participate in various sports activities as a team. In the past years, we have gone for bowling, dragon boating, handball and sport climbing. Activities such as these keep the team bonded and strong. As teammates, we are always there for one another.</p>
 
-<p><strong>Teachers-in-charge</strong><br>Ms Ang Li Fern (<a href="mailto:ang_li_fern@moe.edu.sg">ang_li_fern@moe.edu.sg</a>)<br>Ms Joyce Tan (<a href="mailto:tan_shu_min_joyce@moe.edu.sg">tan_shu_min_joyce@moe.edu.sg</a>)<br>Mr Pek Aik Soon (<a href="mailto:pek_aik_soon@moe.edu.sg">pek_aik_soon@moe.edu.sg</a>)<br>Mr Kelvin Lim (<a href="mailto:kelvin_lim_poh_san@moe.edu.sg">kelvin_lim_poh_san@moe.edu.sg</a>)</p>
+<p><strong>Teachers-in-charge</strong><br>Ms S Sivapriya (<a href="mailto:S_Sivapriya@moe.edu.sg">s_sivapriya@moe.edu.sg</a>)<br>Ms Choy Cheng Mun (<a href="mailto:choy_cheng_mun@moe.edu.sg">choy_cheng_mun@moe.edu.sg</a>)<br>Mr Pek Aik Soon (<a href="mailto:pek_aik_soon@moe.edu.sg">pek_aik_soon@moe.edu.sg</a>)<br>Ms Isabelle Teo (<a href="mailto:isabelle_teo@moe.edu.sg">isabelle_teo@moe.edu.sg</a>)</p>
 
 <img src="/images/sb2.jpg"><br>
 <img style="width: 80%;" src="/images/sb3.jpg"><br>
