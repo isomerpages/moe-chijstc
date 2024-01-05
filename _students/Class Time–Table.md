@@ -4,11 +4,11 @@ permalink: /theresian-family/students/class-time-table/
 description: ""
 variant: markdown
 ---
-<p>2023 Class time-table</p>
+<p>2024 Class time-table</p>
 <table>
 <tbody>
 
-<tr><td><strong>Semester 2 Time-Table</strong></td>
+<tr><td><strong>Semester 1 Time-Table</strong></td>
 <td><a href="/files/2023_sem2_tt_class_24jun.pdf">2023_SEM2_TT_Class (updated24Jun).pdf</a></td>
 </tr>
 </tbody>
