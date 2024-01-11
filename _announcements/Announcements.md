@@ -64,4 +64,4 @@ All nominations must reach the school by 30th June 2023 (Friday) 4pm.
 <hr>
 <p><strong>Non-Tamil Indian Languages (NTIL)</strong><br>CHIJ St. Theresa's Convent does not conduct Non-Tamil Indian Languages (NTIL) lessons. Please click&nbsp;<a href="/others/announcement/non-tamil-indian-languages-ntil">here</a>&nbsp;for more details.</p>
 <hr>
-<p><strong>From the Principal's Desk</strong><br>Please click&nbsp;<a href="/others/announcement/from-the-principals-desk">here</a>.</p></ol>
+<p><strong>From the Principal's Desk</strong><br>Please click&nbsp;<a href="/others/announcement/from-the-principals-desk">here</a>.</p><ol></ol></ol>
