@@ -50,16 +50,6 @@ All nominations must reach the school by 30th June 2023 (Friday) 4pm.
 <li><a href="https://drive.google.com/file/d/1EA1N5m6TUnQ4Z_WjwdovKwFhoQOix4OO/view?usp=share_link">Post Secondary Options</a></li>
 
 </ol>
-<hr><p><strong>2023 Sec 2 and 3 Parent Info Session</strong><br>Please click below for more information.</p>
-<ol>
-<li><a href="https://drive.google.com/file/d/1K-L544KMopmCMiA-7vduHvSJbv_S9ZCF/view?usp=share_link">Sec 2&amp;3 Info Night Slides</a></li>
-<li><a href="https://drive.google.com/file/d/1tDtb5a7qJDtheEyGHisCygfdkRv6-c5T/view?usp=share_link">Sec 2 Level Address and Sharing on NDP</a></li>
-<li><a href="https://drive.google.com/file/d/1PoKWojlZ-1eeRxmtKexi77ZO3iYXWtCs/view?usp=share_link">Sec 3 Level Address</a></li>
-<li><a href="https://drive.google.com/file/d/1JCTf5fhyTyFbu5y6pFf-tG78ctvXeKJc/view?usp=share_link">2023 MOE-OBS Parent Brief Slides 11 Jan</a></li>
-<li><a href="https://drive.google.com/file/d/1b0kTLWgT5-SrsPidf6AMT1wUPLYeX628/view?usp=share_link">Info Night FAQ</a></li>
-</ol>
-<hr>
-<p><strong>2023 Sec 2 and 3 Parent Info Session</strong><br>Please click&nbsp;<a href="/files/Open%20Houses%202023_amended%20003.pdf">here</a>&nbsp;for more information</p>
 <hr>
 <p><strong>Login to SLS using your student icon email address w.e.f 1 Dec 2022</strong><br>The Singapore Student Learning Space (SLS) will be temporarily&nbsp;unavailable&nbsp;during a system upgrade from Wednesday 30th Nov until the evening of Thursday 1st December 2022.</p>
 <p>&nbsp;After the upgrade, you will be able to enjoy a single sign-on experience to SLS using the MOE Identity Management System (MIMS).&nbsp;<strong>The sign-in will now be based on your MIMS id (your icon email account ending with @students.edu.sg) and password</strong>. You will have the option of using SLS id and password to sign in as per current method.</p>
