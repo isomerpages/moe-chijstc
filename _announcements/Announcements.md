@@ -12,8 +12,11 @@ Please take note of the submission deadline for the Change of CCA form is Tuesda
 </p><hr>
 <p></p>-->
 <p><strong>Sec 3 Parents' Info Night 2024 </strong><br>
-	Please click below for more information:[2024 MOE-OBS Challenge Programme - Slides]1. (/files/2024%20Sec3%20Info%20Night%20/2024_MOE_OBS_Parent_Brief_Slides_10_Jan.pdf)
-	[Frequently Asked Questions (FAQ)]2. (/files/2024%20Sec3%20Info%20Night%20/FAQ_for_Parents__5D4N_2024_MOE_OBS_.pdf)[e-Registration Guide for Parents]3. (/files/2024%20Sec3%20Info%20Night%20/eReg_Guide_for_Parents__5D4N_2024_MOC_.pdf)<br>Thank you and God Bless.
+	Please click below for more information:<br>
+	1. <a href="/files/2023_Year_End_Message_from_IJBOM_Chairperson.pdf">2024 MOE-OBS Challenge Programme - Slides</a><br>
+	2. <a href="/files/2023_Year_End_Message_from_IJBOM_Chairperson.pdf">Frequently Asked Questions (FAQ)</a><br>
+3. <a href="/files/2023_Year_End_Message_from_IJBOM_Chairperson.pdf">e-Registration Guide for Parents
+</a><br>Thank you and God Bless.
 
 	
 </p><p><strong>2023 Year End Message From IJBOM Chairperson</strong><br>
