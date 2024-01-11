@@ -13,9 +13,9 @@ Please take note of the submission deadline for the Change of CCA form is Tuesda
 <p></p>-->
 <p><strong>Sec 3 Parents' Info Night 2024 </strong><br>
 	Please click below for more information:<br>
-	1. <a href="/files/2024%Sec3%Info%Night/2024_MOE_OBS_Parent_Brief_Slides_10_Jan.pdf">2024 MOE-OBS Challenge Programme - Slides</a><br>
-	2. <a href="/files/2024%Sec3%Info%Night/FAQ_for_Parents__5D4N_2024_MOE_OBS_.pdf">Frequently Asked Questions (FAQ)</a><br>
-3. <a href="/files/2024%Sec3%Info%Night/eReg_Guide_for_Parents__5D4N_2024_MOC_.pdf">e-Registration Guide for Parents
+	1. <a href="/files/2024_MOE_OBS_Parent_Brief_Slides_10_Jan.pdf">2024 MOE-OBS Challenge Programme - Slides</a><br>
+	2. <a href="/files/FAQ_for_Parents__5D4N_2024_MOE_OBS_.pdf">Frequently Asked Questions (FAQ)</a><br>
+3. <a href="/files/eReg_Guide_for_Parents__5D4N_2024_MOC_.pdf">e-Registration Guide for Parents
 </a><br>Thank you and God Bless.
 
 
