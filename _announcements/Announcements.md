@@ -16,7 +16,7 @@ Please take note of the submission deadline for the Change of CCA form is Tuesda
 	1. <a href="/files/2024_MOE_OBS_Parent_Brief_Slides_10_Jan.pdf">2024 MOE-OBS Challenge Programme - Slides</a><br>
 	2. <a href="/files/FAQ_for_Parents__5D4N_2024_MOE_OBS_.pdf">Frequently Asked Questions (FAQ)</a><br>
 3. <a href="/files/eReg_Guide_for_Parents__5D4N_2024_MOC_.pdf">e-Registration Guide for Parents
-</a><br>Thank you and God Bless.</p>
+</a><br>Thank you and God Bless.</p><hr>
 
 
 <p><strong>2023 Year End Message From IJBOM Chairperson</strong><br>
