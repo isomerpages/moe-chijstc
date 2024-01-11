@@ -11,7 +11,11 @@ Please take note of the submission deadline for the Change of CCA form is Tuesda
 <a href="/files/2023_change_of_cca_form_(as_of_15_aug).pdf">2023 Change of CCA form (As of 15 Aug)</a>
 </p><hr>
 <p></p>-->
-<p><strong>Sec 3 Parents' Info Night 2024 </strong><br>
+<p><strong>2023 GCE O Level Briefing </strong><br>
+	Please click below for more information:<br>
+	1. <a href="/files/2024_MOE_OBS_Parent_Brief_Slides_10_Jan.pdf">2023 GCE O Level Briefing Slides</a><br>
+	2. <a href="/files/2024_MOE_OBS_Parent_Brief_Slides_10_Jan.pdf">2024 JAE Informtion Sheet</a><br></p><hr>
+	<p><strong>Sec 3 Parents' Info Night 2024 </strong><br>
 	Please click below for more information:<br>
 	1. <a href="/files/2024_MOE_OBS_Parent_Brief_Slides_10_Jan.pdf">2024 MOE-OBS Challenge Programme - Slides</a><br>
 	2. <a href="/files/FAQ_for_Parents__5D4N_2024_MOE_OBS_.pdf">Frequently Asked Questions (FAQ)</a><br>
