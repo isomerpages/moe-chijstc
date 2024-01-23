@@ -98,7 +98,7 @@ variant: markdown
 </tr>
 <tr>
 <td style="text-align: center;">
-<p>Timonthy Chow (Mr)</p>
+<p>Timothy Chow (Mr)</p>
 </td>
 <td style="text-align: center;">
 <p>Literature Coordinator (Covering)</p>
@@ -134,7 +134,7 @@ variant: markdown
 <p>Cheah Suet Ping (Ms)</p>
 </td>
 <td style="text-align: center;">
-<p>Sec 1 Year Head</p>
+<p>Sec 2 Year Head</p>
 </td>
 <td style="text-align: center;">
 <p><a href="mailto:cheah_suet_ping@moe.edu.sg" target="">cheah_suet_ping@moe.edu.sg</a>&nbsp;</p>
@@ -178,7 +178,7 @@ variant: markdown
 <p>Lee Boon Leong (Mr)</p>
 </td>
 <td style="text-align: center;">
-<p>Sec 2 Year Head</p>
+<p>Sec 3 Year Head</p>
 </td>
 <td style="text-align: center;">
 <p><a href="mailto:lee_boon_leong@moe.edu.sg" target="">lee_boon_leong@moe.edu.sg</a>&nbsp;</p>
@@ -222,7 +222,7 @@ variant: markdown
 <p>Joyce Tan (Ms)</p>
 </td>
 <td style="text-align: center;" width="362">
-<p>Sec 3 Year Head (Covering)</p>
+<p>Sec 4/5 Year Head </p>
 </td>
 <td style="text-align: center;" width="277">
 <p><a href="mailto:tan_shu_min_joyce@moe.edu.sg" target="">tan_shu_min_joyce@moe.edu.sg</a></p>
@@ -277,7 +277,7 @@ variant: markdown
 <p>Angela Yang (Ms)</p>
 </td>
 <td style="text-align: center;">
-<p>Sec 4/5 Year Head</p>
+<p>Sec 1 Year Head</p>
 </td>
 <td style="text-align: center;">
 <p><a href="mailto:angela_yang_hui_hui@moe.edu.sg" target="">angela_yang_hui_hui@moe.edu.sg</a>&nbsp;</p>
