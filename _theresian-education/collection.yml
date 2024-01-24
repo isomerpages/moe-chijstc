@@ -1,0 +1,14 @@
+collections:
+  theresian-education:
+    output: true
+    order:
+      - Applied Learning Programme (ALP).md
+      - Co–Curricular Activities (CCA).md
+      - Character and Citizenship Education (CCE).md
+      - Education Career Guidance (ECG).md
+      - Full Subject–Based Banding (FSBB).md
+      - House System.md
+      - Learning for Life Programme (LLP).md
+      - Portrait of a Theresian Girl.md
+      - Sexuality Education.md
+      - Student Leadership Programme.md

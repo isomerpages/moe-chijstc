@@ -1,0 +1,31 @@
+collections:
+  co-curricular-activities:
+    output: true
+    order:
+      - Clubs and Societies/Clubs and Societies.md
+      - Clubs and Societies/Infant Jesus Youth Mission (IJYM).md
+      - Clubs and Societies/Infocomm Technology (Media Production).md
+      - Clubs and Societies/Entrepreneurship Club.md
+      - Clubs and Societies/Debating and Public Speaking.md
+      - Clubs and Societies/.keep
+      - Performing Arts/Performing Arts.md
+      - Performing Arts/Angklung.md
+      - Performing Arts/Choir.md
+      - Performing Arts/Dance and Movement.md
+      - Performing Arts/English Drama.md
+      - Performing Arts/Guitar.md
+      - Performing Arts/Concert Band.md
+      - Performing Arts/.keep
+      - Sports & Games/Sports & Games.md
+      - Sports & Games/Bowling.md
+      - Sports & Games/Floorball.md
+      - Sports & Games/Hockey.md
+      - Sports & Games/Netball.md
+      - Sports & Games/Softball.md
+      - Sports & Games/Tennis.md
+      - Sports & Games/Track and Field.md
+      - Sports & Games/.keep
+      - Uniform Groups/Uniform Groups.md
+      - Uniform Groups/Girl Guides.md
+      - Uniform Groups/NPCC.md
+      - Uniform Groups/.keep
