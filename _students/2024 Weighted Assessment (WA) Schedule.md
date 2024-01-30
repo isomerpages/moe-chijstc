@@ -20,7 +20,7 @@ variant: tiptap
 <p>Sec 2 WA Semester 1 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Sec_2_Weighted_Assessment_Semester_1_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"> Sec 2 Weighted Assessment Semester 1 2024</a>
+<p><a href="/files/Sec_2_Weighted_Assessment_Semester_1_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Weighted Assessment Semester 1 2024</a>
 </p>
 </td>
 </tr>
@@ -44,4 +44,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><a href="/files/Sec_4_5_Weighted_Assessment_Semester_1_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">test1</a>
+</p>
