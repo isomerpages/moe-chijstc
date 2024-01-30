@@ -2,6 +2,7 @@
 title: Students
 permalink: /theresian-family/students/
 description: ""
+variant: markdown
 ---
 <ul>
 <li><a href="https://drive.google.com/file/d/10DaUcu_gaviCQrpdSfcf3yL-mZTfIcVa/view?usp=sharing">School Calendar 2023</a></li>
@@ -15,7 +16,7 @@ description: ""
 <li><a href="/theresian-family/students/theresian-awards" target="">Theresian Awards</a></li>
 <li><a href="/theresian-family/students/theresian-sports-leaders" target="">Theresian Sports Leaders</a></li>
 <li><a href="/theresian-family/students/exercise-and-sports-science-ess" target="">Information about Exercise and Sports Science (ESS)</a></li>
-<li><a href="/others/2023-weighted-assessment-wa-schedule" target="">WA Schedule</a></li>
+<li><a href="/others/2024-weighted-assessment-wa-schedule" target="">WA Schedule</a></li>
 <li><a href="/folders/students/group-personal-accident-gpa-insurance-for-student" target="">Group Personal Accident Insurance</a></li>
 	<li><a href="/theresian-family/students/moe-financial-assistance-scheme/" target="">MOE Financial Assistance Scheme</a></li>
 </ul>
