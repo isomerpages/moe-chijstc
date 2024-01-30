@@ -44,5 +44,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><a href="/files/Sec_4_5_Weighted_Assessment_Semester_1_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">test1</a>
-</p>
+<p></p>
