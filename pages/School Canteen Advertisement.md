@@ -6,9 +6,9 @@ variant: markdown
 ---
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Halal Noodles     | 31 January 2024    |     |
-| Halal Rice            | 31 January 2024    |     |
-| Chinese Rice       | 31 January 2024    |     |
+| Halal Noodles     | 31 March 2024    |     |
+| Halal Rice            | 31 March 2024    |     |
+| Chinese Rice       | 31 March 2024    |     |
 
 **Application Procedure**
 
