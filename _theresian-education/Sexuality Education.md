@@ -82,8 +82,8 @@ and repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
 <p><strong>&nbsp;</strong>&nbsp;<strong>At CHIJ St. Theresa’s Convent’s, the following Sexuality Education lessons will be taught in 2024:</strong>
 </p>
-<p><strong>&nbsp;</strong>Please click see below for the schedule of the
-lessons from Sec 1 to 5.</p>
+<p><strong>&nbsp;</strong>Please see below for the schedule of the lessons
+from Sec 1 to 5.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><em><u>eTeens</u></em><u> Programme</u></strong>:</p>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>eTeens</em> is a
 programme developed by Health Promotion Board, in collaboration with the
@@ -173,5 +173,10 @@ is to be submitted by 26 February 2024.</p>
 at <strong>64775777</strong> or email to <strong><a rel="noopener noreferrer nofollow" target="_blank">chijstcs@moe.edu.sg</a><u> </u></strong>for
 discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
-<p></p>
+<p><a href="/files/Sexuality_Education/SEd_Lesson_schedule_S1ot_5_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">SEd Lession Schedule S1 to S5 2024.pdf</a>
+</p>
+<p><a href="/files/Sexuality_Education/eTeens_Opt_Out_form_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">eTeens Opt Out Form 2024.pdf</a>
+</p>
+<p><a href="/files/Sexuality_Education/SEd_Lessons_Opt_Out_form_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">SEd Lessons Opt Out Form 2024.pdf</a>
+</p>
 <p>&nbsp;</p>
