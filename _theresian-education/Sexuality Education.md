@@ -113,8 +113,6 @@ is that students are empowered to make wise, informed and sensible decisions.</p
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Time Period</strong>
 </p>
 </td>
