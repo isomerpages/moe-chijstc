@@ -104,6 +104,7 @@ is that students are empowered to make wise, informed and sensible decisions.</p
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <p><strong>Topics/Lessons</strong>
 </p>
 </td>
@@ -115,8 +116,6 @@ is that students are empowered to make wise, informed and sensible decisions.</p
 <p><strong>&nbsp;</strong>
 </p>
 <p><strong>Time Period</strong>
-</p>
-<p><strong>&nbsp;</strong>
 </p>
 </td>
 </tr>
