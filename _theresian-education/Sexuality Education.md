@@ -84,6 +84,8 @@ which are of prime concern at this age.</p>
 </p>
 <p><strong>&nbsp;</strong>Please see below for the schedule of the lessons
 from Sec 1 to 5.</p>
+<p><a href="/files/Sexuality_Education/Sec_1_5_Sexuality_Education_Lesson_Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 to 5 Sexuality Education Lesson Schedule 2024</a>
+</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><em><u>eTeens</u></em><u> Programme</u></strong>:</p>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>eTeens</em> is a
 programme developed by Health Promotion Board, in collaboration with the
@@ -170,10 +172,8 @@ is to be submitted by 26 February 2024.</p>
 at <strong>64775777</strong> or email to <strong><a rel="noopener noreferrer nofollow" target="_blank">chijstcs@moe.edu.sg</a><u> </u></strong>for
 discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
-<p><a href="/files/Sexuality_Education/SEd_Lesson_schedule_S1ot_5_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">SEd Lession Schedule S1 to S5 2024.pdf</a>
+<p><a href="/files/Sexuality_Education/eTeens_Parents_Opt_Out_Form_2024_updated.pdf" rel="noopener noreferrer nofollow" target="_blank">eTeens Parents Opt-Out Form 2024</a>
 </p>
-<p><a href="/files/Sexuality_Education/eTeens_Opt_Out_form_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">eTeens Opt Out Form 2024.pdf</a>
-</p>
-<p><a href="/files/Sexuality_Education/SEd_Lessons_Opt_Out_form_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">SEd Lessons Opt Out Form 2024.pdf</a>
+<p><a href="/files/Sexuality_Education/SEd_parent_letter_2024_with_opt_out_form.pdf" rel="noopener noreferrer nofollow" target="_blank">SEd Parent Letter 2024 with Opt Out Form</a>
 </p>
 <p>&nbsp;</p>
