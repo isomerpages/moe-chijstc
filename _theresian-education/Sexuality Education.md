@@ -7,32 +7,26 @@ variant: tiptap
 <p><strong>Moe Sexuality Education in Schools</strong>
 </p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
-(SEd) in schools is about enabling students to understand the physiological,
+(SEd) in schools aims to enable students to understand the physiological,
 social and emotional changes they experience as they mature, develop healthy
-and rewarding relationships including those with members of the opposite
-sex, and make wise, informed and responsible decisions on sexuality matters.
-SEd is premised on the importance of the family as the basic unit of society.
-This means encouraging healthy, heterosexual marriages and stable nuclear
-family units with extended family support. The teaching and learning of
-SEd is based on respect for the values and beliefs of the different ethnic
-and religious communities in Singapore on sexuality issues.</p>
-<p></p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Goals</strong> of
+and rewarding relationships with others, including those with members of
+the opposite sex, and make wise, informed and responsible decisions on
+sexuality matters. SEd is premised on the importance of the family as the
+basic unit of society. This means encouraging healthy, heterosexual marriages
+and stable nuclear family units with extended family support. The teaching
+and learning of SEd is based on respect for the values and beliefs of the
+different ethnic and religious communities in Singapore on sexuality issues.</p>
+<p>&nbsp;2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Goals</strong> of
 Sexuality Education are to:</p>
-<p>&nbsp;(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To help
-students make wise, responsible and informed decisions through the provision
-of accurate, current and age-appropriate <u>knowledge</u> on human sexuality
-and the consequences of sexual activity;</p>
-<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To help students
-know themselves and build healthy and rewarding relationships through the
-acquisition of <u>social and emotional skills</u> of self-awareness, management
-of their thoughts, feelings and behaviours, development of empathy for
-others, possession of effective communication, problem-solving and decision-making
-skills; and</p>
-<p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To help students
-develop a moral compass, respect for themselves and for others as sexual
-beings, premised on the family as the basic unit of society, through the
-inculcation of <u>positive mainstream values and attitudes</u> about sexuality.</p>
+<p>&nbsp;(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support
+students in managing their physiological, social and emotional changes
+as they grow up and develop safe and healthy relationships.</p>
+<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Guide students
+to make wise, informed and responsible decisions on sexuality matters.</p>
+<p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Help students
+develop a moral compass and respect for themselves and others by having
+positive mainstream values and attitudes about sexuality that are premised
+on the family as the basic unit of society.</p>
 <p>&nbsp;3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Key Messages</strong> of
 Sexuality Education are:</p>
 <p>&nbsp;(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Love and
@@ -47,7 +41,7 @@ marriage is the best protection against STIs/HIV and unintended pregnancies.
 Casual sex can harm and hurt you and your loved ones.</p>
 <p>&nbsp;You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for more information
 on MOE Sexuality Education.</p>
-<p>&nbsp;<strong>Overview of CHIJ St. Theresa’s Convent’s Sexuality Education Programme for 2024</strong>
+<p><strong>&nbsp;Overview of CHIJ St Theresa’s Convent Sexuality Education Programme for 2024</strong>
 </p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
 is delivered in a holistic manner through the school curriculum. The content
@@ -70,7 +64,7 @@ period for adolescents. The gap between physical and emotional/cognitive
 maturity may result in a tendency to act on impulse, experiment with various
 activities (including sexual activities), sometimes without understanding
 the unpleasant consequences that may arise from such experimentation. The
-need for peer acceptance can be overwhelmingly strong, and hinder one’s
+need for peer acceptance can be overwhelmingly strong and hinder one’s
 ability to act responsibly.&nbsp; Given the pressures faced by the middle
 adolescent from within themselves and from peers, it is important to build
 a strong sense of self-worth, personal conviction and an understanding
@@ -96,8 +90,7 @@ conducted in two segments – a mass talk segment and a classroom-based programm
 skills such as decision-making, assertiveness and negotiation to say “no”
 to sex and negative peer pressure. They also learn that the impact of STIs/HIV
 extends beyond themselves and involves their family. Abstinence and upholding
-family values are the key messages. The desired outcome of the <em>eTeens</em> programme
-is that students are empowered to make wise, informed and sensible decisions.</p>
+family values are the key messages.</p>
 <p><strong>At CHIJ St. Theresa’s Convent’s, the <em>eTeens</em> programme will be implemented as follows in 2024:</strong>
 </p>
 <p><strong>&nbsp;</strong>
@@ -124,13 +117,12 @@ is that students are empowered to make wise, informed and sensible decisions.</p
 <p>Mass Talk by HPB appointed vendor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Awareness of the different
-STIs and HIV/AIDS</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Modes of transmission</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Modes of protection,
-specifically on how the condom is used</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Consequences and impact
-of STIs/HIV</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Raise awareness and
+provide knowledge on:</p>
+<p>a)&nbsp;&nbsp;&nbsp; Infectious diseases (STIs and HIV): what it is, how
+it spreads, how to prevent infection mainly through ABC (abstinence, being
+faithful, correct, and consistent condom use).</p>
+<p>Managing relationships and risky situations in a healthy way.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
