@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <ul>
-<li><a href="https://drive.google.com/file/d/10DaUcu_gaviCQrpdSfcf3yL-mZTfIcVa/view?usp=sharing">School Calendar 2023</a></li>
+<li><a href="https://drive.google.com/file/d/1jiJtXAej1YELFPj4hyDgMDep_gbqilrJ/view?usp=drive_link">School Calendar 2024</a></li>
 <li><a href="/theresian-family/students/class-time-table" target="">Class Timetable</a></li>
 <li><a href="/theresian-family/students/co-curricular-activities-cca">Co-Curricular Activities (CCA)</a></li>
 <li><a href="/others/2023-exam-timetable" target="">Exam Timetable</a></li>
