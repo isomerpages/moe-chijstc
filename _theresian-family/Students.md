@@ -5,9 +5,8 @@ description: ""
 variant: markdown
 ---
 <ul>
-<li><a href="https://drive.google.com/file/d/1jiJtXAej1YELFPj4hyDgMDep_gbqilrJ/view?usp=drive_link">School Calendar 2024</a></li>
-<li><a href="/theresian-family/students/class-time-table" target="">Class Timetable</a></li>
-<li><a href="/theresian-family/students/co-curricular-activities-cca">Co-Curricular Activities (CCA)</a></li>
+<li>[School Calendar 2024](/files/School_Calendar_for_YH_Letter_to_Parents_2024_180324.pdf)
+</li><li><a href="/theresian-family/students/co-curricular-activities-cca">Co-Curricular Activities (CCA)</a></li>
 <li><a href="/others/2023-exam-timetable" target="">Exam Timetable</a></li>
 <li><a href="/theresian-family/students/house-system" target="_blank" rel="noopener">House System</a></li>
 <li><a href="/theresian-family/students/our-school-song" target="">Our School Song</a></li>
