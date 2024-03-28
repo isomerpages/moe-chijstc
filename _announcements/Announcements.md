@@ -6,6 +6,7 @@ variant: tiptap
 ---
 <p><strong>Sec 4&amp;5 Parent Info Session 2024</strong>
 </p>
+<p>Please click below for more information:</p>
 <ol data-tight="true" class="tight">
 <li>
 <p><a href="/files/Sec_4___5_STC_Info_Night_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4_5 Info Night 2024</a>
