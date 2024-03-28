@@ -98,22 +98,6 @@ through the school email chijstcs@moe.edu.sg
 </ol>
 <p>CHIJ St. Theresa’s Convent</p>
 <hr>
-<p><strong>2023 Sec 4 and 5 Parent Info Night</strong> 
-<br>Please click below for more information.</p>
-<ol data-tight="true" class="tight">
-<li>
-<p><a href="https://drive.google.com/file/d/121n_v3sVjLK0ceewBuMBYIhT5DDK2mhn/view?usp=share_link" rel="noopener noreferrer nofollow" target="_blank">Principal Address</a>
-</p>
-</li>
-<li>
-<p><a href="https://drive.google.com/file/d/14k0J8ArAn0uPcTg7cZ9wUFwJj-w6QLqW/view?usp=share_link" rel="noopener noreferrer nofollow" target="_blank">Year Head Address</a>
-</p>
-</li>
-<li>
-<p><a href="https://drive.google.com/file/d/1EA1N5m6TUnQ4Z_WjwdovKwFhoQOix4OO/view?usp=share_link" rel="noopener noreferrer nofollow" target="_blank">Post Secondary Options</a>
-</p>
-</li>
-</ol>
 <hr>
 <p><strong>Login to SLS using your student icon email address w.e.f 1 Dec 2022</strong> 
 <br>The Singapore Student Learning Space (SLS) will be temporarily&nbsp;unavailable&nbsp;during
