@@ -4,7 +4,7 @@ permalink: /others/announcement/
 description: ""
 variant: tiptap
 ---
-<p><strong>Sec 4&amp;5 Parent Info Session 2024</strong>
+<p><strong>Sec 4&amp;5 Parents Info Session 2024</strong>
 </p>
 <p>Please click below for more information:</p>
 <ol data-tight="true" class="tight">
