@@ -58,7 +58,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/theresian-family/students/dental-services/" rel="noopener noreferrer nofollow" target="">Dental Services</a>
+<p><a href="/students/dental-services/" rel="noopener noreferrer nofollow" target="">Dental Services</a>
 </p>
 </li>
 </ul>
