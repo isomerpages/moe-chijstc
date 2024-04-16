@@ -57,5 +57,9 @@ variant: tiptap
 <p><a href="/theresian-family/students/moe-financial-assistance-scheme/" rel="noopener noreferrer nofollow" target="">MOE Financial Assistance Scheme</a>
 </p>
 </li>
+<li>
+<p><a href="/theresian-family/students/dental_services/" rel="noopener noreferrer nofollow" target="">Dental Services</a>
+</p>
+</li>
 </ul>
 <p></p>
