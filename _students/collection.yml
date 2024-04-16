@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Dental Services.md
       - CHIJ STC School Calendar 2024.md
       - Class Time–Table.md
       - Co–Curricular Activities (CCA).md
