@@ -9,6 +9,8 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023CCA/drama%20formal.jpg">
 </div>
 <h4><strong>Introduction</strong></h4>
+<p><strong>Drama CCA</strong>
+</p>
 <p>CHIJ STC's English Drama Club seeks to provide opportunities to develop
 students’ talents and lifelong passion for the theatrical arts. Through
 building students’ foundation in acting and stagecraft, the Drama Club
@@ -17,9 +19,8 @@ express themselves in front of a large audience. They work towards annual
 productions within the school, and have worked in collaboration with other
 schools and organisations. In 2024, students will be involved in the production
 of STC Drama Night, showcasing their talents in acting, singing, scriptwriting
-and even songwriting. The CCA is coached by instructors from MySuperFuture,
-and have attained a Certificate of Distinction for the SYF Arts Presentation
-in 2023, 2021 and 2019.</p>
+and even songwriting. The Drama Club has attained a Certificate of Distinction
+for the SYF Arts Presentation in 2023, 2021 and 2019.</p>
 <p><strong>Training Focus</strong>
 </p>
 <ul data-tight="true" class="tight">
