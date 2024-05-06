@@ -33,7 +33,7 @@ find out more information about our LLP – Developing Self-directed, Confident
 <p><strong><u>Centralised DSA-Sec Application Process</u></strong> 
 <br>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from&nbsp;<strong><u>7 May 2024 to 3 June 2024</u></strong>.</p>
-<p>For more details, please refer to the MOE website –&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
+<p>For more details, please refer to the MOE website –&nbsp;<a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
 <p><strong><u>Note:</u></strong> 
 <br><strong>We regret that we will not be able to consider&nbsp;applications that are not done through the centralised portal or if they are submitted after the deadline.</strong> 
 <br>More information regarding the DSA can be found on the MOE website:&nbsp;
