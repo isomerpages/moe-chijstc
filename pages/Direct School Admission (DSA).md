@@ -22,10 +22,10 @@ years.</p>
 <p><s>&nbsp;</s>
 </p>
 <p>For more information on DSA-Sec, please refer to the following:</p>
-<p>·&nbsp; <a href="https://www.chijsttheresasconvent.moe.edu.sg/direct-school-admission-dsa/#DSA%20Process" rel="noopener noreferrer nofollow" target="_blank">DSA Selection Criteria &amp; Process</a>&nbsp;</p>
-<p>·&nbsp; <a href="https://www.chijsttheresasconvent.moe.edu.sg/direct-school-admission-dsa/#Talent%20Development%20Opportunities" rel="noopener noreferrer nofollow" target="_blank">Programmes, activities and/or opportunities for successful DSA applicants</a>
+<p>·&nbsp; <a href="https://www.chijsttheresasconvent.moe.edu.sg/direct-school-admission-dsa" rel="noopener noreferrer nofollow" target="_blank">DSA Selection Criteria &amp; Process</a>&nbsp;</p>
+<p>·&nbsp; <a href="https://www.chijsttheresasconvent.moe.edu.sg/direct-school-admission-dsa/" rel="noopener noreferrer nofollow" target="_blank">Programmes, activities and/or opportunities for successful DSA applicants</a>
 </p>
-<p>·&nbsp; <a href="https://www.chijsttheresasconvent.moe.edu.sg/direct-school-admission-dsa/#Key%20Dates%20for%20DSA" rel="noopener noreferrer nofollow" target="_blank">Key Dates for DSA</a>
+<p>·&nbsp; <a href="https://www.chijsttheresasconvent.moe.edu.sg/direct-school-admission-dsa/" rel="noopener noreferrer nofollow" target="_blank">Key Dates for DSA</a>
 </p>
 <p><s><br></s>Click&nbsp;<a href="https://www.chijsttheresasconvent.moe.edu.sg/theresian-education/learning-for-life-programme-llp" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 find out more information about our LLP – Developing Self-directed, Confident
