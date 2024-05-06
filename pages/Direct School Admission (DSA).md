@@ -19,15 +19,11 @@ the area of talent.</p>
 to honour their commitment to the school, and participate in the activities
 related to the talent they are selected for during their secondary school
 years.</p>
-<p><s>&nbsp;</s>
-</p>
 <p>For more information on DSA-Sec, please refer to the following:</p>
-<p>·&nbsp; <a href="https://www.chijsttheresasconvent.moe.edu.sg/direct-school-admission-dsa" rel="noopener noreferrer nofollow" target="_blank">DSA Selection Criteria &amp; Process</a>&nbsp;</p>
-<p>·&nbsp; <a href="https://www.chijsttheresasconvent.moe.edu.sg/direct-school-admission-dsa/" rel="noopener noreferrer nofollow" target="_blank">Programmes, activities and/or opportunities for successful DSA applicants</a>
-</p>
-<p>·&nbsp; <a href="https://www.chijsttheresasconvent.moe.edu.sg/direct-school-admission-dsa/" rel="noopener noreferrer nofollow" target="_blank">Key Dates for DSA</a>
-</p>
-<p><s><br></s>Click&nbsp;<a href="https://www.chijsttheresasconvent.moe.edu.sg/theresian-education/learning-for-life-programme-llp" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
+<p>• DSA Selection Criteria &amp; Process</p>
+<p>• Programmes, activities and/or opportunities for successful DSA applicants</p>
+<p>• Key Dates for DSA</p>
+<p>Click&nbsp;<a href="https://www.chijsttheresasconvent.moe.edu.sg/theresian-education/learning-for-life-programme-llp" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 find out more information about our LLP – Developing Self-directed, Confident
 &amp; Resilient Leaders, Learners and Ladies through Sports &amp; Hockey</p>
 <p>Click here to find out more information about our Performing Arts CCA
@@ -37,7 +33,7 @@ find out more information about our LLP – Developing Self-directed, Confident
 <p><strong><u>Centralised DSA-Sec Application Process</u></strong> 
 <br>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from&nbsp;<strong><u>7 May 2024 to 3 June 2024</u></strong>.</p>
-<p>For more details, please refer to the MOE website –&nbsp;<a href="www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
+<p>For more details, please refer to the MOE website –&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
 <p><strong><u>Note:</u></strong> 
 <br><strong>We regret that we will not be able to consider&nbsp;applications that are not done through the centralised portal or if they are submitted after the deadline.</strong> 
 <br>More information regarding the DSA can be found on the MOE website:&nbsp;
