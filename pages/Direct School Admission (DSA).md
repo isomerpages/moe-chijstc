@@ -34,16 +34,16 @@ find out more information about our LLP – Developing Self-directed, Confident
 – <a href="https://www.chijsttheresasconvent.moe.edu.sg/theresian-family/students/co-curricular-activities-cca/performing-arts/english-drama/" rel="noopener noreferrer nofollow" target="_blank">English Drama</a> or
 <a href="https://www.chijsttheresasconvent.moe.edu.sg/theresian-family/students/co-curricular-activities-cca/performing-arts/dance-and-movement/" rel="noopener noreferrer nofollow" target="_blank">Modern Dance</a>(Dance and Movement)</p>
 <p>&nbsp;</p>
-<p><strong><u>Centralised DSA-Sec Application Process</u></strong>
+<p><strong><u>Centralised DSA-Sec Application Process</u></strong> 
 <br>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from&nbsp;<strong><u>7 May 2024 to 3 June 2024</u></strong>.</p>
 <p>For more details, please refer to the MOE website –&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
-<p><strong><u>Note:</u></strong>
-<br><strong>We regret that we will not be able to consider&nbsp;applications that are not done through the centralised portal or if they are submitted after the deadline.</strong>
+<p><strong><u>Note:</u></strong> 
+<br><strong>We regret that we will not be able to consider&nbsp;applications that are not done through the centralised portal or if they are submitted after the deadline.</strong> 
 <br>More information regarding the DSA can be found on the MOE website:&nbsp;
 <br><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
 </p>
-<p><strong><u>DSA Selection Process in school</u></strong>
+<p><strong><u>DSA Selection Process in school</u></strong> 
 <br>All applications are considered by a selection panel comprising teachers,
 middle managers and school leaders.</p>
 <table style="minWidth: 125px">
@@ -113,7 +113,7 @@ the applicant’s background, interest and motivation</p>
 <p>DSA (LLP) Coordinator:
 <br>Mr Darren Ng / Mr Toh Boon Hui</p>
 <p>Email:
-<br><a rel="noopener noreferrer nofollow" target="_blank">ng_yong_sheng@moe.edu.sg</a>
+<br><a rel="noopener noreferrer nofollow" target="_blank">ng_yong_sheng@moe.edu.sg</a> 
 <br>
 <br><a rel="noopener noreferrer nofollow" target="_blank">toh_boon_hui@moe.edu.sg</a>
 </p>
