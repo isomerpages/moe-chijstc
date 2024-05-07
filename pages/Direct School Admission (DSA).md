@@ -32,7 +32,7 @@ find out more information about our LLP – Developing Self-directed, Confident
 <p>&nbsp;</p>
 <p><strong><u>Centralised DSA-Sec Application Process</u></strong> 
 <br>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
-The application is free-of-charge and will be open from&nbsp;<strong><u>7 May 2024 to 3 June 2024</u></strong>.</p>
+The application is free-of-charge and will be open from&nbsp;<strong><u>7 May 2024 to 3 June 2024,3pm</u></strong>.</p>
 <p>For more details, please refer to the MOE website –&nbsp;<a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
 <p><strong><u>Note:</u></strong> 
 <br><strong>We regret that we will not be able to consider&nbsp;applications that are not done through the centralised portal or if they are submitted after the deadline.</strong> 
@@ -175,10 +175,10 @@ in their performance art of choice</p>
 <p>2. an interview to learn more about the applicant’s background, interest
 and motivation</p>
 <p>&nbsp;</p>
-<p>*Shortlisted applicants for <u>dance only</u> will need to:</p>
+<p>* Shortlisted applicants for dance only will need to prepare a 1 minute
+solo dance routine in any International Dance genre of choice, to be showcased
+at the DSA selection</p>
 <p>&nbsp;</p>
-<p>a. prepare a routine in any International Dance genre of choice, to be
-showcased at the DSA selection</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>DSA Coordinator: Mr Darren Ng</p>
