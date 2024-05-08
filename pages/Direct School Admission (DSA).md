@@ -221,7 +221,7 @@ at the DSA selection</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7 May 2024 to 3 June 2024</p>
+<p>7 May 2024 to 3 June 2024, 3pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Application is open</strong>&nbsp;for all Primary Six female students
