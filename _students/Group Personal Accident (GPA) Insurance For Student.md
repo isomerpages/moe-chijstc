@@ -4,7 +4,7 @@ permalink: /folders/students/group-personal-accident-gpa-insurance-for-student/
 description: ""
 variant: tiptap
 ---
-<p><a href="/files/GPA_Product_Fact_Sheet_Year_2024___Benefits__Sum_Assured_and_Claims_Procedures.pdf" rel="noopener noreferrer nofollow" target="_blank">GPA Product Fact Sheet 2024</a>
+<p><a href="/files/GPA_Product_Fact_Sheet_Year_2024___Benefits__Sum_Assured_and_Claims_Procedures.pdf" rel="noopener noreferrer nofollow" target="_blank">GPA Product Fact Sheet Year 2024 - Benefits, Sum Assured and Claims Procedures</a>
 </p>
 <p><strong>Online Claim Form</strong>
 </p>
