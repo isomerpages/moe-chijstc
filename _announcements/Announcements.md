@@ -140,11 +140,7 @@ more details.</p>
 <hr>
 <p><strong>From the Principal's Desk</strong> 
 <br>Please click&nbsp;<a href="/others/announcement/from-the-principals-desk" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<ol data-tight="true" class="tight">
-<li>
 <p></p>
-</li>
-</ol>
 </li>
 </ol>
 <p></p>
