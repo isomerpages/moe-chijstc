@@ -4,6 +4,14 @@ permalink: /others/announcement/
 description: ""
 variant: tiptap
 ---
+<p><strong>Collection of Singapore Graduation Certificate (SGC) for graduating cohort of 2023</strong>
+</p>
+<p>Dear graduating cohort of 2023 (Ex students of 2023 Sec 4 Exp/4NA/4NT/5A),</p>
+<p>Your SGC is ready for collection.</p>
+<p>You may collect them from the General office during school hours from
+0800 -1700 hrs.</p>
+<p>Thank you.</p>
+<hr>
 <p><strong>Sec 4&amp;5 Parents Info Session 2024</strong>
 </p>
 <p>Please click below for more information:</p>
@@ -132,11 +140,7 @@ more details.</p>
 <hr>
 <p><strong>From the Principal's Desk</strong> 
 <br>Please click&nbsp;<a href="/others/announcement/from-the-principals-desk" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<ol data-tight="true" class="tight">
-<li>
 <p></p>
-</li>
-</ol>
 </li>
 </ol>
 <p></p>
