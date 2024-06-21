@@ -14,7 +14,8 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>Class Timetable</p>
+<p><a href="/theresian-family/students/class-time-table/" rel="noopener noreferrer nofollow" target="_blank">Class Timetable</a>
+</p>
 </li>
 <li>
 <p><a href="/others/2023-exam-timetable" rel="noopener noreferrer nofollow" target="">Exam Timetable</a>
