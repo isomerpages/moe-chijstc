@@ -1,9 +1,10 @@
 ---
 title: Privacy Statement
-permalink: /others/privacy-statement/
+permalink: /privacy/
 description: ""
+variant: tiptap
 ---
-<p>This is CHIJ St. Theresa&rsquo;s Convent&rsquo;s website. Thank you for examining our privacy statement.</p>
+<p>This is CHIJ St. Theresa’s Convent’s website. Thank you for examining our privacy statement.</p>
 <p>If you are only browsing this Website, we do not capture data that allows us to identify you individually.</p>
 <p>If you choose to make an application or send us an e-mail for which you provide us with personally identifiable data, we may share necessary data with other Government agencies, so as to serve you in a most efficient and effective way, unless such sharing is prohibited by legislation. We will NOT share your personal data with non-Government entities, except where such entities have been authorised to carry out specific Government services.</p>
 <p>For your convenience, we may also display to you data you had previously supplied us or other Government agencies. This will speed up the transaction and save you the trouble of repeating previous submissions. Should the data be out-of-date, please supply us the latest data. We will retain your personal data only as necessary for the effective delivery of public services to you.</p>
