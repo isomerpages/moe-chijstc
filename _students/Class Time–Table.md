@@ -34,5 +34,5 @@ variant: tiptap
 </tbody>
 </table>
 <p><strong>HBL will follow the above Time-Table.</strong>
-<br>Students are to login&nbsp;<a href="https://docs.google.com/forms/d/e/1FAIpQLSdyuR_eJKsnefuwpPDqZIBCaP8mCe2j1HKjPOvREVhSXZZPXQ/viewform?fbzx=4140446395415724351" rel="noopener noreferrer nofollow" target="">here</a>&nbsp;to
-mark your attendance on HBL days.</p>
+<br>Students are to login&nbsp;<a href="https://for.edu.sg/stc-hbl-2024" rel="noopener noreferrer nofollow" target="">here</a>&nbsp;to mark your attendance
+on HBL days.</p>
