@@ -4,7 +4,11 @@ permalink: /others/2024-weighted-assessment-wa-schedule/
 description: ""
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -39,6 +43,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Sec_4_5_Weighted_Assessment_Semester_1_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4_5 Weighted Assessment Semester 1 2024</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 1 - Sec 3 WA Schedule</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024_wa3_sec_1_sec_3.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1-Sec 3 WA schedule</a>
 </p>
 </td>
 </tr>
