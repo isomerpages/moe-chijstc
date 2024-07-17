@@ -18,7 +18,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/2024_4N_Prelim_Exam_Instructions_students_17Jul_.pdf" rel="noopener noreferrer nofollow" target="_blank">S4N Prelim Exam Time Table</a>
+<p><a href="/files/2024_s4n_prelim_exam_briefing_slides.pdf" rel="noopener noreferrer nofollow" target="_blank">S4N Prelim Exam Briefing Slides</a>
 </p>
 </li>
 </ol>
