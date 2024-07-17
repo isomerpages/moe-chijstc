@@ -48,7 +48,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 1 - Sec 3 WA Schedule</p>
+<p>Sec 1 - Sec 3 WA for Term 3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/WA3_Sec_1_Sec_3__updated_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 - Sec 3 WA Schedule</a>
