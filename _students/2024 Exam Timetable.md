@@ -10,7 +10,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/2024_PrelimTT_4NA_27_Jun_.pdf" rel="noopener noreferrer nofollow" target="_blank">S4NA Prelim Exam Time-Table</a>
+<p><a href="/files/2024_prelimtt_4na__updated_6_aug.pdf" rel="noopener noreferrer nofollow" target="_blank">S4NA Prelim Exam Time-Table</a>
 </p>
 </li>
 <li>
