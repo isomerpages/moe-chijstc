@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/2024_PrelimTT_4Exp_5NA_27_Jun_.pdf" rel="noopener noreferrer nofollow" target="_blank">S4E_S5 Prelim Exam Time-Table</a>
+<p><a href="/files/4E5N_PrelimExamTimeTable_Updated_6_Aug2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">S4E S5 Prelim Exam Time-Table</a>
 </p>
 </li>
 <li>
