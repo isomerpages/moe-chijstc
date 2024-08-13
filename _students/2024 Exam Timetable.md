@@ -22,7 +22,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/2024_4E5N_Prelim_Exam_Instructions_students_updated13Aug.pdf" rel="noopener noreferrer nofollow" target="_blank">4E5N Prelim Exam Instructions for students</a>
+<p><a href="/files/2024_4E5N_Prelim_Exam_Instructions_students_updated13Aug.pdf" rel="noopener noreferrer nofollow" target="_blank">S4E5N Prelim Exam Instructions for students</a>
 </p>
 </li>
 </ol>
