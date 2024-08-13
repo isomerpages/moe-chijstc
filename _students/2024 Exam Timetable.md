@@ -21,5 +21,9 @@ variant: tiptap
 <p><a href="/files/2024_s4n_prelim_exam_briefing_slides.pdf" rel="noopener noreferrer nofollow" target="_blank">S4N Prelim Exam Briefing Slides</a>
 </p>
 </li>
+<li>
+<p><a href="/files/2024_4E5N_Prelim_Exam_Instructions_students_updated13Aug.pdf" rel="noopener noreferrer nofollow" target="_blank">4E5N Prelim Exam Instructions for students</a>
+</p>
+</li>
 </ol>
 <p></p>
