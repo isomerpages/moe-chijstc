@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Sample.md
       - Our Founder.md
       - IJ Board of Management.md
       - Archdiocesan Commission for Catholic Schools (ACCS).md
