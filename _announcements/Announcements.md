@@ -4,6 +4,21 @@ permalink: /others/announcement/
 description: ""
 variant: tiptap
 ---
+<p><strong>School Closure Announcement for Teachers' Day Celebrations</strong>
+</p>
+<p>&nbsp;Dear Students, Parents, Guardians and Ex-Students,</p>
+<p>&nbsp;The school will be celebrating Teachers’ Day, a special occasion
+that allows us to recognize and celebrate the hard work and dedication
+of our teachers, on 27 and 28 August 2024. Please note that on 27 August
+2024, the school will be closing early at 2:00 PM for all staff to join
+the Teachers’ Day Lunch.</p>
+<p>&nbsp;For ex-students who are intending to visit your teachers on 28 August
+2024, please note that the school will be dismissed early at 11:00 AM and
+teachers may not be in school in the afternoon.</p>
+<p>&nbsp;30 August 2024 is Teachers’ Day School Holiday. The school will
+be closed at 5:00 PM in view of Eat with Your Family Day.</p>
+<p>&nbsp;Thank you for your kind understanding.</p>
+<hr>
 <p><strong>Collection of Singapore Graduation Certificate (SGC) for graduating cohort of 2023</strong>
 </p>
 <p>Dear graduating cohort of 2023 (Ex students of 2023 Sec 4 Exp/4NA/4NT/5A),</p>
@@ -11,6 +26,7 @@ variant: tiptap
 <p>You may collect them from the General office during school hours from
 0800 -1700 hrs.</p>
 <p>Thank you.</p>
+<p></p>
 <hr>
 <p><strong>Sec 4&amp;5 Parents Info Session 2024</strong>
 </p>
