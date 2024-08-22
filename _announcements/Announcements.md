@@ -4,6 +4,9 @@ permalink: /others/announcement/
 description: ""
 variant: tiptap
 ---
+<p>2025 Sec 3 Subject Option Briefing Slides</p>
+<p>Please click below for more information</p>
+<p></p>
 <p><strong>School Closure Announcement for Teachers' Day Celebrations</strong>
 </p>
 <p>&nbsp;Dear Students, Parents, Guardians and Ex-Students,</p>
