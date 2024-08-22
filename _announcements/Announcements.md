@@ -4,7 +4,8 @@ permalink: /others/announcement/
 description: ""
 variant: tiptap
 ---
-<p>2025 Sec 3 Subject Option Briefing Slides</p>
+<p><strong>2025 Sec 3 Subject Option Briefing Slides</strong>
+</p>
 <p>Please click below for more information</p>
 <ol data-tight="true" class="tight">
 <li>
