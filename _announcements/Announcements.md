@@ -35,10 +35,10 @@ variant: tiptap
 <p>&nbsp;Dear Students, Parents, Guardians and Ex-Students,</p>
 <p>&nbsp;The school will be celebrating Teachers’ Day, a special occasion
 that allows us to recognize and celebrate the hard work and dedication
-of our teachers, on 27 and 28 August 2024. Please note that on 27 August
+of our teachers, on 28 and 29 August 2024. Please note that on 28 August
 2024, the school will be closing early at 2:00 PM for all staff to join
 the Teachers’ Day Lunch.</p>
-<p>&nbsp;For ex-students who are intending to visit your teachers on 28 August
+<p>For ex-students who are intending to visit your teachers on 29 August
 2024, please note that the school will be dismissed early at 11:00 AM and
 teachers may not be in school in the afternoon.</p>
 <p>&nbsp;30 August 2024 is Teachers’ Day School Holiday. The school will
