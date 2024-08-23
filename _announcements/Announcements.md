@@ -4,6 +4,32 @@ permalink: /others/announcement/
 description: ""
 variant: tiptap
 ---
+<p><strong>2025 Sec 3 Subject Option Briefing Slides</strong>
+</p>
+<p>Please click below for more information</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/files/2025 Subject Option/Sec_2_Parents_Webinar_Briefing.pdf" rel="noopener nofollow" target="_blank">Webinar Slides</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2025 Subject Option/2025_Sec_3_Subject_Option_Exercise__NT_.pdf" rel="noopener nofollow" target="_blank">3NT Subject Option Slides</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2025 Subject Option/2025_Sec_3_Subject_Option_Exercise__NA_.pdf" rel="noopener nofollow" target="_blank">3NA Subject Option Slides</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2025 Subject Option/2025_Sec_3_Subject_Option_Exercise__Express_.pdf" rel="noopener nofollow" target="_blank">S3Exp Subject Option Slides</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2025 Subject Option/2025_MOE_OBS_Briefing__For_Parents_.pdf" rel="noopener nofollow" target="_blank">MOE OBS Slides</a>
+</p>
+</li>
+</ol>
+<hr>
 <p><strong>School Closure Announcement for Teachers' Day Celebrations</strong>
 </p>
 <p>&nbsp;Dear Students, Parents, Guardians and Ex-Students,</p>
