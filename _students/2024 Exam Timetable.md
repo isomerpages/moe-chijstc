@@ -25,5 +25,21 @@ variant: tiptap
 <p><a href="/files/2024_4E5N_Prelim_Exam_Instructions_students_updated13Aug_1.pdf" rel="noopener noreferrer nofollow" target="_blank">S4E5N Prelim Exam Instructions for students</a>
 </p>
 </li>
+<li>
+<p><a href="/files/EYE Time Table/2024_EYE_TT_S1.pdf" rel="noopener nofollow" target="_blank">S1 End Of Year Exam Time-Table</a>
+</p>
+</li>
+<li>
+<p><a href="/files/EYE Time Table/2024_EYE_TT_S2.pdf" rel="noopener nofollow" target="_blank">S2 End Of Year Exam Time-Table</a>
+</p>
+</li>
+<li>
+<p><a href="/files/EYE Time Table/2024_EYE_TT_S3.pdf" rel="noopener nofollow" target="_blank">S3 End Of Year Exam Time-Table</a>
+</p>
+</li>
+<li>
+<p><a href="/files/EYE Time Table/2024_S1_3_EYE_ExamVenue.pdf" rel="noopener nofollow" target="_blank">S1-3 End of Year Exam Venues</a>
+</p>
+</li>
 </ol>
 <p></p>
