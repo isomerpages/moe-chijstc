@@ -39,6 +39,7 @@ variant: tiptap
 </li>
 <li>
 <p><a href="/files/EYE Time Table/2024_S1_3_EYE_ExamVenue.pdf" rel="noopener nofollow" target="_blank">S1-3 End of Year Exam Venues</a>
+<a href="/files/2024_S1_3_EYE_ExamVenue.pdf" rel="noopener nofollow" target="_blank">file</a>
 </p>
 </li>
 </ol>
