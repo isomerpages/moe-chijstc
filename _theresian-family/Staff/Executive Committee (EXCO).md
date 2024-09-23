@@ -61,7 +61,8 @@ variant: tiptap
 <p>Vice-Principal (Administration)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chijstcs@moe.edu.sg</p>
+<p><a href="chijstcs@moe.edu.sg" rel="noopener nofollow" target="_blank">chijstcs@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
