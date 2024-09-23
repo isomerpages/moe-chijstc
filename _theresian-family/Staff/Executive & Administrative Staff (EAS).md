@@ -29,6 +29,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Yeo Ngee Yang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice- Principal (Administration)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Tang Mun Wah</p>
 </td>
 <td rowspan="1" colspan="1">
