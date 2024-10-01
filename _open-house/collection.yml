@@ -2,4 +2,4 @@ collections:
   open-house:
     output: true
     order:
-      - OPEN HOUSE 2024.md
+      - OPEN HOUSE.md
