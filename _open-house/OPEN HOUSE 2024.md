@@ -19,7 +19,8 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>Non–Tamil Indian Languages (NTIL)</p>
+<p><a href="https://cms.isomer.gov.sg/sites/moe-chijstc/folders/announcements/editPage/Non%E2%80%93Tamil%20Indian%20Languages%20(NTIL).md" rel="noopener nofollow" target="_blank">Non-Tamil Indian Languages (NTIL)</a>
+</p>
 <p></p>
 </li>
 </ul>
