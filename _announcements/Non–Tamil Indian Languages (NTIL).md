@@ -8,6 +8,6 @@ variant: tiptap
 <p>Students who are taking NTIL will go to designated schools for their lessons.</p>
 <p>For more information on NTIL matters, please refer to Board for the Teaching
 and Testing of South Asian Languages (<a href="http://www.bttsal.com" rel="noopener noreferrer nofollow" target="_blank">http://www.bttsal.com</a>).</p>
-<p>For questions related to Mother Tongue Languages, pls approach Ms Zaynab
-(<a href="mailto:zaynab_abdul_rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zaynab_abdul_rahman@schools.gov.sg</a>).</p>
+<p>For questions related to Mother Tongue Languages, pls approach HOD MTL,
+Mdm Lee Chai Yen (<a href="mailto:zaynab_abdul_rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_chai_yen@schools.gov.sg</a>).</p>
 <p></p>
