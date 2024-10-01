@@ -1,4 +1,5 @@
 collections:
   open-house:
     output: true
-    order: []
+    order:
+      - OPEN HOUSE 2024.md
