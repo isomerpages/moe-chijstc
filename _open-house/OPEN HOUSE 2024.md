@@ -17,6 +17,9 @@ variant: tiptap
 <li>
 <p><a href="/files/2024 Open House/Open_House_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Open House Programme</a>
 </p>
+</li>
+<li>
+<p>Non–Tamil Indian Languages (NTIL)</p>
 <p></p>
 </li>
 </ul>
