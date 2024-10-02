@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <p><strong>STC Open House - 9 Nov 2024</strong>
 </p>
-<p>Please <a href="https://cms.isomer.gov.sg/sites/moe-chijstc/folders/open-house/editPage/OPEN%20HOUSE%202024.md" rel="noopener nofollow" target="_blank">click here</a> for
+<p>Please <a href="https://www.chijsttheresasconvent.moe.edu.sg/open-house/" rel="noopener nofollow" target="_blank">click here</a> for
 more information</p>
 <hr>
 <p><strong>2025 Sec 3 Subject Option Briefing Slides</strong>
