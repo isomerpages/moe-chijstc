@@ -79,6 +79,8 @@ give talks to students Parents are also invited to view the booths.</p>
 </p>
 <p><a href="https://www.moe.gov.sg/post-secondary/admissions/dpp" rel="noopener nofollow" target="_blank">Direct-Entry-Scheme to Polytechnic Programme (DPP)</a>
 </p>
+<p><a href="https://www.moe.gov.sg/post-secondary/admissions/pfp" rel="noopener nofollow" target="_blank">Polytechnic Foundation Programme (PFP)</a>
+</p>
 <p><strong>Information on Pre-University Education</strong>
 </p>
 <table style="minWidth: 50px">
@@ -127,3 +129,4 @@ give talks to students Parents are also invited to view the booths.</p>
 </table>
 <p><a href="https://www.moe.gov.sg/post-secondary" rel="noopener nofollow" target="_blank">Post Secondary Education</a>
 </p>
+<p></p>
