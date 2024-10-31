@@ -15,7 +15,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="http://www.moe.gov.sg/corporate/post_secondary.htm" rel="noopener" target="_blank">Post-Secondary</a>
+<p><a href="https://www.moe.gov.sg/post-secondary" rel="noopener" target="_blank">Post-Secondary</a>
 </p>
 </li>
 <li>
