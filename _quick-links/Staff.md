@@ -50,7 +50,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="http://www.academyofsingaporeteachers.moe.gov.sg/" rel="noopener" target="_blank">Academy of Singapore Teachers</a>
+<p><a href="https://academyofsingaporeteachers.moe.edu.sg/" rel="noopener" target="_blank">Academy of Singapore Teachers</a>
 </p>
 </li>
 <li>
