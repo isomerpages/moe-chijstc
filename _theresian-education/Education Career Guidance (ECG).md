@@ -71,7 +71,11 @@ give talks to students Parents are also invited to view the booths.</p>
 </p>
 <p><a href="https://www.moe.gov.sg/post-secondary" rel="noopener nofollow" target="_blank">Post Secondary Education</a>
 </p>
+<p><a href="https://www.moe.gov.sg/post-secondary/admissions/dsa" rel="noopener nofollow" target="_blank">Direct School Admission for junior colleges (DSA-JC)</a>
+</p>
 <p><a href="https://www.moe.gov.sg/post-secondary/admissions/poly-eae" rel="noopener nofollow" target="_blank">Polytechnic Early Admissions Exercise (Poly EAE)</a>
+</p>
+<p><a href="https://www.moe.gov.sg/post-secondary/admissions/jae" rel="noopener nofollow" target="_blank">Joint Admissions Exercise (JAE)</a>
 </p>
 <p></p>
 <table style="minWidth: 50px">
