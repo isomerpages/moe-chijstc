@@ -38,7 +38,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://intranet.gebiz.gov.sg/" rel="noopener noreferrer nofollow" target="">GeBiz</a>
+<p><a href="https://www.gebiz.gov.sg/" rel="noopener noreferrer nofollow" target="">GeBiz</a>
 </p>
 </li>
 <li>
