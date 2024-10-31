@@ -69,6 +69,10 @@ give talks to students Parents are also invited to view the booths.</p>
 <p></p>
 <p><strong>Information on Post-Secondary Education</strong>
 </p>
+<p><a href="https://www.moe.gov.sg/post-secondary" rel="noopener nofollow" target="_blank">Post Secondary Education</a>
+</p>
+<p><a href="https://www.moe.gov.sg/post-secondary/admissions/poly-eae" rel="noopener nofollow" target="_blank">Polytechnic Early Admissions Exercise (Poly EAE)</a>
+</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -76,33 +80,6 @@ give talks to students Parents are also invited to view the booths.</p>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Post-Secondary Education Options</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="http://www.moe.gov.sg/post-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/post-sec</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Post-Secondary School Brochure</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="http://www.moe.gov.sg/post-sec-brochure" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/post-sec-brochure</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Through-train Pathways for N(A) Students</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="http://www.moe.gov.sg/NA-pathways" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/NA-pathways</a>
-</p>
-</td>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Early Admissions Exercise - Polytechnics</p>
@@ -205,4 +182,5 @@ give talks to students Parents are also invited to view the booths.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><a href="https://www.moe.gov.sg/post-secondary" rel="noopener nofollow" target="_blank">Post Secondary Education</a>
+</p>
