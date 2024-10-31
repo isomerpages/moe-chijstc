@@ -77,7 +77,8 @@ give talks to students Parents are also invited to view the booths.</p>
 </p>
 <p><a href="https://www.moe.gov.sg/post-secondary/admissions/jae" rel="noopener nofollow" target="_blank">Joint Admissions Exercise (JAE)</a>
 </p>
-<p></p>
+<p><a href="https://www.moe.gov.sg/post-secondary/admissions/dpp" rel="noopener nofollow" target="_blank">Direct-Entry-Scheme to Polytechnic Programme (DPP)</a>
+</p>
 <p><strong>Information on Pre-University Education</strong>
 </p>
 <table style="minWidth: 50px">
