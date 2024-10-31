@@ -71,7 +71,7 @@ give talks to students Parents are also invited to view the booths.</p>
 <p>Singapore’s Education System</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://www.moe.gov.sg/SG-edu-system" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/SG-edu-system</a>
+<p><a href="https://www.moe.gov.sg/education-in-sg" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/SG-edu-system</a>
 </p>
 </td>
 </tr>
