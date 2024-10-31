@@ -56,82 +56,20 @@ through a Circle Sharing session, to allow students to engage in deeper
 and in-depth dialogue with the ex-Theresians. The Higher Education Fair
 is organised every year. Various PSEIs are invited to set up booths and
 give talks to students Parents are also invited to view the booths.</p>
-<p><strong><u>ECG Resources</u></strong>
+<p><strong>ECG Resources</strong>
 </p>
-<p><strong><u>General Information</u></strong>
+<p><a href="https://www.moe.gov.sg/education-in-sg" rel="noopener nofollow" target="_blank">Singapore Education System</a>
 </p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Singapore’s Education System</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/education-in-sg" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/SG-edu-system</a>
+<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance" rel="noopener nofollow" target="_blank">MOE ECG Website</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MOE ECG Website</p>
-</td>
-<td rowspan="1" colspan="1">
+<p><a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener nofollow" target="_blank">MOE Financial Assistance Scheme</a>
+</p>
+<p><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships" rel="noopener nofollow" target="_blank">MOE Awards and Scholarships</a>
+</p>
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Schoolbag Website</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="http://www.schoolbag.sg/" rel="noopener noreferrer nofollow" target="_blank">www.schoolbag.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MOE Financial Assistance Scheme</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="http://www.moe.gov.sg/FAS" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/FAS</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Scholarships</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="http://www.moe.gov.sg/MOE-Scholarships" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/MOE-Scholarships</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>The Next Step Forward (e-book)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="http://www.moe.gov.sg/the-next-step-forward" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/the-next-step-forward</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ECG Parent Guide – Journeying With Our Children, Achieving Their Aspirations</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="http://www.moe.gov.sg/ECG-parent-guide" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/ECG-parent-guide</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong>Information on Post-Secondary Education</strong>
 </p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
