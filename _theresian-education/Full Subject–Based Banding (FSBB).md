@@ -59,3 +59,10 @@ Music, PE together. For the other subjects such as EL, MT, MA, SCI, Humanities,
 students will be grouped by their varying academic abilities (G1, G2, G3)
 to come together to contribute valuable differences in perspectives and
 to create broader opportunities for learning amongst peers.</p>
+<p><a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html" rel="noopener nofollow" target="_blank">More details on FSBB can be found here.</a>
+</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
