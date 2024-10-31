@@ -78,68 +78,6 @@ give talks to students Parents are also invited to view the booths.</p>
 <p><a href="https://www.moe.gov.sg/post-secondary/admissions/jae" rel="noopener nofollow" target="_blank">Joint Admissions Exercise (JAE)</a>
 </p>
 <p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Early Admissions Exercise - Polytechnics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="http://www.moe.gov.sg/early-admission-exercise" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/early-admission-exercise</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Polytechnic Foundation Programme</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://pfp.polytechnic.edu.sg/PFP/index.html" rel="noopener noreferrer nofollow" target="_blank">https://pfp.polytechnic.edu.sg/PFP/index.html</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Joint Admissions Exercise</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="http://www.moe.gov.sg/JAE" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/JAE</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>The Next Step Forward (e-book)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="http://www.moe.gov.sg/the-next-step-forward" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/the-next-step-forward</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>What’s Next (After ‘N’ Level)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="http://www.moe.gov.sg/whats-next" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/whats-next</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>What’s Next (After ‘O’ Level)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="http://www.moe.gov.sg/whats-next" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/whats-next</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong>Information on Pre-University Education</strong>
 </p>
 <table style="minWidth: 50px">
