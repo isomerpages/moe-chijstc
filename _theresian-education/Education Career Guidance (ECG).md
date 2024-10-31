@@ -113,15 +113,6 @@ give talks to students Parents are also invited to view the booths.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore-Industry Scholarship (SgIS)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.singaporeindustryscholarship.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.singaporeindustryscholarship.sg/</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>The Next Step Forward (e-book)</p>
 </td>
 <td rowspan="1" colspan="1">
