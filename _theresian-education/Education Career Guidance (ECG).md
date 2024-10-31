@@ -77,11 +77,10 @@ give talks to students Parents are also invited to view the booths.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ECG Website</p>
+<p>MOE ECG Website</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/ECG</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
