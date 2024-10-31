@@ -77,6 +77,8 @@ give talks to students Parents are also invited to view the booths.</p>
 </p>
 <p><a href="https://www.moe.gov.sg/post-secondary/admissions/jae" rel="noopener nofollow" target="_blank">Joint Admissions Exercise (JAE)</a>
 </p>
+<p><a href="https://www.moe.gov.sg/post-secondary/admissions/dae" rel="noopener nofollow" target="_blank">Direct Admissions Exercise (DAE)</a>
+</p>
 <p><a href="https://www.moe.gov.sg/post-secondary/admissions/dpp" rel="noopener nofollow" target="_blank">Direct-Entry-Scheme to Polytechnic Programme (DPP)</a>
 </p>
 <p><a href="https://www.moe.gov.sg/post-secondary/admissions/pfp" rel="noopener nofollow" target="_blank">Polytechnic Foundation Programme (PFP)</a>
@@ -129,4 +131,5 @@ give talks to students Parents are also invited to view the booths.</p>
 </table>
 <p><a href="https://www.moe.gov.sg/post-secondary" rel="noopener nofollow" target="_blank">Post Secondary Education</a>
 </p>
+<p></p>
 <p></p>
