@@ -83,53 +83,7 @@ give talks to students Parents are also invited to view the booths.</p>
 </p>
 <p><a href="https://www.moe.gov.sg/post-secondary/admissions/pfp" rel="noopener nofollow" target="_blank">Polytechnic Foundation Programme (PFP)</a>
 </p>
-<p><strong>Information on Pre-University Education</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Pre-University Education</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="http://www.moe.gov.sg/PreU" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/PreU</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>GCE ‘A’ Level Curriculum</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="http://www.moe.gov.sg/A-Curriculum" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/A-Curriculum</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Joint Admissions Exercise</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="http://www.moe.gov.sg/JAE" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/JAE</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Direct School Admission – Junior Colleges</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="http://www.moe.gov.sg/DSA-JC" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/DSA-JC</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><a href="https://www.moe.gov.sg/post-secondary" rel="noopener nofollow" target="_blank">Post Secondary Education</a>
+<p><a href="https://www.moe.gov.sg/post-secondary/a-level-curriculum-and-subject-syllabuses" rel="noopener nofollow" target="_blank">A-Level curriculum and subject syllabuses</a>
 </p>
 <p></p>
 <p></p>
