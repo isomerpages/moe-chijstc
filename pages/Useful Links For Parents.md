@@ -11,7 +11,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="http://www.moe.gov.sg/corporate/secondary.htm" rel="noopener" target="_blank">Secondary Education</a>
+<p><a href="https://www.moe.gov.sg/secondary" rel="noopener" target="_blank">Secondary Education</a>
 </p>
 </li>
 <li>
@@ -19,7 +19,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://www.moe.gov.sg/secondary/courses" rel="noopener" target="_blank">Subject Syllabuses</a>
+<p><a href="https://www.moe.gov.sg/secondary/courses" rel="noopener" target="_blank">Secondary Courses and Subjects</a>
 </p>
 </li>
 </ul>
