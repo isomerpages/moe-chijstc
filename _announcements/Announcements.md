@@ -4,14 +4,6 @@ permalink: /others/announcement/
 description: ""
 variant: tiptap
 ---
-<p><strong>Marking Day (11 October 2024)</strong>
-</p>
-<p>The school's Marking Day is on 11 October 2024 (Fri). As communicated
-in the 2024 Term 4 Letter, students do not need to report to school on
-this day.</p>
-<p>Please note that the school operating hours on 11 October will be from
-6:30am to 5:00pm.</p>
-<hr>
 <p><strong>STC Open House - 9 Nov 2024</strong>
 </p>
 <p>Please <a href="https://www.chijsttheresasconvent.moe.edu.sg/open-house/" rel="noopener nofollow" target="_blank">click here</a> for
