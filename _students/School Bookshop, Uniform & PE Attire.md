@@ -5,8 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>Book and Stationery Lists</strong></h4>
-<p><strong>Sec 1</strong>
-</p>
 <p></p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -88,21 +86,14 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<hr>
-<p></p>
-<p><strong>Sec 2</strong>
-</p>
-<hr>
-<p></p>
-<p><strong>Sec 3</strong>
-</p>
-<hr>
-<p><strong>Sec 4/5</strong>
-</p>
 <p></p>
 <p><strong>Purchase Instructions</strong>
 </p>
-<p></p>
+<p><a href="/files/Booklist/2025/Pacific_Bookstores__Instructions_Sheet_for_Year_end_Sale__S2_to_S5___2025_Cohort_.pdf" rel="noopener nofollow" target="_blank">Download purchase instructions for school textbooks (S2-S5)</a>
+</p>
+<p><a href="/files/Booklist/2025/KH_Uniform___Instructions_Sheet_for_Year_end_Sale__S2_to_S5___2025_Cohort_.pdf" rel="noopener nofollow" target="_blank">Download purchase instructions for school uniform</a>
+</p>
+<p>(Purchase instruction for school textbooks for S1 will be available later)</p>
 <p><strong>Vendors</strong>
 </p>
 <table style="minWidth: 50px">
