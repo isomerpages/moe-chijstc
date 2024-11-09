@@ -21,6 +21,10 @@ variant: tiptap
 <li>
 <p><a href="https://www.chijsttheresasconvent.moe.edu.sg/others/announcement/non-tamil-indian-languages-ntil/" rel="noopener nofollow" target="_blank">Non-Tamil Indian Languages (NTIL)</a>
 </p>
+</li>
+<li>
+<p><a href="/files/2024 Open House/CHIJ_STC_Open_House_2024___Principal_s_Sharing.pdf" rel="noopener noreferrer nofollow" target="_blank">Open House Principal's Sharing Slides</a>
+</p>
 <p></p>
 </li>
 </ul>
