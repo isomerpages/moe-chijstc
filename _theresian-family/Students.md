@@ -10,6 +10,10 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><a href="https://for.edu.sg/stcyearbook2024" rel="noopener nofollow" target="_blank">STC Yearbook 2024</a>
+</p>
+</li>
+<li>
 <p><a href="/theresian-family/students/co-curricular-activities-cca" rel="noopener noreferrer nofollow" target="_blank">Co-Curricular Activities (CCA)</a>
 </p>
 </li>
