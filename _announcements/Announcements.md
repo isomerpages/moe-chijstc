@@ -4,10 +4,10 @@ permalink: /others/announcement/
 description: ""
 variant: tiptap
 ---
-<p><strong>STC Open House - 9 Nov 2024</strong>
+<p><strong>Year End Message from Chairperson CHIJ Board of Management, Ms Vivienne Lim</strong>
 </p>
-<p>Please <a href="https://www.chijsttheresasconvent.moe.edu.sg/open-house/" rel="noopener nofollow" target="_blank">click here</a> for
-more information</p>
+<p><a href="/files/Announcement/STC___2024_Year_Book_Chairperson_Statement__170th_Anniversary_.pdf" rel="noopener nofollow" target="_blank">Message from Ms Vivienne Lim, Chairperson, CHIJ Board of Management</a>
+</p>
 <hr>
 <p><strong>2025 Sec 3 Subject Option Briefing Slides</strong>
 </p>
