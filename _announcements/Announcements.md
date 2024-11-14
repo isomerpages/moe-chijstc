@@ -6,6 +6,9 @@ variant: tiptap
 ---
 <p><strong>Year End Message from Chairperson CHIJ Board of Management, Ms Vivienne Lim</strong>
 </p>
+<p>Please click on the file below to read her message:</p>
+<p><a href="/files/Announcement/STC___2024_Year_Book_Chairperson_Statement__170th_Anniversary_.pdf" rel="noopener nofollow" target="_blank">Message from Ms Vivienne Lim, Chairperson, CHIJ Board of Management</a>
+</p>
 <hr>
 <p><strong>2025 Sec 3 Subject Option Briefing Slides</strong>
 </p>
