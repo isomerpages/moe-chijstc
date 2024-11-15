@@ -50,7 +50,6 @@ to 20 Dec 2024.</p>
 </li>
 </ol>
 <hr>
-<hr>
 <p><strong>PLD Information Kit for Students and Parents</strong> 
 <br>Please click&nbsp;<a href="/files/Student%20Device%20Information%20Kit_CHIJ%20STC.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
 your PLD information with regards to</p>
