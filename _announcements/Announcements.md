@@ -50,9 +50,7 @@ to 20 Dec 2024.</p>
 </li>
 </ol>
 <hr>
-<p><strong>PLD Information Kit for Students and Parents</strong> 
-<br>Please click&nbsp;<a href="/files/Student%20Device%20Information%20Kit_CHIJ%20STC.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
-your PLD information with regards to</p>
+<h4><strong>PLD Information Kit for Students and Parents</strong> <br>Please click&nbsp;<a href="/files/Student%20Device%20Information%20Kit_CHIJ%20STC.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for your PLD information with regards to</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Service Centre Fault Reporting</p>
@@ -65,12 +63,8 @@ your PLD information with regards to</p>
 </li>
 </ul>
 <hr>
-<p><strong>Non-Tamil Indian Languages (NTIL)</strong> 
-<br>CHIJ St. Theresa's Convent does not conduct Non-Tamil Indian Languages
-(NTIL) lessons. Please click&nbsp;<a href="/others/announcement/non-tamil-indian-languages-ntil" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
-more details.</p>
+<h4><strong>Non-Tamil Indian Languages (NTIL)</strong> <br>CHIJ St. Theresa's Convent does not conduct Non-Tamil Indian Languages (NTIL) lessons. Please click&nbsp;<a href="/others/announcement/non-tamil-indian-languages-ntil" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more details.</h4>
 <hr>
-<p><strong>From the Principal's Desk</strong> 
-<br>Please click&nbsp;<a href="/others/announcement/from-the-principals-desk" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<h4><strong>From the Principal's Desk</strong> <br>Please click&nbsp;<a href="/others/announcement/from-the-principals-desk" rel="noopener noreferrer nofollow" target="_blank">here</a>.</h4>
 <p></p>
 <p></p>
