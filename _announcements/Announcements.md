@@ -21,9 +21,7 @@ Night is on 15 Nov).</p>
 to 20 Dec 2024.</p>
 </li>
 </ol>
-<p></p>
-<p></p>
-<p></p>
+<hr>
 <p><strong>Year End Message from Chairperson CHIJ Board of Management, Ms Vivienne Lim</strong>
 </p>
 <p><a href="/files/Announcement/STC___2024_Year_Book_Chairperson_Statement__170th_Anniversary_.pdf" rel="noopener nofollow" target="_blank">Message from Ms Vivienne Lim, Chairperson, CHIJ Board of Management</a>
