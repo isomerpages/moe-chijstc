@@ -65,7 +65,6 @@ and Testing of South Asian Languages (<a rel="noopener noreferrer nofollow" targ
 <a href="mailto:lee_chai_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lee_chai_yen@moe.edu.sg</a>)</p>
 <p><strong><u>Level Head, Chinese Language<br></u></strong>Ms Ng Say Hong
 (<a href="mailto:ng_say_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ng_say_hong@moe.edu.sg</a>)</p>
-<p></p>
 <p><strong><u>Department Staff</u></strong>
 </p>
 <p><strong>Chinese Language<br></strong>Mdm Du Liang (<a rel="noopener noreferrer nofollow" target="_blank">du_liang@moe.edu.sg</a>)</p>
@@ -125,8 +124,7 @@ workshop where students interacted with a writer.</p>
 discuss their insights, fostering a vibrant reading culture school wide.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p><strong>4. Enlighten: <em>Deepen Understanding and Broaden Perspectives</em></strong>
+<p>&nbsp;<strong>4. Enlighten: <em>Deepen Understanding and Broaden Perspectives</em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -145,21 +143,33 @@ Pongal festival explorations for Tamil students, and Chinese calligraphy
 sessions—to strengthen cultural connections.</p>
 </li>
 </ul>
-<p><strong>&nbsp;</strong>
+<p><strong>&nbsp;Awards</strong>
 </p>
-<p><strong>Awards</strong>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>“Script It Right” Chinese Radio Drama Script Writing Competition 2024: </strong>Awarded <em>Top 20 - Merit Prize</em> in
+the Secondary School category</p>
+</li>
+<li>
+<p><strong>The 7th National Secondary Schools Chinese Mini-Fiction Creative Writing Competition: </strong>Awarded <em>3rd Position</em>
 </p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>“Script It Right” Chinese Radio Drama Script Writing Competition 2024: </strong>Awarded <em>Top 20 - Merit Prize</em> in
+</li>
+<li>
+<p><strong>The 13th National Primary &amp; Secondary School On-the-Spot Chinese Calligraphy Competition: </strong>Awarded <em>Top 10 - Merit Prize</em> in
 the Secondary School category</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>The 7th National Secondary Schools Chinese Mini-Fiction Creative Writing Competition: </strong>Awarded <em>3rd Position</em>
-</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>The 13th National Primary &amp; Secondary School On-the-Spot Chinese Calligraphy Competition: </strong>Awarded <em>Top 10 - Merit Prize</em> in
+</li>
+<li>
+<p><strong>2024 Reading Superstar Competition: </strong>Awarded <em>Top 10 - Merit Prize</em> in
 the Secondary School category</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>2024 Reading Superstar Competition: </strong>Awarded <em>Top 10 - Merit Prize</em> in
-the Secondary School category</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>2024 Awe-Inspiring Virtue and Ocean of Wisdom National Calligraphy Competition: </strong><em>School Award for Outstanding Performance</em> (Harmony
+</li>
+<li>
+<p><strong>2024 Awe-Inspiring Virtue and Ocean of Wisdom National Calligraphy Competition: </strong><em>School Award for Outstanding Performance</em> (Harmony
 Award and Active Participation Award)</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Malay Language Writing Competition (Pena Emasku 2024): </strong>Awarded <em>Gold Category</em>
+</li>
+<li>
+<p><strong>Malay Language Writing Competition (Pena Emasku 2024): </strong>Awarded <em>Gold Category</em>
 </p>
+</li>
+</ul>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Tamil Language Poetry Writing Competition: </strong>Awarded <em>Consolation Prize</em>
 </p>
