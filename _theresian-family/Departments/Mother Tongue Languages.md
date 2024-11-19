@@ -65,7 +65,9 @@ and Testing of South Asian Languages (<a rel="noopener noreferrer nofollow" targ
 <a href="mailto:lee_chai_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lee_chai_yen@moe.edu.sg</a>)</p>
 <p><strong><u>Level Head, Chinese Language<br></u></strong>Ms Ng Say Hong
 (<a href="mailto:ng_say_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ng_say_hong@moe.edu.sg</a>)</p>
-<h4><strong><u>Department Staff</u></strong></h4>
+<p></p>
+<p><strong><u>Department Staff</u></strong>
+</p>
 <p><strong>Chinese Language<br></strong>Mdm Du Liang (<a rel="noopener noreferrer nofollow" target="_blank">du_liang@moe.edu.sg</a>)</p>
 <p>Mr Loh Chiu Wai (<a rel="noopener noreferrer nofollow" target="_blank">loh_chiu_wai@moe.edu.sg</a>)
 <br>Mdm Choy Cheng Mun (<a rel="noopener noreferrer nofollow" target="_blank">choy_cheng_mun@moe.edu.sg</a>)</p>
@@ -99,23 +101,30 @@ learning.</p>
 <li>
 <p>Foster excitement and a positive attitude toward language learning.</p>
 </li>
+<li>
+<p>Offer enriching experiences beyond the classroom, including Mother Tongue
+Fortnight activities.</p>
+</li>
+<li>
+<p>Examples include workshops, performances, and collaborative learning,
+which broaden students’ perspectives on language and culture.</p>
+</li>
 </ul>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Offer enriching experiences beyond
-the classroom, including Mother Tongue Fortnight activities.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Examples include workshops, performances,
-and collaborative learning, which broaden students’ perspectives on language
-and culture.</p>
-<p>&nbsp;</p>
 <p><strong>3. Encourage: <em>Support Effort, Growth, and Perseverance</em></strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Promote extensive reading and exploration
-across language disciplines.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Facilitate opportunities for immersive
-learning, like the Chinese reading workshop where students interacted with
-a writer.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Encourage sharing sessions, where
-students from various language groups discuss their insights, fostering
-a vibrant reading culture school wide.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Promote extensive reading and exploration across language disciplines.</p>
+</li>
+<li>
+<p>Facilitate opportunities for immersive learning, like the Chinese reading
+workshop where students interacted with a writer.</p>
+</li>
+<li>
+<p>Encourage sharing sessions, where students from various language groups
+discuss their insights, fostering a vibrant reading culture school wide.</p>
+</li>
+</ul>
 <p>&nbsp;</p>
 <p><strong>4. Enlighten: <em>Deepen Understanding and Broaden Perspectives</em></strong>
 </p>
