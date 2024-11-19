@@ -42,12 +42,19 @@ their community and beyond.</p>
 </li>
 </ul>
 <p><strong>Questions on Mother Tongue Languages<br></strong>For questions
-related to Mother Tongue Languages, pls contact Mdm Lee&nbsp;(<a href="mailto:lee_chai_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lee_chai_yen@moe.edu.sg</a>).
-<br>Please note that Non-Tamil Indian Languages (NTIL) lessons are not conducted
-in CHIJ St. Theresa’s Convent.
-<br>Students who are taking NTIL will go to designated schools for their lessons.
-<br>For more information on NTIL matters, please refer to Board for the Teaching
-and Testing of South Asian Languages (<a href="http://www.bttsal.com/" rel="noopener noreferrer nofollow" target="">http://www.bttsal.com</a>).</p>
+related to Mother Tongue Languages, pls contact</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>HOD Mother Tongue Languages Mdm Lee Chai Yen (<a rel="noopener noreferrer nofollow" target="_blank">lee_chai_yen@moe.edu.sg</a>)</p>
+</li>
+<li>
+<p>Level Head, Chinese Language Ms Ng Say Hong (<a rel="noopener noreferrer nofollow" target="_blank">ng_say_hong@moe.edu.sg</a>)</p>
+</li>
+<li>
+<p>SH Student Leadership and Student Discipline Ms Zaynab Binte Abdul Rahman
+(<a rel="noopener noreferrer nofollow" target="_blank">zaynab_abdul_rahman@moe.edu.sg</a>)</p>
+</li>
+</ul>
 <p><strong><u>Head Of Department<br></u></strong>Mdm Lee Chai Yen&nbsp;(
 <a href="mailto:lee_chai_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lee_chai_yen@moe.edu.sg</a>)</p>
 <p><strong><u>Level Head, Chinese Language<br></u></strong>Ms Ng Say Hong
