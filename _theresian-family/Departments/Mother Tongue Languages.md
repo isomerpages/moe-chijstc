@@ -81,17 +81,25 @@ and Testing of South Asian Languages (<a rel="noopener noreferrer nofollow" targ
 </p>
 <p><strong>1. Engage: <em>Captivate Interest and Foster Relevance</em></strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Spark curiosity and connect learning
-to real-life contexts.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Employ diverse teaching methods,
-such as integrating ICT tools and project-based learning.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Provide authentic experiences that
-make lessons relevant and engaging.</p>
-<p>&nbsp;</p>
-<p><strong>2. Enthuse: <em>Build Excitement and a Positive Attitude</em></strong>
+<ul data-tight="true" class="tight">
+<li>
+<p>Spark curiosity and connect learning to real-life contexts.</p>
+</li>
+<li>
+<p>Employ diverse teaching methods, such as integrating ICT tools and project-based
+learning.</p>
+</li>
+<li>
+<p>Provide authentic experiences that make lessons relevant and engaging.</p>
+</li>
+</ul>
+<p>&nbsp;<strong>2. Enthuse: <em>Build Excitement and a Positive Attitude</em></strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Foster excitement and a positive
-attitude toward language learning.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Foster excitement and a positive attitude toward language learning.</p>
+</li>
+</ul>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Offer enriching experiences beyond
 the classroom, including Mother Tongue Fortnight activities.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Examples include workshops, performances,
@@ -111,16 +119,23 @@ a vibrant reading culture school wide.</p>
 <p>&nbsp;</p>
 <p><strong>4. Enlighten: <em>Deepen Understanding and Broaden Perspectives</em></strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Broaden students' cultural awareness
-and deepen their understanding of heritage.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Engage selected students in talent
-development programs, such as Chinese Broadcast Journalism (covering News
-Editorial and Video Making) and competitive events.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Organize hands-on cultural activities—Chinese
-drama workshops, Tamil jewelry-making, mini kampong house construction,
-ondeh-ondeh creation for Malay students, Pongal festival explorations for
-Tamil students, and Chinese calligraphy sessions—to strengthen cultural
-connections.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Broaden students' cultural awareness and deepen their understanding of
+heritage.</p>
+</li>
+<li>
+<p>Engage selected students in talent development programs, such as Chinese
+Broadcast Journalism (covering News Editorial and Video Making) and competitive
+events.</p>
+</li>
+<li>
+<p>Organize hands-on cultural activities—Chinese drama workshops, Tamil jewelry-making,
+mini kampong house construction, ondeh-ondeh creation for Malay students,
+Pongal festival explorations for Tamil students, and Chinese calligraphy
+sessions—to strengthen cultural connections.</p>
+</li>
+</ul>
 <p><strong>&nbsp;</strong>
 </p>
 <p><strong>Awards</strong>
