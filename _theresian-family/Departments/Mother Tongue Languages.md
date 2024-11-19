@@ -5,10 +5,13 @@ description: ""
 third_nav_title: Departments
 variant: tiptap
 ---
+<h1><strong>Master the Mother Tongue, Inherit the Culture</strong></h1>
+<h1><strong>学好母语，传承文化</strong></h1>
+<h1><strong>Dalami Bahasa Ibunda, Warisi Budaya</strong></h1>
+<h1><strong>நம் தாய்மொழியைச் சிறப்பாகக் கற்று, நம் பண்பாட்டை அடுத்த தலைமுறைக்குக் கொண்டு சேர்ப்போம்</strong></h1>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" src="/images/2023DepartmentPhotos/mothertongue.jpg">
 </div>
-<h4><strong>"The best teachers teach from the heart, not from the book."</strong></h4>
 <p><strong>Mission<br></strong>To provide quality Mother Tongue education
 where all work together for the promotion of ‘Teaching is for Learning
 and Learning is for Understanding and Appreciation ‘.</p>
