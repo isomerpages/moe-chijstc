@@ -55,60 +55,87 @@ related to Mother Tongue Languages, pls contact</p>
 (<a rel="noopener noreferrer nofollow" target="_blank">zaynab_abdul_rahman@moe.edu.sg</a>)</p>
 </li>
 </ul>
+<p><strong>Non-Tamil Indian Languages (NTIL)</strong>
+<br>Please note that <strong>Non-Tamil Indian Languages (NTIL)</strong> lessons
+are not conducted in CHIJ St. Theresa’s Convent.
+<br>Students who are taking NTIL will go to designated schools for their lessons.
+<br>For more information on NTIL matters, please refer to Board for the Teaching
+and Testing of South Asian Languages (<a rel="noopener noreferrer nofollow" target="_blank">http://www.bttsal.com</a>).</p>
 <p><strong><u>Head Of Department<br></u></strong>Mdm Lee Chai Yen&nbsp;(
 <a href="mailto:lee_chai_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lee_chai_yen@moe.edu.sg</a>)</p>
 <p><strong><u>Level Head, Chinese Language<br></u></strong>Ms Ng Say Hong
 (<a href="mailto:ng_say_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ng_say_hong@moe.edu.sg</a>)</p>
 <h4><strong><u>Department Staff</u></strong></h4>
-<p><strong>Chinese Language<br></strong>Mrs Cerise Xu (<a href="mailto:chiew_shuqin_cerise@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chiew_shuqin_cerise@moe.edu.sg</a>)
-<br>Mr Loh Chiu Wai (<a href="mailto:loh_chiu_wai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_chiu_wai@moe.edu.sg</a>)
-<br>Mr Wong Chee Leong (<a href="mailto:wong_chee_leong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_chee_leong@moe.edu.sg</a>)</p>
-<p><strong>Malay Language<br></strong>Mdm Haslinda Bte Ramat (<a href="mailto:haslinda_ramat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">haslinda_ramat@moe.edu.sg</a>)
-<br>Mdm Nur Hannah Binti Mohamed Elyas (<a href="mailto:nur_hannah_mohamed_elyas@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_hannah_mohamed_elyas@moe.edu.sg</a>)
-<br>Ms Zaynab Binte Abdul Rahman (<a href="mailto:Zaynab_Abdul_Rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Zaynab_Abdul_Rahman@schools.gov.sg</a>)\</p>
-<p><strong>Tamil Language<br></strong>Mr Natarajan Saravanan (<a href="mailto:natarajan_saravanan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">natarajan_saravanan@moe.edu.sg</a>)</p>
-<p><strong>MT Enrichment Programme seeks to achieve the following objectives</strong>
+<p><strong>Chinese Language<br></strong>Mdm Du Liang (<a rel="noopener noreferrer nofollow" target="_blank">du_liang@moe.edu.sg</a>)</p>
+<p>Mr Loh Chiu Wai (<a rel="noopener noreferrer nofollow" target="_blank">loh_chiu_wai@moe.edu.sg</a>)
+<br>Mdm Choy Cheng Mun (<a rel="noopener noreferrer nofollow" target="_blank">choy_cheng_mun@moe.edu.sg</a>)</p>
+<p>Mdm Evelyn Yau (<a rel="noopener noreferrer nofollow" target="_blank">evelyn_yau_yen_teng@moe.edu.sg</a>)</p>
+<p>Mrs Cerise Xu (<a rel="noopener noreferrer nofollow" target="_blank">chiew_shuqin_cerise@moe.edu.sg</a>)
+<br>Mr Wong Chee Leong (<a rel="noopener noreferrer nofollow" target="_blank">wong_chee_leong@moe.edu.sg</a>)</p>
+<p><strong>Malay Language<br></strong>Mdm Haslinda Bte Ramat (<a rel="noopener noreferrer nofollow" target="_blank">haslinda_ramat@moe.edu.sg</a>)
+<br>Mdm Nur Hannah Binti Mohamed Elyas (<a rel="noopener noreferrer nofollow" target="_blank">nur_hannah_mohamed_elyas@moe.edu.sg</a>)
+<br>
+<br><strong>Tamil Language<br></strong>Ms Zaynab Binte Abdul Rahman (<a rel="noopener noreferrer nofollow" target="_blank">Zaynab_Abdul_Rahman@schools.gov.sg</a>)</p>
+<p>Mr Natarajan Saravanan (<a href="mailto:natarajan_saravanan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">natarajan_saravanan@moe.edu.sg</a>)</p>
+<p><strong>Mother Tongue Department Teaching and Learning: The 4E Framework</strong>
 </p>
-<ol data-tight="true" class="tight">
-<li>
-<p>create an immersive environment for the learning and appreciation of MT</p>
-</li>
-<li>
-<p>provide a platform for students to actively learn MT and its associated
-culture</p>
-</li>
-<li>
-<p>provide authentic opportunities for students to extend their MT learning
-experience beyond the textbook</p>
-</li>
-</ol>
-<p><strong>Programmes and Activities:</strong>
+<p><strong>1. Engage: <em>Captivate Interest and Foster Relevance</em></strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Chinese New Year , Hari Raya Puasa , Deepavali&nbsp;</strong>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Spark curiosity and connect learning
+to real-life contexts.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Employ diverse teaching methods,
+such as integrating ICT tools and project-based learning.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Provide authentic experiences that
+make lessons relevant and engaging.</p>
+<p>&nbsp;</p>
+<p><strong>2. Enthuse: <em>Build Excitement and a Positive Attitude</em></strong>
 </p>
-</li>
-<li>
-<p><strong>Workshops – traditional arts , movie critique, song writing, GCE ‘O’ level prep</strong>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Foster excitement and a positive
+attitude toward language learning.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Offer enriching experiences beyond
+the classroom, including Mother Tongue Fortnight activities.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Examples include workshops, performances,
+and collaborative learning, which broaden students’ perspectives on language
+and culture.</p>
+<p>&nbsp;</p>
+<p><strong>3. Encourage: <em>Support Effort, Growth, and Perseverance</em></strong>
 </p>
-</li>
-<li>
-<p><strong>Quizzes – tradition, festivals, idioms, proverbs</strong>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Promote extensive reading and exploration
+across language disciplines.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Facilitate opportunities for immersive
+learning, like the Chinese reading workshop where students interacted with
+a writer.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Encourage sharing sessions, where
+students from various language groups discuss their insights, fostering
+a vibrant reading culture school wide.</p>
+<p>&nbsp;</p>
+<p><strong>4. Enlighten: <em>Deepen Understanding and Broaden Perspectives</em></strong>
 </p>
-</li>
-<li>
-<p><strong>Drama / dance performance by professional</strong>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Broaden students' cultural awareness
+and deepen their understanding of heritage.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Engage selected students in talent
+development programs, such as Chinese Broadcast Journalism (covering News
+Editorial and Video Making) and competitive events.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Organize hands-on cultural activities—Chinese
+drama workshops, Tamil jewelry-making, mini kampong house construction,
+ondeh-ondeh creation for Malay students, Pongal festival explorations for
+Tamil students, and Chinese calligraphy sessions—to strengthen cultural
+connections.</p>
+<p><strong>&nbsp;</strong>
 </p>
-</li>
-<li>
-<p><strong>Learning Journey – China Town, Little India, Geylang Serai/ Kampong Glam</strong>
+<p><strong>Awards</strong>
 </p>
-</li>
-<li>
-<p><strong>Conversational Chinese /Malay Programme for Sec 1 &amp; 2</strong>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>“Script It Right” Chinese Radio Drama Script Writing Competition 2024: </strong>Awarded <em>Top 20 - Merit Prize</em> in
+the Secondary School category</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>The 7th National Secondary Schools Chinese Mini-Fiction Creative Writing Competition: </strong>Awarded <em>3rd Position</em>
 </p>
-</li>
-</ul>
-<p></p>
-<p></p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>The 13th National Primary &amp; Secondary School On-the-Spot Chinese Calligraphy Competition: </strong>Awarded <em>Top 10 - Merit Prize</em> in
+the Secondary School category</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>2024 Reading Superstar Competition: </strong>Awarded <em>Top 10 - Merit Prize</em> in
+the Secondary School category</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>2024 Awe-Inspiring Virtue and Ocean of Wisdom National Calligraphy Competition: </strong><em>School Award for Outstanding Performance</em> (Harmony
+Award and Active Participation Award)</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Malay Language Writing Competition (Pena Emasku 2024): </strong>Awarded <em>Gold Category</em>
+</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Tamil Language Poetry Writing Competition: </strong>Awarded <em>Consolation Prize</em>
+</p>
