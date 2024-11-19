@@ -12,18 +12,35 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" src="/images/2023DepartmentPhotos/mothertongue.jpg">
 </div>
-<p><strong>Mission<br></strong>To provide quality Mother Tongue education
-where all work together for the promotion of ‘Teaching is for Learning
-and Learning is for Understanding and Appreciation ‘.</p>
-<p><strong>Vision<br></strong>A school community of Confident and Passionate
-MT Leaders and Learners.</p>
-<p><strong>Department Goals</strong>&nbsp;
-<br>To develop Theresian graduates who are articulate and able to use their
-MT for effective communication.
-<br>To develop in students an ability to articulate verbally and in writing,
-their responses to the various genres and texts.
-<br>To develop in students a genuine appreciation for their MT culture and
-heritage.</p>
+<p><strong>Mission<br></strong>To nurture a supportive environment where
+students develop strong Mother Tongue language skills, empowering them
+to embrace and express their cultural heritage with confidence and pride.</p>
+<p><strong>Vision<br></strong>A vibrant school community of students and
+educators who value and lead in the appreciation, mastery, and continued
+use of Mother Tongue languages.</p>
+<p><strong>Department Goals</strong>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Language Mastery: </strong>Equip students with proficiency in
+their Mother Tongue to effectively communicate and articulate ideas in
+both written and spoken forms.</p>
+</li>
+<li>
+<p><strong>Cultural Appreciation: </strong>Foster a deep understanding and
+appreciation of students' own cultures and heritage, strengthening their
+sense of identity and belonging.</p>
+</li>
+<li>
+<p><strong>Critical Thinking and Expression: </strong>Develop students' ability
+to analyze, reflect on, and respond thoughtfully to a variety of texts
+and media in their Mother Tongue.</p>
+</li>
+<li>
+<p><strong>Community Engagement: </strong>Encourage students to apply their
+Mother Tongue skills in real-world settings, building connections with
+their community and beyond.</p>
+</li>
+</ul>
 <p><strong>Questions on Mother Tongue Languages<br></strong>For questions
 related to Mother Tongue Languages, pls contact Mdm Lee&nbsp;(<a href="mailto:lee_chai_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lee_chai_yen@moe.edu.sg</a>).
 <br>Please note that Non-Tamil Indian Languages (NTIL) lessons are not conducted
