@@ -38,7 +38,6 @@ our school on that day.</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://moe-singapore.zoom.us/j/81190322954</a>
 </p>
 <p>Passcode: 841659</p>
-<p>&nbsp;</p>
 <p>For identification purposes, please observe the following naming convention
 for the webinar:</p>
 <ul data-tight="true" class="tight">
