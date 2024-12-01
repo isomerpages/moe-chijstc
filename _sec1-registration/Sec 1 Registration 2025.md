@@ -197,11 +197,98 @@ more time for the changeover to STC attire.</p>
 </tbody>
 </table>
 <h4>5. Information on Non- Tamil Indian Languages (NTIL)</h4>
-<p></p>
-<p>Please note that the Non-Tamil Languages (NTIL) lessons are not conducted
-in CHIJ St. Theresa’s Convent. Students who are taking NTIL will go to
-designated schools for their lessons.</p>
+<p>Please note that the Non-Tamil Languages (NTIL) lessons are <strong>not conducted</strong> in
+CHIJ St. Theresa’s Convent. Students who are taking NTIL will go to designated
+schools for their lessons.</p>
 <p>For more information on NTIL matters, please refer to Board for the Teaching
 and Testing of South Asian Languages. (<a rel="noopener noreferrer nofollow" target="_blank">http://www.bttsal.com</a>)</p>
 <p>For questions related to Mother Tongue Languages, please approach Mdm
-Lee Chai Yen(<a rel="noopener noreferrer nofollow" target="_blank">Lee_Chai_Yen@schools.gov.sg</a>).</p>
+Lee Chai Yen (<a rel="noopener noreferrer nofollow" target="_blank">Lee_Chai_Yen@schools.gov.sg</a>).</p>
+<h4>6. Information for Financial Assistance Scheme (FAS) Application</h4>
+<p>If you wish to apply or need more information for the MOE Financial Assistance
+Scheme, you may read the details in the school website at this <a href="https://www.chijsttheresasconvent.moe.edu.sg/theresian-family/students/moe-financial-assistance-scheme/" rel="noopener noreferrer nofollow" target="_blank">link</a>.</p>
+<h4>7. Appeals for Transfer</h4>
+<p>For appeals due to serious medical conditions, please refer to the following&nbsp;MOE
+webpage.</p>
+<p>If you wish to apply for transfer due to non-medical reasons, please click&nbsp;<strong><a href="https://form.gov.sg/65814ad1448a4300128e8b43" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;to
+complete the FormSG and submit it within 5 calendar days upon the release
+of the S1 Posting results <em>(For example, if the S1 Posting Results are released on 18 December 2024 (Wednesday), the deadline for appeal applications will be 23 December 2024 (Monday)).</em> Please
+note that your child needs to meet our school’s admission criteria and
+our school must have available vacancies, for her to be considered for
+the place.</p>
+<h4><strong>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; First Day of School 2025</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Reporting date:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd January 2025 (Thursday)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Reporting time:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.20 am</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Venue:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AVA Room (Level 4)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Attire:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students can report in their IJ Uniform or in their Primary School Uniform</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Things to bring:</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Writing materials</p>
+</li>
+<li>
+<p>Water bottle</p>
+</li>
+<li>
+<p>PE attire or primary school PE attire</p>
+</li>
+<li>
+<p>A storybook</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p>More details will be included in the Orientation Programme, including
+daily dismissal time for 2<sup>nd</sup>, 3<sup>rd</sup> and 6<sup>th</sup>&nbsp;January
+2025.&nbsp;</p>
+<h4><strong>9. Traffic Flow</strong></h4>
+<p>The school operates a 2-way traffic flow system during the morning peak
+period. Cars may either (i) enter from the main gate along Lower Delta
+Road and exit by the back gate along Telok Blangah Way;&nbsp;OR&nbsp;(ii)
+enter from the gate along Telok Blangah Way and exit by the main gate along
+Lower Delta Road.</p>
+<p>During the afternoon peak period, only 1-way traffic flow is allowed.
+Cars may only enter from the main gate along Lower Delta Road and exit
+by the back gate along Telok Blangah Way.</p>
+<p>Please see the maps below for more information.</p>
+<p></p>
