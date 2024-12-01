@@ -161,33 +161,37 @@ approval issued by the school during self-collection in the school.</p>
 </tbody>
 </table>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p>- Date/Time: 21, 22, 26, 27 and 28 Dec 2024, 9.00am to 4.00pm (Tentative)</p>
-<p>- Venue: School Canteen</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Strictly based on making an e-appointment to book a date/time for self-collection
 in school:</p>
 </li>
-</ul>
-<p>- Each customer will receive a confirmation email listing the appointment
+<li>
+<p>Each customer will receive a confirmation email listing the appointment
 time.</p>
-<p>- Please keep to your timing and show your confirmation email at the Security
+</li>
+<li>
+<p>Please keep to your timing and show your confirmation email at the Security
 Guard House (main gate).</p>
-<p>- You need only make one e-appointment via this link for the purchase
-of school uniform, PE attire, textbooks and stationery.</p>
-<p>• Student who is under the MOE/School-based FAS is also required to make
+</li>
+<li>
+<p>You need only make one e-appointment via this link for the purchase of
+school uniform, PE attire, textbooks and stationery.</p>
+</li>
+<li>
+<p>Student who is under the MOE/School-based FAS is also required to make
 an e-appointment to book a date to collect the required items in school.</p>
-<p>• Detailed instructions for the purchase can be found in the school website
+</li>
+<li>
+<p>Detailed instructions for the purchase can be found in the school website
 at this link.</p>
-<p>• Secondary One students may wear their primary school attire (including
+</li>
+<li>
+<p>Secondary One students may wear their primary school attire (including
 PE attire for PE lessons) for the first two weeks of Term One, to allow
 more time for the changeover to STC attire.</p>
-<p></p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
