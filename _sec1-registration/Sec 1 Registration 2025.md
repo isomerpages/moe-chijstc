@@ -293,6 +293,9 @@ by the back gate along Telok Blangah Way.</p>
 <p>Please see the maps below for more information.</p>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/traffic1.png">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/traffic2.png">
 </div>
 <p></p>
