@@ -23,12 +23,137 @@ opportunities to learn and to forge new friendships.</p>
 <p>When you receive your posting to CHIJ St Theresa’s Convent, you do not
 need to be physically present in our school on that day as the Sec 1 Registration
 will be conducted online.</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Principal's Welcome Letter</p>
-</li>
-</ol>
+<h4>1. Principal's Welcome Letter</h4>
+<p>Please click <a href="/files/Sec 1 Registration/2025_Principal_s_Welcome_Letter___Sec_1_Final_1.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<h4>2. Sec 1 Registration Day Webinar</h4>
+<p>Results of the Secondary School Posting will be released tentatively between
+Wednesday, 18 December 2024 and Friday, 20 December 2024. Please join us
+for the Sec 1 Registration Day webinar&nbsp;<strong>one day after</strong> the
+release of the posting results <strong>at 9.00 am</strong> (For example,
+if the S1 posting release date is on 18 Dec 2024, the webinar will be held
+on the 19 Dec 2024, 9.00 am). You&nbsp;do not need to be physically present&nbsp;in
+our school on that day.</p>
 <p></p>
+<p>Details of the webinar are as follows:</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://moe-singapore.zoom.us/j/81190322954</a>
+</p>
+<p>Passcode: 841659</p>
+<p>&nbsp;</p>
+<p>For identification purposes, please observe the following naming convention
+for the webinar:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Students who are logging in: Student’s name (e.g. Sarah Tan)</p>
+</li>
+<li>
+<p>Parents/Guardians: Student’s name_parent’s/guardian’s name (e.g. Sarah
+Tan_Bryan Tan)</p>
+</li>
+</ul>
+<p>If you are unable to join us for the Registration Day webinar, you can
+view the slides that will be shared here after the webinar.</p>
+<h4>3. Online E-Registration Form</h4>
+<p>Please ensure you have your Parents Gateway app to complete the Sec 1
+online e-registration on Sec 1 Registration Day. After you have received
+your school posting, CHIJ St. Theresa’s Convent should be automatically
+reflected on the Parents Gateway app and you will be able to receive notifications
+from our school.</p>
+<p>On Sec 1 Registration Day, you will receive a notification via the Parents
+Gateway app to complete the online e-registration form on FormSG. This
+will allow you to complete the Sec 1 registration online. Please complete
+and submit the form before 26 December 2024, 5.00pm. The link to the form
+is <a href="https://go.gov.sg/sec1reg2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sec1reg2025</a>.</p>
+<p>For students who intend to put in an appeal to another school, you will
+still need to fill up this form and notify CHIJ STC General Office should
+you be successful in your appeal.</p>
+<h4>4. Purchase of School Uniform, PE Attire &amp; Books</h4>
+<p>You are encouraged to make your orders online. Purchase can be done via
+online order (to opt for either home delivery or self-collection in school)
+or non-online order (to order and self-collect in school).</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>School Uniform &amp; PE Attire</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>School Bookshop</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KH Uniform Pte. Ltd.</p>
+<p>Website: <a href="https://www.khuniform.com" rel="noopener noreferrer nofollow" target="_blank">https://www.khuniform.com</a>
+</p>
+<p>Blk 115A Commonwealth Drive #02-28</p>
+<p>Singapore 149596</p>
+<p>Tel: 6479 6811</p>
+<p>(Weekdays, excluding eve of Public Holidays, 9.00am-12.00pm/1.00pm-5.00pm)</p>
+<p>Email: <a href="mailto:sales@khuniform.com" rel="noopener noreferrer nofollow" target="_blank">sales@khuniform.com</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pacific Bookstores Pte Ltd</p>
+<p>Website: <a href="https://www.pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com</a>
+</p>
+<p>14 Arumugam Road #08-01 LTC Building C</p>
+<p>Singapore 409959</p>
+<p>Tel: 6929 8012</p>
+<p>(Weekdays, excluding eve of Public Holidays, 9.00am-12.00pm/1.00pm-5.00pm)</p>
+<p>WhatsApp: 9048 2460</p>
+<p>(Weekdays, 9.00am to 3.00pm)</p>
+<p>Email: <a href="mailto:sales@pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">sales@pacificbookstores.com</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Instructions</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Purchase can be done via online order (to opt for either home delivery
+or self-collection in school) or non-online order (to order and self-collect
+in school)</p>
+</li>
+<li>
+<p>Non-online order will be applicable to students who are under the MOE/School-based
+Financial Assistance Scheme (FAS) as they have to produce the letter of
+approval issued by the school during self-collection in the school.</p>
+<p>Dates, time and venue for self-collection in school:</p>
+</li>
+</ul>
+<p>- Date/Time: 20 Dec 2024, 10.00am to 4.00pm (Tentative)</p>
+<p>- Date/Time: 21, 22, 26, 27 and 28 Dec 2024, 9.00am to 4.00pm (Tentative)</p>
+<p>- Venue: School Canteen</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Strictly based on making an e-appointment to book a date/time for self-collection
+in school:</p>
+</li>
+</ul>
+<p>- Each customer will receive a confirmation email listing the appointment
+time.</p>
+<p>- Please keep to your timing and show your confirmation email at the Security
+Guard House (main gate).</p>
+<p>- You need only make one e-appointment via this link for the purchase
+of school uniform, PE attire, textbooks and stationery.</p>
+<p>• Student who is under the MOE/School-based FAS is also required to make
+an e-appointment to book a date to collect the required items in school.</p>
+<p>• Detailed instructions for the purchase can be found in the school website
+at this link.</p>
+<p>• Secondary One students may wear their primary school attire (including
+PE attire for PE lessons) for the first two weeks of Term One, to allow
+more time for the changeover to STC attire.</p>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
 <p></p>
