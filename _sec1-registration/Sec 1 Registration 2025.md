@@ -197,5 +197,5 @@ more time for the changeover to STC attire.</p>
 </tbody>
 </table>
 <h4>5. Information on Non- Tamil Indian Languages (NTIL)</h4>
-<p>sdf</p>
-<p>ages (NTIL)</p>
+<p></p>
+<p></p>
