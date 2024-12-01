@@ -124,10 +124,48 @@ in school)</p>
 <p>Non-online order will be applicable to students who are under the MOE/School-based
 Financial Assistance Scheme (FAS) as they have to produce the letter of
 approval issued by the school during self-collection in the school.</p>
+</li>
+<li>
 <p>Dates, time and venue for self-collection in school:</p>
 </li>
 </ul>
-<p>- Date/Time: 20 Dec 2024, 10.00am to 4.00pm (Tentative)</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Date/Time:</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>20 Dec 2024, 10.00am to 4.00pm (Tentative)</p>
+</li>
+<li>
+<p>20 Dec 2024, 10.00am to 4.00pm (Tentative)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Venue:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Canteen</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p>- Date/Time: 21, 22, 26, 27 and 28 Dec 2024, 9.00am to 4.00pm (Tentative)</p>
 <p>- Venue: School Canteen</p>
 <ul data-tight="true" class="tight">
