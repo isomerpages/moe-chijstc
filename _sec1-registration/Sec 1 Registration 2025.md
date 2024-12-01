@@ -215,7 +215,7 @@ of the S1 Posting results <em>(For example, if the S1 Posting Results are releas
 note that your child needs to meet our school’s admission criteria and
 our school must have available vacancies, for her to be considered for
 the place.</p>
-<h4><strong>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; First Day of School 2025</strong></h4>
+<h4>8. First Day of School 2025</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -280,7 +280,7 @@ the place.</p>
 <p>More details will be included in the Orientation Programme, including
 daily dismissal time for 2<sup>nd</sup>, 3<sup>rd</sup> and 6<sup>th</sup>&nbsp;January
 2025.&nbsp;</p>
-<h4><strong>9. Traffic Flow</strong></h4>
+<h4>9. Traffic Flow</h4>
 <p>The school operates a 2-way traffic flow system during the morning peak
 period. Cars may either (i) enter from the main gate along Lower Delta
 Road and exit by the back gate along Telok Blangah Way;&nbsp;OR&nbsp;(ii)
