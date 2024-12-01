@@ -297,4 +297,11 @@ by the back gate along Telok Blangah Way.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/traffic2.png">
 </div>
-<p></p>
+<h4>10. Use of photograph(s) and video images(s)</h4>
+<p>Photograph(s) or video image(s) of students and their parents may be captured
+during school activities and events such as classroom lessons, CCA, school
+camps, school concerts. The school may use and publish such photographs
+and / or video recordings in school publications, website, social media
+channels and other communication channels.</p>
+<p>For any concerns, please email to our school at <a href="mailto:chijstcs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chijstcs@moe.edu.sg</a> and cc to the
+Secondary One Year Head, Ms Joyce Tan at <a href="mailto:tan_shu_min_joyce@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_shu_min_joyce@moe.edu.sg</a>.</p>
