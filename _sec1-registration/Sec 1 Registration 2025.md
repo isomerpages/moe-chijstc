@@ -5,6 +5,10 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>Sec 1 Registration 2025</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/welcome2thefamily.jpg">
+</div>
 <p><strong>2025 Theme: Freedom through Courage</strong>
 </p>
 <p><strong>The Theresian community warmly welcomes all our 2025 Sec 1 Students and Parents!</strong>
@@ -21,25 +25,35 @@ numerous opportunities to learn and to forge new friendships.</p>
 not need to be physically present&nbsp;in our school on that day as the
 Sec 1 Registration will be conducted online. Please see the following for
 more details:</p>
-<p>1.&nbsp;&nbsp;&nbsp; Principal Welcome Letter</p>
-<p>2.&nbsp;&nbsp;&nbsp; Sec 1 Registration Day Webinar</p>
-<p>3.&nbsp;&nbsp;&nbsp; Online E-Registration Form</p>
-<p>4.&nbsp;&nbsp;&nbsp; Purchase of School Uniform, PE Attire &amp; Books</p>
-<p>5.&nbsp;&nbsp;&nbsp; Information on Non- Tamil Indian Languages (NTIL)</p>
-<p>6.&nbsp;&nbsp;&nbsp; Information for Financial Assistance Scheme (FAS)
-Application</p>
-<p>7.&nbsp;&nbsp;&nbsp; Appeal for transfer</p>
-<p>8.&nbsp;&nbsp;&nbsp; First Day of School 2025</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Principal Welcome Letter</p>
+</li>
+<li>
+<p>Sec 1 Registration Day Webinar</p>
+</li>
+<li>
+<p>Online E-Registration Form</p>
+</li>
+<li>
+<p>Purchase of School Uniform, PE Attire &amp; Books</p>
+</li>
+<li>
+<p>Information on Non- Tamil Indian Languages (NTIL)</p>
+</li>
+<li>
+<p>Information for Financial Assistance Scheme (FAS) Application</p>
+</li>
+<li>
+<p>Appeal for transfer</p>
+</li>
+<li>
+<p>First Day of School 2025</p>
+</li>
+<li>
 <p>9.&nbsp;&nbsp;&nbsp; Use of photograph(s) and video images(s)</p>
-<p>2.&nbsp;&nbsp;&nbsp; Sec 1 Registration Day Webinar</p>
-<p>3.&nbsp;&nbsp;&nbsp; Online E-Registration Form</p>
-<p>4.&nbsp;&nbsp;&nbsp; Purchase of School Uniform, PE Attire &amp; Books</p>
-<p>5.&nbsp;&nbsp;&nbsp; Information on Non- Tamil Indian Languages (NTIL)</p>
-<p>6.&nbsp;&nbsp;&nbsp; Information for Financial Assistance Scheme (FAS)
-Application</p>
-<p>7.&nbsp;&nbsp;&nbsp; Appeal for transfer</p>
-<p>8.&nbsp;&nbsp;&nbsp; First Day of School 2025</p>
-<p>9.&nbsp;&nbsp;&nbsp; Use of photograph(s) and video images(s)</p>
+</li>
+</ol>
 <p></p>
 <ol data-tight="true" class="tight">
 <li>
