@@ -198,4 +198,10 @@ more time for the changeover to STC attire.</p>
 </table>
 <h4>5. Information on Non- Tamil Indian Languages (NTIL)</h4>
 <p></p>
-<p></p>
+<p>Please note that the Non-Tamil Languages (NTIL) lessons are not conducted
+in CHIJ St. Theresa’s Convent. Students who are taking NTIL will go to
+designated schools for their lessons.</p>
+<p>For more information on NTIL matters, please refer to Board for the Teaching
+and Testing of South Asian Languages. (<a rel="noopener noreferrer nofollow" target="_blank">http://www.bttsal.com</a>)</p>
+<p>For questions related to Mother Tongue Languages, please approach Mdm
+Lee Chai Yen(<a rel="noopener noreferrer nofollow" target="_blank">Lee_Chai_Yen@schools.gov.sg</a>).</p>
