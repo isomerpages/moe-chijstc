@@ -4,8 +4,7 @@ permalink: /sec-1-registration-2024/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Information for Sec 1 Registration 2024</strong></h4>
-<h4>Sec 1 Registration 2024</h4>
+<h4><strong>Sec 1 Registration 2025</strong></h4>
 <p>2024 Theme: CHIJ 170th Anniversary (Hold On To Our IJ Dream)
 <br>CHIJ St Theresa’s Convent Welcomes all our
 <br>2024 Sec 1 Students and Parents!</p>
