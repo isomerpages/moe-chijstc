@@ -51,7 +51,7 @@ more details:</p>
 <p>First Day of School 2025</p>
 </li>
 <li>
-<p>9.&nbsp;&nbsp;&nbsp; Use of photograph(s) and video images(s)</p>
+<p>Use of photograph(s) and video images(s)</p>
 </li>
 </ol>
 <p></p>
