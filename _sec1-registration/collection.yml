@@ -2,4 +2,5 @@ collections:
   sec1-registration:
     output: true
     order:
+      - Principal's Welcome Letter/.keep
       - Sec 1 Registration 2025.md
