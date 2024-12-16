@@ -143,7 +143,7 @@ of approval issued by the school during self-collection in the school.</p>
 <p>18 Dec 2024, 10.00am to 4.00pm</p>
 </li>
 <li>
-<p>19,20,23,26 and 27 Dec 2024, 9.00am to 4.00pm</p>
+<p>19, 20, 23, 26 and 27 Dec 2024, 9.00am to 4.00pm</p>
 </li>
 </ul>
 </td>
