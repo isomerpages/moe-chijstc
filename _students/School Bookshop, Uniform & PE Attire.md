@@ -91,7 +91,7 @@ variant: tiptap
 </p>
 <p><a href="/files/Booklist/2025/Pacific_Bookstores__Instructions_Sheet_for_Year_end_Sale__S2_to_S5___2025_Cohort_.pdf" rel="noopener nofollow" target="_blank">Download purchase instructions for school textbooks (S2-S5)</a>
 </p>
-<p><a href="/files/Booklist/2025/KH_Uniform___Instructions_Sheet_for_Year_end_Sale__S2_to_S5___2025_Cohort_.pdf" rel="noopener nofollow" target="_blank">Download purchase instructions for school uniform</a>
+<p><a href="/files/Booklist/2025/KH_Uniform___Instructions_Sheet_for_Year_end_Sale__S2_to_S5___2025_Cohort_.pdf" rel="noopener nofollow" target="_blank">Download purchase instructions for school uniform (S2-S5)</a>
 </p>
 <p>(Purchase instructions for school textbooks for S1 will be available later)</p>
 <p><strong>Vendors</strong>
