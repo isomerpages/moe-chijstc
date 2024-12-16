@@ -140,10 +140,10 @@ approval issued by the school during self-collection in the school.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>20 Dec 2024, 10.00am to 4.00pm (Tentative)</p>
+<p>18 Dec 2024, 10.00am to 4.00pm</p>
 </li>
 <li>
-<p>20 Dec 2024, 10.00am to 4.00pm (Tentative)</p>
+<p>19,20,23,26 and 27 Dec 2024, 9.00am to 4.00pm</p>
 </li>
 </ul>
 </td>
