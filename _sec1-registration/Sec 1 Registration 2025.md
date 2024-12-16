@@ -24,7 +24,7 @@ opportunities to learn and to forge new friendships.</p>
 need to be physically present in our school on that day as the Sec 1 Registration
 will be conducted online.</p>
 <h4>1. Principal's Welcome Letter</h4>
-<p>Please click <a href="/files/Sec 1 Registration/2025_Principal_s_Welcome_Letter___Sec_1_Final_1.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Please click <a href="/files/Sec 1 Registration/2025_Principal_s_Welcome_Letter___Sec_1_Final_2.pdf" rel="noopener nofollow" target="_blank">here.</a>.</p>
 <h4>2. Sec 1 Registration Day Webinar</h4>
 <p>Results of the Secondary School Posting will be released on Wednesday,
 18 December 2024. Please join us for the Sec 1 Registration Day webinar&nbsp;<strong>one day after</strong> the
