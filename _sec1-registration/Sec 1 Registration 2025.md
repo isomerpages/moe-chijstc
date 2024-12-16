@@ -26,13 +26,11 @@ will be conducted online.</p>
 <h4>1. Principal's Welcome Letter</h4>
 <p>Please click <a href="/files/Sec 1 Registration/2025_Principal_s_Welcome_Letter___Sec_1_Final_1.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <h4>2. Sec 1 Registration Day Webinar</h4>
-<p>Results of the Secondary School Posting will be released tentatively between
-Wednesday, 18 December 2024 and Friday, 20 December 2024. Please join us
-for the Sec 1 Registration Day webinar&nbsp;<strong>one day after</strong> the
-release of the posting results <strong>at 9.00 am</strong> (For example,
-if the S1 posting release date is on 18 Dec 2024, the webinar will be held
-on the 19 Dec 2024, 9.00 am). You&nbsp;do not need to be physically present&nbsp;in
-our school on that day.</p>
+<p>Results of the Secondary School Posting will be released on Wednesday,
+18 December 2024. Please join us for the Sec 1 Registration Day webinar&nbsp;<strong>one day after</strong> the
+release of the posting results on<strong> Thursday, 19 Dec 2024 at 9.00 am</strong>.
+You&nbsp;do not need to be physically present&nbsp;in our school on that
+day.</p>
 <p></p>
 <p>Details of the webinar are as follows:</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://moe-singapore.zoom.us/j/81190322954</a>
