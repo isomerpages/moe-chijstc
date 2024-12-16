@@ -24,15 +24,14 @@ opportunities to learn and to forge new friendships.</p>
 need to be physically present in our school on that day as the Sec 1 Registration
 will be conducted online.</p>
 <h4>1. Principal's Welcome Letter</h4>
-<p>Please click <a href="/files/Sec 1 Registration/2025_Principal_s_Welcome_Letter___Sec_1_Final_1.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Please click <a href="/files/Sec 1 Registration/2025_Principal_s_Welcome_Letter___Sec_1_Final_2.pdf" rel="noopener nofollow" target="_blank">here.</a>
+</p>
 <h4>2. Sec 1 Registration Day Webinar</h4>
-<p>Results of the Secondary School Posting will be released tentatively between
-Wednesday, 18 December 2024 and Friday, 20 December 2024. Please join us
-for the Sec 1 Registration Day webinar&nbsp;<strong>one day after</strong> the
-release of the posting results <strong>at 9.00 am</strong> (For example,
-if the S1 posting release date is on 18 Dec 2024, the webinar will be held
-on the 19 Dec 2024, 9.00 am). You&nbsp;do not need to be physically present&nbsp;in
-our school on that day.</p>
+<p>Results of the Secondary School Posting will be released on Wednesday,
+18 December 2024. Please join us for the Sec 1 Registration Day webinar&nbsp;<strong>one day after</strong> the
+release of the posting results on<strong> Thursday, 19 Dec 2024 at 9.00 am</strong>.
+You&nbsp;do not need to be physically present&nbsp;in our school on that
+day.</p>
 <p></p>
 <p>Details of the webinar are as follows:</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://moe-singapore.zoom.us/j/81190322954</a>
@@ -120,9 +119,9 @@ or self-collection in school) or non-online order (to order and self-collect
 in school)</p>
 </li>
 <li>
-<p>Non-online order will be applicable to students who are under the MOE/School-based
-Financial Assistance Scheme (FAS) as they have to produce the letter of
-approval issued by the school during self-collection in the school.</p>
+<p>Students who are under the MOE/School-based Financial Assistance Scheme
+(FAS) will purchase via non-online order as they have to produce the letter
+of approval issued by the school during self-collection in the school.</p>
 </li>
 <li>
 <p>Dates, time and venue for self-collection in school:</p>
@@ -141,10 +140,10 @@ approval issued by the school during self-collection in the school.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>20 Dec 2024, 10.00am to 4.00pm (Tentative)</p>
+<p>18 Dec 2024, 10.00am to 4.00pm</p>
 </li>
 <li>
-<p>20 Dec 2024, 10.00am to 4.00pm (Tentative)</p>
+<p>19, 20, 23, 26 and 27 Dec 2024, 9.00am to 4.00pm</p>
 </li>
 </ul>
 </td>
@@ -166,16 +165,15 @@ approval issued by the school during self-collection in the school.</p>
 in school:</p>
 </li>
 <li>
-<p>Each customer will receive a confirmation email listing the appointment
-time.</p>
+<p>You need only make one e-appointment via <em><a rel="noopener noreferrer nofollow" target="_blank">https://www.picktime.com/stc2024</a></em> for
+the purchase of school uniform, PE attire, textbooks and stationery.</p>
 </li>
 <li>
-<p>Please keep to your timing and show your confirmation email at the Security
-Guard House (main gate).</p>
+<p>You will receive a confirmation email on the appointment date and time.</p>
 </li>
 <li>
-<p>You need only make one e-appointment via this link for the purchase of
-school uniform, PE attire, textbooks and stationery.</p>
+<p><u>Please keep to your timing</u> and show your confirmation email at the
+Security Guard House (main gate).</p>
 </li>
 <li>
 <p>Student who is under the MOE/School-based FAS is also required to make
@@ -183,7 +181,8 @@ an e-appointment to book a date to collect the required items in school.</p>
 </li>
 <li>
 <p>Detailed instructions for the purchase can be found in the school website
-at this link.</p>
+at this <a href="https://www.chijsttheresasconvent.moe.edu.sg/theresian-family/students/school-bookshop-uniform-n-pe-attire/" rel="noopener nofollow" target="_blank">link.</a>
+</p>
 </li>
 <li>
 <p>Secondary One students may wear their primary school attire (including
