@@ -181,7 +181,8 @@ an e-appointment to book a date to collect the required items in school.</p>
 </li>
 <li>
 <p>Detailed instructions for the purchase can be found in the school website
-at this link.</p>
+at this <a href="https://www.chijsttheresasconvent.moe.edu.sg/theresian-family/students/school-bookshop-uniform-n-pe-attire/" rel="noopener nofollow" target="_blank">link.</a>
+</p>
 </li>
 <li>
 <p>Secondary One students may wear their primary school attire (including
