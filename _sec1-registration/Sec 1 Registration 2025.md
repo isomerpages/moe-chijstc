@@ -165,16 +165,15 @@ approval issued by the school during self-collection in the school.</p>
 in school:</p>
 </li>
 <li>
-<p>Each customer will receive a confirmation email listing the appointment
-time.</p>
+<p>You need only make one e-appointment via <em><a rel="noopener noreferrer nofollow" target="_blank">https://www.picktime.com/stc2024</a></em> for
+the purchase of school uniform, PE attire, textbooks and stationery.</p>
 </li>
 <li>
-<p>Please keep to your timing and show your confirmation email at the Security
-Guard House (main gate).</p>
+<p>You will receive a confirmation email on the appointment date and time.</p>
 </li>
 <li>
-<p>You need only make one e-appointment via this link for the purchase of
-school uniform, PE attire, textbooks and stationery.</p>
+<p><u>Please keep to your timing</u> and show your confirmation email at the
+Security Guard House (main gate).</p>
 </li>
 <li>
 <p>Student who is under the MOE/School-based FAS is also required to make
