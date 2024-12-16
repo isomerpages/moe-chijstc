@@ -119,9 +119,9 @@ or self-collection in school) or non-online order (to order and self-collect
 in school)</p>
 </li>
 <li>
-<p>Non-online order will be applicable to students who are under the MOE/School-based
-Financial Assistance Scheme (FAS) as they have to produce the letter of
-approval issued by the school during self-collection in the school.</p>
+<p>Students who are under the MOE/School-based Financial Assistance Scheme
+(FAS) will purchase via non-online order as they have to produce the letter
+of approval issued by the school during self-collection in the school.</p>
 </li>
 <li>
 <p>Dates, time and venue for self-collection in school:</p>
