@@ -208,7 +208,7 @@ Scheme, you may read the details in the school website at this <a href="https://
 <h4>7. Appeals for Transfer</h4>
 <p>For appeals due to serious medical conditions, please refer to <a href="https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer" rel="noopener nofollow" target="_blank">MOE webpage here</a>.</p>
 <p>If you wish to apply for transfer due to non-medical reasons, please click&nbsp;
-<a href="https://form.gov.sg/65814ad1448a4300128e8b43" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to complete the FormSG and submit it by <strong>27 December 2024, 12pm</strong><em>.</em> Please
+<a href="https://go.gov.sg/s1appealstc2025" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to complete the FormSG and submit it by <strong>27 December 2024, 12pm</strong><em>.</em> Please
 note that your child needs to meet our school’s admission criteria and
 our school must have available vacancies, for her to be considered for
 the place.</p>
