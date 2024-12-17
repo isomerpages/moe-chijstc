@@ -5,21 +5,8 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>School operating hours during school holidays</strong></h4>
-<ol data-tight="true" class="tight">
-<li>
-<p>Please note that the school will be closed on 18 Nov 2024 due to a scheduled
-staff event.</p>
-</li>
-<li>
-<p>On 22 Nov, the school will close at 5pm (original date for Eat with Your
-Family Day is on 15 Nov. We have moved it to 22 Nov as Graduation Prom
-Night is on 15 Nov).</p>
-</li>
-<li>
 <p>Please note that the school will open from 7am to 5.30pm from 21 Nov 2024
 to 20 Dec 2024.</p>
-</li>
-</ol>
 <hr>
 <h4><strong>Year End Message from Chairperson CHIJ Board of Management, Ms Vivienne Lim</strong></h4>
 <p><a href="/files/Announcement/STC___2024_Year_Book_Chairperson_Statement__170th_Anniversary_.pdf" rel="noopener nofollow" target="_blank">Message from Ms Vivienne Lim, Chairperson, CHIJ Board of Management</a>
