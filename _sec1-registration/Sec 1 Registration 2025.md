@@ -165,7 +165,7 @@ of approval issued by the school during self-collection in the school.</p>
 in school:</p>
 </li>
 <li>
-<p>You need only make one e-appointment via <em><a href="https://www.picktime.com/stc2024" rel="noopener noreferrer nofollow" target="_blank">https://www.picktime.com/stc2024</a></em> for
+<p>You need only make one e-appointment via <a href="https://www.picktime.com/stc2024" rel="noopener nofollow" target="_blank">https://www.picktime.com/stc2024</a> for
 the purchase of school uniform, PE attire, textbooks and stationery.</p>
 </li>
 <li>
