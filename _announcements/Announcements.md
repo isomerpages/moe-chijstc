@@ -4,6 +4,9 @@ permalink: /others/announcement/
 description: ""
 variant: tiptap
 ---
+<h4><strong>Information for Sec 4N students</strong></h4>
+<p>sdf</p>
+<hr>
 <h4><strong>School operating hours during school holidays</strong></h4>
 <p>Please note that the school will open from 7am to 5.30pm from 21 Nov 2024
 to 20 Dec 2024.</p>
