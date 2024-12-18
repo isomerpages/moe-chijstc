@@ -236,7 +236,7 @@ the place.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Non-affiliated COP</strong>
+<p><strong>Non-affiliated Cutoff Point</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
