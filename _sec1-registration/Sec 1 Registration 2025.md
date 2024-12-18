@@ -212,6 +212,46 @@ Scheme, you may read the details in the school website at this <a href="https://
 note that your child needs to meet our school’s admission criteria and
 our school must have available vacancies, for her to be considered for
 the place.</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Posting Group</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>PG3</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>PG2</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>PG1</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Non-affiliated COP</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>23</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30*</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>* Last PG1 student came in with PSLE socre better than 30.</p>
 <h4>8. First Day of School 2025</h4>
 <table style="minWidth: 50px">
 <colgroup>
