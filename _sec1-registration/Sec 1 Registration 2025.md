@@ -50,6 +50,8 @@ Tan_Bryan Tan)</p>
 </ul>
 <p>If you are unable to join us for the Registration Day webinar, you can
 view the slides that will be shared here after the webinar.</p>
+<p><a href="/files/Sec 1 Registration/2025_Sec_1_Registration_Webinar.pdf" rel="noopener nofollow" target="_blank">Sec 1 Registration Webinar Slides</a>
+</p>
 <h4>3. Online E-Registration Form</h4>
 <p>Please ensure you have your Parents Gateway app to complete the Sec 1
 online e-registration on Sec 1 Registration Day. After you have received
