@@ -4,11 +4,17 @@ permalink: /ndlp-1-1-learning/
 description: ""
 variant: tiptap
 ---
-<p><strong>National Digital Literacy Programme (NDLP) in CHIJ STC<br></strong>In
-CHIJ STC, the National Digital Literacy Programme (NDLP) will be implemented
-for all Sec 1 to 3 school students from 2021 onwards, whereby every student
-will own a school-prescribed Personal Learning Device (PLD). Details of
-the purchase of PLD and NDLP can found below:</p>
+<p><strong>National Digital Literacy Programme (NDLP) in CHIJ STC<br></strong>The
+NDLP was launched at MOE’s Committee of Supply Debate in March 2020 to
+help students strengthen their digital literacy. One of the components
+of the NDLP is the introduction of the Personalised Digital Learning Programme
+(“PDLP”) for all secondary school students, whereby every secondary school
+student will own a school-prescribed PLD. The PLD will be used together
+with the national e-learning platform – the Singapore Student Learning
+Space (“SLS”) – as well as other educational technology to personalise
+and enhance students’ learning. This will also enable students to acquire
+digital skills and apply these skills as they navigate an increasingly
+digitalised world</p>
 <p><a href="/files/NDLP/IP1___Parent_Engagement_Deck_2024_STC_for_website_final1.pdf" rel="noopener noreferrer nofollow" target="_blank">Slides for Parents</a>
 </p>
 <p><a href="/files/NDLP/IP2___Parent_Handbook__I__2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Handbook Part 1</a>
