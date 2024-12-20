@@ -23,5 +23,4 @@ digitalised world</p>
 </p>
 <p><a href="https://go.gov.sg/pdlpadmin" rel="noopener noreferrer nofollow" target="">PLD Purchase Form (Purchase PLD via school here by 9 Jan)</a>
 </p>
-<p><a href="/files/NDLP/FAQs_for_Parents_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions</a>
-</p>
+<p></p>
