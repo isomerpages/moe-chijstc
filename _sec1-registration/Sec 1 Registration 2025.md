@@ -253,7 +253,7 @@ the place.</p>
 </tr>
 </tbody>
 </table>
-<p>* Last PG1 student came in with PSLE socre better than 30.</p>
+<p>* Last PG1 student came in with PSLE score better than 30.</p>
 <h4>8. First Day of School 2025</h4>
 <table style="minWidth: 50px">
 <colgroup>
