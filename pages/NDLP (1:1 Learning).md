@@ -10,8 +10,7 @@ for all Sec 1 to 3 school students from 2021 onwards, whereby every student
 will own a school-prescribed Personal Learning Device (PLD). Details of
 the purchase of PLD and NDLP can found below:</p>
 <p><a href="/files/NDLP/IP1___Parent_Engagement_Deck_2024_STC_for_website_final1.pdf" rel="noopener noreferrer nofollow" target="_blank">Slides for Parents</a>
-<br><a href="/files/NDLP/ip2_parent_handbook__i__2024_final.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents' Handbook on 1:1 Learning(I) </a>
-<br><a href="/files/NDLP/ip3_parent_handbook__ii__2024_final.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents' Handbook on 1:1 Learning(II) </a>
+<br>
 <br><a href="https://go.gov.sg/pdlpadmin" rel="noopener noreferrer nofollow" target="">PLD Purchase Form</a>
 <br><a href="/files/NDLP/FAQs_for_Parents_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions </a>
 <br><a href="/files/NDLP/ip6_student_engagement_deck_2024_stc.pdf" rel="noopener noreferrer nofollow" target="_blank">Slides for Students</a>
