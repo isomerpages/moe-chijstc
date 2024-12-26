@@ -43,8 +43,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Sekaran S/O Govanden</p>
-<p>
-<br>Ms Ho Yeng Yeng</p>
+<p>Ms Ho Yeng Yeng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sekaran_chinna_govanden@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sekaran_chinna_govanden@moe.edu.sg</a>
@@ -72,8 +71,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Natarajan Saravanan</p>
-<p>
-<br>Ms Shirley Sim</p>
+<p>Ms Shirley Sim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:natarajan_saravanan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">natarajan_saravanan@moe.edu.sg</a>
@@ -129,8 +127,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Shehana Binte Zulazmi</p>
-<p>
-<br>Ms Isabelle Teo</p>
+<p>Ms Isabelle Teo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:shehana_zulazmi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shehana_zulazmi@moe.edu.sg</a> 
