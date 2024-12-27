@@ -42,8 +42,8 @@ variant: tiptap
 <p>1 St. Bernadette (1B)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sekaran S/O Govanden</p>
-<p>Ms Ho Yeng Yeng</p>
+<p>Mr Sekaran S/O Govanden
+<br>Ms Ho Yeng Yeng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sekaran_chinna_govanden@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sekaran_chinna_govanden@moe.edu.sg</a>
@@ -70,8 +70,8 @@ variant: tiptap
 <p>1 St. Deirdre (1D)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Natarajan Saravanan</p>
-<p>Ms Shirley Sim</p>
+<p>Mr Natarajan Saravanan
+<br>Ms Shirley Sim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:natarajan_saravanan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">natarajan_saravanan@moe.edu.sg</a>
@@ -126,8 +126,8 @@ variant: tiptap
 <p>2 St. Anne (2A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Shehana Binte Zulazmi</p>
-<p>Ms Isabelle Teo</p>
+<p>Ms Shehana Binte Zulazmi
+<br>Ms Isabelle Teo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:shehana_zulazmi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shehana_zulazmi@moe.edu.sg</a> 
