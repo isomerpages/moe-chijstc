@@ -2,6 +2,6 @@ collections:
   sec1-registration:
     output: true
     order:
-      - Sec 1 Orientation.md
       - Sec 1 Registration 2025.md
       - NDLP (1:1 Learning).md
+      - Sec 1 Orientation.md
