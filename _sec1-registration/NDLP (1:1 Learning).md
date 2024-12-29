@@ -21,6 +21,8 @@ digitalised world</p>
 </p>
 <p><a href="/files/NDLP/IP3___Parent_Handbook__II__2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Handbook Part 2</a>
 </p>
+<p><a href="/files/NDLP/FAQs_for_Parents_2025.pdf" rel="noopener nofollow" target="_blank">Frequently Asked Questions (FAQ)</a>
+</p>
 <h4>PLD Purchase Instructions</h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -34,8 +36,8 @@ digitalised world</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Pls refer to PG consent form sent on 2 Jan. Deadline for intent to purchase
-via PG <u>by 9 Jan 2025</u>.</p>
+<p>Pls reply via PG consent form sent on 2 Jan. Deadline for intent to purchase
+via PG is <u>9 Jan 2025</u>.</p>
 </td>
 </tr>
 <tr>
@@ -44,12 +46,12 @@ via PG <u>by 9 Jan 2025</u>.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Download hardcopy consent form here and return to your child's form teacher
-by <u>9 Jan 2025</u>.</p>
-<p></p>
+<p>Download hardcopy consent form here and return the signed consent form
+to your child's form teacher by <u>9 Jan 2025</u>.</p>
+<p><a href="/files/NDLP/Hardcopy_Consent_Form_for_Purchase_of_PLD_Use_of_Edusave_And_Authorisation_Form_STC.pdf" rel="noopener nofollow" target="_blank">Hardcopy Consent Form to purchase PLD (for parents without PG)</a>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><a href="/files/NDLP/FAQs_for_Parents_2025.pdf" rel="noopener nofollow" target="_blank">Frequently Asked Questions (FAQ)</a>
-</p>
+<p></p>
