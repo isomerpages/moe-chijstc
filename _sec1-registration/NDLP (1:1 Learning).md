@@ -22,6 +22,6 @@ digitalised world</p>
 <p><a href="/files/NDLP/IP3___Parent_Handbook__II__2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Handbook Part 2</a>
 </p>
 <p>Consent to purchase is done via PG letter that will be sent on 2 Jan.
-Parents are to reply to the consent form by 9 Jan 2025.</p>
+Parents, please reply to the PG consent form by 9 Jan 2025.</p>
 <p><a href="/files/NDLP/FAQs_for_Parents_2025.pdf" rel="noopener nofollow" target="_blank">Frequently Asked Questions (FAQ)</a>
 </p>
