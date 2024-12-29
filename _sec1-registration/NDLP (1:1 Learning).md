@@ -15,7 +15,7 @@ Space (“SLS”) – as well as other educational technology to personalise
 and enhance students’ learning. This will also enable students to acquire
 digital skills and apply these skills as they navigate an increasingly
 digitalised world</p>
-<p><a href="/files/NDLP/IP1___Parent_Engagement_Deck_2024_STC_for_website_final1.pdf" rel="noopener noreferrer nofollow" target="_blank">Slides for Parents</a>
+<p><a href="/files/NDLP/IP1___Parent_Engagement_Deck_2025_STC_For_Website.pdf" rel="noopener nofollow" target="_blank">Slides for Parents (2025)</a>
 </p>
 <p><a href="/files/NDLP/IP2___Parent_Handbook__I__2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Handbook Part 1</a>
 </p>
