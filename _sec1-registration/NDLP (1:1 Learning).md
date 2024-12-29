@@ -45,7 +45,7 @@ via PG <u>by 9 Jan 2025</u>.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Download hardcopy consent form here and return to your child's form teacher
-by 9 jane 2025.</p>
+by <u>9 Jan 2025</u>.</p>
 </td>
 </tr>
 </tbody>
