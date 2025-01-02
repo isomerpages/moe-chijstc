@@ -291,7 +291,7 @@ variant: tiptap
 <p>Angela Yang (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 1 Year Head</p>
+<p>Sec 2 Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:angela_yang_hui_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="">angela_yang_hui_hui@moe.edu.sg</a>&nbsp;</p>
