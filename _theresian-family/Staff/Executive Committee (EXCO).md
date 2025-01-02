@@ -217,6 +217,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Lim Pui Yee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="lim_pui_yee_a@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_pui_yee_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Munipas Leslie Francis&nbsp;(Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
