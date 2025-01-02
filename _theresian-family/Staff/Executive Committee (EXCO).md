@@ -79,18 +79,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Amanda Teo (Ms)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD Character and Citizenship Education</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:teo_hui_rong_amanda@moe.edu.sg" rel="noopener noreferrer nofollow" target="">teo_hui_rong_amanda@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Andy Quek (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -152,7 +140,7 @@ variant: tiptap
 <p>Cheah Suet Ping (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 2 Year Head</p>
+<p>Sec 3 Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:cheah_suet_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="">cheah_suet_ping@moe.edu.sg</a>&nbsp;</p>
@@ -198,7 +186,7 @@ variant: tiptap
 <p>Lee Boon Leong (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 3 Year Head</p>
+<p>Sec 4/5 Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_boon_leong@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lee_boon_leong@moe.edu.sg</a>&nbsp;</p>
@@ -229,6 +217,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Lim Pui Yee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="lim_pui_yee_a@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_pui_yee_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Munipas Leslie Francis&nbsp;(Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -244,7 +244,7 @@ variant: tiptap
 <p>Joyce Tan (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 4/5 Year Head</p>
+<p>Sec 1 Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_shu_min_joyce@moe.edu.sg" rel="noopener noreferrer nofollow" target="">tan_shu_min_joyce@moe.edu.sg</a>
@@ -291,10 +291,22 @@ variant: tiptap
 <p>Angela Yang (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 1 Year Head</p>
+<p>Sec 2 Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:angela_yang_hui_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="">angela_yang_hui_hui@moe.edu.sg</a>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Siew Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD English &amp; Literature</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="lim_pui_yee_a@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_pui_yee_a@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
