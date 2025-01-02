@@ -299,6 +299,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Tan Siew Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD English &amp; Literature</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="lim_pui_yee_a@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_pui_yee_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Zaynab Binte Abdul Rahman</p>
 </td>
 <td rowspan="1" colspan="1">
