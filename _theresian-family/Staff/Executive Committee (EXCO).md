@@ -282,7 +282,8 @@ variant: tiptap
 <p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_qiu_yin_dawn@moe.edu.sg</p>
+<p><a href="tan_qiu_yin_dawn@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_qiu_yin_dawn@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
