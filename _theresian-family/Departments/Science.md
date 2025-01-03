@@ -24,7 +24,7 @@ the real-world relevance and application of science so that they will become
 confident citizens in a technological world, who recognise the usefulness
 and limitations of the scientific method, and appreciate its applicability
 in other disciplines and in everyday life.</p>
-<p><strong><u>Head of Department<br></u></strong>Lim Pui Yee (<a href="lim_pui_yee_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_pui_yee_a@moe.edu.sg</a>)</p>
+<p><strong><u>Head of Department<br></u></strong>Tan-Lim Pui Yee (<a href="lim_pui_yee_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_pui_yee_a@moe.edu.sg</a>)</p>
 <p><strong><u>Subject Head<br></u></strong>Ms Eunice Hung (<a href="mailto:hung_pek_hui_eunice@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hung_pek_hui_eunice@moe.edu.sg</a>)<u><br></u>
 </p>
 <p><strong><u>Senior Teacher<br></u></strong>Mr James Wong&nbsp;(<a href="mailto:wong_kin_wah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_kin_wah@moe.edu.sg</a>)</p>
