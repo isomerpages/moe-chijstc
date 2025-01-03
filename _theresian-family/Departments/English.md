@@ -41,10 +41,10 @@ practice, sharing and continual learning.</p>
 <br>Mr Lee Boon Leong (<a href="mailto:lee_boon_leong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_boon_leong@moe.edu.sg</a>)
 <br>Ms Ling Kay Bin (<a href="mailto:ling_kay_bin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ling_kay_bin@moe.edu.sg</a>)
 <br>Ms Sylvia Chua (<a href="mailto:sylvia_chua_hui_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sylvia_chua_hui_lin@moe.edu.sg</a>)</p>
-<p><strong>English Language and Literature<br></strong>Ms Daena Ch'ng (
-<a href="mailto:chng_puay_san_daena@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chng_puay_san_daena@moe.edu.sg</a>)
+<p><strong>English Language and Literature<br></strong>Ms Dawn Tan ( <a href="mailto:tan_qiu_yin_dawn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_qiu_yin_dawn@moe.edu.sg</a>)
 <br>Ms Joyce Tan (<a href="mailto:tan_shu_min_joyce@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_shu_min_joyce@moe.edu.sg</a>)
 <br>Ms Maggie Lee (<a href="mailto:lee_peck_lin_maggie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_peck_lin_maggie@moe.edu.sg</a>)
-<br>Ms Megalai D/O Rajandran (<a href="mailto:megalai_rajandran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">megalai_rajandran@moe.edu.sg</a>)
+<br>Ms Megalai D/O Rajandran (<a href="mailto:megalai_rajandran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">megalai_rajandran@moe.edu.sg</a>)</p>
+<p>
 <br>Mr Samuel Zou (<a href="mailto:zou_en_samuel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zou_en_samuel@moe.edu.sg</a>)
 <br>Mr Timothy Chow (<a href="mailto:timothy_chow_rui_jun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">timothy_chow_rui_jun@moe.edu.sg</a>)</p>

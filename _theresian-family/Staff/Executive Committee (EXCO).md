@@ -217,7 +217,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lim Pui Yee</p>
+<p>Tan-Lim Pui Yee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD Science</p>
@@ -282,7 +282,7 @@ variant: tiptap
 <p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_say_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="">dawn_tan@moe.edu.sg</a>
+<p><a href="tan_qiu_yin_dawn@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_qiu_yin_dawn@moe.edu.sg</a>
 </p>
 </td>
 </tr>
