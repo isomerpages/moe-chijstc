@@ -6,11 +6,11 @@ variant: tiptap
 ---
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/School_Calendar_for_YH_Letter_to_Parents_2024_180324.pdf" rel="noopener noreferrer nofollow" target="_blank">School Calendar 2024</a>
+<p><a href="/files/School_Calendar_for_YH_Letter_to_Parents_2024_180324.pdf" rel="noopener noreferrer nofollow" target="_blank">School Calendar</a>
 </p>
 </li>
 <li>
-<p><a href="https://for.edu.sg/stcyearbook2024" rel="noopener nofollow" target="_blank">STC Yearbook 2024</a>
+<p><a href="https://for.edu.sg/stcyearbook2024" rel="noopener nofollow" target="_blank">STC Yearbook</a>
 </p>
 </li>
 <li>
@@ -18,15 +18,15 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/theresian-family/students/class-time-table/" rel="noopener noreferrer nofollow" target="_blank">Class Timetable 2024</a>
+<p><a href="/theresian-family/students/class-time-table/" rel="noopener noreferrer nofollow" target="_blank">Class Timetable</a>
 </p>
 </li>
 <li>
-<p><a href="/files/ECHA_Nomination_Form_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">ECHA Nomination Form 2024</a>
+<p><a href="/files/ECHA_Nomination_Form_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">ECHA Nomination Form</a>
 </p>
 </li>
 <li>
-<p><a href="/others/2024-exam-timetable" rel="noopener noreferrer nofollow" target="">Exam Timetable 2024</a>
+<p><a href="/others/2024-exam-timetable" rel="noopener noreferrer nofollow" target="">Exam Timetable</a>
 </p>
 </li>
 <li>
