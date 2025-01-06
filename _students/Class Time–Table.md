@@ -4,7 +4,7 @@ permalink: /theresian-family/students/class-time-table/
 description: ""
 variant: tiptap
 ---
-<p>2024 Class time-table</p>
+<p>2025 Class time-table</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
