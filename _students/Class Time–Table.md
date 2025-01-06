@@ -17,8 +17,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024_TT_Sem1_Class.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Sem 1 Class TT</a>
-<a href="/files/2025_TT_Sem1_Class.pdf" rel="noopener nofollow" target="_blank">file</a>
+<p><a href="/files/2024_TT_Sem1_Class.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Sem 1 Class Time-Table</a>
 </p>
 </td>
 </tr>
