@@ -4,7 +4,7 @@ permalink: /theresian-family/students/class-time-table/
 description: ""
 variant: tiptap
 ---
-<p>2024 Class time-table</p>
+<p>2025 Class time-table</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -17,17 +17,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024_TT_Sem1_Class.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sem 1 Class TT</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Semester 2 Time Table</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2024_Sem2_TT_Class.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sem 2 Class TT</a>
+<p><a href="/files/2024_TT_Sem1_Class.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Sem 1 Class Time-Table</a>
 </p>
 </td>
 </tr>
