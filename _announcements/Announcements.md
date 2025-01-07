@@ -4,6 +4,52 @@ permalink: /others/announcement/
 description: ""
 variant: tiptap
 ---
+<h4>Release of the 2024 Singapore-Cambridge GCE O-Level Examination Results</h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>MOE has announced that the GCE O-Level Examination results will be released
+on Friday, 10 January 2025 at 2.30 pm.</p>
+</li>
+<li>
+<p>You must be in full school uniform and appropriately groomed (e.g. no
+dyed hair etc) when reporting to school to collect your results.</p>
+</li>
+<li>
+<p>Students who are unable to collect their results in person should notify
+their Form Teacher and may authorise a proxy to collect their result slip
+on their behalf. Proxies are required to produce the relevant documents
+for the school’s verification when collecting the results. Results can
+be collected at the General Office after 3.30 pm on 10 January.</p>
+</li>
+<li>
+<p>Students or their proxies who are unable to collect the result slips on
+the day of the results release must make an appointment with the school
+before coming down on other days to collect them.</p>
+</li>
+<li>
+<p>Parents or guardians accompanying their child or ward can proceed to the
+school Hall for the release of the results.</p>
+</li>
+<li>
+<p>Do note that there is strictly no parking in the school. Parents are advised
+to park at nearby HDB carparks. (Please refer to the image here for the
+list of nearby HDB carparks.)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OpenHouse2024/carpark.jpg">
+</div>
+</li>
+<li>
+<p>You may refer to the following links for more information on the Joint
+Admissions Exercise (JAE)</p>
+<p><a href="https://www.moe.gov.sg/post-secondary/admissions/jae" rel="noopener nofollow" target="_blank">Joint Admissions Exercise (JAE) (MOE)</a>
+</p>
+<p><a href="/files/2025_JAE_Information_Sheet.pdf" rel="noopener nofollow" target="_blank">2025 JAE Information Sheet (pdf)</a>
+</p>
+</li>
+</ol>
+<p></p>
+<hr>
 <h4><strong>Information for Sec 4N students</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
@@ -15,10 +61,6 @@ variant: tiptap
 </p>
 </li>
 </ol>
-<hr>
-<h4><strong>School operating hours during school holidays</strong></h4>
-<p>Please note that the school will open from 7am to 5.30pm from 21 Nov 2024
-to 20 Dec 2024.</p>
 <hr>
 <h4><strong>Year End Message from Chairperson CHIJ Board of Management, Ms Vivienne Lim</strong></h4>
 <p><a href="/files/Announcement/STC___2024_Year_Book_Chairperson_Statement__170th_Anniversary_.pdf" rel="noopener nofollow" target="_blank">Message from Ms Vivienne Lim, Chairperson, CHIJ Board of Management</a>
