@@ -305,7 +305,7 @@ variant: tiptap
 <p>HOD English &amp; Literature</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="lim_pui_yee_a@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_siew_hui@moe.edu.sg</a>
+<p><a href="tan_siew_hui_a@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_siew_hui@moe.edu.sg</a>
 </p>
 </td>
 </tr>
