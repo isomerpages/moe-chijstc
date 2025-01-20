@@ -39,9 +39,9 @@ decisions for yourself, your family and society; and</p>
 <p>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abstinence before
 marriage is the best protection against STIs/HIV and unintended pregnancies.
 Casual sex can harm and hurt you and your loved ones.</p>
-<p>&nbsp;You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for more information
-on MOE Sexuality Education.</p>
-<p><strong>&nbsp;Overview of CHIJ St Theresa’s Convent Sexuality Education Programme for 2024</strong>
+<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+more information on MOE Sexuality Education.</p>
+<p><strong>Overview of CHIJ St Theresa’s Convent Sexuality Education Programme for 2024</strong>
 </p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
 is delivered in a holistic manner through the school curriculum. The content
@@ -74,14 +74,14 @@ Education lessons, secondary students will have the opportunity to develop
 a positive self-esteem, develop their character, and expand their understanding
 and repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
-<p><strong>&nbsp;</strong>&nbsp;<strong>At CHIJ St. Theresa’s Convent’s, the following Sexuality Education lessons will be taught in 2024:</strong>
+<p><strong>At CHIJ St. Theresa’s Convent’s, the following Sexuality Education lessons will be taught in 2025:</strong>
 </p>
 <p><strong>&nbsp;</strong>Please see below for the schedule of the lessons
 from Sec 1 to 5.</p>
 <p><a href="/files/Sexuality_Education/2025_Sec_1_5_Sexuality_Education_Lessons_in_CCE.pdf" rel="noopener nofollow" target="_blank">2025 Sexuality Education Lesson Schedule</a>
 </p>
 <p></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><em><u>eTeens</u></em><u> Programme</u></strong>:</p>
+<p><strong><em><u>eTeens</u></em><u> Programme</u></strong>:</p>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>eTeens</em> is a
 programme developed by Health Promotion Board, in collaboration with the
 Ministry of Education, to provide Secondary 3 students with accurate information
