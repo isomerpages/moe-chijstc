@@ -78,6 +78,8 @@ which are of prime concern at this age.</p>
 </p>
 <p><strong>&nbsp;</strong>Please see below for the schedule of the lessons
 from Sec 1 to 5.</p>
+<p><a href="/files/Sexuality_Education/2025_Sec_1_5_Sexuality_Education_Lessons_in_CCE.pdf" rel="noopener nofollow" target="_blank">2025 Sexuality Education Lesson Schedule</a>
+</p>
 <p></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><em><u>eTeens</u></em><u> Programme</u></strong>:</p>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>eTeens</em> is a
