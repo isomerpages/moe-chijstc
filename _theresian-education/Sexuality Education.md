@@ -78,8 +78,7 @@ which are of prime concern at this age.</p>
 </p>
 <p><strong>&nbsp;</strong>Please see below for the schedule of the lessons
 from Sec 1 to 5.</p>
-<p><a href="/files/Sexuality_Education/Sec_1_5_Sexuality_Education_Lesson_Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 to 5 Sexuality Education Lesson Schedule 2024</a>
-</p>
+<p></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><em><u>eTeens</u></em><u> Programme</u></strong>:</p>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>eTeens</em> is a
 programme developed by Health Promotion Board, in collaboration with the
