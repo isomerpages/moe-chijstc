@@ -92,7 +92,7 @@ skills such as decision-making, assertiveness and negotiation to say “no”
 to sex and negative peer pressure. They also learn that the impact of STIs/HIV
 extends beyond themselves and involves their family. Abstinence and upholding
 family values are the key messages.</p>
-<p><strong>At CHIJ St. Theresa’s Convent’s, the <em>eTeens</em> programme will be implemented as follows in 2024:</strong>
+<p><strong>At CHIJ St. Theresa’s Convent’s, the <em>eTeens</em> programme will be implemented as follows in 2025:</strong>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
@@ -132,7 +132,7 @@ faithful, correct, and consistent condom use).</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 2</p>
+<p>Term 3 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -146,7 +146,7 @@ decision-making</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 3</p>
+<p>Term 3 Week 5</p>
 </td>
 </tr>
 </tbody>
@@ -159,13 +159,13 @@ sexuality education programmes by MOE-approved external providers.</p>
 <p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
 children out of the <strong>Sexuality Education lessons</strong> need to
 complete an opt-out form. This form will be distributed to parents at the
-start of the year and is also downloadable (see below). The completed form
-is to be submitted by 26 February 2024.</p>
+start of the year and is also downloadable below. The completed form is
+to be submitted by 3 February 2025.</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
 children out of the <strong><em>eTeens</em> programme</strong> need to complete
 an opt-out form. This form will be distributed to parents at the start
-of the year and is also downloadable (see below).&nbsp;The completed form
-is to be submitted by 26 February 2024.</p>
+of the year and is also downloadable &nbsp;The completed form is to be
+submitted by 3 February 2025.</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
 at <strong>64775777</strong> or email to <strong><a rel="noopener noreferrer nofollow" target="_blank">chijstcs@moe.edu.sg</a><u> </u></strong>for
 discussion or to seek clarification about the school’s Sexuality Education
