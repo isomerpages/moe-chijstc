@@ -18,5 +18,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>Students are to refer to the Time-Table posted on Google Classroom in
-their respective levels.</p>
+<p>Students are to refer to the Class Time-Table posted on Google Classroom
+in their respective levels.</p>
