@@ -158,12 +158,12 @@ out of the Sexuality Education lessons, <em>eTeens</em> and/or supplementary
 sexuality education programmes by MOE-approved external providers.</p>
 <p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
 children out of the <strong>Sexuality Education lessons</strong> need to
-complete an opt-out form. This form will be distributed to parents at the
-start of the year and is also downloadable below. The completed form is
-to be submitted by 3 February 2025.</p>
+complete an opt-out form. This form will be communicated to parents at
+the start of the year and is also downloadable below. The completed form
+is to be submitted by 3 February 2025.</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
 children out of the <strong><em>eTeens</em> programme</strong> need to complete
-an opt-out form. This form will be distributed to parents at the start
+an opt-out form. This form will be communicated to parents at the start
 of the year and is also downloadable &nbsp;The completed form is to be
 submitted by 3 February 2025.</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
