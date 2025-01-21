@@ -2,7 +2,7 @@ collections:
   students:
     output: true
     order:
-      - CHIJ STC School Calendar 2024.md
+      - CHIJ STC School Calendar.md
       - Class Time–Table.md
       - Co–Curricular Activities (CCA).md
       - 2025 Exam Timetable.md

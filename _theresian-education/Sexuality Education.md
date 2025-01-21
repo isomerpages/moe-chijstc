@@ -18,9 +18,9 @@ and learning of SEd is based on respect for the values and beliefs of the
 different ethnic and religious communities in Singapore on sexuality issues.</p>
 <p>&nbsp;2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Goals</strong> of
 Sexuality Education are to:</p>
-<p>&nbsp;(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support
-students in managing their physiological, social and emotional changes
-as they grow up and develop safe and healthy relationships.</p>
+<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support students
+in managing their physiological, social and emotional changes as they grow
+up and develop safe and healthy relationships.</p>
 <p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Guide students
 to make wise, informed and responsible decisions on sexuality matters.</p>
 <p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Help students
@@ -29,8 +29,8 @@ positive mainstream values and attitudes about sexuality that are premised
 on the family as the basic unit of society.</p>
 <p>&nbsp;3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Key Messages</strong> of
 Sexuality Education are:</p>
-<p>&nbsp;(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Love and
-respect yourself as you love and respect others;</p>
+<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Love and respect
+yourself as you love and respect others;</p>
 <p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Build positive
 relationships based on love and respect (which are the foundation for strong
 families);</p>
@@ -39,9 +39,9 @@ decisions for yourself, your family and society; and</p>
 <p>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abstinence before
 marriage is the best protection against STIs/HIV and unintended pregnancies.
 Casual sex can harm and hurt you and your loved ones.</p>
-<p>&nbsp;You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for more information
-on MOE Sexuality Education.</p>
-<p><strong>&nbsp;Overview of CHIJ St Theresa’s Convent Sexuality Education Programme for 2024</strong>
+<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+more information on MOE Sexuality Education.</p>
+<p><strong>Overview of CHIJ St Theresa’s Convent Sexuality Education Programme for 2024</strong>
 </p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
 is delivered in a holistic manner through the school curriculum. The content
@@ -74,13 +74,14 @@ Education lessons, secondary students will have the opportunity to develop
 a positive self-esteem, develop their character, and expand their understanding
 and repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
-<p><strong>&nbsp;</strong>&nbsp;<strong>At CHIJ St. Theresa’s Convent’s, the following Sexuality Education lessons will be taught in 2024:</strong>
+<p><strong>At CHIJ St. Theresa’s Convent’s, the following Sexuality Education lessons will be taught in 2025:</strong>
 </p>
 <p><strong>&nbsp;</strong>Please see below for the schedule of the lessons
 from Sec 1 to 5.</p>
-<p><a href="/files/Sexuality_Education/Sec_1_5_Sexuality_Education_Lesson_Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 to 5 Sexuality Education Lesson Schedule 2024</a>
+<p><a href="/files/Sexuality_Education/2025_Sec_1_5_Sexuality_Education_Lessons_in_CCE.pdf" rel="noopener nofollow" target="_blank">2025 Sexuality Education Lesson Schedule</a>
 </p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><em><u>eTeens</u></em><u> Programme</u></strong>:</p>
+<p></p>
+<p><strong><em><u>eTeens</u></em><u> Programme</u></strong>:</p>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>eTeens</em> is a
 programme developed by Health Promotion Board, in collaboration with the
 Ministry of Education, to provide Secondary 3 students with accurate information
@@ -91,11 +92,16 @@ skills such as decision-making, assertiveness and negotiation to say “no”
 to sex and negative peer pressure. They also learn that the impact of STIs/HIV
 extends beyond themselves and involves their family. Abstinence and upholding
 family values are the key messages.</p>
-<p><strong>At CHIJ St. Theresa’s Convent’s, the <em>eTeens</em> programme will be implemented as follows in 2024:</strong>
+<p><strong>At CHIJ St. Theresa’s Convent’s, the <em>eTeens</em> programme will be implemented as follows in 2025:</strong>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -126,7 +132,7 @@ faithful, correct, and consistent condom use).</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 2</p>
+<p>Term 3 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -140,7 +146,7 @@ decision-making</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 3</p>
+<p>Term 3 Week 5</p>
 </td>
 </tr>
 </tbody>
@@ -152,20 +158,16 @@ out of the Sexuality Education lessons, <em>eTeens</em> and/or supplementary
 sexuality education programmes by MOE-approved external providers.</p>
 <p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
 children out of the <strong>Sexuality Education lessons</strong> need to
-complete an opt-out form. This form will be distributed to parents at the
-start of the year and is also downloadable (see below). The completed form
-is to be submitted by 26 February 2024.</p>
+complete an opt-out form. This form will be communicated to parents at
+the start of the year and is also downloadable <a href="/files/Sexuality_Education/SEd_Opt_out_form_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>. The
+completed form is to be submitted by 3 February 2025.</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
 children out of the <strong><em>eTeens</em> programme</strong> need to complete
-an opt-out form. This form will be distributed to parents at the start
-of the year and is also downloadable (see below).&nbsp;The completed form
-is to be submitted by 26 February 2024.</p>
+an opt-out form. This form will be communicated to parents at the start
+of the year and is also downloadable <a href="/files/Sexuality_Education/eTeens_Parents_Opt_out_Form__Sec__HPB_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+&nbsp;The completed form is to be submitted by 3 February 2025.</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
 at <strong>64775777</strong> or email to <strong><a rel="noopener noreferrer nofollow" target="_blank">chijstcs@moe.edu.sg</a><u> </u></strong>for
 discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
-<p><a href="/files/Sexuality_Education/eTeens_Parents_Opt_Out_Form_2024_updated.pdf" rel="noopener noreferrer nofollow" target="_blank">eTeens Parents Opt-Out Form 2024</a>
-</p>
-<p><a href="/files/Sexuality_Education/SEd_parent_letter_2024_with_opt_out_form.pdf" rel="noopener noreferrer nofollow" target="_blank">SEd Parent Letter 2024 with Opt Out Form</a>
-</p>
 <p>&nbsp;</p>
