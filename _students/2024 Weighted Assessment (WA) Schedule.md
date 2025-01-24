@@ -12,46 +12,37 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 1 WA Semester 1 2024</p>
+<p>Sec 1 WA Semester 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Sec_1_Weighted_Assessment_Semester_1_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Weighted Assessment Semester 1 2024</a>
+<p><a href="/files/WA_2025/2025_Sec_1_Assessment___website.pdf" rel="noopener nofollow" target="_blank">Sec 1 WA Schedule</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 2 WA Semester 1 2024</p>
+<p>Sec 2 WA Semester 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Sec_2_Weighted_Assessment_Semester_1_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Weighted Assessment Semester 1 2024</a>
+<p><a href="/files/WA_2025/2025_Sec_2_Assessment___website.pdf" rel="noopener nofollow" target="_blank">Sec 2 WA Schedule</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 3 WA Semester 1 2024</p>
+<p>Sec 3 WA Semester 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Sec_3_Weighted_Assessment_Semester_1_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Weighted Assessment Semester 1 2024</a>
+<p><a href="/files/WA_2025/2025_Sec_3_Assessment___website.pdf" rel="noopener nofollow" target="_blank">Sec 3 WA Schedule</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 4_5 WA Semester 1 2024</p>
+<p>Sec 4_5 WA Semester 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Sec_4_5_Weighted_Assessment_Semester_1_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4_5 Weighted Assessment Semester 1 2024</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sec 1 - Sec 3 WA for Term 3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/WA3_Sec_1_Sec_3__updated_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 - Sec 3 WA Schedule</a>
+<p><a href="/files/WA_2025/2025_Sec_4_5_Assessment___website.pdf" rel="noopener nofollow" target="_blank">Sec4_5_WA Schedule</a>
 </p>
 </td>
 </tr>
