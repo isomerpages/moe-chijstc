@@ -4,7 +4,11 @@ permalink: /others/announcement/
 description: ""
 variant: tiptap
 ---
-<p></p>
+<h4>School Operating Hours on 28 January 2025 (Chinese New Year Eve)</h4>
+<p>Please note that the school will be operating from 6:00am to 12:00pm.
+&nbsp;</p>
+<p>Thank you for your understanding.</p>
+<hr>
 <h4>Release of the 2024 Singapore-Cambridge GCE O-Level Examination Results</h4>
 <p><a href="/files/Announcement/2024_O_Level_Briefing_Slides_for_Students.pdf" rel="noopener noreferrer nofollow" target="_blank">Briefing Slides for GCE "O" Level Release of Results</a>
 </p>
@@ -48,19 +52,6 @@ Admissions Exercise (JAE)</p>
 <p><a href="https://www.moe.gov.sg/post-secondary/admissions/jae" rel="noopener nofollow" target="_blank">Joint Admissions Exercise (JAE) (MOE)</a>
 </p>
 <p><a href="/files/2025_JAE_Information_Sheet.pdf" rel="noopener nofollow" target="_blank">2025 JAE Information Sheet (pdf)</a>
-</p>
-</li>
-</ol>
-<p></p>
-<hr>
-<h4><strong>Information for Sec 4N students</strong></h4>
-<ol data-tight="true" class="tight">
-<li>
-<p><a href="/files/Announcement/GCE N level release/2024_GCE_N_Level_briefing_slides_for_students_YH.pdf" rel="noopener nofollow" target="_blank">2024 GCE N Level Briefing Slides for Students</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Announcement/GCE N level release/Information_for_JIE_Application_students.pdf" rel="noopener nofollow" target="_blank">Information for JIE Application</a>
 </p>
 </li>
 </ol>
