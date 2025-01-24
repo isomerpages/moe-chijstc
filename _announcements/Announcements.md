@@ -55,19 +55,6 @@ Admissions Exercise (JAE)</p>
 </p>
 </li>
 </ol>
-<p></p>
-<hr>
-<h4><strong>Information for Sec 4N students</strong></h4>
-<ol data-tight="true" class="tight">
-<li>
-<p><a href="/files/Announcement/GCE N level release/2024_GCE_N_Level_briefing_slides_for_students_YH.pdf" rel="noopener nofollow" target="_blank">2024 GCE N Level Briefing Slides for Students</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Announcement/GCE N level release/Information_for_JIE_Application_students.pdf" rel="noopener nofollow" target="_blank">Information for JIE Application</a>
-</p>
-</li>
-</ol>
 <hr>
 <h4><strong>Year End Message from Chairperson CHIJ Board of Management, Ms Vivienne Lim</strong></h4>
 <p><a href="/files/Announcement/STC___2024_Year_Book_Chairperson_Statement__170th_Anniversary_.pdf" rel="noopener nofollow" target="_blank">Message from Ms Vivienne Lim, Chairperson, CHIJ Board of Management</a>
