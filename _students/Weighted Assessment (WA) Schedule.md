@@ -1,5 +1,5 @@
 ---
-title: 2024 Weighted Assessment (WA) Schedule
+title: Weighted Assessment (WA) Schedule
 permalink: /others/2024-weighted-assessment-wa-schedule/
 description: ""
 variant: tiptap
