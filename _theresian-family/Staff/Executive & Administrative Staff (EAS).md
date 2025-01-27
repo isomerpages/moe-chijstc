@@ -37,7 +37,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tang Mun Wah</p>
+<p>Ms Lisa Lam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Administration Manager</p>
@@ -45,7 +45,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lisa Lam</p>
+<p>Ms Tang Mun Wah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Administration Manager</p>
@@ -109,10 +109,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Steven Kuah</p>
+<p>Ms Kamala D/O Siddhannan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ICT Manager</p>
+<p>ICT Associate</p>
 </td>
 </tr>
 <tr>
