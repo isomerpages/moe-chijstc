@@ -34,7 +34,7 @@ variant: tiptap
 <p>Jenny Leong&nbsp;(Mrs)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Principal &amp; Sec 4/5 Level Advisor</p>
+<p>Principal &amp; Sec 3/4/5 Level Advisor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chijstcs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chijstcs@moe.edu.sg</a>
@@ -46,7 +46,7 @@ variant: tiptap
 <p>Janice Wee (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice-Principal &amp; Sec 1, 2 &amp; 3 Level Advisor</p>
+<p>Vice-Principal &amp; Sec 1/2 Level Advisor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chijstcs@moe.edu.sg" rel="noopener noreferrer nofollow" target="">chijstcs@moe.edu.sg</a>
@@ -70,7 +70,7 @@ variant: tiptap
 <p>Alwyn Lee (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LH ICT and Knowledge Management</p>
+<p>Level Head ICT and Knowledge Management</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_zhong_hao_alwyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lee_zhong_hao_alwyn@moe.edu.sg</a>
@@ -163,7 +163,7 @@ variant: tiptap
 <p>Eunice Hung (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH BIO/LSS</p>
+<p>Subject Head Biology &amp; Lower Secondary Science&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:hung_pek_hui_eunice@moe.edu.sg" rel="noopener noreferrer nofollow" target="">hung_pek_hui_eunice@moe.edu.sg</a>&nbsp;</p>
@@ -217,7 +217,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tan-Lim Pui Yee</p>
+<p>Tan-Lim Pui Yee (Mrs)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD Science</p>
@@ -229,7 +229,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Munipas Leslie Francis&nbsp;(Mr)</p>
+<p>Leslie Francis&nbsp;(Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD Student Well-being and Management</p>
@@ -299,7 +299,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tan Siew Hui</p>
+<p>Tan Siew Hui(Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD English &amp; Literature</p>
@@ -311,7 +311,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Zaynab Binte Abdul Rahman</p>
+<p>Zaynab Binte Abdul Rahman(Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH Student Leadership and Student Discipline</p>
