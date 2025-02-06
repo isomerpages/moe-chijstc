@@ -4,9 +4,10 @@ permalink: /theresian-family/students/
 description: ""
 variant: tiptap
 ---
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/School_Calendar_for_YH_Letter_to_Parents_2024_180324.pdf" rel="noopener noreferrer nofollow" target="_blank">School Calendar</a>
+<p><a href="/files/School_Calendar_2025.pdf" rel="noopener nofollow" target="_blank">School Calendar</a>
 </p>
 </li>
 <li>
