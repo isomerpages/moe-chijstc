@@ -89,7 +89,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wong_kit_han_clara@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_kit_han_clara@moe.edu.sg</a>
-<br><em>To be updated in 2025</em>
+</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">foo_lee_wee@moe.edu.sg</a>
+<br>
 </p>
 </td>
 </tr>
@@ -271,7 +273,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_siong_teck_patrick@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_siong_teck_patrick@moe.edu.sg</a>
-<br><em>To be updated in 2025</em>
+</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">low_chee_choong@moe.edu.sg</a>
+<br>
 </p>
 </td>
 </tr>
