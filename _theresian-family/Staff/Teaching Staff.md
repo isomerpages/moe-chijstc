@@ -3,7 +3,7 @@ title: Teaching Staff
 permalink: /theresian-family/staff/teaching-staff/
 description: ""
 third_nav_title: Staff
-variant: markdown
+variant: tiptap
 ---
 <p>&nbsp;</p>
 <table style="minWidth: 75px">
@@ -272,10 +272,8 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_siong_teck_patrick@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_siong_teck_patrick@moe.edu.sg</a>
+<br><a rel="noopener noreferrer nofollow" target="_blank">low_chee_choong@moe.edu.sg</a>
 </p>
-<a href="low_chee_choong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_chee_choong@moe.edu.sg</a>
-<br>
-
 </td>
 </tr>
 <tr>
