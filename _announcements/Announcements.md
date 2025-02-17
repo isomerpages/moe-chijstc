@@ -7,6 +7,7 @@ variant: markdown
 <h4>Sec 2/3 Parents Info Session</h4>
 <ul data-tight="true" class="tight">
 <li>
+	<p></p>
 <p><a href="/files/Sec_2___3_Info_Session__Main_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 &amp; 3 Information Session</a>
 </p>
 </li>
