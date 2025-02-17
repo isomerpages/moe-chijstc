@@ -4,6 +4,23 @@ permalink: /others/announcement/
 description: ""
 variant: tiptap
 ---
+<h4>Sec 2/3 Parents Info Session</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Sec_2___3_Info_Session__Main_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 &amp; 3 Information Session</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Sec_2_Info_Session__YH_Address_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary Two Parents' Information Session</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Sec_2_Info_Session__YH_Address_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary Three Parents' Info</a>
+<a href="/files/Sec_3_Info_Session__YH_Address_.pdf" rel="noopener nofollow" target="_blank">rmation Session</a>
+</p>
+</li>
+</ul>
+<p></p>
 <h4>School Operating Hours on 28 January 2025 (Chinese New Year Eve)</h4>
 <p>Please note that the school will be operating from 6:00am to 12:00pm.
 &nbsp;</p>
