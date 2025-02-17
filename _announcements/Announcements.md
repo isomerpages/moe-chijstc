@@ -20,10 +20,12 @@ variant: markdown
 </li>
 </ul>
 <p></p>
+<hr>
 <h4>School Operating Hours on 28 January 2025 (Chinese New Year Eve)</h4>
 <p>Please note that the school will be operating from 6:00am to 12:00pm.
 &nbsp;</p>
 <p>Thank you for your understanding.</p>
+
 <hr>
 <h4>Release of the 2024 Singapore-Cambridge GCE O-Level Examination Results</h4>
 <p><a href="/files/Announcement/2024_O_Level_Briefing_Slides_for_Students.pdf" rel="noopener noreferrer nofollow" target="_blank">Briefing Slides for GCE "O" Level Release of Results</a>
