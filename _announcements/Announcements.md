@@ -15,8 +15,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Sec_2_Info_Session__YH_Address_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary Three Parents' Info</a>
-<a href="/files/Sec_3_Info_Session__YH_Address_.pdf" rel="noopener nofollow" target="_blank">rmation Session</a>
+<p><a href="/files/Sec_2_Info_Session__YH_Address_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary Three Parents' Information Session</a>
 </p>
 </li>
 </ul>
