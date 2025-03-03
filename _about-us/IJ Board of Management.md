@@ -2,10 +2,11 @@
 title: IJ Board of Management
 permalink: /about-us/ij-board-of-management/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IJ_Board_2Jan.png">
+   <img style="width: 2500px; height: 850px;" src="/images/board_members_page_0001.jpg">
 </div>
+
 <p></p>
