@@ -7,6 +7,7 @@ variant: markdown
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/board_members_page_0001.jpg">
+   <img style="width: 300px; height: 200px;" height="200" width="300" alt="" src="/images/board_members_page_0001.jpg">
 </div>
+
 <p></p>
