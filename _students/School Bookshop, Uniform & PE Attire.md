@@ -123,13 +123,14 @@ variant: tiptap
 <p>Fax (Main Office): 64640110</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>KH Uniform Pte. Ltd.</p>
-<p>115A Commonwealth Drive #02-28</p>
-<p>Singapore 149596</p>
-<p>Tel: 6479 6811</p>
-<p>&nbsp;Fax: 6474 4037&nbsp;</p>
-<p>Online Store : www.khuniform.com</p>
-<p>Email : sales@khuniform.com</p>
+<p></p>
+<p>My Uniform Shop (Asia) Pte. Ltd.</p>
+<p>209 New Upper Changi Road #03-651</p>
+<p>Singapore 460209</p>
+<p>Tel: 62766689
+<br>(Refer to website for Operating Hours)</p>
+<p>Website : www.myuniformshop.com.sg</p>
+<p>Email : myuniformshopasia@gmail.com</p>
 </td>
 </tr>
 <tr>
