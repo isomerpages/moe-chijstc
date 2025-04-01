@@ -123,13 +123,13 @@ variant: tiptap
 <p>Fax (Main Office): 64640110</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p>My Uniform Shop (Asia) Pte. Ltd.</p>
-<p>209 New Upper Changi Road</p>
-<p>#03-651</p>
+<p>209 New Upper Changi Road #03-651</p>
 <p>Singapore 460209</p>
-<p>Tel: 627666889
+<p>Tel: 62766689
 <br>(Refer to website for Operating Hours)</p>
-<p>&nbsp;Online Store : www.myuniformshop.com</p>
+<p>&nbsp;Online Store : www.myuniformshop.com.sg</p>
 <p>Email : myuniformshopasia@gmail.com</p>
 </td>
 </tr>
