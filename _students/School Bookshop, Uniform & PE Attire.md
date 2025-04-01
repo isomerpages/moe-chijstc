@@ -129,7 +129,7 @@ variant: tiptap
 <p>Singapore 460209</p>
 <p>Tel: 62766689
 <br>(Refer to website for Operating Hours)</p>
-<p>&nbsp;Website : www.myuniformshop.com.sg</p>
+<p>Website : www.myuniformshop.com.sg</p>
 <p>Email : myuniformshopasia@gmail.com</p>
 </td>
 </tr>
