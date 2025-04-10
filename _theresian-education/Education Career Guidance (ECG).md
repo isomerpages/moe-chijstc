@@ -66,6 +66,8 @@ give talks to students Parents are also invited to view the booths.</p>
 </p>
 <p><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships" rel="noopener nofollow" target="_blank">MOE Awards and Scholarships</a>
 </p>
+<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener nofollow" target="_blank">MOE Awards and Scholarships</a>
+</p>
 <p></p>
 <p><strong>Information on Post-Secondary Education</strong>
 </p>
