@@ -24,12 +24,11 @@ variant: markdown
 <ul data-tight="true" class="tight">
 <li>
 <p></p>
-<p><a href="/files/Sec_2___3_Info_Session__Main_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 and 5 Information Session </a>
-<a href="/files/Sec_4_5_Info_Session_Post_Sec_Pathways__ECG_.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/Sec_2___3_Info_Session__Main_.pdf" rel="noopener noreferrer nofollow" target="_blank">(Webinar Slides)</a>
+<p><a href="/files/Sec_4_5_Info_Session_4_Apr_2025___Webinar.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 and 5 Information Session(Webinar Slides)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Sec_2_Info_Session__YH_Address_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 and 5 Information Session (ECG slides)</a>
+<p><a href="/files/Sec_4_5_Info_Session_Post_Sec_Pathways__ECG_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 and 5 Information Session (ECG slides)</a>
 </p>
 </li>
 </ul>
