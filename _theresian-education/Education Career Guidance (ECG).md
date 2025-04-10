@@ -94,4 +94,7 @@ give talks to students Parents are also invited to view the booths.</p>
 <p><a href="https://www.moe.gov.sg/schoolfinder" rel="noopener nofollow" target="_blank">School Finder</a>
 </p>
 <p></p>
+<p><a href="https://www.moe.gov.sg/microsites/cos2025/#sec-preu" rel="noopener nofollow" target="_blank">For latest revisions to the JC admission criteria (applicable to AY2028)</a>
+</p>
+<p></p>
 <p></p>
