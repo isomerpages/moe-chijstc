@@ -68,6 +68,8 @@ give talks to students Parents are also invited to view the booths.</p>
 </p>
 <p><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener nofollow" target="_blank">MOE Awards and Scholarships</a>
 </p>
+<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener nofollow" target="_blank">My Skills Future (Student portal)</a>
+</p>
 <p></p>
 <p><strong>Information on Post-Secondary Education</strong>
 </p>
@@ -86,6 +88,10 @@ give talks to students Parents are also invited to view the booths.</p>
 <p><a href="https://www.moe.gov.sg/post-secondary/admissions/pfp" rel="noopener nofollow" target="_blank">Polytechnic Foundation Programme (PFP)</a>
 </p>
 <p><a href="https://www.moe.gov.sg/post-secondary/a-level-curriculum-and-subject-syllabuses" rel="noopener nofollow" target="_blank">A-Level curriculum and subject syllabuses</a>
+</p>
+<p><a href="https://www.moe.gov.sg/coursefinder" rel="noopener nofollow" target="_blank">Course Finder</a>
+</p>
+<p><a href="https://www.moe.gov.sg/schoolfinder" rel="noopener nofollow" target="_blank">School Finder</a>
 </p>
 <p></p>
 <p></p>
