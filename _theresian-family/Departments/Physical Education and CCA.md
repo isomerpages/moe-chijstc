@@ -5,8 +5,9 @@ description: ""
 third_nav_title: Departments
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/2023DepartmentPhotos/pe2023.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/8__Physical_Education_Department.jpg">
 </div>
 <p><strong>Mission<br></strong>To provide a comprehensive 4 to 5-year long
 Physical Education Programme to develop the physical, intellectual, social

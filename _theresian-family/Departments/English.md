@@ -5,8 +5,9 @@ description: ""
 third_nav_title: Departments
 variant: tiptap
 ---
+<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/2023DepartmentPhotos/english.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4__English_Language_Department.jpg">
 </div>
 <h4><strong>"A language many-coloured and richly storied" - James Joyce</strong></h4>
 <p><strong>Mission</strong>

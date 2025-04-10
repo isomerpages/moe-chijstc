@@ -2,7 +2,7 @@
 title: Education Career Guidance (ECG)
 permalink: /theresian-education/education-career-guidance-ecg/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <p><strong><u>Education Career Guidance (ECG) Objectives</u></strong>
 </p>
@@ -66,6 +66,10 @@ give talks to students Parents are also invited to view the booths.</p>
 </p>
 <p><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships" rel="noopener nofollow" target="_blank">MOE Awards and Scholarships</a>
 </p>
+<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener nofollow" target="_blank">MOE Awards and Scholarships</a>
+</p>
+<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener nofollow" target="_blank">My Skills Future (Student portal)</a>
+</p>
 <p></p>
 <p><strong>Information on Post-Secondary Education</strong>
 </p>
@@ -84,6 +88,21 @@ give talks to students Parents are also invited to view the booths.</p>
 <p><a href="https://www.moe.gov.sg/post-secondary/admissions/pfp" rel="noopener nofollow" target="_blank">Polytechnic Foundation Programme (PFP)</a>
 </p>
 <p><a href="https://www.moe.gov.sg/post-secondary/a-level-curriculum-and-subject-syllabuses" rel="noopener nofollow" target="_blank">A-Level curriculum and subject syllabuses</a>
+</p>
+<p><a href="https://www.moe.gov.sg/coursefinder" rel="noopener nofollow" target="_blank">Course Finder</a>
+</p>
+<p><a href="https://www.moe.gov.sg/schoolfinder" rel="noopener nofollow" target="_blank">School Finder</a>
+</p>
+<p></p>
+<p><a href="https://www.moe.gov.sg/microsites/cos2025/#sec-preu" rel="noopener nofollow" target="_blank">For latest revisions to the JC admission criteria (applicable to AY2028)</a>
+</p>
+<p></p>
+<p></p><p><strong>Success Stories</strong>
+	
+</p>
+<p><a href="https://www.schoolbag.edu.sg/post-secondary/" rel="noopener nofollow" target="_blank">Post-Secondary Stories (different categories of stories)</a>
+</p>
+<p><a href="https://www.ite.edu.sg/life-at-ite/ITE-success-stories" rel="noopener nofollow" target="_blank">ITE success stories</a>
 </p>
 <p></p>
 <p></p>

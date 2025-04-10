@@ -9,8 +9,9 @@ variant: tiptap
 <h4><strong>学好母语，传承文化</strong></h4>
 <h4><strong>Dalami Bahasa Ibunda, Warisi Budaya</strong></h4>
 <h4><strong>நம் தாய்மொழியைச் சிறப்பாகக் கற்று, நம் பண்பாட்டை அடுத்த தலைமுறைக்குக் கொண்டு சேர்ப்போம்</strong></h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/2023DepartmentPhotos/mothertongue.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/7__Mother_Tongue_Languages_Department.jpg">
 </div>
 <p><strong>Mission<br></strong>To nurture a supportive environment where
 students develop strong Mother Tongue language skills, empowering them

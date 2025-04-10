@@ -5,8 +5,10 @@ description: ""
 third_nav_title: Departments
 variant: tiptap
 ---
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/2023DepartmentPhotos/cce2023.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/10__Character_and_Citizenship_Education__CCE__Team.jpg">
 </div>
 <p><strong>Mission<br></strong>To develop Theresian students to be persons
 for God and for others through the promotion of truth, justice, freedom
