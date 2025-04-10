@@ -97,4 +97,11 @@ give talks to students Parents are also invited to view the booths.</p>
 <p><a href="https://www.moe.gov.sg/microsites/cos2025/#sec-preu" rel="noopener nofollow" target="_blank">For latest revisions to the JC admission criteria (applicable to AY2028)</a>
 </p>
 <p></p>
+<p></p><p><strong>Success Stories</strong>
+</p>
+<p><a href="https://www.schoolbag.edu.sg/post-secondary/" rel="noopener nofollow" target="_blank">Post-Secondary Stories (different categories of stories)</a>
+</p>
+<p><a href="https://www.ite.edu.sg/life-at-ite/ITE-success-stories" rel="noopener nofollow" target="_blank">ITE success stories</a>
+</p>
+<p></p>
 <p></p>
