@@ -2,12 +2,12 @@
 title: Announcements
 permalink: /others/announcement/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h4>Sec 2/3 Parents Info Session</h4>
 <ul data-tight="true" class="tight">
 <li>
-	<p></p>
+<p></p>
 <p><a href="/files/Sec_2___3_Info_Session__Main_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 &amp; 3 Information Session</a>
 </p>
 </li>
@@ -20,24 +20,23 @@ variant: markdown
 </p>
 </li>
 </ul>
-
 <h4>Sec 4/5 Parents Info Session</h4>
 <ul data-tight="true" class="tight">
 <li>
-	<p></p>
-<p><a href="/files/Sec_2___3_Info_Session__Main_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 and 5 Information Session (Webinar Slides)</a>
+<p></p>
+<p><a href="/files/Sec_2___3_Info_Session__Main_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 and 5 Information Session </a>
+<a href="/files/Sec_4_5_Info_Session_Post_Sec_Pathways__ECG_.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/Sec_2___3_Info_Session__Main_.pdf" rel="noopener noreferrer nofollow" target="_blank">(Webinar Slides)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Sec_2_Info_Session__YH_Address_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 and 5 Infoformation Session (ECG slides)</a>
+<p><a href="/files/Sec_2_Info_Session__YH_Address_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 and 5 Information Session (ECG slides)</a>
 </p>
 </li>
-	</ul>
+</ul>
 <h4>School Operating Hours on 28 January 2025 (Chinese New Year Eve)</h4>
 <p>Please note that the school will be operating from 6:00am to 12:00pm.
 &nbsp;</p>
 <p>Thank you for your understanding.</p>
-
 <hr>
 <h4>Release of the 2024 Singapore-Cambridge GCE O-Level Examination Results</h4>
 <p><a href="/files/Announcement/2024_O_Level_Briefing_Slides_for_Students.pdf" rel="noopener noreferrer nofollow" target="_blank">Briefing Slides for GCE "O" Level Release of Results</a>
