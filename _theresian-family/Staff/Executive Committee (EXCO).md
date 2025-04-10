@@ -5,8 +5,9 @@ description: ""
 third_nav_title: Staff
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/2023DepartmentPhotos/exco2023.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1__School_Executive_Committee.jpg">
 </div>
 <p>
 <br>
