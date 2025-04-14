@@ -71,9 +71,6 @@ Day &amp; Investiture
 </p>
 </li>
 <li>
-<p>Like the STC PSG <a href="https://www.facebook.com/psgstc/" rel="noopener noreferrer nofollow" target="_blank">Facebook page</a>.</p>
-</li>
-<li>
 <p>Join STC PSG by scanning this QR code<u>.</u>
 </p>
 </li>
