@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Partners
 variant: markdown
 ---
-
 ![](/images/PSG_LOGO.png)<p><strong><u>Introduction</u></strong></p>
 <p>       
 At CHIJ St. Theresa’s Convent, we believe in journeying together with parents to nurture every Theresian with love, purpose, and partnership. The Parent Support Group (PSG) plays a vital role in this mission by working closely with the school to build a caring, inclusive and values-driven community rooted in our IJ values of love, truth, justice and freedom.
