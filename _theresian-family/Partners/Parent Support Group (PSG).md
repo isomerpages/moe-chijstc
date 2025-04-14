@@ -6,7 +6,7 @@ third_nav_title: Partners
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_LOGO.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PSG_LOGO.png">
 </div>
 <p><strong><u>Introduction</u></strong>
 </p>
@@ -55,8 +55,8 @@ better relationship with you.</p>
 and organizes events that engage parent and their children.
 <br>Term 1 - Orientation Day, Packing of CNY Care packages, PSG Lohei
 <br>Term 2 - Gratitude &amp; Kindness, Easter Celebrations, Kindness Day
-<br>Term 3 -Open House
-<br>Term 4 - Open House &amp;</p>
+<br>Term 3 - Youth Day, Teachers’ Day, Chill Out Day
+<br>Term 4 - Open House</p>
 <p><strong><u>Student Activities<br></u></strong>Support and enhance student’s
 school experiences
 <br>Term 2 - IFD &amp; Theresian Awards
