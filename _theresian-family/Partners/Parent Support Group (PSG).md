@@ -45,8 +45,8 @@ ready to serve.</p>
 <p>We would like to encourage new parents to come forward to share their
 expertise to provide a holistic education for the students and help to
 organize activities for parents and students that promote family bonding.&nbsp;We
-believe that through these activities will your girls further enhance a
-better relationship with you.</p>
+believe that these activities will bring your daughters closer to you and
+deepen your bond.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_EXCO.png">
 </div>
