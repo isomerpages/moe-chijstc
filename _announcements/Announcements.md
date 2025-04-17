@@ -32,7 +32,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a rel="/files/Q_A_from_Sec_4_5_Info_Session.pdf" target="_blank"><u>Q &amp; A from Secondary 4 and 5 Information Session</u></a>
+<p><a href="/files/Q_A_from_Sec_4_5_Info_Session.pdf" rel="noopener nofollow" target="_blank">Q &amp; A from Secondary 4 and 5 Information Session</a>
 </p>
 </li>
 </ul>
