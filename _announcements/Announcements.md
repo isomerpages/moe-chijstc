@@ -2,7 +2,7 @@
 title: Announcements
 permalink: /others/announcement/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h4>Sec 2/3 Parents Info Session</h4>
 <ul data-tight="true" class="tight">
@@ -29,6 +29,10 @@ variant: markdown
 </li>
 <li>
 <p><a href="/files/Sec_4_5_Info_Session_Post_Sec_Pathways__ECG_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 and 5 Information Session (ECG slides)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Q_A_from_Sec_4_5_Info_Session.pdf" rel="noopener nofollow" target="_blank">Q &amp; A from Secondary 4 and 5 Information Session</a>
 </p>
 </li>
 </ul>
