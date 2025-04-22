@@ -36,6 +36,20 @@ variant: markdown
 </p>
 </li>
 </ul>
+<hr>
+
+<p>        
+Dear Students,
+
+Please note that there is a change in the WA2 schedule for the following subjects:
+
+*   Secondary 1 Science
+*   Secondary 2 Maths
+*   Secondary 5NA Science(Physics)
+
+Kindly refer to the updated schedule for more details. If you have any questions, please approach your subject teachers for clarification.
+</p>
+<hr>
 <h4>School Operating Hours on 28 January 2025 (Chinese New Year Eve)</h4>
 <p>Please note that the school will be operating from 6:00am to 12:00pm.
 &nbsp;</p>
