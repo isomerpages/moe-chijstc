@@ -36,6 +36,25 @@ variant: tiptap
 </p>
 </li>
 </ul>
+<hr>
+<p>Dear Students,</p>
+<p>Please note that there is a change in the WA2 schedule for the following
+subjects:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Secondary 1 Science</p>
+</li>
+<li>
+<p>Secondary 2 Maths</p>
+</li>
+<li>
+<p>Secondary 5NA Science(Physics)</p>
+</li>
+</ul>
+<p>Kindly refer to the updated schedule for more details. If you have any
+questions, please approach your subject teachers for clarification.</p>
+<p></p>
+<hr>
 <h4>School Operating Hours on 28 January 2025 (Chinese New Year Eve)</h4>
 <p>Please note that the school will be operating from 6:00am to 12:00pm.
 &nbsp;</p>

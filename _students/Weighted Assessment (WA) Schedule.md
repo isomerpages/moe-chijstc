@@ -4,25 +4,6 @@ permalink: /others/2024-weighted-assessment-wa-schedule/
 description: ""
 variant: tiptap
 ---
-<p>Dear Students,</p>
-<p>Please note that there is a change in the WA2 schedule for the following
-subjects:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Secondary 1 Science</p>
-</li>
-<li>
-<p>Secondary 2 Maths</p>
-</li>
-<li>
-<p>Secondary 5NA Science(Physics)</p>
-</li>
-</ul>
-<p>Kindly refer to the updated schedule for more details. If you have any
-questions, please approach your subject teachers for clarification.</p>
-<p></p>
-<p></p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
