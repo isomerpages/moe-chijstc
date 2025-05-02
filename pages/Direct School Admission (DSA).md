@@ -46,8 +46,7 @@ The application is free-of-charge and will be open from&nbsp;<strong><u>7 May 20
 <br>More information regarding the DSA can be found on the MOE website:&nbsp;
 <br><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
 </p>
-<p>&nbsp;</p>
-<p><strong><u>DSA Selection Process in school</u></strong>
+<p>&nbsp;<strong><u>DSA Selection Process in school</u></strong>
 <br>All applications are considered by a selection panel comprising teachers,
 middle managers and school leaders.</p>
 <table style="minWidth: 125px">
@@ -117,9 +116,9 @@ the applicant’s background, interest and motivation</p>
 <p>DSA (LLP) Coordinator:
 <br>Mr Darren Ng / Mr Toh Boon Hui</p>
 <p>Email:
-<br><a href="mailto:ng_yong_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_yong_sheng@moe.edu.sg</a>
+<br><a rel="noopener noreferrer nofollow" target="_blank">ng_yong_sheng@moe.edu.sg</a>
 <br>
-<br><a href="mailto:toh_boon_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh_boon_hui@moe.edu.sg</a>
+<br><a rel="noopener noreferrer nofollow" target="_blank">toh_boon_hui@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -141,6 +140,7 @@ the applicant’s background, interest and motivation</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Track &amp; Field (Throws, Sprints, Long-distance Track, and Cross-Country)</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -191,69 +191,27 @@ at the DSA selection</p>
 <p>DSA Coordinator: Mr Darren Ng</p>
 <p>&nbsp;</p>
 <p>Email:</p>
-<p><a href="mailto:ng_yong_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_yong_sheng@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">ng_yong_sheng@moe.edu.sg</a>
 </p>
 <p>&nbsp;</p>
 <p>DSA (English Drama) Coordinator:
 <br>Ms Shehana Bte Zulazmi</p>
 <p>&nbsp;</p>
 <p>Email:
-<br><a href="mailto: shehana_zulazmi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shehana_zulazmi@moe.edu.sg</a>
+<br><a rel="noopener noreferrer nofollow" target="_blank">shehana_zulazmi@moe.edu.sg</a>
 </p>
 <p>&nbsp;</p>
 <p>DSA (Modern Dance) Coordinator:
 <br>Ms Miroshini d/o Kannathasan</p>
 <p>&nbsp;</p>
 <p>Email:
-<br><a href="mailto:miroshini_kannathasan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">miroshini_kannathasan@moe.edu.sg</a>
+<br><a rel="noopener noreferrer nofollow" target="_blank">miroshini_kannathasan@moe.edu.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Modern Dance</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
