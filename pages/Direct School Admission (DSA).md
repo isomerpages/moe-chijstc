@@ -151,8 +151,7 @@ the applicant’s background, interest and motivation</p>
 <p>English Drama</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Applicants should:</p>
-<p>&nbsp;</p>
+<p>Applicants should:&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>possess a good foundation, strong skills and interest in the performing
@@ -176,9 +175,8 @@ in the performing arts she is applying for</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>Shortlisted applicants will undergo:</p>
-<p>&nbsp;</p>
-<p>1. a series of performance tasks to show their interest and skill potential
-in their performance art of choice</p>
+<p>&nbsp;1. a series of performance tasks to show their interest and skill
+potential in their performance art of choice</p>
 <p>&nbsp;</p>
 <p>2. an interview to learn more about the applicant’s background, interest
 and motivation</p>
