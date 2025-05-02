@@ -2,7 +2,7 @@
 title: Direct School Admission (DSA)
 permalink: /direct-school-admission-dsa/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <p><strong>DIRECT SCHOOL ADMISSION FOR SECONDARY SCHOOLS (DSA – SEC)</strong>
 </p>
@@ -186,20 +186,20 @@ be showcased at the DSA selection</p>
 <td rowspan="2" colspan="1">
 <p>DSA Coordinator:Mr Darren Ng</p>
 <p>&nbsp;Email:</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">ng_yong_sheng@moe.edu.sg</a>
+<p><a href="mailto:ng_yong_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_yong_sheng@moe.edu.sg</a>
 </p>
 <p>&nbsp;</p>
 <p>DSA (English Drama) Coordinator:
 <br>Ms Shehana Bte Zulazmi</p>
 <p>&nbsp;Email:
-<br><a rel="noopener noreferrer nofollow" target="_blank">shehana_zulazmi@moe.edu.sg</a>
+<br><a href="mailto:shehana_zulazmi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shehana_zulazmi@moe.edu.sg</a>
 </p>
 <p>&nbsp;</p>
 <p>DSA (Modern Dance) Coordinator:
 <br>Ms Miroshini d/o Kannathasan</p>
 <p>&nbsp;</p>
 <p>Email:
-<br><a rel="noopener noreferrer nofollow" target="_blank">miroshini_kannathasan@moe.edu.sg</a>
+<br><a href="mailto:miroshini_kannathasan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">miroshini_kannathasan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
