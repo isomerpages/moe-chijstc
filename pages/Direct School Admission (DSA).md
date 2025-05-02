@@ -184,7 +184,7 @@ minute solo dance routine in any International Dance genre of choice, to
 be showcased at the DSA selection</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>DSA Coordinator: Mr Darren Ng</p>
+<p>DSA Coordinator:Mr Darren Ng</p>
 <p>&nbsp;Email:</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">ng_yong_sheng@moe.edu.sg</a>
 </p>
