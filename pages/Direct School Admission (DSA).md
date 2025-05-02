@@ -116,9 +116,9 @@ the applicant’s background, interest and motivation</p>
 <p>DSA (LLP) Coordinator:
 <br>Mr Darren Ng / Mr Toh Boon Hui</p>
 <p>Email:
-<br><a rel="noopener noreferrer nofollow" target="_blank">ng_yong_sheng@moe.edu.sg</a>
+<br><a href="mailto:ng_yong_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_yong_sheng@moe.edu.sg</a>
 <br>
-<br><a rel="noopener noreferrer nofollow" target="_blank">toh_boon_hui@moe.edu.sg</a>
+<br><a href="mailto:toh_boon_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh_boon_hui@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -199,7 +199,8 @@ at the DSA selection</p>
 <p>&nbsp;</p>
 <p>DSA (Modern Dance) Coordinator:
 <br>Ms Miroshini d/o Kannathasan</p>
-<p>&nbsp;Email:
+<p>&nbsp;</p>
+<p>Email:
 <br><a rel="noopener noreferrer nofollow" target="_blank">miroshini_kannathasan@moe.edu.sg</a>
 </p>
 </td>
