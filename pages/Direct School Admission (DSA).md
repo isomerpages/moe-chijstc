@@ -9,7 +9,7 @@ variant: tiptap
 <p>CHIJ St. Theresa’s Convent invites current Primary Six students who seek
 to bring out the best in themselves through Sports as part of our distinctive
 programmes - our Learning for Life Programme (LLP), or our Performing Arts,
-to join the school through the 2024 Direct School Admission – Secondary
+to join the school through the 2025 Direct School Admission – Secondary
 (DSA-SEC) Exercise.</p>
 <p>Parents and students are encouraged to choose schools wisely based on
 the student’s aptitudes and strengths, bearing in mind the school’s academic
@@ -20,26 +20,34 @@ to honour their commitment to the school, and participate in the activities
 related to the talent they are selected for during their secondary school
 years.</p>
 <p>For more information on DSA-Sec, please refer to the following:</p>
-<p>• DSA Selection Criteria &amp; Process</p>
-<p>• Programmes, activities and/or opportunities for successful DSA applicants</p>
-<p>• Key Dates for DSA</p>
-<p>Click&nbsp;<a href="https://www.chijsttheresasconvent.moe.edu.sg/theresian-education/learning-for-life-programme-llp" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
+<ul data-tight="true" class="tight">
+<li>
+<p>DSA Selection Criteria &amp; Process</p>
+</li>
+<li>
+<p>Programmes, activities and/or opportunities for successful DSA Applicants</p>
+</li>
+<li>
+<p>Key Dates for DSA</p>
+</li>
+</ul>
+<p><s><br></s>Click&nbsp;<a href="https://www.chijsttheresasconvent.moe.edu.sg/theresian-education/learning-for-life-programme-llp/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 find out more information about our LLP – Developing Self-directed, Confident
 &amp; Resilient Leaders, Learners and Ladies through Sports &amp; Hockey</p>
 <p>Click here to find out more information about our Performing Arts CCA
 – <a href="https://www.chijsttheresasconvent.moe.edu.sg/theresian-family/students/co-curricular-activities-cca/performing-arts/english-drama/" rel="noopener noreferrer nofollow" target="_blank">English Drama</a> or
 <a href="https://www.chijsttheresasconvent.moe.edu.sg/theresian-family/students/co-curricular-activities-cca/performing-arts/dance-and-movement/" rel="noopener noreferrer nofollow" target="_blank">Modern Dance</a>(Dance and Movement)</p>
-<p>&nbsp;</p>
-<p><strong><u>Centralised DSA-Sec Application Process</u></strong> 
+<p><strong><u>Centralised DSA-Sec Application Process</u></strong>
 <br>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
-The application is free-of-charge and will be open from&nbsp;<strong><u>7 May 2024 to 3 June 2024,3pm</u></strong>.</p>
-<p>For more details, please refer to the MOE website –&nbsp;<a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
-<p><strong><u>Note:</u></strong> 
-<br><strong>We regret that we will not be able to consider&nbsp;applications that are not done through the centralised portal or if they are submitted after the deadline.</strong> 
+The application is free-of-charge and will be open from&nbsp;<strong><u>7 May 2025 to 3 June 2025, 3pm</u></strong>.</p>
+<p>For more details, please refer to the MOE website –&nbsp;<a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
+<p><strong><u>Note:</u></strong>
+<br><strong>We regret that we will not be able to consider&nbsp;applications that are not done through the centralised portal or if they are submitted after the deadline.</strong>
 <br>More information regarding the DSA can be found on the MOE website:&nbsp;
 <br><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
 </p>
-<p><strong><u>DSA Selection Process in school</u></strong> 
+<p>&nbsp;</p>
+<p><strong><u>DSA Selection Process in school</u></strong>
 <br>All applications are considered by a selection panel comprising teachers,
 middle managers and school leaders.</p>
 <table style="minWidth: 125px">
@@ -109,9 +117,9 @@ the applicant’s background, interest and motivation</p>
 <p>DSA (LLP) Coordinator:
 <br>Mr Darren Ng / Mr Toh Boon Hui</p>
 <p>Email:
-<br><a rel="noopener noreferrer nofollow" target="_blank">ng_yong_sheng@moe.edu.sg</a> 
+<br><a href="mailto:ng_yong_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_yong_sheng@moe.edu.sg</a>
 <br>
-<br><a rel="noopener noreferrer nofollow" target="_blank">toh_boon_hui@moe.edu.sg</a>
+<br><a href="mailto:toh_boon_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh_boon_hui@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -178,33 +186,74 @@ and motivation</p>
 <p>* Shortlisted applicants for dance only will need to prepare a 1 minute
 solo dance routine in any International Dance genre of choice, to be showcased
 at the DSA selection</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>DSA Coordinator: Mr Darren Ng</p>
 <p>&nbsp;</p>
 <p>Email:</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">ng_yong_sheng@moe.edu.sg</a>
+<p><a href="mailto:ng_yong_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_yong_sheng@moe.edu.sg</a>
 </p>
 <p>&nbsp;</p>
 <p>DSA (English Drama) Coordinator:
 <br>Ms Shehana Bte Zulazmi</p>
 <p>&nbsp;</p>
 <p>Email:
-<br><a rel="noopener noreferrer nofollow" target="_blank">shehana_zulazmi@moe.edu.sg</a>
+<br><a href="mailto: shehana_zulazmi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shehana_zulazmi@moe.edu.sg</a>
 </p>
 <p>&nbsp;</p>
 <p>DSA (Modern Dance) Coordinator:
 <br>Ms Miroshini d/o Kannathasan</p>
 <p>&nbsp;</p>
 <p>Email:
-<br><a rel="noopener noreferrer nofollow" target="_blank">miroshini_kannathasan@moe.edu.sg</a>
+<br><a href="mailto:miroshini_kannathasan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">miroshini_kannathasan@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Modern Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -221,21 +270,21 @@ at the DSA selection</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7 May 2024 to 3 June 2024, 3pm</p>
+<p>7 May 2025 to 3 June 2025, 3pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Application is open</strong>&nbsp;for all Primary Six female students
 studying in national schools, Returning Singaporeans, Permanent Residents
 and International Students.</p>
-<p>Applications should be made via a common online portal from the&nbsp;2024&nbsp;DSA-Sec
+<p>Applications should be made via a common online portal from the&nbsp;2025&nbsp;DSA-Sec
 Exercise by MOE.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24 Jun 2024
+<p>30 Jun 2025
 <br>to
-<br>9 Sep 2024</p>
+<br>4 Sep 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Shortlisted applicants will be contacted via phone/email, to come down
@@ -245,7 +294,7 @@ a performance task, and undergo face-to-face interviews.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>By 9 Sep 2024</p>
+<p>By 4 Sep 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Notice of Selection Outcome for DSA-Sec application</strong>
@@ -257,7 +306,7 @@ of their application:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>21 Oct to 25 Oct 2024</p>
+<p>27 Oct to 31 Oct 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>School Preference Submission (SPS)</strong>
@@ -266,7 +315,7 @@ of their application:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Early to mid Nov 2024</p>
+<p>Mid-end Nov 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>DSA Allocation</strong>
@@ -275,7 +324,7 @@ of their application:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Late Nov 2024</p>
+<p>Late Nov 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Release of DSA school posting results by MOE.</strong>
