@@ -196,8 +196,9 @@ be showcased at the DSA selection</p>
 <p>&nbsp;</p>
 <p>DSA (Modern Dance) Coordinator:
 <br>Ms Miroshini d/o Kannathasan</p>
-&nbsp;Email:
+	<p>&nbsp;Email:
 <br><a href="mailto:miroshini_kannathasan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">miroshini_kannathasan@moe.edu.sg</a>
+</p>
 <p></p>
 </td>
 </tr>
