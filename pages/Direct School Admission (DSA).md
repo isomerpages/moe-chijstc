@@ -188,7 +188,6 @@ be showcased at the DSA selection</p>
 <p>&nbsp;Email:</p>
 <p><a href="mailto:ng_yong_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_yong_sheng@moe.edu.sg</a>
 </p>
-<p>&nbsp;</p>
 <p>DSA (English Drama) Coordinator:
 <br>Ms Shehana Bte Zulazmi</p>
 <p>&nbsp;Email:
@@ -197,9 +196,9 @@ be showcased at the DSA selection</p>
 <p>&nbsp;</p>
 <p>DSA (Modern Dance) Coordinator:
 <br>Ms Miroshini d/o Kannathasan</p>
-<p>&nbsp;Email:
+&nbsp;Email:
 <br><a href="mailto:miroshini_kannathasan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">miroshini_kannathasan@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
