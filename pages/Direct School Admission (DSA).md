@@ -177,13 +177,11 @@ in the performing arts she is applying for</p>
 <p>Shortlisted applicants will undergo:</p>
 <p>&nbsp;1. a series of performance tasks to show their interest and skill
 potential in their performance art of choice</p>
-<p>&nbsp;</p>
-<p>2. an interview to learn more about the applicant’s background, interest
-and motivation</p>
-<p>&nbsp;</p>
-<p>* Shortlisted applicants for dance only will need to prepare a 1 minute
-solo dance routine in any International Dance genre of choice, to be showcased
-at the DSA selection</p>
+<p>&nbsp;2. an interview to learn more about the applicant’s background,
+interest and motivation</p>
+<p>&nbsp;* Shortlisted applicants for dance only will need to prepare a 1
+minute solo dance routine in any International Dance genre of choice, to
+be showcased at the DSA selection</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>DSA Coordinator: Mr Darren Ng</p>
