@@ -2,9 +2,10 @@
 title: Direct School Admission (DSA)
 permalink: /direct-school-admission-dsa/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <p><strong>DIRECT SCHOOL ADMISSION FOR SECONDARY SCHOOLS (DSA – SEC)</strong>
+
 </p>
 <p>CHIJ St. Theresa’s Convent invites current Primary Six students who seek
 to bring out the best in themselves through Sports as part of our distinctive
@@ -49,165 +50,121 @@ The application is free-of-charge and will be open from&nbsp;<strong><u>7 May 20
 <p>&nbsp;<strong><u>DSA Selection Process in school</u></strong>
 <br>All applications are considered by a selection panel comprising teachers,
 middle managers and school leaders.</p>
-<table style="minWidth: 125px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>DSA Main Category</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>DSA Talent Area(s)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Selection Criteria</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Selection Process</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>DSA Coordinator(s)</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="5" colspan="1">
-<p>Sports</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Hockey</p>
-</td>
-<td rowspan="5" colspan="1">
-<p>Applicants should:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>possess a good foundation, strong skills and interest in the sports she
-is applying for,&nbsp;</p>
-</li>
-<li>
-<p>are physically inclined and possess strong motor skills,&nbsp;</p>
-</li>
-<li>
-<p>are able to contribute effectively in a team, and&nbsp;</p>
-</li>
-<li>
-<p>display strong leadership abilities.</p>
-</li>
-</ul>
-</td>
-<td rowspan="5" colspan="1">
-<p>Shortlisted applicants will&nbsp;undergo:</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a series of tests to show their
-fitness and sports potential in their sport of choice</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; an interview to learn more about
-the applicant’s background, interest and motivation</p>
-</td>
-<td rowspan="5" colspan="1">
-<p>DSA (LLP) Coordinator:
-<br>Mr Darren Ng / Mr Toh Boon Hui</p>
-<p>Email:
-<br><a href="mailto:ng_yong_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_yong_sheng@moe.edu.sg</a>
-<br>
-<br><a href="mailto:toh_boon_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh_boon_hui@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Floorball</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Netball</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Softball</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Track &amp; Field (Throws, Sprints, Long-distance Track, and Cross-Country)</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>Performing Arts</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English Drama</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>Applicants should:&nbsp;</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>possess a good foundation, strong skills and interest in the performing
-arts she is applying for</p>
-</li>
-<li>
-<p>be artistically inclined and have creativity to express and communicate
-a range of emotions (through speech or dance)</p>
-</li>
-<li>
-<p>demonstrate a strong willingness to be adaptive in acquiring new learning
-in the performing arts she is applying for</p>
-</li>
-<li>
-<p>contribute effectively in a team, and</p>
-</li>
-<li>
-<p>display strong leadership abilities.</p>
-</li>
-</ul>
-</td>
-<td rowspan="2" colspan="1">
-<p>Shortlisted applicants will undergo:</p>
-<p>&nbsp;1. a series of performance tasks to show their interest and skill
-potential in their performance art of choice</p>
-<p>&nbsp;2. an interview to learn more about the applicant’s background,
-interest and motivation</p>
-<p>&nbsp;* Shortlisted applicants for dance only will need to prepare a 1
-minute solo dance routine in any International Dance genre of choice, to
-be showcased at the DSA selection</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>DSA Coordinator:Mr Darren Ng</p>
-<p>&nbsp;Email:</p>
-<p><a href="mailto:ng_yong_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_yong_sheng@moe.edu.sg</a>
-</p>
-<p>DSA (English Drama) Coordinator:
-<br>Ms Shehana Bte Zulazmi</p>
-<p>&nbsp;Email:
-<br><a href="mailto:shehana_zulazmi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shehana_zulazmi@moe.edu.sg</a>
-</p>
-<p>&nbsp;</p>
-<p>DSA (Modern Dance) Coordinator:
-<br>Ms Miroshini d/o Kannathasan</p>
-<p>&nbsp;Email:
-<br><a href="mailto:miroshini_kannathasan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">miroshini_kannathasan@moe.edu.sg</a>
-</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Modern Dance</p>
-</td>
-</tr>
-</tbody>
+	
+<table style="min-width: 120px; border-collapse: collapse;">
+    <colgroup>
+        <col>
+        <col>
+        <col>
+        <col>
+        <col>
+    </colgroup>
+    <tbody style="font-size: 10px !important;">
+        <tr>
+            <td rowspan="1" colspan="1" style="border-right: 1px solid black;">
+                <p><strong><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">DSA Main Category</span></strong></p>
+            </td>
+            <td rowspan="1" colspan="1" style="border-right: 1px solid black;">
+                <p><strong><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">DSA Talent Area(s)</span></strong></p>
+            </td>
+            <td rowspan="1" colspan="1" style="border-right: 1px solid black;">
+                <p><strong><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">Selection Criteria</span></strong></p>
+            </td>
+            <td rowspan="1" colspan="1" style="border-right: 1px solid black;">
+                <p><strong><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">Selection Process</span></strong></p>
+            </td>
+            <td rowspan="1" colspan="1">
+									<p><strong><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">DSA Coordinator(s)</span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="5" colspan="1" style="border-right: 1px solid black;">
+							<p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">Sports</span></p>
+            </td>
+            <td rowspan="1" colspan="1" style="border-right: 1px solid black;">
+							<p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">Hockey</span></p>
+            </td>
+            <td rowspan="5" colspan="1" style="border-right: 1px solid black;">
+                <p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">Applicants should:</span></p>
+                <ul data-tight="true" class="tight">
+                    <li><p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">possess a good foundation, strong skills and interest in the sports she is applying for,&nbsp;</span></p></li>
+                    <li><p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">are physically inclined and possess strong motor skills,&nbsp;</span></p></li>
+                    <li><p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">are able to contribute effectively in a team, and&nbsp;</span></p></li>
+                    <li><p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">display strong leadership abilities.</span></p></li>
+                </ul>
+            </td>
+            <td rowspan="5" colspan="1" style="border-right: 1px solid black;">
+                <p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">Shortlisted applicants will&nbsp;undergo:
+                </span></p><p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a series of tests to show their fitness and sports potential in their sport of choice</span></p>
+                <p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; an interview to learn more about the applicant’s background, interest and motivation</span></p>
+            </td>
+            <td rowspan="5" colspan="1">
+                <p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">DSA (LLP) Coordinator:<br>Mr Darren Ng / Mr Toh Boon Hui</span></p>
+							<p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">Email:</span><br><a href="mailto:ng_yong_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">ng_yong_sheng@moe.edu.sg</span></a><br><br><a href="mailto:toh_boon_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">toh_boon_hui@moe.edu.sg</span></a></p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="1" colspan="1" style="border-right: 1px solid black;">
+							<p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">Floorball</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="1" colspan="1" style="border-right: 1px solid black;">
+							<p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">Netball</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="1" colspan="1" style="border-right: 1px solid black;">
+							<p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">Softball</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="1" colspan="1" style="border-right: 1px solid black;">
+                <p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">Track &amp; Field (Throws, Sprints, Long-distance Track, and Cross-Country)</span></p>
+                <p>&nbsp;</p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="2" colspan="1" style="border-right: 1px solid black;">
+                <p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">Performing Arts</span></p>
+            </td>
+            <td rowspan="1" colspan="1" style="border-right: 1px solid black;">
+                <p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">English Drama</span></p>
+            </td>
+            <td rowspan="2" colspan="1" style="border-right: 1px solid black;">
+                <p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">Applicants should:&nbsp;</span></p>
+                <ul data-tight="true" class="tight">
+                    <li><p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">possess a good foundation, strong skills and interest in the performing arts she is applying for</span></p></li>
+                    <li><p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">be artistically inclined and have creativity to express and communicate a range of emotions (through speech or dance)</span></p></li>
+                    <li><p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">demonstrate a strong willingness to be adaptive in acquiring new learning in the performing arts she is applying for</span></p></li>
+                    <li><p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">contribute effectively in a team, and</span></p></li>
+									<li><p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">display strong leadership abilities.</span></p></li>
+                </ul>
+            </td>
+            <td rowspan="2" colspan="1" style="border-right: 1px solid black;">
+                <p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">Shortlisted applicants will undergo:</span></p>
+                <p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">&nbsp;1. a series of performance tasks to show their interest and skill potential in their performance art of choice</span></p>
+                <p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">&nbsp;2. an interview to learn more about the applicant’s background, interest and motivation</span></p>
+                <p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">&nbsp;* Shortlisted applicants for dance only will need to prepare a 1 minute solo dance routine in any International Dance genre of choice, to be showcased at the DSA selection</span></p>
+            </td>
+            <td rowspan="2" colspan="1">
+                <p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">DSA Coordinator:Mr Darren Ng</span></p>
+                <p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">&nbsp;Email:</span></p>
+                <a href="mailto:ng_yong_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">ng_yong_sheng@moe.edu.sg</span></a><p></p>
+                <p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">DSA (English Drama) Coordinator:<br>Ms Shehana Bte Zulazmi</span></p>
+                <p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">&nbsp;Email:</span><br><a href="mailto:shehana_zulazmi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">shehana_zulazmi@moe.edu.sg</span></a></p>
+                <p>&nbsp;</p>
+                <p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">DSA (Modern Dance) Coordinator:<br>Ms Miroshini d/o Kannathasan</span></p>
+                <p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">&nbsp;Email:</span><br><a href="mailto:miroshini_kannathasan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">miroshini_kannathasan@moe.edu.sg</span></a></p>
+                <p></p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="1" colspan="1" style="border-right: 1px solid black;">
+                <p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">Modern Dance</span></p>
+            </td>
+        </tr>
+    </tbody>
 </table>
 <p><em>* Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</em><strong><em> For more information on DSA-Sec, please refer to the MOE website at&nbsp;<a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a></em></strong>
 </p>
@@ -321,9 +278,16 @@ potential.</p>
 <td rowspan="1" colspan="1">
 <p>Successful DSA applicants will have opportunities to participate in the
 Singapore Youth Festival, external competitions and performances. They
-will also have various opportunities to develop their leadership potential.</p>
+will also have various opportunities to develop their leadership potential.	</p>
 </td>
 </tr>
+
 </tbody>
+	
+	
+	
+	
+	
+	
 </table>
 <p>&nbsp;</p>
