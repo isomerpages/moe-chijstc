@@ -5,8 +5,7 @@ description: ""
 variant: markdown
 ---
 <p><strong>DIRECT SCHOOL ADMISSION FOR SECONDARY SCHOOLS (DSA – SEC)</strong>
-	<span style="font-size: 7pt;">
-        </span><table style="min-width: 120px; border-collapse: collapse;">
+	<table style="min-width: 120px; border-collapse: collapse;">
     <colgroup>
         <col>
         <col>
@@ -15,9 +14,9 @@ variant: markdown
         <col>
     </colgroup>
     <tbody style="font-size: 10px !important;">
-			<tr>
+        <tr>
             <td rowspan="1" colspan="1" style="border-right: 1px solid black;">
-                <p><strong>DSA Main Category</strong></p>
+                <p><strong><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">DSA Main Category</span></strong></p>
             </td>
             <td rowspan="1" colspan="1" style="border-right: 1px solid black;">
                 <p><strong>DSA Talent Area(s)</strong></p>
@@ -119,7 +118,7 @@ variant: markdown
                 <p>Modern Dance</p>
             </td>
         </tr>
-			 </tbody>
+    </tbody>
 </table>
 	
 </p>
