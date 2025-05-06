@@ -49,7 +49,7 @@ variant: markdown
             </td>
             <td rowspan="5" colspan="1" style="border-right: 1px solid black;">
                 <p><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">Shortlisted applicants will&nbsp;undergo:
-                </span></p><p><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a series of tests to show their fitness and sports potential in their sport of choice&lt;</span></p>
+                </span></p><p><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a series of tests to show their fitness and sports potential in their sport of choice</span></p>
                 <p><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; an interview to learn more about the applicant’s background, interest and motivation</span></p>
             </td>
             <td rowspan="5" colspan="1">
