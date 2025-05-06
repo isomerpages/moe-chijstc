@@ -57,7 +57,7 @@ middle managers and school leaders.</p>
 <col>
 <col>
 </colgroup>
-<tbody>
+<tbody style="font-size: 10px;">
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>DSA Main Category</strong>
