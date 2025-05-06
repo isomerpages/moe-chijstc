@@ -103,10 +103,10 @@ variant: markdown
             </td>
             <td rowspan="2" colspan="1">
                 <p><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">DSA Coordinator:Mr Darren Ng</span></p>
-                <p>&nbsp;Email:</p>
-                <p><a href="mailto:ng_yong_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">ng_yong_sheng@moe.edu.sg</span></a></p>
+                <p><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">&nbsp;Email:</span></p>
+                <a href="mailto:ng_yong_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">ng_yong_sheng@moe.edu.sg</span></a><p></p>
                 <p><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">DSA (English Drama) Coordinator:<br>Ms Shehana Bte Zulazmi</span></p>
-                <p>&nbsp;Email:<br><a href="mailto:shehana_zulazmi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">shehana_zulazmi@moe.edu.sg</span></a></p>
+                <p><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">&nbsp;Email:</span><br><a href="mailto:shehana_zulazmi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">shehana_zulazmi@moe.edu.sg</span></a></p>
                 <p>&nbsp;</p>
                 <p><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">DSA (Modern Dance) Coordinator:<br>Ms Miroshini d/o Kannathasan</span></p>
                 <p>&nbsp;Email:<br><a href="mailto:miroshini_kannathasan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">span style="font-family: 'Lato', sans-serif; font-size: 11pt;"&gt;miroshini_kannathasan@moe.edu.sg</a></p>
