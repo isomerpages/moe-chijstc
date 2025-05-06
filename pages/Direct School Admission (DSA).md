@@ -62,106 +62,106 @@ middle managers and school leaders.</p>
     <tbody style="font-size: 10px !important;">
         <tr>
             <td rowspan="1" colspan="1" style="border-right: 1px solid black;">
-                <p><strong><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">DSA Main Category</span></strong></p>
+                <p><strong><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">DSA Main Category</span></strong></p>
             </td>
             <td rowspan="1" colspan="1" style="border-right: 1px solid black;">
-                <p><strong><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">DSA Talent Area(s)</span></strong></p>
+                <p><strong><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">DSA Talent Area(s)</span></strong></p>
             </td>
             <td rowspan="1" colspan="1" style="border-right: 1px solid black;">
-                <p><strong><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">Selection Criteria</span></strong></p>
+                <p><strong><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">Selection Criteria</span></strong></p>
             </td>
             <td rowspan="1" colspan="1" style="border-right: 1px solid black;">
-                <p><strong><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">Selection Process</span></strong></p>
+                <p><strong><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">Selection Process</span></strong></p>
             </td>
             <td rowspan="1" colspan="1">
-									<p><strong><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">DSA Coordinator(s)</span></strong></p>
+									<p><strong><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">DSA Coordinator(s)</span></strong></p>
             </td>
         </tr>
         <tr>
             <td rowspan="5" colspan="1" style="border-right: 1px solid black;">
-							<p><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">Sports</span></p>
+							<p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">Sports</span></p>
             </td>
             <td rowspan="1" colspan="1" style="border-right: 1px solid black;">
-							<p><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">Hockey</span></p>
+							<p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">Hockey</span></p>
             </td>
             <td rowspan="5" colspan="1" style="border-right: 1px solid black;">
-                <p><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">Applicants should:</span></p>
+                <p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">Applicants should:</span></p>
                 <ul data-tight="true" class="tight">
-                    <li><p><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">possess a good foundation, strong skills and interest in the sports she is applying for,&nbsp;</span></p></li>
-                    <li><p><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">are physically inclined and possess strong motor skills,&nbsp;</span></p></li>
-                    <li><p><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">are able to contribute effectively in a team, and&nbsp;</span></p></li>
-                    <li><p><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">display strong leadership abilities.</span></p></li>
+                    <li><p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">possess a good foundation, strong skills and interest in the sports she is applying for,&nbsp;</span></p></li>
+                    <li><p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">are physically inclined and possess strong motor skills,&nbsp;</span></p></li>
+                    <li><p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">are able to contribute effectively in a team, and&nbsp;</span></p></li>
+                    <li><p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">display strong leadership abilities.</span></p></li>
                 </ul>
             </td>
             <td rowspan="5" colspan="1" style="border-right: 1px solid black;">
-                <p><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">Shortlisted applicants will&nbsp;undergo:
-                </span></p><p><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a series of tests to show their fitness and sports potential in their sport of choice</span></p>
-                <p><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; an interview to learn more about the applicant’s background, interest and motivation</span></p>
+                <p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">Shortlisted applicants will&nbsp;undergo:
+                </span></p><p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a series of tests to show their fitness and sports potential in their sport of choice</span></p>
+                <p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; an interview to learn more about the applicant’s background, interest and motivation</span></p>
             </td>
             <td rowspan="5" colspan="1">
-                <p><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">DSA (LLP) Coordinator:<br>Mr Darren Ng / Mr Toh Boon Hui</span></p>
-							<p><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">Email:</span><br><a href="mailto:ng_yong_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">ng_yong_sheng@moe.edu.sg</span></a><br><br><a href="mailto:toh_boon_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">toh_boon_hui@moe.edu.sg</span></a></p>
+                <p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">DSA (LLP) Coordinator:<br>Mr Darren Ng / Mr Toh Boon Hui</span></p>
+							<p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">Email:</span><br><a href="mailto:ng_yong_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">ng_yong_sheng@moe.edu.sg</span></a><br><br><a href="mailto:toh_boon_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">toh_boon_hui@moe.edu.sg</span></a></p>
             </td>
         </tr>
         <tr>
             <td rowspan="1" colspan="1" style="border-right: 1px solid black;">
-							<p><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">Floorball</span></p>
+							<p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">Floorball</span></p>
             </td>
         </tr>
         <tr>
             <td rowspan="1" colspan="1" style="border-right: 1px solid black;">
-							<p><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">Netball</span></p>
+							<p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">Netball</span></p>
             </td>
         </tr>
         <tr>
             <td rowspan="1" colspan="1" style="border-right: 1px solid black;">
-							<p><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">Softball</span></p>
+							<p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">Softball</span></p>
             </td>
         </tr>
         <tr>
             <td rowspan="1" colspan="1" style="border-right: 1px solid black;">
-                <p><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">Track &amp; Field (Throws, Sprints, Long-distance Track, and Cross-Country)</span></p>
+                <p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">Track &amp; Field (Throws, Sprints, Long-distance Track, and Cross-Country)</span></p>
                 <p>&nbsp;</p>
             </td>
         </tr>
         <tr>
             <td rowspan="2" colspan="1" style="border-right: 1px solid black;">
-                <p><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">Performing Arts</span></p>
+                <p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">Performing Arts</span></p>
             </td>
             <td rowspan="1" colspan="1" style="border-right: 1px solid black;">
-                <p><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">English Drama</span></p>
+                <p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">English Drama</span></p>
             </td>
             <td rowspan="2" colspan="1" style="border-right: 1px solid black;">
-                <p><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">Applicants should:&nbsp;</span></p>
+                <p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">Applicants should:&nbsp;</span></p>
                 <ul data-tight="true" class="tight">
-                    <li><p><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">possess a good foundation, strong skills and interest in the performing arts she is applying for</span></p></li>
-                    <li><p><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">be artistically inclined and have creativity to express and communicate a range of emotions (through speech or dance)</span></p></li>
-                    <li><p><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">demonstrate a strong willingness to be adaptive in acquiring new learning in the performing arts she is applying for</span></p></li>
-                    <li><p><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">contribute effectively in a team, and</span></p></li>
-									<li><p><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">display strong leadership abilities.</span></p></li>
+                    <li><p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">possess a good foundation, strong skills and interest in the performing arts she is applying for</span></p></li>
+                    <li><p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">be artistically inclined and have creativity to express and communicate a range of emotions (through speech or dance)</span></p></li>
+                    <li><p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">demonstrate a strong willingness to be adaptive in acquiring new learning in the performing arts she is applying for</span></p></li>
+                    <li><p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">contribute effectively in a team, and</span></p></li>
+									<li><p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">display strong leadership abilities.</span></p></li>
                 </ul>
             </td>
             <td rowspan="2" colspan="1" style="border-right: 1px solid black;">
-                <p><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">Shortlisted applicants will undergo:</span></p>
-                <p><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">&nbsp;1. a series of performance tasks to show their interest and skill potential in their performance art of choice</span></p>
-                <p><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">&nbsp;2. an interview to learn more about the applicant’s background, interest and motivation</span></p>
-                <p><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">&nbsp;* Shortlisted applicants for dance only will need to prepare a 1 minute solo dance routine in any International Dance genre of choice, to be showcased at the DSA selection</span></p>
+                <p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">Shortlisted applicants will undergo:</span></p>
+                <p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">&nbsp;1. a series of performance tasks to show their interest and skill potential in their performance art of choice</span></p>
+                <p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">&nbsp;2. an interview to learn more about the applicant’s background, interest and motivation</span></p>
+                <p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">&nbsp;* Shortlisted applicants for dance only will need to prepare a 1 minute solo dance routine in any International Dance genre of choice, to be showcased at the DSA selection</span></p>
             </td>
             <td rowspan="2" colspan="1">
-                <p><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">DSA Coordinator:Mr Darren Ng</span></p>
-                <p><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">&nbsp;Email:</span></p>
-                <a href="mailto:ng_yong_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">ng_yong_sheng@moe.edu.sg</span></a><p></p>
-                <p><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">DSA (English Drama) Coordinator:<br>Ms Shehana Bte Zulazmi</span></p>
-                <p><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">&nbsp;Email:</span><br><a href="mailto:shehana_zulazmi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">shehana_zulazmi@moe.edu.sg</span></a></p>
+                <p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">DSA Coordinator:Mr Darren Ng</span></p>
+                <p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">&nbsp;Email:</span></p>
+                <a href="mailto:ng_yong_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">ng_yong_sheng@moe.edu.sg</span></a><p></p>
+                <p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">DSA (English Drama) Coordinator:<br>Ms Shehana Bte Zulazmi</span></p>
+                <p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">&nbsp;Email:</span><br><a href="mailto:shehana_zulazmi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">shehana_zulazmi@moe.edu.sg</span></a></p>
                 <p>&nbsp;</p>
-                <p><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">DSA (Modern Dance) Coordinator:<br>Ms Miroshini d/o Kannathasan</span></p>
-                <p><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">&nbsp;Email:</span><br><a href="mailto:miroshini_kannathasan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">miroshini_kannathasan@moe.edu.sg</span></a></p>
+                <p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">DSA (Modern Dance) Coordinator:<br>Ms Miroshini d/o Kannathasan</span></p>
+                <p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">&nbsp;Email:</span><br><a href="mailto:miroshini_kannathasan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">miroshini_kannathasan@moe.edu.sg</span></a></p>
                 <p></p>
             </td>
         </tr>
         <tr>
             <td rowspan="1" colspan="1" style="border-right: 1px solid black;">
-                <p><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">Modern Dance</span></p>
+                <p><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">Modern Dance</span></p>
             </td>
         </tr>
     </tbody>
