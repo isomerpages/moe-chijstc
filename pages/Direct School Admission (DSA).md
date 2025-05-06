@@ -115,7 +115,7 @@ variant: markdown
         </tr>
         <tr>
             <td rowspan="1" colspan="1" style="border-right: 1px solid black;">
-                <p>Modern Dance</p>
+                <p><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">Modern Dance</span>S</p>
             </td>
         </tr>
     </tbody>
