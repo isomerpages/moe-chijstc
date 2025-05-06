@@ -60,7 +60,7 @@ middle managers and school leaders.</p>
 <tbody style="font-size: 10px !important;">
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>DSA Main Category</strong>
+<p><strong><span style="font-family: 'Lato', sans-serif; font-size: 7pt;">DSA Main Category</span></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -321,7 +321,7 @@ potential.</p>
 <td rowspan="1" colspan="1">
 <p>Successful DSA applicants will have opportunities to participate in the
 Singapore Youth Festival, external competitions and performances. They
-will also have various opportunities to develop their leadership potential.	<span style="font-family: 'Lato', sans-serif; font-size: 10pt;">test</span></p>
+will also have various opportunities to develop their leadership potential.	</p>
 </td>
 </tr>
 
