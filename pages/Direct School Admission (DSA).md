@@ -74,7 +74,7 @@ middle managers and school leaders.</p>
                 <p><strong><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">Selection Process</span></strong></p>
             </td>
             <td rowspan="1" colspan="1">
-									<p><strong><span style="font-family: 'Lato', sans-serif; font-size: 12pt;">DSA Coordinator(s)</span></strong></p>
+									<p><strong><span style="font-family: 'Lato', sans-serif; font-size: 14pt;">DSA Coordinator(s)</span></strong></p>
             </td>
         </tr>
         <tr>
