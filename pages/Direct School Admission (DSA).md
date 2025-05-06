@@ -90,16 +90,16 @@ variant: markdown
                 <ul data-tight="true" class="tight">
                     <li><p><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">possess a good foundation, strong skills and interest in the performing arts she is applying for</span></p></li>
                     <li><p><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">be artistically inclined and have creativity to express and communicate a range of emotions (through speech or dance)</span></p></li>
-                    <li><p>demonstrate a strong willingness to be adaptive in acquiring new learning in the performing arts she is applying for</p></li>
-                    <li><p>contribute effectively in a team, and</p></li>
-									<li><p>display strong leadership abilities.</p></li>
+                    <li><p><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">demonstrate a strong willingness to be adaptive in acquiring new learning in the performing arts she is applying for</span></p></li>
+                    <li><p><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">contribute effectively in a team, and</span></p></li>
+									<li><p><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">display strong leadership abilities.</span></p></li>
                 </ul>
             </td>
             <td rowspan="2" colspan="1" style="border-right: 1px solid black;">
                 <p><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">Shortlisted applicants will undergo:</span></p>
-                <p>&nbsp;1. a series of performance tasks to show their interest and skill potential in their performance art of choice</p>
-                <p>&nbsp;2. an interview to learn more about the applicant’s background, interest and motivation</p>
-                <p>&nbsp;* Shortlisted applicants for dance only will need to prepare a 1 minute solo dance routine in any International Dance genre of choice, to be showcased at the DSA selection</p>
+                <p><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">&nbsp;1. a series of performance tasks to show their interest and skill potential in their performance art of choice</span></p>
+                <p><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">&nbsp;2. an interview to learn more about the applicant’s background, interest and motivation</span></p>
+                <p><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">&nbsp;* Shortlisted applicants for dance only will need to prepare a 1 minute solo dance routine in any International Dance genre of choice, to be showcased at the DSA selection</span></p>
             </td>
             <td rowspan="2" colspan="1">
                 <p><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">DSA Coordinator:Mr Darren Ng</span></p>
@@ -109,7 +109,7 @@ variant: markdown
                 <p><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">&nbsp;Email:</span><br><a href="mailto:shehana_zulazmi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">shehana_zulazmi@moe.edu.sg</span></a></p>
                 <p>&nbsp;</p>
                 <p><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">DSA (Modern Dance) Coordinator:<br>Ms Miroshini d/o Kannathasan</span></p>
-                <p>&nbsp;Email:<br><a href="mailto:miroshini_kannathasan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">span style="font-family: 'Lato', sans-serif; font-size: 11pt;"&gt;miroshini_kannathasan@moe.edu.sg</a></p>
+                <p><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">&nbsp;Email:</span><br><a href="mailto:miroshini_kannathasan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">miroshini_kannathasan@moe.edu.sg</span></a></p>
                 <p></p>
             </td>
         </tr>
