@@ -321,9 +321,13 @@ potential.</p>
 <td rowspan="1" colspan="1">
 <p>Successful DSA applicants will have opportunities to participate in the
 Singapore Youth Festival, external competitions and performances. They
-will also have various opportunities to develop their leadership potential.</p>
+will also have various opportunities to develop their leadership potential.	<span style="font-family: 'Lato', sans-serif; font-size: 10pt;">test</span></p>
 </td>
 </tr>
+
+
+	
+	
 </tbody>
 </table>
 <p>&nbsp;</p>
