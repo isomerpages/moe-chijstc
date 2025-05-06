@@ -5,6 +5,122 @@ description: ""
 variant: markdown
 ---
 <p><strong>DIRECT SCHOOL ADMISSION FOR SECONDARY SCHOOLS (DSA – SEC)</strong>
+	<table style="min-width: 120px; border-collapse: collapse;">
+    <colgroup>
+        <col>
+        <col>
+        <col>
+        <col>
+        <col>
+    </colgroup>
+    <tbody style="font-size: 10px !important;">
+        <tr>
+            <td rowspan="1" colspan="1" style="border-right: 1px solid black;">
+                <p><strong><span style="font-family: 'Lato', sans-serif; font-size: 7pt;">DSA Main Category</span></strong></p>
+            </td>
+            <td rowspan="1" colspan="1" style="border-right: 1px solid black;">
+                <p><strong>DSA Talent Area(s)</strong></p>
+            </td>
+            <td rowspan="1" colspan="1" style="border-right: 1px solid black;">
+                <p><strong>Selection Criteria</strong></p>
+            </td>
+            <td rowspan="1" colspan="1" style="border-right: 1px solid black;">
+                <p><strong>Selection Process</strong></p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p><strong>DSA Coordinator(s)</strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="5" colspan="1" style="border-right: 1px solid black;">
+                <p>Sports</p>
+            </td>
+            <td rowspan="1" colspan="1" style="border-right: 1px solid black;">
+                <p>Hockey</p>
+            </td>
+            <td rowspan="5" colspan="1" style="border-right: 1px solid black;">
+                <p>Applicants should:</p>
+                <ul data-tight="true" class="tight">
+                    <li><p>possess a good foundation, strong skills and interest in the sports she is applying for,&nbsp;</p></li>
+                    <li><p>are physically inclined and possess strong motor skills,&nbsp;</p></li>
+                    <li><p>are able to contribute effectively in a team, and&nbsp;</p></li>
+                    <li><p>display strong leadership abilities.</p></li>
+                </ul>
+            </td>
+            <td rowspan="5" colspan="1" style="border-right: 1px solid black;">
+                <p>Shortlisted applicants will&nbsp;undergo:</p>
+                <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a series of tests to show their fitness and sports potential in their sport of choice</p>
+                <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; an interview to learn more about the applicant’s background, interest and motivation</p>
+            </td>
+            <td rowspan="5" colspan="1">
+                <p>DSA (LLP) Coordinator:<br>Mr Darren Ng / Mr Toh Boon Hui</p>
+                <p>Email:<br><a href="mailto:ng_yong_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_yong_sheng@moe.edu.sg</a><br><br><a href="mailto:toh_boon_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh_boon_hui@moe.edu.sg</a></p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="1" colspan="1" style="border-right: 1px solid black;">
+                <p>Floorball</p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="1" colspan="1" style="border-right: 1px solid black;">
+                <p>Netball</p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="1" colspan="1" style="border-right: 1px solid black;">
+                <p>Softball</p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="1" colspan="1" style="border-right: 1px solid black;">
+                <p>Track &amp; Field (Throws, Sprints, Long-distance Track, and Cross-Country)</p>
+                <p>&nbsp;</p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="2" colspan="1" style="border-right: 1px solid black;">
+                <p>Performing Arts</p>
+            </td>
+            <td rowspan="1" colspan="1" style="border-right: 1px solid black;">
+                <p>English Drama</p>
+            </td>
+            <td rowspan="2" colspan="1" style="border-right: 1px solid black;">
+                <p>Applicants should:&nbsp;</p>
+                <ul data-tight="true" class="tight">
+                    <li><p>possess a good foundation, strong skills and interest in the performing arts she is applying for</p></li>
+                    <li><p>be artistically inclined and have creativity to express and communicate a range of emotions (through speech or dance)</p></li>
+                    <li><p>demonstrate a strong willingness to be adaptive in acquiring new learning in the performing arts she is applying for</p></li>
+                    <li><p>contribute effectively in a team, and</p></li>
+                    <li><p>display strong leadership abilities.</p></li>
+                </ul>
+            </td>
+            <td rowspan="2" colspan="1" style="border-right: 1px solid black;">
+                <p>Shortlisted applicants will undergo:</p>
+                <p>&nbsp;1. a series of performance tasks to show their interest and skill potential in their performance art of choice</p>
+                <p>&nbsp;2. an interview to learn more about the applicant’s background, interest and motivation</p>
+                <p>&nbsp;* Shortlisted applicants for dance only will need to prepare a 1 minute solo dance routine in any International Dance genre of choice, to be showcased at the DSA selection</p>
+            </td>
+            <td rowspan="2" colspan="1">
+                <p>DSA Coordinator:Mr Darren Ng</p>
+                <p>&nbsp;Email:</p>
+                <p><a href="mailto:ng_yong_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_yong_sheng@moe.edu.sg</a></p>
+                <p>DSA (English Drama) Coordinator:<br>Ms Shehana Bte Zulazmi</p>
+                <p>&nbsp;Email:<br><a href="mailto:shehana_zulazmi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shehana_zulazmi@moe.edu.sg</a></p>
+                <p>&nbsp;</p>
+                <p>DSA (Modern Dance) Coordinator:<br>Ms Miroshini d/o Kannathasan</p>
+                <p>&nbsp;Email:<br><a href="mailto:miroshini_kannathasan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">miroshini_kannathasan@moe.edu.sg</a></p>
+                <p></p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="1" colspan="1" style="border-right: 1px solid black;">
+                <p>Modern Dance</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+	
 </p>
 <p>CHIJ St. Theresa’s Convent invites current Primary Six students who seek
 to bring out the best in themselves through Sports as part of our distinctive
@@ -325,9 +441,12 @@ will also have various opportunities to develop their leadership potential.	</p>
 </td>
 </tr>
 
-
-	
-	
 </tbody>
+	
+	
+	
+	
+	
+	
 </table>
 <p>&nbsp;</p>
