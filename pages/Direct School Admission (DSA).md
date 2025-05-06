@@ -2,7 +2,7 @@
 title: Direct School Admission (DSA)
 permalink: /direct-school-admission-dsa/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <p><strong>DIRECT SCHOOL ADMISSION FOR SECONDARY SCHOOLS (DSA – SEC)</strong>
 </p>
@@ -106,7 +106,7 @@ is applying for,&nbsp;</p>
 </ul>
 </td>
 <td rowspan="5" colspan="1">
-<h4>Shortlisted applicants will&nbsp;undergo:</h4>
+<p>Shortlisted applicants will&nbsp;undergo:</p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a series of tests to show their
 fitness and sports potential in their sport of choice</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; an interview to learn more about
