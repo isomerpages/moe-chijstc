@@ -54,7 +54,7 @@ variant: markdown
             </td>
             <td rowspan="5" colspan="1">
                 <p><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">DSA (LLP) Coordinator:<br>Mr Darren Ng / Mr Toh Boon Hui</span></p>
-							<p><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">Email:</span><a href="mailto:ng_yong_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">ng_yong_sheng@moe.edu.sg</span></a><br><br><a href="mailto:toh_boon_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">toh_boon_hui@moe.edu.sg</span></a></p>
+							<p><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">Email:</span><br><a href="mailto:ng_yong_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">ng_yong_sheng@moe.edu.sg</span></a><br><br><a href="mailto:toh_boon_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><span style="font-family: 'Lato', sans-serif; font-size: 11pt;">toh_boon_hui@moe.edu.sg</span></a></p>
             </td>
         </tr>
         <tr>
