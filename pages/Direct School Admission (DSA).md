@@ -49,7 +49,7 @@ The application is free-of-charge and will be open from&nbsp;<strong><u>7 May 20
 <p>&nbsp;<strong><u>DSA Selection Process in school</u></strong>
 <br>All applications are considered by a selection panel comprising teachers,
 middle managers and school leaders.</p>
-<table style="minWidth: 125px">
+<table style="minWidth: 120px">
 <colgroup>
 <col>
 <col>
@@ -57,7 +57,7 @@ middle managers and school leaders.</p>
 <col>
 <col>
 </colgroup>
-<tbody style="font-size: 10px;">
+<tbody style="font-size: 10px !important;">
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>DSA Main Category</strong>
