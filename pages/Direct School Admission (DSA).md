@@ -2,7 +2,7 @@
 title: Direct School Admission (DSA)
 permalink: /direct-school-admission-dsa/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <p><strong>DIRECT SCHOOL ADMISSION FOR SECONDARY SCHOOLS (DSA – SEC)</strong>
 </p>
@@ -49,7 +49,7 @@ The application is free-of-charge and will be open from&nbsp;<strong><u>7 May 20
 <p>&nbsp;<strong><u>DSA Selection Process in school</u></strong>
 <br>All applications are considered by a selection panel comprising teachers,
 middle managers and school leaders.</p>
-<table style="min-width: 150px; font-size: 12px !important;">
+<table style="minWidth: 125px">
 <colgroup>
 <col>
 <col>
@@ -106,7 +106,7 @@ is applying for,&nbsp;</p>
 </ul>
 </td>
 <td rowspan="5" colspan="1">
-<p>Shortlisted applicants will&nbsp;undergo:</p>
+<h4>Shortlisted applicants will&nbsp;undergo:</h4>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a series of tests to show their
 fitness and sports potential in their sport of choice</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; an interview to learn more about
