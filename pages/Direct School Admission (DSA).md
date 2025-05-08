@@ -202,7 +202,7 @@ a performance task, and undergo face-to-face interviews.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>By 4 Sep 2025</p>
+<p>25 Aug 2025 to 4 Sep 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Notice of Selection Outcome for DSA-Sec application</strong>
