@@ -31,7 +31,7 @@ practice, sharing and continual learning.</p>
 </li>
 </ul>
 <h4><strong>Head of Department English Language &amp; Literature</strong></h4>
-<p>Tan Siew Hui (<a href="tan_siew_hui_a@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_siew_hui_a@moe.edu.sg</a>)</p>
+<p>Ms Tan Siew Hui (<a href="tan_siew_hui_a@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_siew_hui_a@moe.edu.sg</a>)</p>
 <h4><strong>Subject Head Literature</strong></h4>
 <p>Mr Timothy Chow (<a href="mailto:timothy_chow_rui_jun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">timothy_chow_rui_jun@moe.edu.sg</a>)</p>
 <h4><strong><u>Department Staff</u></strong></h4>
