@@ -10,15 +10,15 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/11__Information_and_Communication_Technology__ICT__Team.jpg">
 </div>
 <p><strong>Head Of Department - ICT</strong>
-<br>Mr Ng Kok Huat (<a href="mailto:ng_kok_huat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_kok_huat@moe.edu.sg)<br></a><strong>Level Head - ICT</strong>
+<br>Mr Ng Kok Huat (<a href="mailto:ng_kok_huat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_kok_huat@moe.edu.sg</a>)<a href="mailto:ng_kok_huat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br></a><strong>Level Head - ICT</strong>
 <br>Mr Alwyn Lee (<a href="mailto:lee_zhong_hao_alwyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_zhong_hao_alwyn@moe.edu.sg</a>)
 <br><strong>Library Coordinator</strong>
 <br>Ms Maggie Lee (<a href="mailto:lee_peck_lin_maggie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_peck_lin_maggie@moe.edu.sg</a>)
 <br><strong>ICT Associate</strong>
-<br>Mr Steven Kuah (<a href="mailto:kuah_peng_ann@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kuah_peng_ann@moe.edu.sg</a>)
+<br>Ms Kamala D/O Siddhannan (<a href="mailto:kuah_peng_ann@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kamala_siddhannan@moe.edu.sg</a>)
 <br><strong>Desk Engineer</strong>
 <br>Mr Jason Wong (<a href="mailto:TA-chijstcs@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">TA-chijstcs@ncs.com.sg</a>)
-<br>Ms Veronica Choo (<a href="mailto:TA-chijstcs@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">TA-chijstcs@ncs.com.sg</a>)</p>
+<br>Ms Messlia Anathi Edward (<a href="mailto:TA-chijstcs@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">TA-chijstcs@ncs.com.sg</a>)</p>
 <h4><strong><u>Department ICT Champions</u></strong></h4>
 <p><u>English Language and Literature</u>
 <br>Mr Samuel Zou (<a href="mailto:zou_en_samuel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zou_en_samuel@moe.edu.sg</a>)
