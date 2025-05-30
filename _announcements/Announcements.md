@@ -36,6 +36,10 @@ variant: tiptap
 </p>
 </li>
 </ul>
+<p></p>
+<hr>
+<p>School will be dismissed at 12pm on 8 July due to the National GCE Mother
+Tongue Listening Comprehension Examination.</p>
 <hr>
 <p>Dear Students,</p>
 <p>Please note that there is a change in the WA2 schedule for the following
