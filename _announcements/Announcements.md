@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <h4><strong>Early Dismissal on 8 July for National GCE Mother Tongue Exam  
-From Vice Principal, Mr Yeo Ngee Yang<br></strong></h4>
+from Vice Principal, Mr Yeo Ngee Yang<br></strong></h4>
 <p>School will be dismissed at 12pm on 8 July due to the National GCE Mother
 Tongue Listening Comprehension Examination.</p>
 <h4>Sec 2/3 Parents Info Session</h4>
