@@ -2,16 +2,14 @@
 title: Announcements
 permalink: /others/announcement/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<h4><strong>Early Dismissal on 8 July for National GCE Mother Tongue Exam  
-from Vice Principal, Mr Yeo Ngee Yang<br></strong></h4>
+<h4><strong>Early Dismissal on 8 July for National GCE Mother Tongue Exam<br></strong></h4>
 <p>School will be dismissed at 12pm on 8 July due to the National GCE Mother
 Tongue Listening Comprehension Examination.</p>
 <h4>Sec 2/3 Parents Info Session</h4>
 <ul data-tight="true" class="tight">
 <li>
-
 <p></p>
 <p><a href="/files/Sec_2___3_Info_Session__Main_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 &amp; 3 Information Session</a>
 </p>
@@ -44,7 +42,6 @@ Tongue Listening Comprehension Examination.</p>
 <p></p>
 <p></p>
 <hr>
-
 <h4><strong>Year End Message from Chairperson CHIJ Board of Management, Ms Vivienne Lim</strong></h4>
 <p><a href="/files/Announcement/STC___2024_Year_Book_Chairperson_Statement__170th_Anniversary_.pdf" rel="noopener nofollow" target="_blank">Message from Ms Vivienne Lim, Chairperson, CHIJ Board of Management</a>
 </p>
