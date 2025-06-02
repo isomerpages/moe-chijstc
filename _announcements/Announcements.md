@@ -4,7 +4,8 @@ permalink: /others/announcement/
 description: ""
 variant: tiptap
 ---
-<h4>Sec 2/3 Parents Info Session</h4>
+<h4>Early School Dismissal on 8 July for National GCE Mother Tongue Exam from Vice Principal Mr Yeo Ngee Yang<br></h4>
+<h4></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p></p>
