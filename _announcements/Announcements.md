@@ -49,7 +49,6 @@ Tongue Listening Comprehension Examination.</p>
 <p><a href="/files/Announcement/STC___2024_Year_Book_Chairperson_Statement__170th_Anniversary_.pdf" rel="noopener nofollow" target="_blank">Message from Ms Vivienne Lim, Chairperson, CHIJ Board of Management</a>
 </p>
 <hr>
-<hr>
 <h4><strong>PLD Information Kit for Students and Parents</strong> <br>Please click&nbsp;<a href="/files/Student%20Device%20Information%20Kit_CHIJ%20STC.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for your PLD information with regards to</h4>
 <ul data-tight="true" class="tight">
 <li>
