@@ -73,7 +73,8 @@ and Testing of South Asian Languages (<a rel="noopener noreferrer nofollow" targ
 <br>Mdm Choy Cheng Mun (<a rel="noopener noreferrer nofollow" target="_blank">choy_cheng_mun@moe.edu.sg</a>)</p>
 <p>Mdm Evelyn Yau (<a rel="noopener noreferrer nofollow" target="_blank">evelyn_yau_yen_teng@moe.edu.sg</a>)</p>
 <p>Mrs Cerise Xu (<a rel="noopener noreferrer nofollow" target="_blank">chiew_shuqin_cerise@moe.edu.sg</a>)
-<br>Mr Wong Chee Leong (<a rel="noopener noreferrer nofollow" target="_blank">wong_chee_leong@moe.edu.sg</a>)</p>
+<br>Mr Wong Chee Leong (<a rel="noopener noreferrer nofollow" target="_blank">wong_chee_leong@moe.edu.sg</a>)
+<br>Ms Yap Jen Huey (<a href="mailto:yap_jen_huey@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yap_jen_huey@schools.gov.sg</a>)</p>
 <p><strong>Malay Language<br></strong>Mdm Haslinda Bte Ramat (<a rel="noopener noreferrer nofollow" target="_blank">haslinda_ramat@moe.edu.sg</a>)
 <br>Mdm Nur Hannah Binti Mohamed Elyas (<a rel="noopener noreferrer nofollow" target="_blank">nur_hannah_mohamed_elyas@moe.edu.sg</a>)
 <br>
