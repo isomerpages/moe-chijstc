@@ -68,7 +68,7 @@ and Testing of South Asian Languages (<a rel="noopener noreferrer nofollow" targ
 (<a href="mailto:ng_say_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ng_say_hong@moe.edu.sg</a>)</p>
 <p><strong><u>Department Staff</u></strong>
 </p>
-<p><strong>Chinese Language<br></strong>Mdm Du Liang (<a rel="noopener noreferrer nofollow" target="_blank">du_liang@moe.edu.sg</a>)</p>
+<strong>Chinese Language<br></strong>Mdm Du Liang (<a rel="noopener noreferrer nofollow" target="_blank">du_liang@moe.edu.sg</a>)
 Mr Loh Chiu Wai (<a rel="noopener noreferrer nofollow" target="_blank">loh_chiu_wai@moe.edu.sg</a>)
 <br>Mdm Choy Cheng Mun (<a rel="noopener noreferrer nofollow" target="_blank">choy_cheng_mun@moe.edu.sg</a>)<p></p>
 Mdm Evelyn Yau (<a rel="noopener noreferrer nofollow" target="_blank">evelyn_yau_yen_teng@moe.edu.sg</a>)<p></p>
