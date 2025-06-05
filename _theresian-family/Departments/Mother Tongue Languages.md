@@ -68,10 +68,10 @@ and Testing of South Asian Languages (<a rel="noopener noreferrer nofollow" targ
 (<a href="mailto:ng_say_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ng_say_hong@moe.edu.sg</a>)</p>
 <p><strong><u>Department Staff</u></strong>
 </p>
-<strong>Chinese Language<br></strong>Mdm Du Liang (<a rel="noopener noreferrer nofollow" target="_blank">du_liang@moe.edu.sg</a>)
+<strong>Chinese Language<br></strong>Mdm Du Liang (<a rel="noopener noreferrer nofollow" target="_blank">du_liang@moe.edu.sg</a>)<br>
 Mr Loh Chiu Wai (<a rel="noopener noreferrer nofollow" target="_blank">loh_chiu_wai@moe.edu.sg</a>)
-<br>Mdm Choy Cheng Mun (<a rel="noopener noreferrer nofollow" target="_blank">choy_cheng_mun@moe.edu.sg</a>)<p></p>
-Mdm Evelyn Yau (<a rel="noopener noreferrer nofollow" target="_blank">evelyn_yau_yen_teng@moe.edu.sg</a>)<p></p>
+<br>Mdm Choy Cheng Mun (<a rel="noopener noreferrer nofollow" target="_blank">choy_cheng_mun@moe.edu.sg</a>)<br>
+Mdm Evelyn Yau (<a rel="noopener noreferrer nofollow" target="_blank">evelyn_yau_yen_teng@moe.edu.sg</a>)<br><br>
 Mrs Cerise Xu (<a rel="noopener noreferrer nofollow" target="_blank">chiew_shuqin_cerise@moe.edu.sg</a>)
 <br>Mr Wong Chee Leong (<a rel="noopener noreferrer nofollow" target="_blank">wong_chee_leong@moe.edu.sg</a>)
 <br>Ms Yap Jen Huey (<a href="mailto:yap_jen_huey@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yap_jen_huey@schools.gov.sg</a>)<p></p>
