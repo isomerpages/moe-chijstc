@@ -2,11 +2,16 @@
 title: Announcements
 permalink: /others/announcement/
 description: ""
-variant: markdown
+variant: tiptap
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The_Cozy_IJ_Kopitam.png">
+</div>
+<hr>
 <h4><strong>Early Dismissal on 8 July for National GCE Mother Tongue Exam<br></strong></h4>
 <p>School will be dismissed at 12pm on 8 July due to the National GCE Mother
 Tongue Listening Comprehension Examination.</p>
+<hr>
 <h4>Sec 2/3 Parents Info Session</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -23,6 +28,7 @@ Tongue Listening Comprehension Examination.</p>
 </p>
 </li>
 </ul>
+<hr>
 <h4>Sec 4/5 Parents Info Session</h4>
 <ul data-tight="true" class="tight">
 <li>
