@@ -4,9 +4,11 @@ permalink: /others/announcement/
 description: ""
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The_Cozy_IJ_Kopitam.png">
-</div>
+<p></p>
+<h4>Reconnect at the Cozy IJ "Kopitiam"</h4>
+<p>Calling all CHIJ alumni—join us for a heartwarming time of memories and
+connection on 30 August 2025 at CHIJ Secondary, Toa Payoh. Please click
+here for more details.</p>
 <hr>
 <h4><strong>Early Dismissal on 8 July for National GCE Mother Tongue Exam<br></strong></h4>
 <p>School will be dismissed at 12pm on 8 July due to the National GCE Mother
