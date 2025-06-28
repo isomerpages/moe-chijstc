@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <p></p>
-<h4>Reconnect at the Cozy IJ "Kopitiam"</h4>
+<h4>CHIJ Alumni Reunion at the Cozy IJ 'Kopitiam'</h4>
 <p>Calling all CHIJ alumni—join us for a heartwarming time of memories and
 connection on 30 August 2025 at CHIJ Secondary, Toa Payoh. Please click
 	<a href="/files/30_August_2025_with_qr_final.pdf">here</a> for more details.</p>
