@@ -8,7 +8,7 @@ variant: tiptap
 <h4>CHIJ Alumni Reunion at the Cozy IJ 'Kopitiam'</h4>
 <p>Calling all CHIJ alumni—join us for a heartwarming time of memories and
 connection on 30 August 2025 at CHIJ Secondary, Toa Payoh. Please click
-<a href="/files/30 august 2025_with_qr final.pdf" rel="noopener nofollow" target="_blank">here</a>. for more details.</p>
+<a href="/files/30 august 2025_with_qr final.pdf" rel="noopener nofollow" target="_blank">here</a>for more details.</p>
 <hr>
 <h4><strong>Early Dismissal on 8 July for National GCE Mother Tongue Exam<br></strong></h4>
 <p>School will be dismissed at 12pm on 8 July due to the National GCE Mother
