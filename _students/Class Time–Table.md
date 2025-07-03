@@ -5,18 +5,5 @@ description: ""
 variant: tiptap
 ---
 <p>2025 Class time-table</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Semester 1 Time-Table</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p>Students are to refer to the Class Time-Table posted on Google Classroom
 in their respective levels.</p>
