@@ -4,4 +4,4 @@ permalink: /others/2024-exam-timetable/
 description: ""
 variant: tiptap
 ---
-<p>Not available yet.</p>
+<p>2025 Sec 4/5 Prelim Exam Time-table</p>
