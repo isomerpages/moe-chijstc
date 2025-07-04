@@ -4,7 +4,7 @@ permalink: /others/announcement/
 description: ""
 variant: markdown
 ---
-<h4><strong>**The nominations for the Edusave Character Award (ECHA) are now opened!**</strong></h4>
+<h4><strong>The nominations for the Edusave Character Award (ECHA) are now opened!</strong></h4>
 
 The ECHA was introduced in 2012 to **enable schools to recognise students who demonstrate exemplary character and outstanding personal qualities through their behaviour and actions**.&nbsp; This is part of the larger goal to foster an inclusive and stronger Singapore as we broaden the qualities and achievements to be encouraged and applauded. The award also supports schools’ continuing efforts in nurturing students of good values and character, who are active contributors and concerned citizens.
 
