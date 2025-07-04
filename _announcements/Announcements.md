@@ -4,65 +4,22 @@ permalink: /others/announcement/
 description: ""
 variant: markdown
 ---
-**Edusave Character Award 2025 (ECHA)**
 
-MOE introduced the Edusave Character Award (ECHA) in 2012 to **enable schools to recognise students who demonstrate exemplary character and outstanding personal qualities through their behaviour and actions**.&nbsp; This is part of the larger goal to foster an inclusive and stronger Singapore as we broaden the qualities and achievements to be encouraged and applauded. The award also supports schools’ continuing efforts in nurturing students of good values and character, who are active contributors and concerned citizens.
 
-**Objectives**
+**The nominations for the Edusave Character Award (ECHA) are now opened!**
 
-The objectives of the ECHA are:
+The ECHA was introduced in 2012 to **enable schools to recognise students who demonstrate exemplary character and outstanding personal qualities through their behaviour and actions**.&nbsp; This is part of the larger goal to foster an inclusive and stronger Singapore as we broaden the qualities and achievements to be encouraged and applauded. The award also supports schools’ continuing efforts in nurturing students of good values and character, who are active contributors and concerned citizens.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (a)&nbsp; To send a clear and strong signal of the importance that MOE places on character and values, on par with achievements in the academic domain; and
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (b)&nbsp; To recognise outstanding students in each school who are exemplary in character, and who can be role models to inspire others.
-
-**Form of Award**
-
-Similar to the practice for other Edusave awards, the ECHA awardees will receive a certificate and an award voucher.&nbsp;
-
-**Nomination and Selection Process**
-
-The nominations for ECHA 2025 are open to the whole school community and the school key stakeholders such as parents, alumni, partners, as well as members of the public.
-
-The selection process will be managed in **three** stages and will involve representatives of at least 2 distinct groups of key stakeholders at each stage of the selection process to provide a diversity of perspectives and to enhance its robustness.
-
-**Eligibility Criteria**
-
-Students must satisfy the following eligibility criteria to be considered for ECHA:
-
-1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The nominee is a **Singapore citizen**.
-
-2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The nominee is a role model who has shown consistent and exemplary behaviour in her conduct and attitude.
-
-3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (a) The nominee has demonstrated clearly aspects of the school values:
-
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Love :** With commitment, she loves God and others.
-
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Truth :** With conscience, she stands up for truth.
-
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Justice :** With compassion, she strives for justice for&nbsp; the disadvantaged.
-
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Freedom :**&nbsp; With courage, she is free to choose truth, justice and love;
-
-and
-
-(b) **In her efforts to be a person for others,** the nominee has demonstrated a high level of **civic responsibility,** showing concerns about issues related to her community or issues faced by others. She could have initiated simple action or played an active role to address these issues and demonstrate commitment to making a difference;
-
-and / or
-
-(c) **For qualities associated with resilience**, the nominee has persevered despite facing difficult circumstances (e.g. financial problems, health issues, family issues, peer resistance, etc) and has managed to overcome the odds for instance, in still being able to do commendably well in her academic and non-academic domains.
-
-The nomination must state **clear evidence** of how the nominee has demonstrated the school values and that she is a role model for others.
+You can access more details on the ECHA [here](https://www.moe.gov.sg/financial-matters/awards-scholarships/edusave-awards).
 
 **Submission of Nominations**
 
-All nominations must reach the school by 18th July 2025 (Friday) 5pm.
+All nominations must reach the school by 18th July 2025 (Friday), 5pm.
 
-The nomination form can be downloaded **here**[\[LBL1\]](#_msocom_1)&nbsp;. Nominations can be submitted via hardcopy to the General Office or softcopy through the school email [**chijstcs@moe.edu.sg**](mailto:chijstcs@moe.edu.sg)
+The nomination form with the eligibility criteria can be downloaded [here](/files/ECHA_Nomination_Form_2025.pdf). Nominations can be submitted via hardcopy to the General Office or softcopy through the school email [**chijstcs@moe.edu.sg**](mailto:chijstcs@moe.edu.sg)
 
 * * *
 
-&nbsp;[\[LBL1\]](#_msoanchor_1)Pls attach the nomination form attachment here
 <p></p>
 <h4>CHIJ Alumni Reunion at the Cozy IJ 'Kopitiam'</h4>
 <p>Calling all CHIJ alumni—join us for a heartwarming time of memories and
