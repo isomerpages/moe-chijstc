@@ -4,9 +4,8 @@ permalink: /about-us/ij-board-of-management/
 description: ""
 variant: markdown
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-   <img style="width: 2500px; height: 850px;" src="/images/board_members_page_0001.jpg">
+   <img style="width: 2500px; height: 850px;" src="/images/IJ_BOM_Members_Photo_Chart__20250625_.jpg">
 </div>
 
 <p></p>
