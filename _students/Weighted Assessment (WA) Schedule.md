@@ -4,6 +4,8 @@ permalink: /others/2024-weighted-assessment-wa-schedule/
 description: ""
 variant: tiptap
 ---
+<p><strong>Semester 1 Weighted Assessment Schedule</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -39,10 +41,29 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 4_5 WA Semester 1</p>
+<p>Sec 4 &amp; 5 WA Semester 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025_Sec_4_5_Assessment_amendment_term2.pdf" rel="noopener nofollow" target="_blank">Sec4_5_WA Schedule</a>
+<p><a href="/files/2025_Sec_4_5_Assessment_amendment_term2.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5_WA Schedule</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Semester 2 Weighted Assessment Schedule</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 1 to 3 WA Semester 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025_Sem_2_Assessment__Term_3_.pdf" rel="noopener nofollow" target="_blank">Sec 1 to 3 WA Semester 2</a>
 </p>
 </td>
 </tr>
