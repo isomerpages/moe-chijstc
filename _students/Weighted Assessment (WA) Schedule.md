@@ -50,7 +50,7 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<h4><p><strong>Semester 2 Weighted Assessment Schedule</strong></p></h4>
+<h4><p><strong>Semester 2 Weighted Assessment Schedule</strong></p></h4><strong>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -69,4 +69,4 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<p></p></strong>
+<p></p></strong></strong>
