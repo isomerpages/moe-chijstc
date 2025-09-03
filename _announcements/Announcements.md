@@ -4,29 +4,11 @@ permalink: /others/announcement/
 description: ""
 variant: markdown
 ---
-<h4><strong>The nominations for the Edusave Character Award (ECHA) are now opened!</strong></h4>
+<h4><strong>Notice of Early Dismissal and School Holiday – 4 &amp; 5 September 2025<br></strong></h4>
 
-The ECHA was introduced in 2012 to **enable schools to recognise students who demonstrate exemplary character and outstanding personal qualities through their behaviour and actions**.&nbsp; This is part of the larger goal to foster an inclusive and stronger Singapore as we broaden the qualities and achievements to be encouraged and applauded. The award also supports schools’ continuing efforts in nurturing students of good values and character, who are active contributors and concerned citizens.
-
-You can access more details on the ECHA [here](https://www.moe.gov.sg/financial-matters/awards-scholarships/edusave-awards).
-
-**Submission of Nominations**
-
-All nominations must reach the school by 18th July 2025 (Friday), 5pm.
-
-The nomination form with the eligibility criteria can be downloaded [here](/files/ECHA_Nomination_Form_2025.pdf). Nominations can be submitted via hardcopy to the General Office or softcopy through the school email [**chijstcs@moe.edu.sg**](mailto:chijstcs@moe.edu.sg)
-
-* * *
-
-<p></p>
-<h4>CHIJ Alumni Reunion at the Cozy IJ 'Kopitiam'</h4>
-<p>Calling all CHIJ alumni—join us for a heartwarming time of memories and
-connection on 30 August 2025 at CHIJ Secondary, Toa Payoh. Please click
-<a href="/files/30 august 2025_with_qr final.pdf" rel="noopener nofollow" target="_blank">here</a> for more details.</p>
-<hr>
-<h4><strong>Early Dismissal on 8 July for National GCE Mother Tongue Exam<br></strong></h4>
-<p>School will be dismissed at 12pm on 8 July due to the National GCE Mother
-Tongue Listening Comprehension Examination.</p>
+*   **4 September:** Students will be dismissed at 10:30 a.m. Teachers may not be in school in the afternoon.
+    
+*   **5 September :** Teachers’ Day School holiday. School will be closed at 5:00 p.m. in view of Eat with your Family Day.
 <hr>
 <h4>Sec 2/3 Parents Info Session</h4>
 <ul data-tight="true" class="tight">
