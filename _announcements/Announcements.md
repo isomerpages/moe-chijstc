@@ -5,6 +5,7 @@ description: ""
 variant: markdown
 ---
 <h4><strong>Notice of Early Dismissal and School Holiday – 4 &amp; 5 September 2025<br></strong></h4>
+<p></p>
 
 *   **4 September:** Students will be dismissed at 10:30 a.m. Teachers may not be in school in the afternoon.
     
