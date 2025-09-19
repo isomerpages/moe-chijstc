@@ -3,11 +3,10 @@ title: Debating and Public Speaking
 permalink: /theresian-family/students/co-curricular-activities-cca/clubs-and-societies/debating-and-public-spea/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
-<!--<img src="/images/db1234.jpg">-->
-![](/images/2023CCA/debates.jpg)
 <h4><strong>Introduction</strong></h4>
-<p>The objectives of the society are :</p>
+![](/images/2025%20CCA%20Photos/Debate_Team_Formal.jpg)<p>The objectives of the society are :</p>
 <p>1. To encourage the use of standard English in spoken communication</p>
 <p>2. To instill in each person the quality of articulation and enunciation</p>
 <p>3. To create an avenue to present cogent and coherent arguments</p>
