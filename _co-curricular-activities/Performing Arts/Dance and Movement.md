@@ -3,11 +3,10 @@ title: Dance and Movement
 permalink: /theresian-family/students/co-curricular-activities-cca/performing-arts/dance-and-movement/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
-<!--<img src="/images/dm1234.jpg">-->
-![](/images/2023CCA/dance%20formal.jpg)
 <h4><strong>Introduction</strong></h4>
-<p><strong>Dance and Movement - Dance to Inspire, Dance to Freedom</strong></p>
+![](/images/2025%20CCA%20Photos/Dance_Formal.jpg)<p><strong>Dance and Movement - Dance to Inspire, Dance to Freedom</strong></p>
 <p>STC Dance and Movement focuses on hip-hop, bringing you energy and life in every move. If you enjoy expressing yourself creatively and have a passion for dance, this is the place for you!Apart from training our dancers to execute their routines with exemplary techniques and showmanship, the CCA develops values such as resilience and courage in our dancers through numerous opportunities to perform both in school and public platforms.</p>
 <p>Leadership opportunities are also offered to groom our dancers to be more well-rounded and confident Theresians who are not only poised and elegant on stage, but graceful in stepping forward to guide, serve and lead others everyday.</p>
 
