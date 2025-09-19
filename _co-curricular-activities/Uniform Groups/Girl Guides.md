@@ -5,8 +5,7 @@ description: ""
 third_nav_title: Uniform Groups
 variant: markdown
 ---
-<!--<img src="/images/gg1234.jpg">-->
-![](/images/2023CCA/girl%20guides.jpg)
+![](/images/2025%20CCA%20Photos/Girl_Guides_Formal.jpg)
 <h4><strong>Introduction</strong></h4>
 <p>Girl Guides - Be Prepared&nbsp;</p>
 <p>Girl Guides is one of the first few CCAs that have existed since the founding of CHIJ St. Theresa’s Convent. Girl Guiding is a worldwide movement that aims to develop girls in different domains of personal and social development, outdoors, home, community and international. Plenty of opportunities are provided for its members to acquire life skills beyond the classroom.&nbsp;</p>
