@@ -5,8 +5,9 @@ description: ""
 third_nav_title: Sports & Games
 variant: markdown
 ---
+![](/images/2025%20CCA%20Photos/Tennis_Formal.jpg)
 <h4><strong>Introduction</strong></h4>
-![](/images/2025%20CCA%20Photos/Tennis_Formal.jpg)<p><strong>Tennis - Sometimes You Win, Sometimes You Learn, Work Hard, Train Harder! - FINAL</strong></p>
+<p><strong>Tennis - Sometimes You Win, Sometimes You Learn, Work Hard, Train Harder! - FINAL</strong></p>
 <p>Skill development, tactical focus, physical and mental training are a few of the areas which CHIJ St. Theresa’s Convent Tennis CCA focuses on during the trainings. Students participate in various Tennis-related activities to gain more exposure. Through Tennis, the CCA aims to develop a passion for the sport, sense of resilience, confidence and fighting spirit in its members.</p>
 ***Tennis will not be recruiting Sec 1 members from 2024 onwards.***
 <p><strong>Teachers-in-Charge</strong><br>Ms Eunice Hung (<a href="mailto:hung_pek_hui_eunice@moe.edu.sg">hung_pek_hui_eunice@moe.edu.sg</a>)<br>Mr Terance Wong (<a href="mailto:wong_foh_peng_terance@moe.edu.sg">wong_foh_peng_terance@moe.edu.sg</a>)</p>
