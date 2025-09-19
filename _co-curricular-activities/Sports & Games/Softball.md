@@ -5,9 +5,8 @@ description: ""
 third_nav_title: Sports & Games
 variant: markdown
 ---
-![](/images/2023CCA/softball.jpg)
 <h4><strong>Introduction</strong></h4>
-<p><strong>Softball - Speed, Win, Game (S.W.I.N.G) FINAL</strong></p>
+![](/images/2025%20CCA%20Photos/Softball_Formal.jpg)<p><strong>Softball - Speed, Win, Game (S.W.I.N.G) FINAL</strong></p>
 <p>The softball team in CHIJ St. Theresa’s Convent was formed in 2004. It started out as a small CCA, barely making a team. Eventually, the team expanded, leading to our current team of passionate and committed players. With guidance under our coach and consistent practice, we learn advance planning and clear communication among players. After all, softball is a strategic game that requires strong mental focus.</p>
 <p>Every year, we participate in the Softball National Schools B and C Division Championships.  STC softball team is always known for our team spirit and it is with this spirit that we ‘Hit, Run, Score’ in every game we play.&nbsp;</p>
 <p><strong>What you should know.</strong><strong>&nbsp;</strong></p>
