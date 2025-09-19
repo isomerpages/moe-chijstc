@@ -5,8 +5,9 @@ description: ""
 third_nav_title: Sports & Games
 variant: tiptap
 ---
+<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023CCA/tracknfield.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 CCA Photos/Track_and_Field_Formal.jpg">
 </div>
 <h4><strong>Introduction</strong></h4>
 <p><strong>Track and Field - Always fighters, never quitters!</strong>
