@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Sports & Games
 variant: markdown
 ---
-![](/images/2023CCA/hockey.jpg)
+![](/images/2025%20CCA%20Photos/Hockey_Formal.jpg)
 <h4><strong>Introduction</strong></h4>
 <p><strong>Hockey - Every student a play of distinction</strong></p>
 <p>The school has been synonymous with Hockey for the past 57 years. We have won the B Division National Schools Hockey Championship 19 out of 24 years in the period 1974 to 1998.&nbsp;Of the team of 16 players that won the Gold Medal at the 1993 SEA Games held in Singapore, 11 were Theresians. At the 1997 Asia Cup Tournament where Singapore finished second, 13 of the 16 member squad were Theresians. In 1999 at the Arufura Games in Darwin, the team that won the Gold medal comprised 9 Theresians.</p>
