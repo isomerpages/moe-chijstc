@@ -5,8 +5,9 @@ description: ""
 third_nav_title: Performing Arts
 variant: tiptap
 ---
+<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023CCA/drama%20formal.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 CCA Photos/Drama_Formal.jpg">
 </div>
 <h4><strong>Introduction</strong></h4>
 <p><strong>Drama CCA</strong>
