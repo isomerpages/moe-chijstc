@@ -5,8 +5,7 @@ description: ""
 third_nav_title: Performing Arts
 variant: markdown
 ---
-<!--<img src="/images/gui123.jpg">-->
-![](/images/2023CCA/guitar.jpg)
+![](/images/2025%20CCA%20Photos/Guitar_Formal.jpg)
 <h4><strong>Introduction</strong></h4>
 <p><strong>Guitar - Strum with commitment, play with graciousness, reach out with music</strong></p>
 <p>The Guitar Ensemble is a CCA which provides opportunities to enable members to learn guitar skills, to challenge their potential and develop leadership skills. We are actively involved in school events and also take part in the yearly Guitar Festival Exchange Programme where students are given the opportunity to learn from other ensembles.</p>
