@@ -3,11 +3,10 @@ title: Bowling
 permalink: /theresian-family/students/co-curricular-activities-cca/sports-n-games/bowling/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
-<!--<img src="/images/bowl11.jpg">-->
-![](/images/2023CCA/bowling.jpg)
 <h4><strong>Introduction</strong></h4>
-<p><strong>Tenpin Bowling: Leave No Pin Standing</strong></p>
+![](/images/2025%20CCA%20Photos/Bowling_Formal.jpg)<p><strong>Tenpin Bowling: Leave No Pin Standing</strong></p>
 <p>The CHIJ St. Theresa’s Convent Tenpin Bowling team trains by the motto of “Steadfast, Tenacious, Committed” through a programme carefully designed to develop its members’ potential and love for the sport. We seek to nurture each member to exercise discipline and pursue continual self-improvement, by supporting each and every member in a warm and vibrant team culture.</p>
 <p>Although the CCA was started in 2006, making it one of the newest CCA’s in STC, it has been growing into a noteworthy competitor. </p>
 <p>The lane can be a stressful and trying environment when we push ourselves to succeed, but as one team we spur one another on with acceptance and guidance at all times.</p>
