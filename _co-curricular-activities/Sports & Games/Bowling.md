@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2025 CCA Photos/Bowling_Formal.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2025 CCA Photos/Bowling_Formal.jpg">
 </div>
 <h4><strong>Introduction</strong></h4>
 <p></p>
