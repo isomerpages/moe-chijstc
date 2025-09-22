@@ -5,8 +5,9 @@ description: ""
 third_nav_title: Sports & Games
 variant: markdown
 ---
-<h4><strong>Introduction</strong></h4>
+
 ![](/images/2025%20CCA%20Photos/Netball_Formal.jpg)
+<h4><strong>Introduction</strong></h4>
 <p><strong>Netball: One Team, One Dream</strong></p>
 <p>Embracing the motto of “One Team, One Dream”, the fearless STC Netballers brace and overcome all challenges with unyielding grit, resilience and confidence as a team. Indeed, we are driven by our team’s shared vision and common goals. This inspires us to achieve greater heights together.</p>
 <p>As a sports CCA, we endeavour to impart crucial values and life skills, such as determination, perseverance, teamwork, and sportsmanship in each and every player. In the process of growth and development, we learn how to manage our time effectively and strike a good balance between different aspects of our life, encompassing studies, sports and pursuing other priorities and interests, and thus making us well-rounded people. More importantly, we aim to develop netballers holistically to their fullest potential.</p>
