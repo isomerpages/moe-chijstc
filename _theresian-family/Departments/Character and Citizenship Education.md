@@ -9,7 +9,7 @@ variant: tiptap
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Staff Photos/CCE.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2025 Staff Photos/CCE.jpg">
 </div>
 <p><strong>Mission<br></strong>To develop Theresian students to be persons
 for God and for others through the promotion of truth, justice, freedom
