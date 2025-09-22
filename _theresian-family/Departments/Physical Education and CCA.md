@@ -8,7 +8,7 @@ variant: tiptap
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2025 Staff Photos/Physical_Education.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025 Staff Photos/Physical_Education.jpg">
 </div>
 <p><strong>Mission<br></strong>To provide a comprehensive 4 to 5-year long
 Physical Education Programme to develop the physical, intellectual, social
