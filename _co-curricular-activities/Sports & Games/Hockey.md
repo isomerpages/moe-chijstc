@@ -6,7 +6,7 @@ third_nav_title: Sports & Games
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2025%20CCA%20Photos/Hockey_Formal.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2025%20CCA%20Photos/Hockey_Formal.jpg">
 </div>
 <h4><strong>Introduction</strong></h4>
 <p><strong>Hockey - Every student a play of distinction</strong>
