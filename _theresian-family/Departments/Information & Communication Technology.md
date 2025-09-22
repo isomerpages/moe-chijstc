@@ -6,8 +6,9 @@ third_nav_title: Departments
 variant: tiptap
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/11__Information_and_Communication_Technology__ICT__Team.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Staff Photos/ICT.jpg">
 </div>
 <p><strong>Head Of Department - ICT</strong>
 <br>Mr Ng Kok Huat (<a href="mailto:ng_kok_huat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_kok_huat@moe.edu.sg</a>)<a href="mailto:ng_kok_huat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br></a><strong>Level Head - ICT</strong>
