@@ -12,7 +12,7 @@ variant: tiptap
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Staff Photos/Mother_Tongue_Languages.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2025 Staff Photos/Mother_Tongue_Languages.jpg">
 </div>
 <p><strong>Mission<br></strong>To nurture a supportive environment where
 students develop strong Mother Tongue language skills, empowering them
