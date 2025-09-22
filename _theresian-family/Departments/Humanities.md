@@ -6,8 +6,9 @@ third_nav_title: Departments
 variant: tiptap
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5__Humanities_Department.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Staff Photos/Humanities.jpg">
 </div>
 <p><strong>"The calling of the Humanities is to make us truly human in the best sense of the word."&nbsp;-- J. Irwin Miller</strong>
 </p>
