@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/9__Science_Department.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Staff Photos/Science.jpg">
 </div>
 <p><strong>"The future belongs to the curious. The ones who are not afraid to try it, explore it, poke at it, question it, turn it inside out and learn something from it."</strong>
 </p>
