@@ -18,14 +18,14 @@ variant: tiptap
 <h4><strong>Introduction</strong></h4>
 <p><strong>Floorball- Respect all, fear no one! FINAL</strong>
 </p>
-<p>Floorbal was officially offered as a CC![](/images/2025%20CCA%20Photos/Floorball__B_Division__Formal.jpg)A
-beginning in 2010. We have been taking part in the National Schools Games
-Floorball Championship since 2009. We aim to forge good relationships with
-one another, as well as to develop perseverance and resilience. Through
-the Floorball CCA programme, we value every individual and equip them with
-skills in Floorball and other competencies required to serve the school
-and the community.Students can look forward to increasing their physical
-fitness as well as taking part in a sport that never has a dull moment</p>
+<p>Floorbal was officially offered as a CCA beginning in 2010. We have been
+taking part in the National Schools Games Floorball Championship since
+2009. We aim to forge good relationships with one another, as well as to
+develop perseverance and resilience. Through the Floorball CCA programme,
+we value every individual and equip them with skills in Floorball and other
+competencies required to serve the school and the community.Students can
+look forward to increasing their physical fitness as well as taking part
+in a sport that never has a dull moment</p>
 <p><strong>Teachers-In-Charge</strong>
 <br>Ms Nur Hannah Binte Mohamed Elyas (<a href="mailto:nur_hannah_mohamed_elyas@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_hannah_mohamed_elyas@moe.edu.sg</a>)
 <br>Ms Vivien Saw (<a href="mailto:saw_siew_ling_vivien@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">saw_siew_ling_vivien@moe.edu.sg</a>)
