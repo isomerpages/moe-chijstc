@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Clubs and Societies
 variant: markdown
 ---
-
 ![](/images/2025%20CCA%20Photos/Debate_Team_Formal.jpg)
 <h4><strong>Introduction</strong></h4>
 <p>The objectives of the society are :</p>
