@@ -5,8 +5,10 @@ description: ""
 third_nav_title: Clubs and Societies
 variant: markdown
 ---
+
+![](/images/2025%20CCA%20Photos/Debate_Team_Formal.jpg)
 <h4><strong>Introduction</strong></h4>
-![](/images/2025%20CCA%20Photos/Debate_Team_Formal.jpg)<p>The objectives of the society are :</p>
+<p>The objectives of the society are :</p>
 <p>1. To encourage the use of standard English in spoken communication</p>
 <p>2. To instill in each person the quality of articulation and enunciation</p>
 <p>3. To create an avenue to present cogent and coherent arguments</p>
