@@ -8,7 +8,7 @@ variant: tiptap
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1__School_Executive_Committee.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2025 Staff Photos/EXCO.jpg">
 </div>
 <p>
 <br>

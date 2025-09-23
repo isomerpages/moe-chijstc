@@ -5,8 +5,7 @@ description: ""
 third_nav_title: Performing Arts
 variant: markdown
 ---
-<!--<img src="/images/ang111.jpg">-->
-<img src="/images/2023CCA/angklung.jpg">
+<img src="/images/2025%20CCA%20Photos/Angklung_Formal.jpg">
 <h4><strong>Introduction</strong></h4>
 <p><strong>ANGKLUNG ENSEMBLE: The World Awakes When The Bamboo Sings</strong></p>
 <p>The Angklung and Kulintang Ensemble CCA brings the essence of Indonesia to CHIJ St. Theresa’s Convent. The ensemble essentially comprises Indonesian traditional instruments - the angklung and the kulintang. Each angklung is a bamboo rattle which originates from the Sunda province of West Java. The kulintang is a xylophone version from Manado, North Sulawesi. Both are popular musical instruments which are often accompanied by Eastern and Western percussions.</p>

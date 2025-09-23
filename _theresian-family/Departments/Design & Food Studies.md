@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3__Design_and_Food_Studies_Department.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2025 Staff Photos/DFS.jpg">
 </div>
 <h4><strong>"Learn, Collaborate &amp; Impact"</strong></h4>
 <p>Design &amp; Food Studies and Aesthetics Department is made up of Art

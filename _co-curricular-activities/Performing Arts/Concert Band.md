@@ -3,9 +3,9 @@ title: Concert Band
 permalink: /theresian-family/students/co-curricular-activities-cca/performing-arts/concert-band/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
-<!--<img src="/images/cb1234.jpg">-->
-![](/images/2023CCA/bandformal.jpg)
+![](/images/2025%20CCA%20Photos/Band_Formal.jpg)
 <h4><strong>Introduction</strong></h4>
 <p><strong>School Concert Band - One Band, One Sound</strong></p>
 <p>The School Concert Band has stayed true to being steadfast, tenacious and committed through the wide range of programmes designed to develop its members’ potential and love for music. Camaraderie and discipline have always been the defining keystones of the band.</p>

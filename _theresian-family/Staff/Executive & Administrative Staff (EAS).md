@@ -6,8 +6,9 @@ third_nav_title: Staff
 variant: tiptap
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2__Executive_and_Administrative_Staff__EAS_.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2025 Staff Photos/EAS.jpg">
 </div>
 <p>
 <br>

@@ -5,8 +5,7 @@ description: ""
 third_nav_title: Performing Arts
 variant: markdown
 ---
-<!--<img src="/images/c12345.jpg">-->
-![](/images/2023CCA/choir%20formal.jpg)
+![](/images/2025%20CCA%20Photos/Choir_Formal.jpg)
 <h4><strong>Introduction</strong></h4>
 <p><strong>Choir - Lifting our voices in heartmony</strong></p>
 <p>STC Choir gives students the opportunity to learn, perform and experience many types of music at various different functions. The choral programme exists to:&nbsp;</p>

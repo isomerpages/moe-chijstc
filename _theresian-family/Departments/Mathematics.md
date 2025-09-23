@@ -6,8 +6,9 @@ third_nav_title: Departments
 variant: tiptap
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6__Mathematics_Department.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2025 Staff Photos/Mathematics.jpg">
 </div>
 <p><strong>"The function of education is to teach one to think intensively and to think critically. Intelligence plus character - that is the goal of true education" --Martin Luther King, Jr.</strong>
 </p>
