@@ -15,7 +15,7 @@ variant: markdown
 
 **End of Year Examination Paper Checking Schedule**
 
-<a href="2025_EYE_Paper_Checking_Schedule__S1_.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Sec 1 Exam Checking Schedule</a>
+<a href="/files/Exam TT/2025_EYE_Paper_Checking_Schedule__S1_.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Sec 1 Exam Checking Schedule</a>
 
 <a href="/files/Exam TT/2025_EYE_Paper_Checking_Schedule__S2_.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Sec 2 Exam Checking Schedule</a>
 
