@@ -23,7 +23,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/2025 Open House/STC_FAQ2025.pdf" rel="noopener nofollow" target="_blank">STC FAQ2025</a>
+<p><a href="/files/2025 Open House/STC_FAQ2025.pdf" rel="noopener nofollow" target="_blank">STC FAQ 2025</a>
 </p>
 <p></p>
 <p></p>
