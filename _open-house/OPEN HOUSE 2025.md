@@ -9,12 +9,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open House 2025/SchoolSafe___open_house_poster_2025_copy.jpg">
 </div>
-<p></p>
-<h4></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open House 2025/Slide2.jpg">
 </div>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open House 2025/Slide4.jpg">
@@ -26,7 +23,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/2025 Open House/STC_FAQ2025.pdf" rel="noopener nofollow" target="_blank">STC FAQ2025 </a>
+<p><a href="/files/2025 Open House/STC_FAQ2025.pdf" rel="noopener nofollow" target="_blank">STC FAQ2025</a>
 </p>
 <p></p>
 <p></p>
