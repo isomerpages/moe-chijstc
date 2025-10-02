@@ -5,12 +5,19 @@ description: ""
 variant: tiptap
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OpenHouse2024/OH24banner.jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Parking Instructions" src="/images/OpenHouse2024/carpark.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open House 2025/SchoolSafe___open_house_poster_2025_copy.jpg">
+</div>
+<p></p>
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open House 2025/Slide2.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open House 2025/Slide4.jpg">
 </div>
 <h4><strong>STC Welcomes You!</strong></h4>
 <ul data-tight="true" class="tight">
