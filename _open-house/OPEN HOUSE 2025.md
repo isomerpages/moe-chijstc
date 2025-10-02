@@ -22,16 +22,13 @@ variant: tiptap
 <h4><strong>STC Welcomes You!</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/2024 Open House/Open_House_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Open House Programme</a>
+<p><a href="/files/2025 Open House/OPEN_HOUSE_2025.pdf" rel="noopener nofollow" target="_blank">Open House 2025</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.chijsttheresasconvent.moe.edu.sg/others/announcement/non-tamil-indian-languages-ntil/" rel="noopener nofollow" target="_blank">Non-Tamil Indian Languages (NTIL)</a>
+<p><a href="/files/2025 Open House/STC_FAQ2025.pdf" rel="noopener nofollow" target="_blank">STC FAQ2025 </a>
 </p>
-</li>
-<li>
-<p><a href="/files/2024 Open House/CHIJ_STC_Open_House_2024___Principal_s_Sharing.pdf" rel="noopener noreferrer nofollow" target="_blank">Open House Principal's Sharing Slides</a>
-</p>
+<p></p>
 <p></p>
 </li>
 </ul>
