@@ -4,10 +4,8 @@ permalink: /open-house/
 description: ""
 variant: tiptap
 ---
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open House 2025/SchoolSafe___open_house_poster_2025_copy.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open House 2025/poster_updated1.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open House 2025/Slide2.jpg">
