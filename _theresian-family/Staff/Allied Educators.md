@@ -32,7 +32,7 @@ third_nav_title: Staff
 <p>Special Needs Educational Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>astan_lisa_yoanna@moe.edu.sg</p>
+	<p><a href="mailto:astan_lisa_yoanna@moe.edu.sg">astan_lisa_yoanna@moe.edu.sg</a></p>
 </td>
 </tr>
 <tr>
@@ -43,7 +43,7 @@ third_nav_title: Staff
 <p>Special Needs Educational Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>cindy_cheong@moe.edu.sg</p>
+	<p><a href="mailto:cindy_cheong@moe.edu.sg">cindy_cheong@moe.edu.sg</a></p>
 </td>
 </tr>
 <tr>
@@ -66,7 +66,7 @@ third_nav_title: Staff
 <p>Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>karene_teo_wei_fang@moe.edu.sg</p>
+<p><a href="mailto:karene_teo_wei_fang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">karene_teo_wei_fang@moe.edu.sg</a></p>
 </td>
 </tr>
 <tr>
