@@ -109,7 +109,16 @@ variant: markdown
 <p>Education Workshop Instructor</p>
 </td>
 </tr>
+	<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Sirrul Hadi Bin Azman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>STEM Instructor (Laboratory) </p>
+</td>
+</tr>
 <tr>
+</tr><tr>
 <td rowspan="1" colspan="1">
 <p>Ms Kamala D/O Siddhannan</p>
 </td>
