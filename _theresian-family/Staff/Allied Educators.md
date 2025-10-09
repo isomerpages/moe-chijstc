@@ -26,7 +26,7 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lisa Yoanna Astan</p>
+<p>Lisa Yoanna Astan (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Special Needs Educational Officer</p>
@@ -37,7 +37,7 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Cindy Ho</p>
+<p>Cindy Ho(Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Special Needs Educational Officer</p>
@@ -48,37 +48,36 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Soohu Siew Foong Christina</p>
+<p>Soohu Siew Foong Christina(Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="chijstcs@moe.edu.sg" rel="noopener nofollow" target="_blank">chijstcs@moe.edu.sg</a>
+<p><a href="mailto:soohu_siew_foong_christina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soohu_siew_foong_christina@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Alwyn Lee (Mr)</p>
+<p>Karene Teo (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Level Head ICT and Knowledge Management</p>
+<p>Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_zhong_hao_alwyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lee_zhong_hao_alwyn@moe.edu.sg</a>
-</p>
+<p>karene_teo_wei_fang@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Andy Quek (Mr)</p>
+<p>Chua Wenhui(Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Mathematics</p>
+<p>Student Welfare Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:quek_kim_leng_andy@moe.edu.sg" rel="noopener noreferrer nofollow" target="">quek_kim_leng_andy@moe.edu.sg</a>
+<p><a href="mailto:chua_boon_wai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_boon_wai@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -96,187 +95,179 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Timothy Chow (Mr)</p>
+<p>Ho Yuin Ching Christina (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH Literature</p>
+<p>Education and Career Guidance Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:timothy_chow_rui_jun@moe.edu.sg" rel="noopener noreferrer nofollow" target="">timothy_chow_rui_jun@moe.edu.sg</a>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chua Qiyou (Mr)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH Geography</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="http://chua_qiyou@moe.edu.sg%20/" rel="noopener noreferrer nofollow" target="">chua_qiyou@moe.edu.sg</a>
+<p><a href="mailto:ho_yuin_ching_christina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_yuin_ching_christina@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Rachel Chong (Ms)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head Special Educational Needs (Covering)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chong_shufen@moe.edu.sg" rel="noopener noreferrer nofollow" target="">chong_shufen@moe.edu.sg</a>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Cheah Suet Ping (Ms)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 3 Year Head</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:cheah_suet_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="">cheah_suet_ping@moe.edu.sg</a>&nbsp;</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Darren Ng (Mr)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Physical Education &amp; CCA</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_yong_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ng_yong_sheng@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Eunice Hung (Ms)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head Biology &amp; Lower Secondary Science&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:hung_pek_hui_eunice@moe.edu.sg" rel="noopener noreferrer nofollow" target="">hung_pek_hui_eunice@moe.edu.sg</a>&nbsp;</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Melanie Lim (Ms)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Humanities</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:melanie_lim@moe.edu.sg" rel="noopener noreferrer nofollow" target="">melanie_lim@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lee Boon Leong (Mr)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 4/5 Year Head</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_boon_leong@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lee_boon_leong@moe.edu.sg</a>&nbsp;</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lee Chai Yen (Mdm)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Mother Tongue Languages</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_chai_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lee_chai_yen@moe.edu.sg</a>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Li Ziyi (Ms)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>LH Mathematiccs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:li_ziyi@schools.gov.sg" rel="noopener noreferrer nofollow" target="">li_ziyi@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tan-Lim Pui Yee (Mrs)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Science</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="lim_pui_yee_a@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_pui_yee_a@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Leslie Francis&nbsp;(Mr)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD Student Well-being and Management</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:munipas_leslie_francis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">munipas_leslie_francis@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Joyce Tan (Ms)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 1 Year Head</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_shu_min_joyce@moe.edu.sg" rel="noopener noreferrer nofollow" target="">tan_shu_min_joyce@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ng Kok Huat (Mr)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD ICT and Knowledge Management</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ng_kok_huat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_kok_huat@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ng Say Hong (Ms)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Level Head, Chinese Language</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_say_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ng_say_hong@moe.edu.sg</a>&nbsp;</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dawn Tan (Ms)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Staff Developer</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="tan_qiu_yin_dawn@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_</a>
-</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
