@@ -2,6 +2,7 @@ collections:
   theresian-family:
     output: true
     order:
+      - Staff/Allied Educators.md
       - Staff/.keep
       - Staff/Staff.md
       - Staff/Executive Committee (EXCO).md
