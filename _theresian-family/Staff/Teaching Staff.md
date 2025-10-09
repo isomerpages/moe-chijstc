@@ -85,11 +85,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Clara Ang
-<br>Ms Foo Lee Wee</p>
+<br>Mr Dillon Num Jun Feng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wong_kit_han_clara@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_kit_han_clara@moe.edu.sg</a>
-<a href="mailto:foo_lee_wee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">foo_lee_wee@moe.edu.sg</a>
+</p>
+<p><a href="mailto:dillon_num_jun_feng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dillon_num_jun_feng@moe.edu.sg</a>
 <br>
 </p>
 </td>
@@ -99,11 +100,11 @@ variant: tiptap
 <p>1 St. Faustina (1F)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Amutha Elangovan
+<p>Mr Tan Jit Hong
 <br>Mr Timothy Chow</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:amutha_elangovan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">amutha_elangovan@moe.edu.sg</a>
+<p><a href="mailto:tan_jit_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jit_hong@moe.edu.sg</a>
 <br><a href="mailto:timothy_chow_rui_jun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">timothy_chow_rui_jun@moe.edu.sg</a>
 </p>
 </td>
