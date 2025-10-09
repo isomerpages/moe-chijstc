@@ -80,9 +80,11 @@ third_nav_title: Staff
 <p><a href="mailto:chua_boon_wai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_boon_wai@moe.edu.sg</a>
 </p>
 </td>
+		</tr><tr>
 	<td rowspan="1" colspan="1">
 <p>Ho Yuin Ching Christina(Ms)</p>
 </td>
+
 <td rowspan="1" colspan="1">
 <p>Education and Career Guidance Counsellor</p>
 </td>
