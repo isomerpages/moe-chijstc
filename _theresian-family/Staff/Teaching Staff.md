@@ -101,7 +101,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Timothy Chow</p>
-<p>Mr Tan Jit Hong</p>
+Mr Tan Jit Hong
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:timothy_chow_rui_jun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">timothy_chow_rui_jun@moe.edu.sg</a>
