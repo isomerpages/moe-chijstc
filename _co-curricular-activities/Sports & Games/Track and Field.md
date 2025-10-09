@@ -27,8 +27,11 @@ Braving through the many competitors in the various events, we have achieved
 stupendous victories in the various Nationals School competition. Through
 the many moments, it is the shared memories we hold strong as a team.</p>
 <p><strong>Teachers-in-Charge:<br></strong>Mr Chua Qiyou (<a href="mailto:chua_qiyou@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_qiyou@moe.edu.sg</a>)
-<br>Mr Lua Jiong How (<a href="mailto:lua_jiong_how@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lua_jiong_how@moe.edu.sg</a>)
 <br>Mdm Du Liang (<a href="mailto:du_liang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">du_liang@moe.edu.sg)</a>
+</p>
+<p>Mr Philip Tan (<a href="mailto:tan_en_yaw_philip@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_en_yaw_philip@moe.edu.sg</a>)</p>
+<p>Mr Tan Jit Hong (<a href="mailto:tan_jit_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jit_hong@moe.edu.sg</a>)</p>
+<p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
