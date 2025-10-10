@@ -90,7 +90,5 @@ areas pertaining to academic progress, sports and service to the school
 community throughout the school experience.</p>
 </li>
 </ul>
-<p><strong>Head of Department&nbsp;CCE &amp; Values Education<br></strong>Mrs
-Amanda Tan&nbsp;(<a href="mailto:teo_hui_rong_amanda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_hui_rong_amanda@moe.edu.sg</a>)</p>
 <p><strong>Senior Teacher CCE &amp; Values Education<br></strong>Mrs Clara
 Ang (<a href="mailto:wong_kit_han_clara@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_kit_han_clara@moe.edu.sg</a>)</p>
