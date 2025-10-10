@@ -85,7 +85,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Clara Ang
-<br>Mr Dillon Num Jun Feng</p>
+Mr Dillon Num Jun Feng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wong_kit_han_clara@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_kit_han_clara@moe.edu.sg</a>
