@@ -47,9 +47,13 @@ outcomes that are less likely to be achieved in other subject areas.</p>
 Leslie Francis&nbsp;(<a href="mailto:munipas_leslie_francis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">munipas_leslie_francis@moe.edu.sg</a>)</p>
 <p><strong>Head of Department (Physical Education and CCA)<br></strong>Mr
 Darren Ng (<a href="mailto:ng_yong_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_yong_sheng@moe.edu.sg</a>)</p>
-<p><strong>Department Staff<br></strong>Ms Nurul Atiqah Bte Rosli (<a href="mailto:nurul_atiqah_rosli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_atiqah_rosli@moe.edu.sg</a>)
-<br>Mr Sekaran S/O Chinna Govanden (<a href="mailto:sekaran_chinna_govanden@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sekaran_chinna_govanden@moe.edu.sg</a>)
+<p><strong>Department Staff<br></strong>Mr Sekaran S/O Chinna Govanden (
+<a href="mailto:sekaran_chinna_govanden@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sekaran_chinna_govanden@moe.edu.sg</a>)
 <br>Mr Toh Boon Hui (<a href="mailto:toh_boon_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh_boon_hui@moe.edu.sg</a>)</p>
+<p>Mr Dillon Num Jun Feng (<a href="mailto:wong_kit_han_clara@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>dillon_num_jun_feng@moe.edu.sg)</u></a>
+</p>
+<p>Mr Tan Jit Hong (<a href="mailto:timothy_chow_rui_jun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">t<u>an_jit_hong@moe.edu.sg</u></a><u>)</u>
+</p>
 <p><strong><u>PE Curriculum / Programmes</u></strong>
 </p>
 <ol data-tight="true" class="tight">
