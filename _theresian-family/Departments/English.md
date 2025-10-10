@@ -47,10 +47,8 @@ practice, sharing and continual learning.</p>
 <p><strong>English Language and Literature<br></strong>Ms Dawn Tan ( <a href="mailto:tan_qiu_yin_dawn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_qiu_yin_dawn@moe.edu.sg</a>)
 <br>Ms Joyce Tan (<a href="mailto:tan_shu_min_joyce@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_shu_min_joyce@moe.edu.sg</a>)
 <br>Ms Maggie Lee (<a href="mailto:lee_peck_lin_maggie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_peck_lin_maggie@moe.edu.sg</a>)
-<br>Ms Megalai D/O Rajandran (<a href="mailto:megalai_rajandran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">megalai_rajandran@moe.edu.sg</a>)</p>
-<p>Ms Kasthuri Davaraj (<a href="mailto:kasthuri_mahanthran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kasthuri_mahanthran@moe.edu.sg</a>)</p>
-<p>Ms Isabelle Teo (<a href="mailto:teo_zhi_yi_isabelle@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_zhi_yi_isabelle@moe.edu.sg)</a>
-</p>
-<p>
-<br>Mr Samuel Zou (<a href="mailto:zou_en_samuel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zou_en_samuel@moe.edu.sg</a>)
+<br>Ms Megalai D/O Rajandran (<a href="mailto:megalai_rajandran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">megalai_rajandran@moe.edu.sg</a>)<br>
+Ms Kasthuri Davaraj (<a href="mailto:kasthuri_mahanthran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kasthuri_mahanthran@moe.edu.sg</a>)<br>
+Ms Isabelle Teo (<a href="mailto:teo_zhi_yi_isabelle@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_zhi_yi_isabelle@moe.edu.sg)</a>
+Mr Samuel Zou (<a href="mailto:zou_en_samuel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zou_en_samuel@moe.edu.sg</a>)
 <br>Mr Timothy Chow (<a href="mailto:timothy_chow_rui_jun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">timothy_chow_rui_jun@moe.edu.sg</a>)</p>
