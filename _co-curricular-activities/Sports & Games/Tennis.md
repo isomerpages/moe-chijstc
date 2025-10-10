@@ -19,7 +19,7 @@ for the sport, sense of resilience, confidence and fighting spirit in its
 members.</p>
 <p>***Tennis will not be recruiting Sec 1 members from 2024 onwards.***</p>
 <p><strong>Teachers-in-Charge</strong>
-<br>Mr Ng Say Hong (<a href="mailto:ngiam_xing_hao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ngiam_xing_hao@moe.edu.sg</a>)
+<br>Mr Ng Say Hong (<a href="mailto:ng_say_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_say_hong@moe.edu.sg</a>)
 <br>Mr Terance Wong (<a href="mailto:wong_foh_peng_terance@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_foh_peng_terance@moe.edu.sg</a>)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/ten2.jpg">
