@@ -92,6 +92,6 @@ community throughout the school experience.</p>
 </ul>
 <p><strong>Senior Teacher CCE &amp; Values Education<br></strong>Mrs Clara
 Ang (<a href="mailto:wong_kit_han_clara@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_kit_han_clara@moe.edu.sg</a>)</p>
-<p><strong>CCE &amp; Values Coordinator </strong>
-</p>
+<strong>CCE &amp; Values Coordinator </strong>
+
 Ms Miroshini D/O Kannathasan (<a href="mailto:miroshini_kannathasan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">miroshini_kannathasan@moe.edu.sg</a>)
