@@ -37,7 +37,7 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Cindy Ho(Ms)</p>
+<p>Cindy Ho (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Special Needs Educational Officer</p>
@@ -48,7 +48,7 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Soohu Siew Foong Christina(Ms)</p>
+<p>Soohu Siew Foong Christina (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Counsellor</p>
@@ -71,7 +71,7 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chua Wenhui(Ms)</p>
+<p>Chua Wenhui (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Student Welfare Officer</p>
@@ -82,7 +82,7 @@ third_nav_title: Staff
 </td>
 		</tr><tr>
 	<td rowspan="1" colspan="1">
-<p>Ho Yuin Ching Christina(Ms)</p>
+<p>Ho Yuin Ching Christina (Ms)</p>
 </td>
 
 <td rowspan="1" colspan="1">
