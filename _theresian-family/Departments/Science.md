@@ -39,7 +39,7 @@ in other disciplines and in everyday life.</p>
 <br>Ms Meninder Kaur (<a href="mailto:meninder_kaur@moe.edu.sg" rel="noopener noreferrer nofollow" target="">meninder_kaur@moe.edu.sg</a>)
 <br>Mr Wang Qiming&nbsp;(<a href="mailto:wang_qiming@moe.edu.sg" rel="noopener noreferrer nofollow" target="">wang_qiming@moe.edu.sg</a>)
 <br>Mr Andrew Lau (<a href="mailto:andrew_lau_fu_yang@schools.gov.sg" rel="noopener noreferrer nofollow" target="">andrew_lau_fu_yang@schools.gov.sg</a>)</p>
-<p>Ms Ho Yeng Yeng (<a href="mailto:ho_yeng_yeng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_yeng_yeng@moe.edu.sg</a>)
+Ms Ho Yeng Yeng (<a href="mailto:ho_yeng_yeng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_yeng_yeng@moe.edu.sg</a>)
 <br><strong>Physics<br></strong>Mr Ng Kok Huat (<a href="mailto:ng_kok_huat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_kok_huat@moe.edu.sg</a>)
 <br>Mrs Valarie Lee&nbsp;(<a href="mailto:leong_kai_yun_valarie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leong_kai_yun_valarie@moe.edu.sg</a>)
-<br>Mr Wang Qiming&nbsp;(<a href="mailto:wang_qiming@moe.edu.sg" rel="noopener noreferrer nofollow" target="">wang_qiming@moe.edu.sg</a>)</p>
+<br>Mr Wang Qiming&nbsp;(<a href="mailto:wang_qiming@moe.edu.sg" rel="noopener noreferrer nofollow" target="">wang_qiming@moe.edu.sg</a>)<p></p>
