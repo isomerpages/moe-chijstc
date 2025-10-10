@@ -55,7 +55,7 @@ in learning.</p>
 <br>Mr Philip Tan (<a href="mailto:tan_en_yaw_philip@schools.gov.sg" rel="noopener noreferrer nofollow" target="">tan_en_yaw_philip@schools.gov.sg</a>)
 <br><strong>Food and Consumer Education/Food and Nutrition<br></strong>Ms
 Angela Yang Huihui (<a href="mailto:angela_yang_hui_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">angela_yang_hui_hui@moe.edu.sg</a>)
-<br><strong>Music<br></strong>Ms Eugenie Pui (<a href="mailto:pui_ang_yii_eugenie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pui_ang_yii_eugenie@moe.edu.sg</a>)</p>
+<br><strong>Music<br></strong>Mr Ngiam Xing Hao(<a href="mailto:ngiam_xing_hao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ngiam_xing_hao@moe.edu.sg</a>)</p>
 <h4><strong>Syllabuses</strong></h4>
 <p><strong>Lower Secondary<br></strong>Food and Nutrition - Lower Secondary
 <br>Visual Arts - Lower Secondary
