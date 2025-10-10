@@ -99,13 +99,12 @@ Mr Dillon Num Jun Feng</p>
 <p>1 St. Faustina (1F)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Timothy Chow</p>
-Mr Tan Jit Hong
+<p>Mr Timothy Chow
+Mr Tan Jit Hong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:timothy_chow_rui_jun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">timothy_chow_rui_jun@moe.edu.sg</a>
-</p>
-<a href="mailto:tan_jit_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jit_hong@moe.edu.sg</a>
+<a href="mailto:tan_jit_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jit_hong@moe.edu.sg</a></p>
 
 </td>
 </tr>
