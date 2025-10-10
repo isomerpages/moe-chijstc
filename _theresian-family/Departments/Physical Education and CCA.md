@@ -49,10 +49,9 @@ Leslie Francis&nbsp;(<a href="mailto:munipas_leslie_francis@moe.edu.sg" rel="noo
 Darren Ng (<a href="mailto:ng_yong_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_yong_sheng@moe.edu.sg</a>)</p>
 <p><strong>Department Staff<br></strong>Mr Sekaran S/O Chinna Govanden (
 <a href="mailto:sekaran_chinna_govanden@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sekaran_chinna_govanden@moe.edu.sg</a>)
-<br>Mr Toh Boon Hui (<a href="mailto:toh_boon_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh_boon_hui@moe.edu.sg</a>)</p>
-<p>Mr Dillon Num Jun Feng (<a href="mailto:wong_kit_han_clara@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>dillon_num_jun_feng@moe.edu.sg)</u></a>
-</p>
-<p>Mr Tan Jit Hong (<a href="mailto:timothy_chow_rui_jun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">t<u>an_jit_hong@moe.edu.sg</u></a><u>)</u>
+<br>Mr Toh Boon Hui (<a href="mailto:toh_boon_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh_boon_hui@moe.edu.sg</a>)<br>
+Mr Dillon Num Jun Feng (<a href="mailto:wong_kit_han_clara@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>dillon_num_jun_feng@moe.edu.sg)</u></a>
+<br>Mr Tan Jit Hong (<a href="mailto:timothy_chow_rui_jun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">t<u>an_jit_hong@moe.edu.sg</u></a><u>)</u>
 </p>
 <p><strong><u>PE Curriculum / Programmes</u></strong>
 </p>
