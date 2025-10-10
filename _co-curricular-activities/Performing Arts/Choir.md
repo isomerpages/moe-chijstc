@@ -20,7 +20,7 @@ variant: markdown
 
 <p><strong>Teachers- in- Charge</strong><br>
 	Mr Lim Choon Hong(<a href="mailto:lim_choon_hong@moe.edu.sg">lim_choon_hong@moe.edu.sg</a>)<br>
-	Ms Eunice Hung(<a href="mailto:hung_pek_hui_eunice@moe.edu.sg">hung_pek_hui_eunice@moe.edu.sg</a>)
+	Ms Eunice Hung (<a href="mailto:hung_pek_hui_eunice@moe.edu.sg">hung_pek_hui_eunice@moe.edu.sg</a>)
 	<br>Mrs Michele Fung (<a href="mailto:fung_jok_kin_michele@moe.edu.sg">fung_jok_kin_michele@moe.edu.sg</a>)<br>Mr Goh Sian Yang (<a href="mailto:goh_sian_yang@moe.edu.sg">goh_sian_yang@moe.edu.sg</a>)<br></p>
 <img style="width: 65%;" src="/images/c2.jpg"><br>
 <img style="width: 75%;" src="/images/c3.jpg"><br>
