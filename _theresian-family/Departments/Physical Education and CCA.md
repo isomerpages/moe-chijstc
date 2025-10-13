@@ -44,7 +44,7 @@ outcomes that are less likely to be achieved in other subject areas.</p>
 
 <p></p>
 <p></p><strong>Head of Department</strong>&nbsp;<strong>(Student Well-being and Management)<br></strong>Mr
-Leslie Francis&nbsp;(<a href="mailto:munipas_leslie_francis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">munipas_leslie_francis@moe.edu.sg</a>)<p></p>
+Leslie Francis&nbsp;(<a href="mailto:munipas_leslie_francis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">munipas_leslie_francis@moe.edu.sg</a>)
 <p></p><strong>Head of Department (Physical Education and CCA)<br></strong>Mr
 Darren Ng (<a href="mailto:ng_yong_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_yong_sheng@moe.edu.sg</a>)
 <p></p><h4><strong>Department Staff<br></strong></h4>Mr Sekaran S/O Chinna Govanden (
