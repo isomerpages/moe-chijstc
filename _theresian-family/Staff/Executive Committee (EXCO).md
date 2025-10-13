@@ -131,21 +131,10 @@ variant: tiptap
 <p>Rachel Chong (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head Special Educational Needs (Covering)</p>
+<p>Subject Head Special Educational Needs</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chong_shufen@moe.edu.sg" rel="noopener noreferrer nofollow" target="">chong_shufen@moe.edu.sg</a>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Cheah Suet Ping (Ms)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 3 Year Head</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:cheah_suet_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="">cheah_suet_ping@moe.edu.sg</a>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -343,17 +332,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lisa_lam_yok@schools.gov.sg" rel="noopener noreferrer nofollow" target="">lisa_lam_yok@schools.gov.sg</a>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Kwong Kwok Keung (Mr)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:kwong_kwok_keung@moe.edu.sg" rel="noopener noreferrer nofollow" target="">kwong_kwok_keung@moe.edu.sg</a>&nbsp;</p>
 </td>
 </tr>
 <tr>

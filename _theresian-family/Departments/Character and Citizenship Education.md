@@ -3,7 +3,7 @@ title: Character and Citizenship Education
 permalink: /theresian-family/departments/character-and-citizenship-education/
 description: ""
 third_nav_title: Departments
-variant: tiptap
+variant: markdown
 ---
 <p></p>
 <p></p>
@@ -90,7 +90,7 @@ areas pertaining to academic progress, sports and service to the school
 community throughout the school experience.</p>
 </li>
 </ul>
-<p><strong>Head of Department&nbsp;CCE &amp; Values Education<br></strong>Mrs
-Amanda Tan&nbsp;(<a href="mailto:teo_hui_rong_amanda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_hui_rong_amanda@moe.edu.sg</a>)</p>
 <p><strong>Senior Teacher CCE &amp; Values Education<br></strong>Mrs Clara
 Ang (<a href="mailto:wong_kit_han_clara@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_kit_han_clara@moe.edu.sg</a>)</p>
+<strong>CCE &amp; Values Coordinator </strong><br>
+Ms Miroshini D/O Kannathasan (<a href="mailto:miroshini_kannathasan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">miroshini_kannathasan@moe.edu.sg</a>)

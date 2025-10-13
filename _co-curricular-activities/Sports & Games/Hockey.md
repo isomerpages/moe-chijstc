@@ -26,7 +26,7 @@ in the national teams, SEA Games, and other international Hockey tournaments</p>
 <br>Mr Mark Tan (<a href="mailto:mark_tan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mark_tan@moe.edu.sg</a>)
 <br>Mr Toh Boon Hui (<a href="mailto:toh_boon_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh_boon_hui@moe.edu.sg</a>)
 <br>Ms Gunasunthari Velraj (<a href="mailto:velraj_gunasunthari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">velraj_gunasunthari@moe.edu.sg</a>)
-<br>Ms Megalai D/O Rajandran (<a href="mailto:megalai_rajandran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">megalai_ranjandran@moe.edu.sg</a>)</p>
+<br>Ms Kasthuri Davaraj (<a href="mailto:kasthuri_mahanthran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kasthuri_mahanthran@moe.edu.sg</a>)</p>
 <p><strong>NSG B &amp; C Division</strong>
 </p>
 <div class="isomer-image-wrapper">

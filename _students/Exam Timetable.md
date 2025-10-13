@@ -1,6 +1,6 @@
 ---
 title: Exam Timetable
-permalink: /others/2024-exam-timetable/
+permalink: /others/2025-exam-timetable/
 description: ""
 variant: markdown
 ---

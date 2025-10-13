@@ -38,7 +38,6 @@ we have gone for bowling, dragon boating, handball and sport climbing.
 Activities such as these keep the team bonded and strong. As teammates,
 we are always there for one another.</p>
 <p><strong>Teachers-in-charge</strong>
-<br>Ms S Sivapriya (<a href="mailto:S_Sivapriya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">s_sivapriya@moe.edu.sg</a>)
 <br>Ms Choy Cheng Mun (<a href="mailto:choy_cheng_mun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choy_cheng_mun@moe.edu.sg</a>)
 <br>Mr Pek Aik Soon (<a href="mailto:pek_aik_soon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pek_aik_soon@moe.edu.sg</a>)
 <br>Ms Isabelle Teo (<a href="mailto:teo_zhi_yi_isabelle@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_zhi_yi_isabelle@moe.edu.sg</a>)</p>

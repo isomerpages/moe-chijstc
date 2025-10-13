@@ -3,7 +3,7 @@ title: Humanities
 permalink: /theresian-family/departments/humanities/
 description: ""
 third_nav_title: Departments
-variant: tiptap
+variant: markdown
 ---
 <p></p>
 <p></p>
@@ -51,9 +51,7 @@ beliefs.</p>
 <a href="mailto:alfie_yang@moe.edu.sg.sg" rel="noopener noreferrer nofollow" target="_blank">alfie_yang@moe.edu.sg.sg</a>)
 <br>Mr Chua Qiyou&nbsp;(<a href="mailto:chua_qiyou@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_qiyou@moe.edu.sg</a>)
 <br>Mr Lua Jiong How&nbsp;(<a href="mailto:lua_jiong_how@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lua_jiong_how@moe.edu.sg</a>)
-<br>Ms Sylvia Chua (<a href="mailto:sylvia_chua_hui_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sylvia_chua_hui_lin@moe.edu.sg</a>)</p>
-<p><strong>History and/or Social Studies<br></strong>Ms Badariah Binte Abdul
-Lathif (<a href="mailto:binte_abdul_lathif_badariah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">binte_abdul_lathif_badariah@moe.edu.sg</a>)
-<br>Ms S Sivapriya (<a href="mailto:S_Sivapriya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">S_Sivapriya@moe.edu.sg</a>)
-<br>Mr Kelvin Lim Poh San (<a href="mailto:kelvin_lim_poh_san@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kelvin_lim_poh_san@schools.gov.sg</a>)
-<br>Ms Cheah Suet Ping (<a href="mailto:Cheah_Suet_Ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Cheah_Suet_Ping@schools.gov.sg</a>)</p>
+<br>
+</p>
+<p><strong>History and/or Social Studies<br></strong>Mr Mark Tan (<a href="mailto:mark_tan_jie-yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mark_tan_jie_yi@moe.edu.sg</a>)<br>
+Ms Quek Ygee Leng (<a href="mailto:quek_ygee_leng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">quek_ygee_leng_a@moe.edu.sg</a>)</p>

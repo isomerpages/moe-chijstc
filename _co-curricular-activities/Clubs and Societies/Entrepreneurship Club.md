@@ -12,4 +12,4 @@ variant: markdown
 <img style="width: 80%;" src="/images/ec2.jpg"><br>
 <img style="width: 80%;" src="/images/ec3.jpg">
 
-<p><strong>Teachers-in-Charge</strong><br>Mr Lee Choon Hong (<a href="mailto:lee_choon_hong@moe.edu.sg" target="">lee_choon_hong@moe.edu.sg</a>)<br>Ms Angela Yang (<a href="mailto:angela_yang_huihui@moe.edu.sg" target="">angela_yang_huihui@moe.edu.sg</a>)<br>Ms Zaynab Raman (<a href="mailto:angela_yang_huihui@moe.edu.sg" target="">zaynab_raman@moe.edu.sg</a>)</p>
+<p><strong>Teachers-in-Charge</strong><br>Ms Angela Yang (<a href="mailto:angela_yang_huihui@moe.edu.sg" target="">angela_yang_huihui@moe.edu.sg</a>)<br>Ms Zaynab Raman (<a href="mailto:angela_yang_huihui@moe.edu.sg" target="">zaynab_raman@moe.edu.sg</a>)</p>
