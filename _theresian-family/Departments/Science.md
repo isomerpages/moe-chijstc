@@ -34,12 +34,12 @@ in other disciplines and in everyday life.</p>
 <br>Mrs Karen Leong&nbsp;(<a href="mailto:ng_lee_jiun_karen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_lee_jiun_karen@moe.edu.sg</a>
 <br>Ms Miroshini D/O Kannathasan (<a href="mailto:miroshini_kannathasan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">miroshini_kannathasan@moe.edu.sg</a>
 <br>Ms Gunasunthari Velraj (<a href="mailto:velraj_gunasunthari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">velraj_gunasunthari@moe.edu.sg</a>)
-<br><strong>Chemistry<br></strong>Ms Alicia Lim Jiayu (<a href="mailto:alicia_lim_jia_yu@moe.edu.sg" rel="noopener noreferrer nofollow" target="">alicia_lim_jia_yu@moe.edu.sg</a>)
+<br><br><strong>Chemistry<br></strong>Ms Alicia Lim Jiayu (<a href="mailto:alicia_lim_jia_yu@moe.edu.sg" rel="noopener noreferrer nofollow" target="">alicia_lim_jia_yu@moe.edu.sg</a>)
 <br>Ms Dora Lee&nbsp;(<a href="mailto:dora_lee_bee_poh@moe.edu.sg" rel="noopener noreferrer nofollow" target="">dora_lee_bee_poh@moe.edu.sg</a>)
 <br>Ms Meninder Kaur (<a href="mailto:meninder_kaur@moe.edu.sg" rel="noopener noreferrer nofollow" target="">meninder_kaur@moe.edu.sg</a>)
 <br>Mr Wang Qiming&nbsp;(<a href="mailto:wang_qiming@moe.edu.sg" rel="noopener noreferrer nofollow" target="">wang_qiming@moe.edu.sg</a>)
-<br>Mr Andrew Lau (<a href="mailto:andrew_lau_fu_yang@schools.gov.sg" rel="noopener noreferrer nofollow" target="">andrew_lau_fu_yang@schools.gov.sg</a>)</p>
+<br>Mr Andrew Lau (<a href="mailto:andrew_lau_fu_yang@schools.gov.sg" rel="noopener noreferrer nofollow" target="">andrew_lau_fu_yang@schools.gov.sg</a>)<br>
 Ms Ho Yeng Yeng (<a href="mailto:ho_yeng_yeng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_yeng_yeng@moe.edu.sg</a>)
-<br><strong>Physics<br></strong>Mr Ng Kok Huat (<a href="mailto:ng_kok_huat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_kok_huat@moe.edu.sg</a>)
+<br><br><strong>Physics<br></strong>Mr Ng Kok Huat (<a href="mailto:ng_kok_huat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_kok_huat@moe.edu.sg</a>)
 <br>Mrs Valarie Lee&nbsp;(<a href="mailto:leong_kai_yun_valarie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leong_kai_yun_valarie@moe.edu.sg</a>)
-<br>Mr Wang Qiming&nbsp;(<a href="mailto:wang_qiming@moe.edu.sg" rel="noopener noreferrer nofollow" target="">wang_qiming@moe.edu.sg</a>)<p></p>
+<br>Mr Wang Qiming&nbsp;(<a href="mailto:wang_qiming@moe.edu.sg" rel="noopener noreferrer nofollow" target="">wang_qiming@moe.edu.sg</a>)</p><p></p>
