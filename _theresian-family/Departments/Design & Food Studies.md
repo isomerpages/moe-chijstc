@@ -44,21 +44,18 @@ in learning.</p>
 </li>
 </ol>
 <h4><strong><u>Head of Department</u></strong></h4>
-<p>Mdm Chin Pooi Pooi (<a href="mailto:chin_pooi_pooi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chin_pooi_pooi@moe.edu.sg</a>)</p>
+Mdm Chin Pooi Pooi (<a href="mailto:chin_pooi_pooi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chin_pooi_pooi@moe.edu.sg</a>)
 <h4><strong><u>Department Staff</u></strong></h4>
-<p><strong>Art and Design</strong>
+<strong>Art and Design</strong>
 <br>Mr Edgar Seow (<a href="mailto:seow_siang_kim_edgar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seow_siang_kim_edgar@moe.edu.sg</a>)
-<br>Ms Shehana Binte Zulazmi (<a href="mailto:shehana_zulazmi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shehana_zulazmi@moe.edu.sg</a>)</p>
-<p>
+<br>Ms Shehana Binte Zulazmi (<a href="mailto:shehana_zulazmi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shehana_zulazmi@moe.edu.sg</a>)<br>
 <br><strong>Design and Technology<br></strong>Mr Lim Choon Hong (<a href="mailto:lim_choon_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_choon_hong@moe.edu.sg</a>)
 <br>Mr Pek Aik Soon (<a href="mailto:pek_aik_soon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pek_aik_soon@moe.edu.sg</a>)
 <br>Ms Rachel Chong (<a href="mailto:chong_shufen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_shufen@moe.edu.sg</a>)
-<br>Mr Philip Tan (<a href="mailto:tan_en_yaw_philip@moe.edu.sg" rel="noopener noreferrer nofollow" target="">tan_en_yaw_philip@moe.edu.sg</a>)</p>
-<p>
-<br><strong>Food and Consumer Education/Food and Nutrition<br></strong>Ms
-Angela Yang Huihui (<a href="mailto:angela_yang_hui_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">angela_yang_hui_hui@moe.edu.sg</a>)</p>
-<p>
-<br><strong>Music<br></strong>Mr Ngiam Xing Hao(<a href="mailto:ngiam_xing_hao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ngiam_xing_hao@moe.edu.sg</a>)</p>
+<br>Mr Philip Tan (<a href="mailto:tan_en_yaw_philip@moe.edu.sg" rel="noopener noreferrer nofollow" target="">tan_en_yaw_philip@moe.edu.sg</a>)
+<br><br><strong>Food and Consumer Education/Food and Nutrition<br></strong>Ms
+Angela Yang Huihui (<a href="mailto:angela_yang_hui_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">angela_yang_hui_hui@moe.edu.sg</a>)<br>
+<br><strong>Music<br></strong>Mr Ngiam Xing Hao(<a href="mailto:ngiam_xing_hao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ngiam_xing_hao@moe.edu.sg</a>)
 <h4><strong>Syllabuses</strong></h4>
 <p><strong>Lower Secondary<br></strong>Food and Nutrition - Lower Secondary
 <br>Visual Arts - Lower Secondary
