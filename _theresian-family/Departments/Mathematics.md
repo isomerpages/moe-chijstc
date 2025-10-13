@@ -19,7 +19,8 @@ and related disciplines.</p>
 <br>Every Theresian a self-directed learner equipped with critical thinking
 and problem-solving skills.</p>
 <p></p><h4><strong>Head of Department<br></strong></h4>Mr Andy Quek (<a href="mailto:quek_kim_leng_andy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">quek_kim_leng_andy@moe.edu.sg</a>)
-<h4><strong>Subject Head</strong></h4><strong><br></strong>Ms Li Ziyi&nbsp;(<a href="mailto:li_ziyi@moe.edu.sg" rel="noopener noreferrer nofollow" target="">li_ziyi@moe.edu.sg</a>)<h4><strong>Senior Teacher<br></strong></h4>Mr Patrick Ng (<a href="mailto:ng_siong_teck_patrick@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_siong_teck_patrick@moe.edu.sg</a>)<p></p>
+<h4><strong>Subject Head</strong></h4><strong><br></strong>Ms Li Ziyi&nbsp;(<a href="mailto:li_ziyi@moe.edu.sg" rel="noopener noreferrer nofollow" target="">li_ziyi@moe.edu.sg</a>)
+<h4><strong>Senior Teacher<br></strong></h4>Mr Patrick Ng (<a href="mailto:ng_siong_teck_patrick@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_siong_teck_patrick@moe.edu.sg</a>)<p></p>
 <h4><strong>Department Staff</strong></h4>
 <p>Mr Alwyn Lee&nbsp;(<a href="mailto:lee_zhong_hao_alwyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_zhong_hao_alwyn@moe.edu.sg</a>)
 <br>Mrs Amutha Elangovan (<a href="mailto:amutha_elangovan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">amutha_elangovan@moe.edu.sg</a>)
