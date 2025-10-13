@@ -43,10 +43,10 @@ This serves to complement other education areas in promoting educational
 outcomes that are less likely to be achieved in other subject areas.</p>
 
 <p></p>
-<p></p><h4><strong>Head of Department</strong></h4><h4>&nbsp;<strong>(Student Well-being and Management)<br></strong></h4>Mr
+<p></p><strong>Head of Department</strong>&nbsp;<strong>(Student Well-being and Management)<br></strong>Mr
 Leslie Francis&nbsp;(<a href="mailto:munipas_leslie_francis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">munipas_leslie_francis@moe.edu.sg</a>)<p></p>
-<p></p><h4></h4><h4><strong>Head of Department (Physical Education and CCA)<br></strong></h4>Mr
-Darren Ng (<a href="mailto:ng_yong_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_yong_sheng@moe.edu.sg</a>)<p></p>
+<p></p><strong>Head of Department (Physical Education and CCA)<br></strong>Mr
+Darren Ng (<a href="mailto:ng_yong_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_yong_sheng@moe.edu.sg</a>)
 <p></p><h4><strong>Department Staff<br></strong></h4>Mr Sekaran S/O Chinna Govanden (
 <a href="mailto:sekaran_chinna_govanden@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sekaran_chinna_govanden@moe.edu.sg</a>)
 <br>Mr Toh Boon Hui (<a href="mailto:toh_boon_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh_boon_hui@moe.edu.sg</a>)<br>
