@@ -32,8 +32,8 @@ and problem-solving skills.</p>
 <br>Ms Shirley Sim&nbsp;(<a href="mailto:sim_ai_ling_shirley@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_ai_ling_shirley@moe.edu.sg</a>)
 <br>Mr Terance Wong (<a href="mailto:wong_foh_peng_terance@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_foh_peng_terance@moe.edu.sg</a>)
 <br>Ms Vivien Saw (<a href="mailto:saw_siew_ling_vivien@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">saw_siew_ling_vivien@moe.edu.sg</a>)</p>
-<p><strong><u>Principles of Accounts<br></u></strong>Ms Vivien Saw (<a href="mailto:saw_siew_ling_vivien@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">saw_siew_ling_vivien@moe.edu.sg</a>)</p>
-<p><strong><u>Elements of Business Studies</u></strong>
+<p><strong>Principles of Accounts<u><br></u></strong>Ms Vivien Saw (<a href="mailto:saw_siew_ling_vivien@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">saw_siew_ling_vivien@moe.edu.sg</a>)</p>
+<p><strong>Elements of Business Studies</strong>
 <br>Mr Terance Wong (<a href="mailto:wong_foh_peng_terance@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_foh_peng_terance@moe.edu.sg</a>)
 <br>Mrs Clara Ang (<a href="mailto:wong_kit_han_clara@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_kit_han_clara@moe.edu.sg</a>)
 <br>Mr Afdillah Aman (<a href="mailto:afdillah_aman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">afdillah_aman@moe.edu.sg</a>)</p>
