@@ -53,5 +53,5 @@ beliefs.</p>
 <br>Mr Lua Jiong How&nbsp;(<a href="mailto:lua_jiong_how@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lua_jiong_how@moe.edu.sg</a>)
 <br>
 </p>
-<p><strong>History and/or Social Studies<br></strong>Mr Mark Tan (<a href="mailto:mark_tan_jie-yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mark_tan_jie_yi@moe.edu.sg</a>)</p>
-<p>Ms Quek Ygee Leng (<a href="mailto:quek_ygee_leng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">quek_ygee_leng_a@moe.edu.sg</a>)</p>
+<p><strong>History and/or Social Studies<br></strong>Mr Mark Tan (<a href="mailto:mark_tan_jie-yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mark_tan_jie_yi@moe.edu.sg</a>)<br>
+Ms Quek Ygee Leng (<a href="mailto:quek_ygee_leng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">quek_ygee_leng_a@moe.edu.sg</a>)</p>
