@@ -25,10 +25,10 @@ the real-world relevance and application of science so that they will become
 confident citizens in a technological world, who recognise the usefulness
 and limitations of the scientific method, and appreciate its applicability
 in other disciplines and in everyday life.</p>
-<p><strong><u>Head of Department<br></u></strong>Tan-Lim Pui Yee (<a href="lim_pui_yee_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_pui_yee_a@moe.edu.sg</a>)</p>
-<p><strong><u>Subject Head<br></u></strong>Ms Eunice Hung (<a href="mailto:hung_pek_hui_eunice@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hung_pek_hui_eunice@moe.edu.sg</a>)<u><br></u>
-</p>
-<p><strong><u>Senior Teacher<br></u></strong>Mr James Wong&nbsp;(<a href="mailto:wong_kin_wah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_kin_wah@moe.edu.sg</a>)</p>
+<p></p><h4><strong>Head of Department<br></strong></h4>Tan-Lim Pui Yee (<a href="lim_pui_yee_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_pui_yee_a@moe.edu.sg</a>)
+<h4><strong><u>Subject Head<br></u></strong></h4>Ms Eunice Hung (<a href="mailto:hung_pek_hui_eunice@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hung_pek_hui_eunice@moe.edu.sg</a>)<u><br></u>
+<p></p>
+<p></p><h4><strong><u>Senior Teacher<br></u></strong></h4>Mr James Wong&nbsp;(<a href="mailto:wong_kin_wah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_kin_wah@moe.edu.sg</a>)<p></p>
 <h4><strong><u>Department Staff</u></strong></h4>
 <p><strong>Biology<br></strong>Ms Alicia Lim Jiayu (<a href="mailto:alicia_lim_jia_yu@moe.edu.sg" rel="noopener noreferrer nofollow" target="">alicia_lim_jia_yu@moe.edu.sg</a>)
 <br>Mrs Karen Leong&nbsp;(<a href="mailto:ng_lee_jiun_karen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_lee_jiun_karen@moe.edu.sg</a>
