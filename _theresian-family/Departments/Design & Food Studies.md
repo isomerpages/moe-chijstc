@@ -53,7 +53,7 @@ in learning.</p>
 <br><strong>Design and Technology<br></strong>Mr Lim Choon Hong (<a href="mailto:lim_choon_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_choon_hong@moe.edu.sg</a>)
 <br>Mr Pek Aik Soon (<a href="mailto:pek_aik_soon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pek_aik_soon@moe.edu.sg</a>)
 <br>Ms Rachel Chong (<a href="mailto:chong_shufen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_shufen@moe.edu.sg</a>)
-<br>Mr Philip Tan (<a href="mailto:tan_en_yaw_philip@schools.gov.sg" rel="noopener noreferrer nofollow" target="">tan_en_yaw_philip@schools.gov.sg</a>)</p>
+<br>Mr Philip Tan (<a href="mailto:tan_en_yaw_philip@moe.edu.sg" rel="noopener noreferrer nofollow" target="">tan_en_yaw_philip@moe.edu.sg</a>)</p>
 <p>
 <br><strong>Food and Consumer Education/Food and Nutrition<br></strong>Ms
 Angela Yang Huihui (<a href="mailto:angela_yang_hui_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">angela_yang_hui_hui@moe.edu.sg</a>)</p>
