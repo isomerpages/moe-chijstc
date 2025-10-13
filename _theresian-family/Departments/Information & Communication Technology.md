@@ -11,9 +11,8 @@ variant: markdown
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2025 Staff Photos/ICT.jpg">
 </div>
 <h4><strong>Head Of Department - ICT</strong></h4>
-<br>Mr Ng Kok Huat (<a href="mailto:ng_kok_huat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_kok_huat@moe.edu.sg</a>)<a href="mailto:ng_kok_huat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"></a>
-<h4><strong>Level Head - ICT</strong></h4>
-<br>Mr Alwyn Lee (<a href="mailto:lee_zhong_hao_alwyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_zhong_hao_alwyn@moe.edu.sg</a>)<br>
+Mr Ng Kok Huat (<a href="mailto:ng_kok_huat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_kok_huat@moe.edu.sg</a>)<a href="mailto:ng_kok_huat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"></a>
+<h4><strong>Level Head - ICT</strong></h4>Mr Alwyn Lee (<a href="mailto:lee_zhong_hao_alwyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_zhong_hao_alwyn@moe.edu.sg</a>)<br>
 <br><strong>Library Coordinator</strong>
 <br>Ms Maggie Lee (<a href="mailto:lee_peck_lin_maggie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_peck_lin_maggie@moe.edu.sg</a>)
 <br><strong>ICT Associate</strong>
