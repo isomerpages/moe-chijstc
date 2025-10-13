@@ -63,11 +63,14 @@ are not conducted in CHIJ St. Theresa’s Convent.
 <br>Students who are taking NTIL will go to designated schools for their lessons.
 <br>For more information on NTIL matters, please refer to Board for the Teaching
 and Testing of South Asian Languages (<a rel="noopener noreferrer nofollow" target="_blank">http://www.bttsal.com</a>).</p>
-<p></p><h4><strong><u>Head Of Department<br></u></strong></h4>Mdm Lee Chai Yen&nbsp;(
-<a href="mailto:lee_chai_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lee_chai_yen@moe.edu.sg</a>)<p></p>
-<h4><strong><u>Level Head, Chinese Language<br></u></strong></h4>Ms Ng Say Hong
-(<a href="mailto:ng_say_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ng_say_hong@moe.edu.sg</a>)
-<p></p><h4><strong><u>Department Staff</u></strong></h4>
+<p></p>
+<h4><strong>Head Of Department<br></strong></h4>
+<p>Mdm Lee Chai Yen&nbsp;( <a href="mailto:lee_chai_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lee_chai_yen@moe.edu.sg</a>)</p>
+<p></p>
+<h4><strong>Level Head, Chinese Language<br></strong></h4>
+<p>Ms Ng Say Hong (<a href="mailto:ng_say_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ng_say_hong@moe.edu.sg</a>)</p>
+<p></p>
+<h4><strong>Department Staff</strong></h4>
 <p></p>
 <p><strong>Chinese Language<br></strong>Mdm Du Liang (<a rel="noopener noreferrer nofollow" target="_blank">du_liang@moe.edu.sg</a>)
 <br>Mr Loh Chiu Wai (<a rel="noopener noreferrer nofollow" target="_blank">loh_chiu_wai@moe.edu.sg</a>)
