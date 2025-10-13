@@ -43,9 +43,9 @@ and problem solving.</p>
 in learning.</p>
 </li>
 </ol>
-<h4><strong><u>Head of Department</u></strong></h4>
+<h4><strong>Head of Department</strong></h4>
 Mdm Chin Pooi Pooi (<a href="mailto:chin_pooi_pooi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chin_pooi_pooi@moe.edu.sg</a>)
-<h4><strong><u>Department Staff</u></strong></h4>
+<h4><strong>Department Staff</strong></h4>
 <strong>Art and Design</strong>
 <br>Mr Edgar Seow (<a href="mailto:seow_siang_kim_edgar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seow_siang_kim_edgar@moe.edu.sg</a>)
 <br>Ms Shehana Binte Zulazmi (<a href="mailto:shehana_zulazmi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shehana_zulazmi@moe.edu.sg</a>)<br>
