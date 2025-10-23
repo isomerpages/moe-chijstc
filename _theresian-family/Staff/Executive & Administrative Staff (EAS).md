@@ -53,20 +53,21 @@ variant: markdown
 <p>Administration Manager</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Kwong Kwok Keung</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Manager</p>
-</td>
-</tr>
+
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Poh Joo Heng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Manager&nbsp;</p>
+</td>
+</tr>
+	<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lee Wai Hoong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Manager</p>
 </td>
 </tr>
 <tr>

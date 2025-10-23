@@ -3,7 +3,7 @@ title: Executive Committee (EXCO)
 permalink: /theresian-family/staff/executive-committee-exco/
 description: ""
 third_nav_title: Staff
-variant: tiptap
+variant: markdown
 ---
 <p></p>
 <p></p>
@@ -343,6 +343,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Poh_Joo_Heng@moe.edu.sg" rel="noopener noreferrer nofollow" target="">Poh_Joo_Heng@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+	<tr>
+<td rowspan="1" colspan="1">
+<p>Lee Wai Hoong (Mr)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_wai_hoong@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lee_wai_hoongg@moe.edu.sg</a>
 </p>
 </td>
 </tr>
