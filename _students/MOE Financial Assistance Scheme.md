@@ -4,6 +4,8 @@ permalink: /theresian-family/students/moe-financial-assistance-scheme/
 description: ""
 variant: tiptap
 ---
+<p><strong>MOE FINANCIAL ASSISTANCE SCHEME (FAS) 2026</strong>
+</p>
 <p>The Ministry of Education (MOE) provides financial assistance to eligible
 Singapore Citizen students from our Government and Government-Aided Schools
 (GGAS) who need financial assistance for their studies.</p>
