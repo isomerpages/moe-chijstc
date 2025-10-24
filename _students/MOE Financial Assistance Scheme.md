@@ -50,6 +50,6 @@ You do not need to apply for MOE FAS separately.</p>
 <p>&nbsp;<u>Submission of Application</u>
 </p>
 
-<p>Please submit an online application via the link <strong>&lt;<a rel="noopener noreferrer nofollow" target="_blank" href="https://go.gov.sg/moe-efasggas">https://go.gov.sg/moe-efasggas</a>
+<p>Please submit an online application via the link <strong><a rel="noopener noreferrer nofollow" target="_blank" href="https://go.gov.sg/moe-efasggas">https://go.gov.sg/moe-efasggas</a>
 </strong> [link
 is also available in Parents Gateway (Services tab – Financial Assistance)].</p>
