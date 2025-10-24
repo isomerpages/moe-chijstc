@@ -4,7 +4,7 @@ permalink: /theresian-family/students/moe-financial-assistance-scheme/
 description: ""
 variant: markdown
 ---
-<p><strong></strong></p><h2><strong>MOE FINANCIAL ASSISTANCE SCHEME (FAS) 2026</strong></h2>
+<p><strong></strong></p><strong>MOE FINANCIAL ASSISTANCE SCHEME (FAS) 2026</strong>
 <p></p>
 <p>The Ministry of Education (MOE) provides financial assistance to eligible
 Singapore Citizen students from our Government and Government-Aided Schools
@@ -50,5 +50,6 @@ You do not need to apply for MOE FAS separately.</p>
 <p>&nbsp;<u>Submission of Application</u>
 </p>
 
-<p>Please submit an online application via the link <strong><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a></strong> [link
+<p>Please submit an online application via the link <strong>&lt;<a rel="noopener noreferrer nofollow" target="_blank" href="https://go.gov.sg/moe-efasggas">https://go.gov.sg/moe-efasggas</a>
+</strong> [link
 is also available in Parents Gateway (Services tab – Financial Assistance)].</p>
