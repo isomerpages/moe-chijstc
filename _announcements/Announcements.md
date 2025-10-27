@@ -4,12 +4,10 @@ permalink: /others/announcement/
 description: ""
 variant: markdown
 ---
-<h4><strong>Notice of Early Dismissal and School Holiday – 4 &amp; 5 September 2025<br></strong></h4>
+<h4><strong>2025 Year End Message from Ms Vivienne Lim, Chairperson, <br>IJ Board of Management<br></strong></h4>
 <p></p>
 
-*   **4 September:** Students will be dismissed at 10:30 a.m. Teachers may not be in school in the afternoon.
-    
-*   **5 September :** Teachers’ Day School holiday. School will be closed at 5:00 p.m. in view of Eat with your Family Day.
+[Message from Ms Vivienne Lim, Chairperson, CHIJ Board ofManagement](/files/Announcement/STC___2025_Year_End_Message_from_IJBOM_Chairperson.pdf)
 <hr>
 <h4>Sec 2/3 Parents Info Session</h4>
 <ul data-tight="true" class="tight">
@@ -46,10 +44,6 @@ variant: markdown
 </ul>
 <p></p>
 <p></p>
-<hr>
-<h4><strong>Year End Message from Chairperson CHIJ Board of Management, Ms Vivienne Lim</strong></h4>
-<p><a href="/files/Announcement/STC___2024_Year_Book_Chairperson_Statement__170th_Anniversary_.pdf" rel="noopener nofollow" target="_blank">Message from Ms Vivienne Lim, Chairperson, CHIJ Board of Management</a>
-</p>
 <hr>
 <h4><strong>PLD Information Kit for Students and Parents</strong> <br>Please click&nbsp;<a href="/files/Student%20Device%20Information%20Kit_CHIJ%20STC.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for your PLD information with regards to</h4>
 <ul data-tight="true" class="tight">
