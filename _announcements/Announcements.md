@@ -4,7 +4,7 @@ permalink: /others/announcement/
 description: ""
 variant: markdown
 ---
-<h4><strong>2025 Year End Message from Ms Vivienne Lim, Chairperson, IJ Board of Management<br></strong></h4>
+<h4><strong>2025 Year End Message from Ms Vivienne Lim, Chairperson, <br>IJ Board of Management<br></strong></h4>
 <p></p>
 
 [Message from Ms Vivienne Lim, Chairperson, CHIJ Board ofManagement](/files/Announcement/STC___2025_Year_End_Message_from_IJBOM_Chairperson.pdf)
