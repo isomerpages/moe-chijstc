@@ -4,8 +4,8 @@ permalink: /school-canteen-advertisement/
 description: ""
 variant: tiptap
 ---
-<p>We are inviting applications for the operation of Halal School Canteen
-Stall on our premises.</p>
+<p>We are inviting applications for the operation of a Halal school canteen
+stall on our premises.</p>
 <p></p>
 <p>Interested parties are requested to refer to the attached for detailed
 information and application procedures.</p>
