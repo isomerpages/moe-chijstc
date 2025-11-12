@@ -77,7 +77,7 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Booklist/2025/Booklist_2025___S4_EXP.pdf" rel="noopener nofollow" target="_blank">S4 Exp</a>
+<p><a href="/files/Booklist/2025/S4_EXP.pdf" rel="noopener nofollow" target="_blank">S4 Exp</a>
 </p>
 <p><a href="/files/Books%20and%20Uniform/S5_NA.pdf" rel="noopener nofollow" target="_blank">S5 NA</a>
 </p>
@@ -86,7 +86,7 @@ variant: markdown
 </tbody>
 </table>
 
-##### Purchase Instructions (2026 Cohort)
+##### Purchase Guide (2026 Cohort)
 
 [Download purchase instructions for school uniform (S2 to S5)](/files/Purchase_Guide_for_School_Uniform__Sec_2_to_5_students_.pdf)
 
