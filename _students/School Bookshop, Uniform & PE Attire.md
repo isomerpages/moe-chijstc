@@ -37,7 +37,7 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Books%20and%20Uniform/S3_G1_NT.pdf" rel="noopener nofollow" target="_blank">S3 G1 (NT)</a>
+<p><a href="/files/Books%20and%20Uniform/S3_G1.pdf" rel="noopener nofollow" target="_blank">S3 G1</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -55,7 +55,7 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Books%20and%20Uniform/S3_G2_NA.pdf" rel="noopener nofollow" target="_blank">S3 G2 (NA)</a>
+<p><a href="/files/Books%20and%20Uniform/S3_G2.pdf" rel="noopener nofollow" target="_blank">S3 G2</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -73,7 +73,7 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Books%20and%20Uniform/S3_G3_EXP.pdf" rel="noopener nofollow" target="_blank">S3 G3 (Exp)</a>
+<p><a href="/files/Books%20and%20Uniform/S3_G3.pdf" rel="noopener nofollow" target="_blank">S3 G3</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
