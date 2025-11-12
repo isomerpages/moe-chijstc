@@ -12,6 +12,8 @@ This section will be updated soon.
 
 [Download purchase instructions for school uniform (S2 to S5)](/files/Purchase_Guide_for_School_Uniform__Sec_2_to_5_students_.pdf)
 
+[Download purchase instructions for school textbooks (S2-S5)](/files/Books%20and%20Uniform/Purchase_Guide_for_School_Textbook_and_Stationery__Sec_2_to_5_students_.pdf)
+
 <p><strong>Vendors</strong>
 </p>
 <table style="minWidth: 50px">
