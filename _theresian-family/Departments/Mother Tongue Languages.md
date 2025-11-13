@@ -17,32 +17,19 @@ variant: markdown
 <p><strong>Mission<br></strong>To nurture a supportive environment where
 students develop strong Mother Tongue language skills, empowering them
 to embrace and express their cultural heritage with confidence and pride.</p>
-<p><strong>Vision<br></strong>A vibrant school community of students and
-educators who value and lead in the appreciation, mastery, and continued
-use of Mother Tongue languages.</p>
-<p><strong>Department Goals</strong>&nbsp;</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Language Mastery: </strong>Equip students with proficiency in
-their Mother Tongue to effectively communicate and articulate ideas in
-both written and spoken forms.</p>
-</li>
-<li>
-<p><strong>Cultural Appreciation: </strong>Foster a deep understanding and
-appreciation of students' own cultures and heritage, strengthening their
-sense of identity and belonging.</p>
-</li>
-<li>
-<p><strong>Critical Thinking and Expression: </strong>Develop students' ability
-to analyze, reflect on, and respond thoughtfully to a variety of texts
-and media in their Mother Tongue.</p>
-</li>
-<li>
-<p><strong>Community Engagement: </strong>Encourage students to apply their
-Mother Tongue skills in real-world settings, building connections with
-their community and beyond.</p>
-</li>
-</ul>
+<p><strong>Vision<br></strong>A vibrant school community of students and educators who value and lead in the appreciation, mastery, and continued use of Mother Tongue languages.</p>
+<strong>Key Programmes </strong><br>
+
+Chinese Langauge  
+Sec 1 Hand-made Paper Workshop  
+Sec 2 Learning CL through Song--The Masked Singer  
+Sec 3 Script writing and Drama performance  
+Malay Language  
+Composing Song Lyrics Workshop  
+Learning Journey to Kampong Buangkok  
+Tamil Language  
+Cultural workshop - Jewellery making workshop  
+Speech &amp; Drama (Movie review)
 <p><strong>Questions on Mother Tongue Languages<br></strong>For questions
 related to Mother Tongue Languages, pls contact</p>
 <ul data-tight="true" class="tight">
