@@ -12,39 +12,14 @@ variant: markdown
 </div>
 <p><strong>"The calling of the Humanities is to make us truly human in the best sense of the word."&nbsp;-- J. Irwin Miller</strong>
 </p>
-<p><strong>Mission<br></strong>To develop critical and innovative thinkers
-who are imbued with inquiring minds, enabling them to anticipate and respond
-to global changes in a socially responsible manner as they make links with
-what they have learnt to the real world contexts.</p>
-<p><strong>Investigative and Inquiry-based Learning<br></strong>Students
-will experience investigative and inquiry-based learning by conducting
-geographical investigation, historical investigation and issue investigation
-for Geography, History and Social Studies subjects respectively</p>
-<p><strong><u>Geographical Investigation</u></strong>&nbsp;(GI) is a form
-of geographical inquiry where students are required to investigate a geographical
-issue and demonstrate their learning by completing an end product. Students
-follow a guided framework when doing the geographical investigation. They
-analyse an assigned GI question; gather data online from publications and
-from the field; analyse data to construct geographical interpretations;
-consolidate and reflect as a group and as an individual of their findings
-to form a conclusion.</p>
-<p><strong><u>Historical Investigation</u></strong>&nbsp;(HI) is designed
-to provide opportunities for students to apply and deepen their learning
-on specific historical concepts and skills. Students are tasked to inquire
-an authentic historical issue and demonstrate their learning by forming
-a group’s response to the HI question as well as completing an end-product</p>
-<p><strong><u>Social Studies Issue Investigation</u></strong>&nbsp;(II) is
-a performance task designed to provide a platform for students to demonstrate
-the knowledge, skills and values needed for active citizenship. Students
-conduct investigations on societal issues of meaning to them, extend their
-inquiry skills by working as a group to identify a societal issue that
-is a cause of concern and gather data that reflects multiple perspectives.
-They then analyse the data gathered to surface trends and patterns to arrive
-at well-reasoned and substantiated conclusions, after considering possible
-recommendations to the societal issue. Eventually, they reflect on their
-understanding of the societal issue and examine personal assumptions and
-beliefs.</p>
-<h4><strong>Head of Department</strong></h4>
+<p><strong>Mission<br></strong>To develop critical and innovative Theresians who anticipate and respond to global changes in a socially responsible manner as they make links with what they have learnt to the real world contexts.</p>
+<p><strong>Vision<br></strong>Every Theresian an inquirer in a dynamic world.
+</p>
+<p><strong>Key Programmes</strong>
+	<br>Humanities fieldwork provides students with opportunities to apply inquiry skills through authentic investigations in Geography, History, and Social Studies.  
+  
+For Geography, students explore a geographical issue through Geographical Investigation (GI) by gathering and analysing data from the field and secondary sources to draw conclusions. In Historical Investigation (HI), students examine an authentic historical issue, applying historical concepts and skills to develop evidence-based responses. Through Social Studies Issue Investigation (SSII), students investigate societal issues of concern, analyse multiple perspectives and propose reasoned conclusions and recommendations. Through these investigations, students develop critical thinking, collaboration, and reflective skills essential for informed, active citizenship. 
+</p><h4><strong>Head of Department</strong></h4>
 <p>Ms Melanie Lim (<a href="mailto:melanie_lim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">melanie_lim@schools.gov.sg</a>)</p>
 <h4><strong>Department Staff</strong></h4>
 <p><strong>Geography and/or Social Studies<br></strong>Mr Alfie Yang (
