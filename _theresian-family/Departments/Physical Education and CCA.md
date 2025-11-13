@@ -10,38 +10,53 @@ variant: markdown
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025 Staff Photos/Physical_Education.jpg">
 </div>
-<p><strong>Mission<br></strong>To provide a comprehensive 4 to 5-year long
-Physical Education Programme to develop the physical, intellectual, social
-and emotional aspects of all our students through physical activities.&nbsp;</p>
-<p><strong><u>Department Goals</u></strong>
-</p>
-<p>We aim to:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Promote a healthy living and active lifestyle&nbsp;‘Do it the Fun Way’&nbsp;</p>
-</li>
-<li>
-<p>Teach physical and safety skills&nbsp;</p>
-</li>
-<li>
-<p>Develop Self Confidence &amp; Promote Creativity&nbsp;</p>
-</li>
-<li>
-<p>Develop Leadership&nbsp;Skills&nbsp;</p>
-</li>
-<li>
-<p>Encourage Teamwork and Sportsmanship&nbsp;</p>
-</li>
-<li>
-<p>Develop a love of Fitness as a Sport&nbsp;</p>
-</li>
-</ul>
-<p>The department plans to provide a variety of pupil-centred instructional
-activities that equip individuals with the skills, knowledge and attitudes
-necessary to enjoy and sustain a physically active and healthy lifestyle.
-This serves to complement other education areas in promoting educational
-outcomes that are less likely to be achieved in other subject areas.</p>
 
+<h2>"Move to Inspire, Inspire to Move"
+	</h2>
+<p><strong>Mission<br></strong>To provide a comprehensive 4 to 5-year long Physical Education Programme to develop the physical, intellectual, social and emotional aspects of all our students through physical activities.</p>
+
+<strong>Vision</strong>
+<br>To be a vibrant Physical Education department that empowers students with the knowledge, skills, and values to live active, healthy, and balanced lives. Through engaging, pupil-centred experiences, we cultivate self-confidence, creativity, leadership, teamwork, and a passion for lifelong fitness and well-being.
+
+
+<strong>Key Programmes</strong><br>1\. Core Physical Education Curriculum  
+  
+A progressive, pupil-centred PE programme designed to develop fundamental movement skills, game sense, and fitness literacy.  
+  
+Focus areas include:  
+  
+\- Games &amp; Sports Skills – e.g. Netball, Badminton, Floorball, Volleyball, Hockey, Tack &amp; Field.  
+\- Fitness &amp; Health – Aerobic conditioning, circuit training, and personal fitness goal setting.  
+\- Outdoor Education – Orienteering, basic navigation, and environmental appreciation.  
+  
+2\. Inter-Class and Inter-House Games  
+  
+Annual competitions that foster teamwork, sportsmanship, and school spirit.  
+Opportunities for every student to participate, compete, and lead.  
+Highlights collaboration, perseverance, and fair play — values core to the Theresian spirit.  
+  
+3\. Education through Adventure &amp; Outdoor Learning  
+  
+Camp-based and outdoor education programmes to build resilience, self-confidence, and cooperation.  
+  
+\- Secondary 1 EFL Camp &amp; 2 OAL Camps.  
+\- Seondary 4 Dragonboating Programme.  
+\- Sec 1 Safe Cycling and Mini-expedition  
+\- Orienteering and low-element challenges.  
+\- Environmental awareness and sustainability activities.  
+  
+4\. Health and Safety Education  
+  
+Regular reinforcement of safety practices, injury prevention, and responsible participation.  
+Embedding first aid awareness and safe use of equipment in lessons.  
+  
+5\. Leadership through Sports Programme  
+  
+Developing leadership, responsibility, and peer motivation through sport-related roles.  
+Opportunities include: LLP Champions, &amp; Sports Leaders training.  
+  
+\- Leading warm-ups, mini-games, and class lessons/ challenges.  
+\- Supporting inter-class and inter-house competitions. 
 <p></p>
 <p></p><strong>Head of Department</strong>&nbsp;<strong>(Student Well-being and Management)<br></strong>Mr
 Leslie Francis&nbsp;(<a href="mailto:munipas_leslie_francis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">munipas_leslie_francis@moe.edu.sg</a>)
