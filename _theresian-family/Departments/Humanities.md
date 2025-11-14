@@ -17,7 +17,7 @@ variant: markdown
 </p>
 <p><strong>Key Programmes</strong>
 	<br>Humanities fieldwork provides students with opportunities to apply inquiry skills through authentic investigations in Geography, History, and Social Studies.  
-  
+  <br><br>
 For Geography, students explore a geographical issue through Geographical Investigation (GI) by gathering and analysing data from the field and secondary sources to draw conclusions. In Historical Investigation (HI), students examine an authentic historical issue, applying historical concepts and skills to develop evidence-based responses. Through Social Studies Issue Investigation (SSII), students investigate societal issues of concern, analyse multiple perspectives and propose reasoned conclusions and recommendations. Through these investigations, students develop critical thinking, collaboration, and reflective skills essential for informed, active citizenship. 
 </p><h4><strong>Head of Department</strong></h4>
 <p>Ms Melanie Lim (<a href="mailto:melanie_lim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">melanie_lim@schools.gov.sg</a>)</p>
