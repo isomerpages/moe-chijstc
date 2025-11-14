@@ -61,7 +61,7 @@ read for pleasure, think deeply about the world around them, and grow into
 confident lifelong readers who use stories and ideas to understand themselves
 and others.</p>
 <p></p>
-<p>STC Creative Writing Programme
+<p><u>**STC Creative Writing Programme**</u>
 <br>The STC Creative Writing Programme nurtures students who show strong interest
 and aptitude in writing. Through targeted enrichment sessions such as the
 Creative Writing Camp, students deepen their skills in creative expression,
@@ -86,7 +86,7 @@ Competition, Live On Writing Competition</p>
 </ul>
 <p>This programme aims to inspire students to see writing not just as a skill,
 but as a form of personal voice, creative expression, and meaningful influence.</p>
-<p>Literature on stage</p>
+<p><u><b>Literature on stage</b></u></p>
 <p>Lit on Stage is a signature Literature programme in STC that brings texts
 to life through performance. The upper secondary Literature students step
 into the roles, voices, and worlds of the characters they study in their
