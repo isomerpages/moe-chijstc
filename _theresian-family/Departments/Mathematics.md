@@ -17,13 +17,13 @@ variant: markdown
 <br>Every Theresian a lifelong critical thinker and problem-solver.</p>
 
 <strong>Key Programmes</strong>
-
+<ul>
 <li>Mathematics and D&amp;T Trail.  </li>
-<li>External Mathematics and Financial Literacy</li><li>competitions.  
+<li>External Mathematics and Financial Literacy competitions</li><li>.  
 Mathematics peer tutoring programme.</li>
 <h4><strong>Head of Department<br></strong></h4>Mr Andy Quek (<a href="mailto:quek_kim_leng_andy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">quek_kim_leng_andy@moe.edu.sg</a>)
 <h4><strong>Subject Head</strong></h4>Ms Li Ziyi&nbsp;(<a href="mailto:li_ziyi@moe.edu.sg" rel="noopener noreferrer nofollow" target="">li_ziyi@moe.edu.sg</a>)
-<h4><strong>Senior Teacher<br></strong></h4>Mr Patrick Ng (<a href="mailto:ng_siong_teck_patrick@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_siong_teck_patrick@moe.edu.sg</a>)<p></p>
+<h4><strong>Senior Teacher<br></strong></h4>Mr Patrick Ng (<a href="mailto:ng_siong_teck_patrick@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_siong_teck_patrick@moe.edu.sg</a>)
 <h4><strong>Department Staff</strong></h4>
 <p>Mr Alwyn Lee&nbsp;(<a href="mailto:lee_zhong_hao_alwyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_zhong_hao_alwyn@moe.edu.sg</a>)
 <br>Mrs Amutha Elangovan (<a href="mailto:amutha_elangovan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">amutha_elangovan@moe.edu.sg</a>)
@@ -39,4 +39,4 @@ Mathematics peer tutoring programme.</li>
 <p><strong>Elements of Business Studies</strong>
 <br>Mr Terance Wong (<a href="mailto:wong_foh_peng_terance@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_foh_peng_terance@moe.edu.sg</a>)
 <br>Mrs Clara Ang (<a href="mailto:wong_kit_han_clara@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_kit_han_clara@moe.edu.sg</a>)
-<br>Mr Afdillah Aman (<a href="mailto:afdillah_aman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">afdillah_aman@moe.edu.sg</a>)</p>
+<br>Mr Afdillah Aman (<a href="mailto:afdillah_aman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">afdillah_aman@moe.edu.sg</a>)</p></ul>
