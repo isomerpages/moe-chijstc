@@ -25,7 +25,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/2025 Open House/STC_FAQ2025.pdf" rel="noopener nofollow" target="_blank">Open House 2025 - Principal's Talk</a>
+<p><a href="/files/2025 Open House/1__CHIJ_STC_Open_House_2025___P_s_Sharing_.pdf" rel="noopener nofollow" target="_blank">Open House 2025 - Principal's Talk</a>
 </p>
 <p></p>
 <p></p>
