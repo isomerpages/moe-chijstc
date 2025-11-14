@@ -34,7 +34,7 @@ variant: markdown
   <li>Battle of the Bands</li>
   <li>Racial Harmony Day Workshops</li>
   <li>STC Bazaar</li>
-  <li>STC’s Got Talent</li>
+  <li>STC Got Talent</li>
   <li>SYF Art Exhibition</li>
 </ul>
 
