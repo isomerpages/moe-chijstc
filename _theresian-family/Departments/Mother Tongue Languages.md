@@ -21,15 +21,18 @@ to embrace and express their cultural heritage with confidence and pride.</p>
 <strong>Key Programmes </strong><br>
 
 Chinese Langauge  
-Sec 1 Hand-made Paper Workshop  
-Sec 2 Learning CL through Song--The Masked Singer  
-Sec 3 Script writing and Drama performance  
-Malay Language  
-Composing Song Lyrics Workshop  
-Learning Journey to Kampong Buangkok  
-Tamil Language  
-Cultural workshop - Jewellery making workshop  
-Speech &amp; Drama (Movie review)
+ <ul> <li>Sec 1 Hand-made Paper Workshop  </li>
+ <li>Sec 2 Learning CL through Song--The Masked Singer  </li>
+ <li>Sec 3 Script writing and Drama performance  </li></ul> 
+ 
+ 
+Malay Language  <ul>
+ <li>Composing Song Lyrics Workshop  </li>
+ <li>Learning Journey to Kampong Buangkok  </li></ul> 
+Tamil Language  <ul>
+  <li>Cultural workshop - Jewellery making workshop  </li>
+ <li>Speech &amp; Drama (Movie review)</li> </ul> 
+	
 <p><strong>Questions on Mother Tongue Languages<br></strong>For questions
 related to Mother Tongue Languages, pls contact</p>
 <ul data-tight="true" class="tight">
