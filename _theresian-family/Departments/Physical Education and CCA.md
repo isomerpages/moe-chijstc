@@ -32,11 +32,11 @@ Focus areas include:
 <li>Outdoor Education – Orienteering, basic navigation, and environmental appreciation.  </li>
   </ul>
 	<u>Inter-Class and Inter-House Games </u>
-  
+  <ul>
 Annual competitions that foster teamwork, sportsmanship, and school spirit.  
 Opportunities for every student to participate, compete, and lead.  
 Highlights collaboration, perseverance, and fair play — values core to the Theresian spirit.  
-  
+  </ul>
 <u>Education through Adventure &amp; Outdoor Learning </u>
   
 Camp-based and outdoor education programmes to build resilience, self-confidence, and cooperation.  
