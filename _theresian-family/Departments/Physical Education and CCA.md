@@ -31,7 +31,6 @@ Focus areas include:
 	<li>Fitness &amp; Health – Aerobic conditioning, circuit training, and personal fitness goal setting.  </li>
 <li>Outdoor Education – Orienteering, basic navigation, and environmental appreciation.  </li>
   </ul>
-	Inter-Class and Inter-House Games
   
 Annual competitions that foster teamwork, sportsmanship, and school spirit.  
 Opportunities for every student to participate, compete, and lead.  
