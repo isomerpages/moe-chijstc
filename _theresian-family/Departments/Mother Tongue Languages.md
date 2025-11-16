@@ -5,31 +5,34 @@ description: ""
 third_nav_title: Departments
 variant: markdown
 ---
+
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2025 Staff Photos/Mother_Tongue_Languages.jpg">
+</div>
+
 <h4><strong>Master the Mother Tongue, Inherit the Culture</strong></h4>
 <h4><strong>学好母语，传承文化</strong></h4>
 <h4><strong>Dalami Bahasa Ibunda, Warisi Budaya</strong></h4>
 <h4><strong>நம் தாய்மொழியைச் சிறப்பாகக் கற்று, நம் பண்பாட்டை அடுத்த தலைமுறைக்குக் கொண்டு சேர்ப்போம்</strong></h4>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2025 Staff Photos/Mother_Tongue_Languages.jpg">
-</div>
 <p><strong>Mission<br></strong>To nurture a supportive environment where
 students develop strong Mother Tongue language skills, empowering them
 to embrace and express their cultural heritage with confidence and pride.</p>
 <p><strong>Vision<br></strong>A vibrant school community of students and educators who value and lead in the appreciation, mastery, and continued use of Mother Tongue languages.</p>
 <strong>Key Programmes </strong><br>
 
-Chinese Langauge  
+<u>Chinese Langauge </u>
  <ul> <li>Sec 1 Hand-made Paper Workshop  </li>
  <li>Sec 2 Learning CL through Song--The Masked Singer  </li>
  <li>Sec 3 Script writing and Drama performance  </li></ul> 
  
  
-Malay Language  <ul>
- <li>Composing Song Lyrics Workshop  </li>
+<u>Malay Language  </u>
+<ul><li>Composing Song Lyrics Workshop  </li>
  <li>Learning Journey to Kampong Buangkok  </li></ul> 
-Tamil Language  <ul>
+<u>Tamil Language </u> 
+<ul>
   <li>Cultural workshop - Jewellery making workshop  </li>
  <li>Speech &amp; Drama (Movie review)</li> </ul> 
 	
