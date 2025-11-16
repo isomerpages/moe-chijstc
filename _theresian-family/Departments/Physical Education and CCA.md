@@ -42,7 +42,7 @@ fitness goal setting.</p>
 appreciation.</p>
 </li>
 </ul>
-<p><u> Inter-Class and Inter-House Games</u>
+<p><u>Inter-Class and Inter-House Games</u>
 </p>
 <p>Annual competitions that foster teamwork, sportsmanship, and school spirit.
 <br>Opportunities for every student to participate, compete, and lead.
