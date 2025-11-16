@@ -31,7 +31,7 @@ Focus areas include:
 	<li>Fitness &amp; Health – Aerobic conditioning, circuit training, and personal fitness goal setting.  </li>
 <li>Outdoor Education – Orienteering, basic navigation, and environmental appreciation.  </li>
   </ul>
-	<u>Inter-Class and Inter-House Games</u>
+	Inter-Class and Inter-House Games
 	
 	
   
@@ -61,7 +61,7 @@ Opportunities include: LLP Champions, &amp; Sports Leaders training.
 <ul><li>Leading warm-ups, mini-games, and class lessons/ challenges.  </li>
 	<li>Supporting inter-class and inter-house competitions. </li></ul>
 
-<p></p><h4><strong>Head of Department</strong></h4>&nbsp;<strong>(Student Well-being and Management)<br></strong>Mr
+<p></p><h4><strong>Head of Department</strong>&nbsp;<strong>(Student Well-being and Management)<br></strong></h4>Mr
 Leslie Francis&nbsp;(<a href="mailto:munipas_leslie_francis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">munipas_leslie_francis@moe.edu.sg</a>)
 <p></p><h4><strong>Head of Department (Physical Education and CCA)<br></strong></h4>Mr
 Darren Ng (<a href="mailto:ng_yong_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_yong_sheng@moe.edu.sg</a>)
