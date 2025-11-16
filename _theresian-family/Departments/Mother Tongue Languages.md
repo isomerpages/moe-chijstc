@@ -77,4 +77,101 @@ and Testing of South Asian Languages (<a rel="noopener noreferrer nofollow" targ
 <br>
 <br><strong>Tamil Language<br></strong>Ms Zaynab Binte Abdul Rahman (<a rel="noopener noreferrer nofollow" target="_blank">Zaynab_Abdul_Rahman@schools.gov.sg</a>)</p>
 <p>Mr Natarajan Saravanan (<a href="mailto:natarajan_saravanan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">natarajan_saravanan@moe.edu.sg</a>)</p>
+
+<p><strong>Mother Tongue Department Teaching and Learning: The 4E Framework</strong>
+</p>
+<p><strong>1. Engage: <em>Captivate Interest and Foster Relevance</em></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Spark curiosity and connect learning to real-life contexts.</p>
+</li>
+<li>
+<p>Employ diverse teaching methods, such as integrating ICT tools and project-based
+learning.</p>
+</li>
+<li>
+<p>Provide authentic experiences that make lessons relevant and engaging.</p>
+</li>
+</ul>
+<p>&nbsp;<strong>2. Enthuse: <em>Build Excitement and a Positive Attitude</em></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Foster excitement and a positive attitude toward language learning.</p>
+</li>
+<li>
+<p>Offer enriching experiences beyond the classroom, including Mother Tongue
+Fortnight activities.</p>
+</li>
+<li>
+<p>Examples include workshops, performances, and collaborative learning,
+which broaden students’ perspectives on language and culture.</p>
+</li>
+</ul>
+<p><strong>3. Encourage: <em>Support Effort, Growth, and Perseverance</em></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Promote extensive reading and exploration across language disciplines.</p>
+</li>
+<li>
+<p>Facilitate opportunities for immersive learning, like the Chinese reading
+workshop where students interacted with a writer.</p>
+</li>
+<li>
+<p>Encourage sharing sessions, where students from various language groups
+discuss their insights, fostering a vibrant reading culture school wide.</p>
+</li>
+</ul>
+<p>&nbsp;<strong>4. Enlighten: <em>Deepen Understanding and Broaden Perspectives</em></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Broaden students' cultural awareness and deepen their understanding of
+heritage.</p>
+</li>
+<li>
+<p>Engage selected students in talent development programs, such as Chinese
+Broadcast Journalism (covering News Editorial and Video Making) and competitive
+events.</p>
+</li>
+<li>
+<p>Organize hands-on cultural activities—Chinese drama workshops, Tamil jewelry-making,
+mini kampong house construction, ondeh-ondeh creation for Malay students,
+Pongal festival explorations for Tamil students, and Chinese calligraphy
+sessions—to strengthen cultural connections.</p>
+</li>
+</ul>
+<p><strong>&nbsp;Awards</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>“Script It Right” Chinese Radio Drama Script Writing Competition 2024: </strong>Awarded <em>Top 20 - Merit Prize</em> in
+the Secondary School category</p>
+</li>
+<li>
+<p><strong>The 7th National Secondary Schools Chinese Mini-Fiction Creative Writing Competition: </strong>Awarded <em>3rd Position</em>
+</p>
+</li>
+<li>
+<p><strong>The 13th National Primary &amp; Secondary School On-the-Spot Chinese Calligraphy Competition: </strong>Awarded <em>Top 10 - Merit Prize</em> in
+the Secondary School category</p>
+</li>
+<li>
+<p><strong>2024 Reading Superstar Competition: </strong>Awarded <em>Top 10 - Merit Prize</em> in
+the Secondary School category</p>
+</li>
+<li>
+<p><strong>2024 Awe-Inspiring Virtue and Ocean of Wisdom National Calligraphy Competition: </strong><em>School Award for Outstanding Performance</em> (Harmony
+Award and Active Participation Award)</p>
+</li>
+<li>
+<p><strong>Malay Language Writing Competition (Pena Emasku 2024): </strong>Awarded <em>Gold Category</em>
+</p>
+</li>
+</ul>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Tamil Language Poetry Writing Competition: </strong>Awarded <em>Consolation Prize</em>
+</p>
+
 <p></p>
