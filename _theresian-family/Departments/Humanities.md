@@ -10,8 +10,8 @@ variant: markdown
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025 Staff Photos/Humanities.jpg">
 </div>
-<p><strong>"The calling of the Humanities is to make us truly human in the best sense of the word."&nbsp;-- J. Irwin Miller</strong>
-</p>
+<p></p><h4><strong>"The calling of the Humanities is to make us truly human in the best sense of the word."&nbsp;-- J. Irwin Miller</strong></h4>
+<p></p>
 <p><strong>Mission<br></strong>To develop critical and innovative Theresians who anticipate and respond to global changes in a socially responsible manner as they make links with what they have learnt to the real world contexts.</p>
 <p><strong>Vision<br></strong>Every Theresian an inquirer in a dynamic world.
 </p>
