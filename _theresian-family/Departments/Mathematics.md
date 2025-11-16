@@ -10,8 +10,8 @@ variant: markdown
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2025 Staff Photos/Mathematics.jpg">
 </div>
-<p><strong>"The function of education is to teach one to think intensively and to think critically. Intelligence plus character - that is the goal of true education" --Martin Luther King, Jr.</strong>
-</p>
+<p></p><h4><strong>"The function of education is to teach one to think intensively and to think critically. Intelligence plus character - that is the goal of true education" --Martin Luther King, Jr.</strong></h4>
+<p></p>
 <p><strong>Mission<br></strong>To develop critical thinkers and confident problem-solvers, enabling them for continuous learning in Mathematics and related disciplines.</p>
 <p><strong>Vision</strong>
 <br>Every Theresian a lifelong critical thinker and problem-solver.</p>
@@ -19,8 +19,7 @@ variant: markdown
 <strong>Key Programmes</strong>
 <ul>
 <li>Mathematics and D&amp;T Trail.  </li>
-<li>External Mathematics and Financial Literacy competitions</li><li>.  
-Mathematics peer tutoring programme.</li>
+<li>External Mathematics and Financial Literacy competitions</li><li>Mathematics peer tutoring programme.</li>
 <h4><strong>Head of Department<br></strong></h4>Mr Andy Quek (<a href="mailto:quek_kim_leng_andy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">quek_kim_leng_andy@moe.edu.sg</a>)
 <h4><strong>Subject Head</strong></h4>Ms Li Ziyi&nbsp;(<a href="mailto:li_ziyi@moe.edu.sg" rel="noopener noreferrer nofollow" target="">li_ziyi@moe.edu.sg</a>)
 <h4><strong>Senior Teacher<br></strong></h4>Mr Patrick Ng (<a href="mailto:ng_siong_teck_patrick@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_siong_teck_patrick@moe.edu.sg</a>)
