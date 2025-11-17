@@ -10,39 +10,35 @@ variant: markdown
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2025 Staff Photos/DFS.jpg">
 </div>
 <h4><strong>"Learn, Collaborate &amp; Impact"</strong></h4>
-<p>Design &amp; Food Studies and Aesthetics Department is made up of Art
-&amp; Design, Design &amp; Technology, Food and Consumer Education/Food
-and Nutrition and Music.</p>
+
+<p>Art, Design &amp; Technology (D&amp;T), Food and Consumer Education (FCE), Nutrition and Food Science (NFS) and Music.</p>
 <p><strong>Mission</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>To foster creative, critical and analytical thinking, sensitivity and
-powers of observation.</p>
+<p>To foster creative, critical and analytical thinking, sensitivity and powers of observation.</p>
 </li>
 <li>
 <p>To educate the appreciation for the fine things in life.</p>
 </li>
 </ol>
-<p><strong>Department Goals</strong>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>To improve academic performance.</p>
-</li>
-<li>
-<p>To foster confidence, enthusiasm and a sense of achievement in the practice
-of the aesthetics.</p>
-</li>
-<li>
-<p>To foster in students a critical and analytical approach in decision-making
-and problem solving.</p>
-</li>
-<li>
-<p>To adopt a repertoire of teaching strategies to engage and facilitate
-in learning.</p>
-</li>
-</ol>
+<p><strong>Vision</strong>
+</p>To nurture creative and confident Theresians who think critically, express themselves creatively through the aesthetics, guided by critical thinking, problem-solving and a spirit of lifelong learning.
+
+<p><strong>Key Programmes </strong>
+</p><ul>
+  <li>Art Elective Programme</li>
+  <li>Music Elective Programme</li>
+  <li>Performance-Based Learning Journey</li>
+  <li>Aesthetics Week</li>
+  <li>Battle of the Bands</li>
+  <li>Racial Harmony Day Workshops</li>
+  <li>STC Bazaar</li>
+  <li>STC Got Talent</li>
+  <li>SYF Art Exhibition</li>
+</ul>
+
+
 <h4><strong>Head of Department</strong></h4>
 Mdm Chin Pooi Pooi (<a href="mailto:chin_pooi_pooi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chin_pooi_pooi@moe.edu.sg</a>)
 <h4><strong>Department Staff</strong></h4>
