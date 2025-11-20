@@ -2,12 +2,15 @@
 title: Announcements
 permalink: /others/announcement/
 description: ""
-variant: markdown
+variant: tiptap
 ---
+<h4><strong>School Closure on 21 November 2025</strong></h4>
+<p>Please note that the school will be closed on <strong>21 Nov 2025 (Friday)</strong> for
+a staff event.</p>
 <h4><strong>2025 Year End Message from Ms Vivienne Lim, Chairperson, <br>IJ Board of Management<br></strong></h4>
 <p></p>
-
-[Message from Ms Vivienne Lim, Chairperson, CHIJ Board ofManagement](/files/Announcement/STC___2025_Year_End_Message_from_IJBOM_Chairperson.pdf)
+<p><a href="/files/Announcement/STC___2025_Year_End_Message_from_IJBOM_Chairperson.pdf" rel="noopener noreferrer nofollow" target="_blank">Message from Ms Vivienne Lim, Chairperson, CHIJ Board ofManagement</a>
+</p>
 <hr>
 <h4>Sec 2/3 Parents Info Session</h4>
 <ul data-tight="true" class="tight">
