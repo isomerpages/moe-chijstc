@@ -288,12 +288,10 @@ of approval issued by the school during self-collection in the school.</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
-<li>
-<p>18 Dec 2024, 10.00am to 4.00pm</p>
-</li>
-<li>
-<p>19, 20, 23, 26 and 27 Dec 2024, 9.00am to 4.00pm</p>
-</li>
+
+<p>TBC</p>
+
+
 </ul>
 </td>
 </tr>
@@ -346,6 +344,7 @@ more time for the changeover to STC attire.</p>
 <h4 id="sec7">7. Information for Financial Assistance Scheme (FAS) Application</h4>
 <p>If you wish to apply or need more information for the MOE Financial Assistance
 Scheme, you may read the details in the school website at this <a href="https://www.chijsttheresasconvent.moe.edu.sg/theresian-family/students/moe-financial-assistance-scheme/" rel="noopener noreferrer nofollow" target="_blank">link</a>.</p>
+
 <h4 id="sec8">8.Transportation Matters</h4>
 <p>· &nbsp; &nbsp; &nbsp; Information on Secondary School Bus Concession
 Pass</p>
@@ -353,7 +352,7 @@ Pass</p>
 <h4 id="sec9">9. Appeals for Transfer</h4>
 <p>For appeals due to serious medical conditions, please refer to <a href="https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer" rel="noopener nofollow" target="_blank">MOE webpage here</a>.</p>
 <p>If you wish to apply for transfer due to non-medical reasons, please click&nbsp;
-<a href="https://go.gov.sg/2025stctransfer" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to complete the FormSG and submit it by <strong>27 December 2024, 12pm</strong><em>.</em> Please
+<a href="https://go.gov.sg/2025stctransfer" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to complete the FormSG and submit it by <strong>[TBC]</strong><em>.</em> Please
 note that your child needs to meet our school’s admission criteria and
 our school must have available vacancies, for her to be considered for
 the place.</p>
@@ -385,19 +384,18 @@ the place.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12</p>
+<p>TBC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>23</p>
+<p>TBC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30*</p>
+<p>TBC</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>* Last PG1 student came in with PSLE score better than 30.</p>
+
 <h4 id="sec10">10. Frequently Asked Questions</h4>
 
 To be updated.
-<p>----------------------------------</p>
