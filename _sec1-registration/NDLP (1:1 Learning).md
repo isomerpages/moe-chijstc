@@ -16,9 +16,9 @@ and enhance students’ learning. This will also enable students to acquire
 digital skills and apply these skills as they navigate an increasingly
 digitalised world</p>
 <p>Slides for Parents (To Be Updated)</p>
-<p><a href="/files/NDLP/IP2___Parent_Handbook__I__2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Handbook Part 1</a>
+<p><a href="/files/NDLP/IP2___Parent_Handbook__I__2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Handbook Part 1</a>
 </p>
-<p><a href="/files/NDLP/IP3___Parent_Handbook__II__2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Handbook Part 2</a>
+<p><a href="/files/NDLP/IP3___Parent_Handbook__II__2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Handbook Part 2</a>
 </p>
 <p><a href="/files/NDLP/FAQs_for_Parents_2026.pdf" rel="noopener nofollow" target="_blank">FAQ</a>
 </p>
