@@ -103,11 +103,11 @@ Lee Chai Yen (<a href="mailto:Lee_Chai_Yen@schools.gov.sg" rel="noopener norefer
 <p>
 <br><strong><u>Traffic Flow System - Morning Peak Hour &amp; Afternoon Peak Traffic</u></strong>
 </p>
-<p>The school operates a 2-way traffic flow system during the morning peak
+The school operates a 2-way traffic flow system during the morning peak
 period. Cars may either (i) enter from the main gate along Lower Delta
 Road and exit by the back gate along Telok Blangah Way;&nbsp;OR&nbsp;(ii)
 enter from the gate along Telok Blangah Way and exit by the main gate along
-Lower Delta Road.</p>
+Lower Delta Road.
 <p>During the afternoon peak period, only 1-way traffic flow is allowed.
 Cars may only enter from the main gate along Lower Delta Road and exit
 by the back gate along Telok Blangah Way.</p>
