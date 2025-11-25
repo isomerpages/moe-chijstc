@@ -1,23 +1,52 @@
 ---
 title: Sec 1 Registration 2026
 permalink: /sec-1-registration-2026/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <h2><strong>Sec 1 Registration 2026</strong></h2>
-<ol>
-  <li><a href="#sec1">Principal's Welcome Letter</a></li>
-  <li><a href="#sec2">Sec 1 Online Registration Form</a></li>
-  <li><a href="#sec3">Sec 1 Level Team (KPs and Form Teachers + Contact Details)</a></li>
-  <li><a href="#sec4">Academic Matters</a></li>
-  <li><a href="#sec5">Important Information for First Day of School</a></li>
-  <li><a href="#sec6">Purchase of School Uniforms, PE Attire and Textbooks</a></li>
-  <li><a href="#sec7">MOE Financial Assistance Scheme (FAS) Application</a></li>
-  <li><a href="#sec8">Transportation Matters</a></li>
-  <li><a href="#sec9">Info on Appeal / Transfer</a></li>
-  <li><a href="#sec10">Frequently Asked Questions</a></li>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="#sec1" rel="noopener noreferrer nofollow" target="_blank">Principal's Welcome Letter</a>
+</p>
+</li>
+<li>
+<p><a href="#sec2" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Online Registration Form</a>
+</p>
+</li>
+<li>
+<p><a href="#sec3" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Level Team (KPs and Form Teachers + Contact Details)</a>
+</p>
+</li>
+<li>
+<p><a href="#sec4" rel="noopener noreferrer nofollow" target="_blank">Academic Matters</a>
+</p>
+</li>
+<li>
+<p><a href="#sec5" rel="noopener noreferrer nofollow" target="_blank">Important Information for First Day of School</a>
+</p>
+</li>
+<li>
+<p><a href="#sec6" rel="noopener noreferrer nofollow" target="_blank">Purchase of School Uniforms, PE Attire and Textbooks</a>
+</p>
+</li>
+<li>
+<p><a href="#sec7" rel="noopener noreferrer nofollow" target="_blank">MOE Financial Assistance Scheme (FAS) Application</a>
+</p>
+</li>
+<li>
+<p><a href="#sec8" rel="noopener noreferrer nofollow" target="_blank">Transportation Matters</a>
+</p>
+</li>
+<li>
+<p><a href="#sec9" rel="noopener noreferrer nofollow" target="_blank">Info on Appeal / Transfer</a>
+</p>
+</li>
+<li>
+<p><a href="#sec10" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions</a>
+</p>
+</li>
 </ol>
-
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/welcome2thefamily.jpg">
 </div>
@@ -36,9 +65,9 @@ opportunities to learn and to forge new friendships.</p>
 <p>When you receive your posting to CHIJ St Theresa’s Convent, you do not
 need to be physically present in our school on that day as the Sec 1 Registration
 will be conducted online.</p>
-<h4 id="sec1">1. Principal's Welcome Letter</h4>
-To be updated.
-<h4 id="sec2">2. Online E-Registration Form</h4>
+<h4>1. Principal's Welcome Letter</h4>
+<p>To be updated.</p>
+<h4>2. Online E-Registration Form</h4>
 <p>Please ensure you have your Parents Gateway app to complete the Sec 1
 online e-registration on Sec 1 Registration Day. After you have received
 your school posting, CHIJ St. Theresa’s Convent should be automatically
@@ -47,19 +76,33 @@ from our school.</p>
 <p>On Sec 1 Registration Day, you will receive a notification via the Parents
 Gateway app to complete the online e-registration form on FormSG. This
 will allow you to complete the Sec 1 registration online. Please complete
-and submit the form before [TBC]. The link to the form
-is [TBC].</p>
+and submit the form before [TBC]. The link to the form is [TBC].</p>
 <p>For students who intend to put in an appeal to another school, you will
 still need to fill up this form and notify CHIJ STC General Office should
 you be successful in your appeal.</p>
-<h4 id="sec3">3. Sec 1 Level Team (KPs and Form Teachers + Contact Details)</h4>
-To be updated.
-
-<h4 id="sec4">4. 
-Academic Matters</h4>
-
-**Traffic Flow System - Morning Peak Hour &amp; Afternoon Peak Traffic**
-
+<h4>3. Sec 1 Level Team (KPs and Form Teachers + Contact Details)</h4>
+<p>To be updated.</p>
+<h4>4. Academic Matters</h4>
+<p></p>
+<p><strong><u>Art &amp; Music Elective Programmes</u></strong>
+</p>
+<p>To be updated</p>
+<p><strong><u>Mother Tongue &amp; Foreign Language Matters</u></strong>
+</p>
+<p>To be updated</p>
+<p><strong><u>Information on Non-Tamil&nbsp; Indian Language</u></strong>
+</p>
+<p>Please note that the Non-Tamil Languages (NTIL) lessons are <strong>not conducted</strong> in
+CHIJ St. Theresa’s Convent. Students who are taking NTIL will go to designated
+schools for their lessons.</p>
+<p>For more information on NTIL matters, please refer to Board for the Teaching
+and Testing of South Asian Languages. (<a href="http://www.bttsal.com" rel="noopener noreferrer nofollow" target="_blank"><u>http://www.bttsal.com</u></a>)</p>
+<p>For questions related to Mother Tongue Languages, please approach Mdm
+Lee Chai Yen (<a href="mailto:Lee_Chai_Yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Lee_Chai_Yen@schools.gov.sg</u></a>).</p>
+<h4>5. Important Information for first day of school</h4>
+<p>
+<br><strong><u>Traffic Flow System - Morning Peak Hour &amp; Afternoon Peak Traffic</u></strong>
+</p>
 <p>The school operates a 2-way traffic flow system during the morning peak
 period. Cars may either (i) enter from the main gate along Lower Delta
 Road and exit by the back gate along Telok Blangah Way;&nbsp;OR&nbsp;(ii)
@@ -76,9 +119,8 @@ by the back gate along Telok Blangah Way.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/traffic2.png">
 </div>
-    
-Reporting Time and attire
-
+<p><strong><u>Reporting Time and attire</u></strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -90,7 +132,7 @@ Reporting Time and attire
 <p>Reporting date:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2nd January 2025 (Thursday)</p>
+<p>TBC</p>
 </td>
 </tr>
 <tr>
@@ -98,7 +140,7 @@ Reporting Time and attire
 <p>Reporting time:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.20 am</p>
+<p>TBC</p>
 </td>
 </tr>
 <tr>
@@ -106,7 +148,7 @@ Reporting Time and attire
 <p>Venue:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AVA Room (Level 4)</p>
+<p>TBC</p>
 </td>
 </tr>
 <tr>
@@ -140,41 +182,38 @@ Reporting Time and attire
 </tr>
 </tbody>
 </table>
-<p>More details will be included in the Orientation Programme, including
-daily dismissal time for 2<sup>nd</sup>, 3<sup>rd</sup> and 6<sup>th</sup>&nbsp;January
-2025.&nbsp;</p>
-    
-**Sec 1 Orientation Programme**
-<br>To be Updated.
-
-**Sec 1 Info Night Session**
+<p>More details will be included in the Orientation Programme. More information
+to be updated.</p>
+<p><strong><u>Sec 1 Orientation Programme</u></strong>
+<br>To be Updated.</p>
+<p><strong><u>Sec 1 Info Night Session</u></strong>
 <br>
-<table style="min-width: 50px;">
-  <colgroup>
-    <col>
-    <col>
-  </colgroup>
-  <tbody>
-    <tr>
-      <td>
-        <p>Date:</p>
-      </td>
-      <td>
-        <p>6 January 2026 (Tuesday)</p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <p>Time:</p>
-      </td>
-      <td>
-        <p>4.30 pm to 6.30 pm</p>
-      </td>
-    </tr>
-  </tbody>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Date:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 January 2026 (Tuesday)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Time:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.30 pm to 6.30 pm</p>
+</td>
+</tr>
+</tbody>
 </table>
-
-   <h4 id="sec6">Purchase of School Uniforms, PE Attire and Textbooks</h4>
+<h4>6.Purchase of School Uniforms, PE Attire and Textbooks</h4>
 <p>You are encouraged to make your orders online. Purchase can be done via
 online order (to opt for either home delivery or self-collection in school)
 or non-online order (to order and self-collect in school).</p>
@@ -304,22 +343,14 @@ more time for the changeover to STC attire.</p>
 </tr>
 </tbody>
 </table>
-
-<h4>6. Information for Financial Assistance Scheme (FAS) Application</h4>
+<h4>7. Information for Financial Assistance Scheme (FAS) Application</h4>
 <p>If you wish to apply or need more information for the MOE Financial Assistance
 Scheme, you may read the details in the school website at this <a href="https://www.chijsttheresasconvent.moe.edu.sg/theresian-family/students/moe-financial-assistance-scheme/" rel="noopener noreferrer nofollow" target="_blank">link</a>.</p>
-<h4>
-
-Transportation Matters
-</h4>
-
-
-· &nbsp; &nbsp; &nbsp; Information on Secondary School Bus Concession Pass
-
-· &nbsp; &nbsp; &nbsp; Information on Private Bus Transport
-
-
-<h4>7. Appeals for Transfer</h4>
+<h4>Transportation Matters</h4>
+<p>· &nbsp; &nbsp; &nbsp; Information on Secondary School Bus Concession
+Pass</p>
+<p>· &nbsp; &nbsp; &nbsp; Information on Private Bus Transport</p>
+<h4>8. Appeals for Transfer</h4>
 <p>For appeals due to serious medical conditions, please refer to <a href="https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer" rel="noopener nofollow" target="_blank">MOE webpage here</a>.</p>
 <p>If you wish to apply for transfer due to non-medical reasons, please click&nbsp;
 <a href="https://go.gov.sg/2025stctransfer" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to complete the FormSG and submit it by <strong>27 December 2024, 12pm</strong><em>.</em> Please
@@ -366,28 +397,5 @@ the place.</p>
 </tbody>
 </table>
 <p>* Last PG1 student came in with PSLE score better than 30.</p>
-
-<h4>10. Frequently Asked Questions</h4>
-----------------------------------
-<h4>5. Information on Non-Tamil Indian Languages (NTIL)</h4>
-<p>Please note that the Non-Tamil Languages (NTIL) lessons are <strong>not conducted</strong> in
-CHIJ St. Theresa’s Convent. Students who are taking NTIL will go to designated
-schools for their lessons.</p>
-<p>For more information on NTIL matters, please refer to Board for the Teaching
-and Testing of South Asian Languages. (<a rel="noopener noreferrer nofollow" target="_blank">http://www.bttsal.com</a>)</p>
-<p>For questions related to Mother Tongue Languages, please approach Mdm
-Lee Chai Yen (<a rel="noopener noreferrer nofollow" target="_blank">Lee_Chai_Yen@schools.gov.sg</a>).</p>
-
-
-<h4>8. First Day of School 2025</h4>
-
-<h4>9. Traffic Flow</h4>
-
-<h4>10. Use of photograph(s) and video images(s)</h4>
-<p>Photograph(s) or video image(s) of students and their parents may be captured
-during school activities and events such as classroom lessons, CCA, school
-camps, school concerts. The school may use and publish such photographs
-and / or video recordings in school publications, website, social media
-channels and other communication channels.</p>
-<p>For any concerns, please email to our school at <a href="mailto:chijstcs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chijstcs@moe.edu.sg</a> and cc to the
-Secondary One Year Head, Ms Joyce Tan at <a href="mailto:tan_shu_min_joyce@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_shu_min_joyce@moe.edu.sg</a>.</p>
+<h4>9. Frequently Asked Questions</h4>
+<p>----------------------------------</p>
