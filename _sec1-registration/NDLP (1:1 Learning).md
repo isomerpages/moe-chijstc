@@ -60,7 +60,9 @@ to your child's form teacher by <u>9 Jan 2026</u>.</p>
 </p>
 <p>For parents/guardians of Singapore Citizen students, please fill in the
 online Edusave Standing Order (SO) should you wish to use your child’s/ward’s
-Edusave for the PLD purchase, if you have not done so previously.</p>
+Edusave for the PLD purchase. If you do not fill in this form, it will
+mean that you are not using Edusave Fund and you will have to pay cash
+for the purchase.</p>
 </td>
 </tr>
 </tbody>
