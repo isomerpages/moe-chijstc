@@ -100,9 +100,8 @@ and Testing of South Asian Languages. (<a href="http://www.bttsal.com" rel="noop
 <p>For questions related to Mother Tongue Languages, please approach Mdm
 Lee Chai Yen (<a href="mailto:Lee_Chai_Yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Lee_Chai_Yen@schools.gov.sg</u></a>).</p>
 <h4 id="sec5">5. Important Information for first day of school</h4>
-<p>
 <br><strong><u>Traffic Flow System - Morning Peak Hour &amp; Afternoon Peak Traffic</u></strong>
-</p>
+<p></p>
 <p>The school operates a 2-way traffic flow system during the morning peak
 period. Cars may either (i) enter from the main gate along Lower Delta
 Road and exit by the back gate along Telok Blangah Way;&nbsp;OR&nbsp;(ii)
@@ -336,7 +335,7 @@ more time for the changeover to STC attire.</p>
 </tr>
 </tbody>
 </table>
-<h4 id="sec6">7. Information for Financial Assistance Scheme (FAS) Application</h4>
+<h4 id="sec7">7. Information for Financial Assistance Scheme (FAS) Application</h4>
 <p>If you wish to apply or need more information for the MOE Financial Assistance
 Scheme, you may read the details in the school website at this <a href="https://www.chijsttheresasconvent.moe.edu.sg/theresian-family/students/moe-financial-assistance-scheme/" rel="noopener noreferrer nofollow" target="_blank">link</a>.</p>
 <h4 id="sec8">8. Transportation Matters</h4>
