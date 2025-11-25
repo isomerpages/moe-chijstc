@@ -132,7 +132,7 @@ by the back gate along Telok Blangah Way.</p>
 <p>Reporting date:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>[TBC]</p>
 </td>
 </tr>
 <tr>
@@ -140,7 +140,7 @@ by the back gate along Telok Blangah Way.</p>
 <p>Reporting time:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>[TBC]</p>
 </td>
 </tr>
 <tr>
@@ -148,7 +148,7 @@ by the back gate along Telok Blangah Way.</p>
 <p>Venue:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>[TBC]</p>
 </td>
 </tr>
 <tr>
@@ -287,11 +287,7 @@ of approval issued by the school during self-collection in the school.</p>
 <p>Date/Time:</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>TBC</p>
-</li>
-</ul>
+<p>[TBC]</p>
 </td>
 </tr>
 <tr>
@@ -352,11 +348,10 @@ Scheme, you may read the details in the school website at this <a href="https://
 <p>To be updated.</p>
 <h4>9. Appeals for Transfer</h4>
 <p>For appeals due to serious medical conditions, please refer to <a href="https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer" rel="noopener nofollow" target="_blank">MOE webpage here</a>.</p>
-<p>If you wish to apply for transfer due to non-medical reasons, please click&nbsp;
-<a href="https://go.gov.sg/2025stctransfer" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to complete the FormSG and submit it by <strong>[TBC]</strong><em>.</em> Please
-note that your child needs to meet our school’s admission criteria and
-our school must have available vacancies, for her to be considered for
-the place.</p>
+<p>If you wish to apply for transfer due to non-medical reasons, please click&nbsp;here
+[TBC] to complete the FormSG and submit it by [TBC]<em>.</em> Please note
+that your child needs to meet our school’s admission criteria and our school
+must have available vacancies, for her to be considered for the place.</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -385,13 +380,13 @@ the place.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>[TBC]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>[TBC]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>[TBC]</p>
 </td>
 </tr>
 </tbody>
