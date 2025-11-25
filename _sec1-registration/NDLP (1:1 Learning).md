@@ -20,7 +20,7 @@ digitalised world</p>
 </p>
 <p><a href="/files/NDLP/IP3___Parent_Handbook__II__2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Handbook Part 2</a>
 </p>
-<p><a href="/files/NDLP/FAQs_for_Parents_2025.pdf" rel="noopener nofollow" target="_blank">FAQ</a>
+<p><a href="/files/NDLP/FAQs_for_Parents_2026.pdf" rel="noopener nofollow" target="_blank">FAQ</a>
 </p>
 <h4>PLD Purchase Instructions</h4>
 <table style="minWidth: 50px">
