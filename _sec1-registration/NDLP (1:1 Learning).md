@@ -47,7 +47,7 @@ via PG is <u>9 Jan 2026</u>.</p>
 <td rowspan="1" colspan="1">
 <p>Download hardcopy consent form here and return the signed consent form
 to your child's form teacher by <u>9 Jan 2026</u>.</p>
-<p><a href="/files/NDLP/Hardcopy_Consent_Form_for_Purchase_of_PLD_Use_of_Edusave_And_Authorisation_Form_STC.pdf" rel="noopener nofollow" target="_blank">Hardcopy Consent Form to purchase PLD (for parents without PG)</a>
+<p><a href="/files/NDLP/IP4_Windows____Parental_Consent_for_Purchase_of_PLD_2026_STC__HardcopyForm_.pdf" rel="noopener nofollow" target="_blank">Hardcopy Consent Form to purchase PLD (for parents without PG)</a>
 </p>
 </td>
 </tr>
