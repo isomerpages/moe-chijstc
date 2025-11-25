@@ -390,5 +390,5 @@ must have available vacancies, for her to be considered for the place.</p>
 </tr>
 </tbody>
 </table>
-<h4 id="sec6">10. Frequently Asked Questions</h4>
+<h4 id="sec10">10. Frequently Asked Questions</h4>
 <p>To be updated.</p>
