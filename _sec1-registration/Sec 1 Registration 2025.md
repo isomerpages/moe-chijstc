@@ -5,6 +5,7 @@ variant: markdown
 description: ""
 ---
 <h2><strong>Sec 1 Registration 2025</strong></h2>
+<a href="#principal-letter">Go to Principal's Welcome Letter</a>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/welcome2thefamily.jpg">
 </div>
@@ -23,7 +24,7 @@ opportunities to learn and to forge new friendships.</p>
 <p>When you receive your posting to CHIJ St Theresa’s Convent, you do not
 need to be physically present in our school on that day as the Sec 1 Registration
 will be conducted online.</p>
-<h4>1. Principal's Welcome Letter</h4>
+<h4 id="principal-letter">1. Principal's Welcome Letter</h4>
 <p>Please click <a href="/files/Sec 1 Registration/2025_Principal_s_Welcome_Letter___Sec_1_Final_2.pdf" rel="noopener nofollow" target="_blank">here.</a>
 </p>
 <h4>2. Sec 1 Registration Day Webinar</h4>
