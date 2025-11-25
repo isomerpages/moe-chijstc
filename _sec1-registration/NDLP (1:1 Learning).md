@@ -15,8 +15,7 @@ Space (“SLS”) – as well as other educational technology to personalise
 and enhance students’ learning. This will also enable students to acquire
 digital skills and apply these skills as they navigate an increasingly
 digitalised world</p>
-<p><a href="/files/NDLP/IP1___Parent_Engagement_Deck_2025_STC_For_Website.pdf" rel="noopener nofollow" target="_blank">Slides for Parents (2025)</a>
-</p>
+<p>Slides for Parents (To Be Updated)</p>
 <p><a href="/files/NDLP/IP2___Parent_Handbook__I__2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Handbook Part 1</a>
 </p>
 <p><a href="/files/NDLP/IP3___Parent_Handbook__II__2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Handbook Part 2</a>
@@ -37,7 +36,7 @@ digitalised world</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Pls reply via PG consent form sent on 2 Jan. Deadline for intent to purchase
-via PG is <u>9 Jan 2025</u>.</p>
+via PG is <u>9 Jan 2026</u>.</p>
 </td>
 </tr>
 <tr>
@@ -47,7 +46,7 @@ via PG is <u>9 Jan 2025</u>.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Download hardcopy consent form here and return the signed consent form
-to your child's form teacher by <u>9 Jan 2025</u>.</p>
+to your child's form teacher by <u>9 Jan 2026</u>.</p>
 <p><a href="/files/NDLP/Hardcopy_Consent_Form_for_Purchase_of_PLD_Use_of_Edusave_And_Authorisation_Form_STC.pdf" rel="noopener nofollow" target="_blank">Hardcopy Consent Form to purchase PLD (for parents without PG)</a>
 </p>
 </td>
