@@ -1,7 +1,7 @@
 ---
 title: Sec 1 Registration 2026
 permalink: /sec-1-registration-2026/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <h2><strong>Sec 1 Registration 2026</strong></h2>
@@ -65,9 +65,9 @@ opportunities to learn and to forge new friendships.</p>
 <p>When you receive your posting to CHIJ St Theresa’s Convent, you do not
 need to be physically present in our school on that day as the Sec 1 Registration
 will be conducted online.</p>
-<h4 id="sec1">1. Principal's Welcome Letter</h4>
+<h4>1. Principal's Welcome Letter</h4>
 <p>To be updated.</p>
-<h4 id="sec2">2.Sec 1 Online E-Registration Form</h4>
+<h4>2.Sec 1 Online E-Registration Form</h4>
 <p>Please ensure you have your Parents Gateway app to complete the Sec 1
 online e-registration on Sec 1 Registration Day. After you have received
 your school posting, CHIJ St. Theresa’s Convent should be automatically
@@ -80,9 +80,9 @@ and submit the form before [TBC]. The link to the form is [TBC].</p>
 <p>For students who intend to put in an appeal to another school, you will
 still need to fill up this form and notify CHIJ STC General Office should
 you be successful in your appeal.</p>
-<h4 id="sec3">3. Sec 1 Level Team (KPs and Form Teachers + Contact Details)</h4>
+<h4>3. Sec 1 Level Team (KPs and Form Teachers + Contact Details)</h4>
 <p>To be updated.</p>
-<h4 id="sec4">4. Academic Matters</h4>
+<h4>4. Academic Matters</h4>
 <p></p>
 <p><strong><u>Art &amp; Music Elective Programmes</u></strong>
 </p>
@@ -99,15 +99,15 @@ schools for their lessons.</p>
 and Testing of South Asian Languages. (<a href="http://www.bttsal.com" rel="noopener noreferrer nofollow" target="_blank"><u>http://www.bttsal.com</u></a>)</p>
 <p>For questions related to Mother Tongue Languages, please approach Mdm
 Lee Chai Yen (<a href="mailto:Lee_Chai_Yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Lee_Chai_Yen@schools.gov.sg</u></a>).</p>
-<h4 id="sec5">5. Important Information for first day of school</h4>
+<h4>5. Important Information for first day of school</h4>
 <p>
 <br><strong><u>Traffic Flow System - Morning Peak Hour &amp; Afternoon Peak Traffic</u></strong>
 </p>
-The school operates a 2-way traffic flow system during the morning peak
+<p>The school operates a 2-way traffic flow system during the morning peak
 period. Cars may either (i) enter from the main gate along Lower Delta
 Road and exit by the back gate along Telok Blangah Way;&nbsp;OR&nbsp;(ii)
 enter from the gate along Telok Blangah Way and exit by the main gate along
-Lower Delta Road.
+Lower Delta Road.</p>
 <p>During the afternoon peak period, only 1-way traffic flow is allowed.
 Cars may only enter from the main gate along Lower Delta Road and exit
 by the back gate along Telok Blangah Way.</p>
@@ -213,7 +213,7 @@ to be updated.</p>
 </tr>
 </tbody>
 </table>
-<h4 id="sec6">6.Purchase of School Uniforms, PE Attire and Textbooks</h4>
+<h4>6. Purchase of School Uniforms, PE Attire and Textbooks</h4>
 <p>You are encouraged to make your orders online. Purchase can be done via
 online order (to opt for either home delivery or self-collection in school)
 or non-online order (to order and self-collect in school).</p>
@@ -288,10 +288,9 @@ of approval issued by the school during self-collection in the school.</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
-
+<li>
 <p>TBC</p>
-
-
+</li>
 </ul>
 </td>
 </tr>
@@ -341,15 +340,17 @@ more time for the changeover to STC attire.</p>
 </tr>
 </tbody>
 </table>
-<h4 id="sec7">7. Information for Financial Assistance Scheme (FAS) Application</h4>
+<h4>7. Information for Financial Assistance Scheme (FAS) Application</h4>
 <p>If you wish to apply or need more information for the MOE Financial Assistance
 Scheme, you may read the details in the school website at this <a href="https://www.chijsttheresasconvent.moe.edu.sg/theresian-family/students/moe-financial-assistance-scheme/" rel="noopener noreferrer nofollow" target="_blank">link</a>.</p>
-
-<h4 id="sec8">8.Transportation Matters</h4>
-<p>· &nbsp; &nbsp; &nbsp; Information on Secondary School Bus Concession
-Pass</p>
-<p>· &nbsp; &nbsp; &nbsp; Information on Private Bus Transport</p>
-<h4 id="sec9">9. Appeals for Transfer</h4>
+<h4>8. Transportation Matters</h4>
+<p><strong><u>Information on Secondary School Bus Concession Pass</u></strong>
+</p>
+<p>To be updated.</p>
+<p><strong><u>Information on Private Bus Transport</u></strong>
+</p>
+<p>To be updated.</p>
+<h4>9. Appeals for Transfer</h4>
 <p>For appeals due to serious medical conditions, please refer to <a href="https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer" rel="noopener nofollow" target="_blank">MOE webpage here</a>.</p>
 <p>If you wish to apply for transfer due to non-medical reasons, please click&nbsp;
 <a href="https://go.gov.sg/2025stctransfer" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to complete the FormSG and submit it by <strong>[TBC]</strong><em>.</em> Please
@@ -395,7 +396,5 @@ the place.</p>
 </tr>
 </tbody>
 </table>
-
-<h4 id="sec10">10. Frequently Asked Questions</h4>
-
-To be updated.
+<h4>10. Frequently Asked Questions</h4>
+<p>To be updated.</p>
