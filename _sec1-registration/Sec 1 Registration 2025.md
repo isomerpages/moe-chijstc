@@ -5,7 +5,19 @@ variant: markdown
 description: ""
 ---
 <h2><strong>Sec 1 Registration 2025</strong></h2>
-<a href="#principal-letter">Go to Principal's Welcome Letter</a>
+<ul style="list-style-type: disc; padding-left: 20px;">
+  <li><a href="#principal-letter">Principal’s Welcome Letter</a></li>
+  <li><a href="#registration-webinar">Sec 1 Registration Day Webinar</a></li>
+  <li><a href="#e-registration">Online E-Registration Form</a></li>
+  <li><a href="#uniform-books">Purchase of School Uniform, PE Attire &amp; Books</a></li>
+  <li><a href="#ntil">Information on Non-Tamil Indian Languages (NTIL)</a></li>
+  <li><a href="#fas">Information for Financial Assistance Scheme (FAS) Application</a></li>
+  <li><a href="#appeals">Appeals for Transfer</a></li>
+  <li><a href="#first-day">First Day of School 2025</a></li>
+  <li><a href="#traffic-flow">Traffic Flow</a></li>
+  <li><a href="#photo-video">Use of photograph(s) and video image(s)</a></li>
+</ul>
+
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/welcome2thefamily.jpg">
 </div>
