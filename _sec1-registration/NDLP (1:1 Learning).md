@@ -54,6 +54,8 @@ to your child's form teacher by <u>9 Jan 2026</u>.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Online Edusave Standing Order (SO)</p>
+<p>(Need to fill in for parents of Singapore Citizen students who are using
+Edusave to pay for the PLD)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/edusaveformsgso" rel="noopener nofollow" target="_blank">https://go.gov.sg/edusaveformsgso</a>
