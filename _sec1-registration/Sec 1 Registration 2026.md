@@ -98,7 +98,7 @@ schools for their lessons.</p>
 <p>For more information on NTIL matters, please refer to Board for the Teaching
 and Testing of South Asian Languages. (<a href="http://www.bttsal.com" rel="noopener noreferrer nofollow" target="_blank"><u>http://www.bttsal.com</u></a>)</p>
 <p>For questions related to Mother Tongue Languages, please approach Ms Ng
-Say Hong (<a href="mailto:Ng_Say_Hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ng_Sya_Hong</u></a>
+Say Hong (<a href="mailto:Ng_Say_Hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ng_Say_Hong</u></a>
 <a href="mailto:Lee_Chai_Yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>@schools.gov.sg</u>
 </a>).</p>
 <h4>5. Important Information for first day of school</h4>
