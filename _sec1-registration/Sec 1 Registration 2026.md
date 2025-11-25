@@ -67,7 +67,7 @@ need to be physically present in our school on that day as the Sec 1 Registratio
 will be conducted online.</p>
 <h4>1. Principal's Welcome Letter</h4>
 <p>To be updated.</p>
-<h4>2.Sec 1 Online E-Registration Form</h4>
+<h4>2. Sec 1 Online E-Registration Form</h4>
 <p>Please ensure you have your Parents Gateway app to complete the Sec 1
 online e-registration on Sec 1 Registration Day. After you have received
 your school posting, CHIJ St. Theresa’s Convent should be automatically
@@ -307,8 +307,8 @@ of approval issued by the school during self-collection in the school.</p>
 in school:</p>
 </li>
 <li>
-<p>You need only make one e-appointment via <a href="https://www.picktime.com/stc2024" rel="noopener nofollow" target="_blank">https://www.picktime.com/stc2024</a> for
-the purchase of school uniform, PE attire, textbooks and stationery.</p>
+<p>You need only make one e-appointment via [TBC] for the purchase of school
+uniform, PE attire, textbooks and stationery.</p>
 </li>
 <li>
 <p>You will receive a confirmation email on the appointment date and time.</p>
