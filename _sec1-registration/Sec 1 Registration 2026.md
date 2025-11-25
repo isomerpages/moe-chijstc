@@ -233,14 +233,14 @@ or non-online order (to order and self-collect in school).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>KH Uniform Pte. Ltd.</p>
-<p>Website: <a href="https://www.khuniform.com" rel="noopener noreferrer nofollow" target="_blank">https://www.khuniform.com</a>
+<p>My Uniform Shop (Asia) Pte. Ltd.</p>
+<p>Website: <a href="www.myuniformshop.com.sg" rel="noopener noreferrer nofollow" target="_blank">www.myuniformshop.com.sg</a>
 </p>
-<p>Blk 115A Commonwealth Drive #02-28</p>
-<p>Singapore 149596</p>
-<p>Tel: 6479 6811</p>
-<p>(Weekdays, excluding eve of Public Holidays, 9.00am-12.00pm/1.00pm-5.00pm)</p>
-<p>Email: <a href="mailto:sales@khuniform.com" rel="noopener noreferrer nofollow" target="_blank">sales@khuniform.com</a>
+<p>209 New Upper Changi Road #03-651</p>
+<p>Singapore&nbsp;460209</p>
+<p>Tel: 62766689</p>
+<p>(Refer to website for Operating Hours)</p>
+<p>Email: <a href="mailto:sales@khuniform.com" rel="noopener noreferrer nofollow" target="_blank">myuniformshopasia@gmail.com</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
