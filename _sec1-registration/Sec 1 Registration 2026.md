@@ -67,7 +67,7 @@ need to be physically present in our school on that day as the Sec 1 Registratio
 will be conducted online.</p>
 <h4 id="sec1">1. Principal's Welcome Letter</h4>
 <p>To be updated.</p>
-<h4 id="sec2">2. Online E-Registration Form</h4>
+<h4 id="sec2">2.Sec 1 Online E-Registration Form</h4>
 <p>Please ensure you have your Parents Gateway app to complete the Sec 1
 online e-registration on Sec 1 Registration Day. After you have received
 your school posting, CHIJ St. Theresa’s Convent should be automatically
