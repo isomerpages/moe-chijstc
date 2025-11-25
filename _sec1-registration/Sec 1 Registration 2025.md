@@ -4,7 +4,7 @@ permalink: /sec-1-registration-2025/
 variant: markdown
 description: ""
 ---
-<h2><strong>Sec 1 Registration 2025</strong></h2>
+<h2><strong>Sec 1 Registration 2026</strong></h2>
 <ul style="list-style-type: disc; padding-left: 20px;">
   <li><a href="#principal-letter">Principal’s Welcome Letter</a></li>
   <li><a href="#registration-webinar">Sec 1 Registration Day Webinar</a></li>
