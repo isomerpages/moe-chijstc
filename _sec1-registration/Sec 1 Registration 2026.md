@@ -5,48 +5,6 @@ variant: tiptap
 description: ""
 ---
 <h2><strong>Sec 1 Registration 2026</strong></h2>
-<ol data-tight="true" class="tight">
-<li>
-<p><a href="#sec1" rel="noopener noreferrer nofollow" target="_blank">Principal's Welcome Letter</a>
-</p>
-</li>
-<li>
-<p><a href="#sec2" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Online Registration Form</a>
-</p>
-</li>
-<li>
-<p><a href="#sec3" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Level Team (KPs and Form Teachers + Contact Details)</a>
-</p>
-</li>
-<li>
-<p><a href="#sec4" rel="noopener noreferrer nofollow" target="_blank">Academic Matters</a>
-</p>
-</li>
-<li>
-<p><a href="#sec5" rel="noopener noreferrer nofollow" target="_blank">Important Information for First Day of School</a>
-</p>
-</li>
-<li>
-<p><a href="#sec6" rel="noopener noreferrer nofollow" target="_blank">Purchase of School Uniforms, PE Attire and Textbooks</a>
-</p>
-</li>
-<li>
-<p><a href="#sec7" rel="noopener noreferrer nofollow" target="_blank">MOE Financial Assistance Scheme (FAS) Application</a>
-</p>
-</li>
-<li>
-<p><a href="#sec8" rel="noopener noreferrer nofollow" target="_blank">Transportation Matters</a>
-</p>
-</li>
-<li>
-<p><a href="#sec9" rel="noopener noreferrer nofollow" target="_blank">Info on Appeal / Transfer</a>
-</p>
-</li>
-<li>
-<p><a href="#sec10" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions</a>
-</p>
-</li>
-</ol>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/welcome2thefamily.jpg">
 </div>
@@ -105,7 +63,6 @@ Say Hong (<a href="mailto:Ng_Say_Hong@schools.gov.sg" rel="noopener noreferrer n
 <p>
 <br><strong><u>Traffic Flow System - Morning Peak Hour &amp; Afternoon Peak Traffic</u></strong>
 </p>
-<p></p>
 <p>The school operates a 2-way traffic flow system during the morning peak
 period. Cars may either (i) enter from the main gate along Lower Delta
 Road and exit by the back gate along Telok Blangah Way;&nbsp;OR&nbsp;(ii)
