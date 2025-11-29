@@ -42,12 +42,10 @@ you be successful in your appeal.</p>
 <p>To be updated.</p>
 <h4>4. Academic Matters</h4>
 <p></p>
-<p><strong><u>Art &amp; Music Elective Programmes</u></strong>
+<p><strong><a href="/files/Sec 1 Registration/2026_AEP_and_MEP_Centre_Briefing_Slides__19_Nov_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Art &amp; Music Elective Programmes</u></a></strong>
 </p>
-<p>To be updated</p>
-<p><strong><u>Mother Tongue &amp; Foreign Language Matters</u></strong>
-</p>
-<p>To be updated</p>
+<p><strong><u>Mother Tongue &amp; Foreign Language Matters</u> </strong>(To
+be updated)</p>
 <p><strong><u>Information on Non-Tamil&nbsp; Indian Language</u></strong>
 </p>
 <p>Please note that the Non-Tamil Languages (NTIL) lessons are <strong>not conducted</strong> in
