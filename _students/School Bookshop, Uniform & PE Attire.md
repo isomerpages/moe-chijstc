@@ -2,9 +2,9 @@
 title: School Bookshop, Uniform & PE Attire
 permalink: /theresian-family/students/school-bookshop-uniform-n-pe-attire/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-##### Book and Stationery Lists (2026 Cohort)
+<h5>Book and Stationery Lists (2026 Cohort)</h5>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -85,13 +85,15 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-
-##### Purchase Guide (2026 Cohort)
-
-[Download purchase guide for school uniform (S2 to S5)](/files/Purchase_Guide_for_School_Uniform__Sec_2_to_5_students_.pdf)
-
-[Download purchase guide for school textbooks (S2 to S5)](/files/Books%20and%20Uniform/Purchase_Guide_for_School_Textbook_and_Stationery__Sec_2_to_5_students_.pdf)
-
+<h5>Purchase Guide (2026 Cohort)</h5>
+<p><a href="/files/Purchase_Guide_for_School_Uniform__Sec_2_to_5_students_.pdf" rel="noopener nofollow" target="_blank">Download purchase guide for school uniform (S1)</a>
+</p>
+<p><a href="/files/Books and Uniform/Purchase_Guide_for_School_Textbook_and_Stationery__Sec_One_students___2026_Cohort_.pdf" rel="noopener nofollow" target="_blank">Download purchase guide for school textbooks(S1)</a>
+</p>
+<p><a href="/files/Purchase_Guide_for_School_Uniform__Sec_2_to_5_students_.pdf" rel="noopener noreferrer nofollow" target="_blank">Download purchase guide for school uniform (S2 to S5)</a>
+</p>
+<p><a href="/files/Books%20and%20Uniform/Purchase_Guide_for_School_Textbook_and_Stationery__Sec_2_to_5_students_.pdf" rel="noopener noreferrer nofollow" target="_blank">Download purchase guide for school textbooks (S2 to S5)</a>
+</p>
 <p><strong>Vendors</strong>
 </p>
 <table style="minWidth: 50px">
