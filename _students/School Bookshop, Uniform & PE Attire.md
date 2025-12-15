@@ -86,7 +86,7 @@ variant: tiptap
 </tbody>
 </table>
 <h5>Purchase Guide (2026 Cohort)</h5>
-<p><a href="/files/Purchase_Guide_for_School_Uniform__Sec_2_to_5_students_.pdf" rel="noopener nofollow" target="_blank">Download purchase guide for school uniform (S1)</a>
+<p><a href="/files/Books and Uniform/Purchase_Guide_for_School_Uniform__Sec_One_students___2026_Cohort_.pdf" rel="noopener nofollow" target="_blank">Download purchase guide for school uniform (S1)</a>
 </p>
 <p><a href="/files/Books and Uniform/Purchase_Guide_for_School_Textbook_and_Stationery__Sec_One_students___2026_Cohort_.pdf" rel="noopener nofollow" target="_blank">Download purchase guide for school textbooks(S1)</a>
 </p>
