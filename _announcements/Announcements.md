@@ -4,15 +4,14 @@ permalink: /others/announcement/
 description: ""
 variant: tiptap
 ---
-<h4>Announcement on the Release and Collection of N-Level Results(18 December, 2:00pm)</h4>
+<h4><strong>Annoucement on the Release and Collection of N-Level Results (18 December, 2:00pm)</strong></h4>
 <p>&nbsp;Dear Parents/Gaudian</p>
 <p>The 2025 N-Level results will be released this Thursday, 18 December.
 All students are to return to their Secondary schools to collect their
 results. Details had been sent to them earlier via their respective Google
 Classrooms. Details are as follows for your reference.</p>
-<p>&nbsp;</p>
-<p><strong>Date and time of release of results</strong>: 18 December 2025,
-2pm
+<p>&nbsp;<strong>Date and time of release of results</strong>: 18 December
+2025, 2pm
 <br><strong>Venue to report to</strong>: AVA Room (students are to use the
 ramp in front of the GO and look out for the signages that will be placed
 along the way)
