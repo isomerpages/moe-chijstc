@@ -4,7 +4,7 @@ permalink: /others/announcement/
 description: ""
 variant: markdown
 ---
-<h4><strong>Annoucement on the Release and Collection of N-Level Results (18 December, 2:00pm)</strong></h4>
+<h4><strong>Annoucement on the Release and Collection of N-Level Results<br> (18 December, 2:00pm)</strong></h4>
 <p>&nbsp;Dear Parents/Gaudian</p>
 <p>The 2025 N-Level results will be released this Thursday, 18 December.
 All students are to return to their Secondary schools to collect their
