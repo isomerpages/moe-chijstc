@@ -60,7 +60,7 @@ and emotional support as well as education and career guidance.</p>
 <p>Booking Form for ECG Counselling Appointments at the ECG Centre @ MOE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-ecg-centre</a>
+<p><a href="https://go.gov.sg/moe-ecg-centre" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-ecg-centre</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -75,7 +75,7 @@ am to 12.00 pm)</p>
 <p>Education and Career Guidance (ECG) Parent Resource</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/nlevel-ecgparentresources</a>
+<p><a href="http://go.gov.sg/nlevel-ecgparentresources" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/nlevel-ecgparentresources</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -87,7 +87,7 @@ am to 12.00 pm)</p>
 <p>Social and Emotional learning: Resources for Parents</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/nlevel-selparentresources</a>
+<p><a href="http://go.gov.sg/nlevel-selparentresources" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/nlevel-selparentresources</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
