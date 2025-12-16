@@ -112,16 +112,16 @@ am to 12.00 pm)</p>
 <br>(<a href="https://www.ite.edu.sg/intake-exercises/" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/intake-exercises/</a>)</p>
 </li>
 <li>
-<p>Direct-Entry-Scheme to Polytechnic Programme (DPP) (<a href="www.ite.edu.sg/secondary-school-students/admissions/entry-qualifications/gce-n-level/for-gce-n-students-jie-h/" rel="noopener noreferrer nofollow" target="_blank">www.ite.edu.sg/secondary-school-students/admissions/entry-qualifications/gce-n-level/for-gce-n-students-jie-h/</a>)</p>
+<p>Direct-Entry-Scheme to Polytechnic Programme (DPP) (<a href="https://www.ite.edu.sg/secondary-school-students/admissions/entry-qualifications/gce-n-level/for-gce-n-students-jie-h/" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/secondary-school-students/admissions/entry-qualifications/gce-n-level/for-gce-n-students-jie-h/</a>)</p>
 </li>
 <li>
-<p>Polytechnic Foundation Programme (PFP) (<a href="pfp.polytechnic.edu.sg/PFP/index.html" rel="noopener noreferrer nofollow" target="_blank">pfp.polytechnic.edu.sg/PFP/index.html</a>)</p>
+<p>Polytechnic Foundation Programme (PFP) (<a href="https://pfp.polytechnic.edu.sg/PFP/index.html" rel="noopener noreferrer nofollow" target="_blank">https://pfp.polytechnic.edu.sg/PFP/index.html</a>)</p>
 </li>
 <li>
 <p>MOE’s CourseFinder (<a href="https://www.moe.gov.sg/coursefinder" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/coursefinder</a>)</p>
 </li>
 <li>
-<p>MySkillsFuture Student Portal on education and career pathways (<a href="go.gov.sg/mysfsec" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/mysfsec</a>)</p>
+<p>MySkillsFuture Student Portal on education and career pathways (<a href="https://go.gov.sg/mysfsec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mysfsec</a>)</p>
 </li>
 </ul>
 </td>
