@@ -45,8 +45,8 @@ you be successful in your appeal.</p>
 </p>
 <p><a href="/files/Sec 1 Registration/2026_AEP_and_MEP_Centre_Briefing_Slides__19_Nov_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Art &amp; Music Elective Programmes</u></a>
 </p>
-<p><strong><u>Mother Tongue &amp; Foreign Language Matters</u> </strong>(To
-be updated)</p>
+<p><strong><u>Mother Tongue &amp; Foreign Language Matters</u></strong>
+</p>
 <p><a href="/files/Sec 1 Registration/2026_Sec_1_Registration__MTL.pdf" rel="noopener nofollow" target="_blank">Mother Tongue &amp; Foreign Language Matters</a>
 </p>
 <p><strong><u>Information on Non-Tamil&nbsp; Indian Language</u></strong>
