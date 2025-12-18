@@ -46,6 +46,8 @@ you be successful in your appeal.</p>
 </p>
 <p><strong><u>Mother Tongue &amp; Foreign Language Matters</u> </strong>(To
 be updated)</p>
+<p><a href="/files/Sec 1 Registration/2026_Sec_1_Registration__MTL.pdf" rel="noopener nofollow" target="_blank">Mother Tongue  &amp; Foreign Language Matters </a>
+</p>
 <p><strong><u>Information on Non-Tamil&nbsp; Indian Language</u></strong>
 </p>
 <p>Please note that the Non-Tamil Languages (NTIL) lessons are <strong>not conducted</strong> in
