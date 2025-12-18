@@ -43,7 +43,7 @@ you be successful in your appeal.</p>
 <h4>4. Academic Matters</h4>
 <p><strong><u>Art &amp; Music Elective Matters</u></strong>
 </p>
-<p><strong><a href="/files/Sec 1 Registration/2026_AEP_and_MEP_Centre_Briefing_Slides__19_Nov_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Art &amp; Music Elective Programmes</u></a></strong>
+<p><a href="/files/Sec 1 Registration/2026_AEP_and_MEP_Centre_Briefing_Slides__19_Nov_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Art &amp; Music Elective Programmes</u></a>
 </p>
 <p><strong><u>Mother Tongue &amp; Foreign Language Matters</u> </strong>(To
 be updated)</p>
