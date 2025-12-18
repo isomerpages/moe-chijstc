@@ -41,11 +41,14 @@ you be successful in your appeal.</p>
 <h4>3. Sec 1 Level Team (KPs and Form Teachers + Contact Details)</h4>
 <p>To be updated.</p>
 <h4>4. Academic Matters</h4>
-<p></p>
-<p><strong><a href="/files/Sec 1 Registration/2026_AEP_and_MEP_Centre_Briefing_Slides__19_Nov_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Art &amp; Music Elective Programmes</u></a></strong>
+<p><strong><u>Art &amp; Music Elective Matters</u></strong>
 </p>
-<p><strong><u>Mother Tongue &amp; Foreign Language Matters</u> </strong>(To
-be updated)</p>
+<p><a href="/files/Sec 1 Registration/2026_AEP_and_MEP_Centre_Briefing_Slides__19_Nov_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Art &amp; Music Elective Programmes</u></a>
+</p>
+<p><strong><u>Mother Tongue &amp; Foreign Language Matters</u></strong>
+</p>
+<p><a href="/files/Sec 1 Registration/2026_Sec_1_Registration__MTL.pdf" rel="noopener nofollow" target="_blank">Mother Tongue &amp; Foreign Language Matters</a>
+</p>
 <p><strong><u>Information on Non-Tamil&nbsp; Indian Language</u></strong>
 </p>
 <p>Please note that the Non-Tamil Languages (NTIL) lessons are <strong>not conducted</strong> in
@@ -58,8 +61,7 @@ Say Hong (<a href="mailto:Ng_Say_Hong@schools.gov.sg" rel="noopener noreferrer n
 <a href="mailto:Lee_Chai_Yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>@schools.gov.sg</u>
 </a>).</p>
 <h4>5. Important Information for first day of school</h4>
-<p>
-<br><strong><u>Traffic Flow System - Morning Peak Hour &amp; Afternoon Peak Traffic</u></strong>
+<p><strong><u>Traffic Flow System - Morning Peak Hour &amp; Afternoon Peak Traffic</u></strong>
 </p>
 <p>The school operates a 2-way traffic flow system during the morning peak
 period. Cars may either (i) enter from the main gate along Lower Delta
