@@ -46,6 +46,8 @@ you be successful in your appeal.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/2026_Sec_1_Level_Team.png">
 </div>
+<p>You may reach out to them via their email addresses listed on the school
+website <a href="https://www.chijsttheresasconvent.moe.edu.sg/theresian-family/staff/teaching-staff/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <h4>4. Academic Matters</h4>
 <p><a href="/files/Sec 1 Registration/2026_AEP_and_MEP_Centre_Briefing_Slides__19_Nov_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Art &amp; Music Elective Programmes</u></a>
 </p>
@@ -59,8 +61,7 @@ lessons.</p>
 <p>For more information on NTIL matters, please refer to Board for the Teaching
 and Testing of South Asian Languages. (<a rel="noopener noreferrer nofollow" target="_blank">http://www.bttsal.com</a>)</p>
 <p>For questions related to Mother Tongue Languages, please approach Ms Ng
-Say Hong (<a href="mailto:Ng_Say_Hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ng_Say_Hong</a>&nbsp;
-<a href="mailto:Lee_Chai_Yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@</a><a rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>).</p>
+Say Hong (<a href="mailto:Ng_Say_Hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_say_hong@schools.gov.sg</a>).</p>
 <h4>5. Important Information for first day of school</h4>
 <p><strong><u>Traffic Flow System - Morning Peak Hour &amp; Afternoon Peak Traffic</u></strong>
 </p>
