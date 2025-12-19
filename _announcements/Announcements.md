@@ -4,7 +4,11 @@ permalink: /others/announcement/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Annoucement on the Release and Collection of N-Level Results<br>(18 December, 2:00pm)</strong></h4>
+<h4><strong>2025 N Level Briefing Slides for Students</strong></h4>
+<p><a href="/files/Announcement/2025_N_Level_Briefing_Slides_Student___for_GC_and_website.pdf" rel="noopener nofollow" target="_blank">2025 N Level Briefing Slides for Students</a>
+</p>
+<p></p>
+<h4><strong>Announcement on the Release and Collection of N-Level Results<br>(18 December, 2:00pm)</strong></h4>
 <p>&nbsp;Dear Parents/Guardians,</p>
 <p>&nbsp;The 2025 N-Level results will be released this Thursday, 18 December.
 All students are to return to their Secondary schools to collect their
