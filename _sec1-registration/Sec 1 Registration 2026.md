@@ -351,4 +351,4 @@ must have available vacancies, for her to be considered for the place.</p>
 </tr>
 </tbody>
 </table>
-<p>*Last PG1 student came in with PSLE score better than 0. d.</p>
+<p>*Last PG1 student came in with PSLE score better than 30.</p>
