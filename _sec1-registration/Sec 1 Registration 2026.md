@@ -37,8 +37,7 @@ Gateway app and you will be able to receive notifications from our school.</p>
 Gateway app to complete the online e-registration form on FormSG. This
 will allow you to complete the Sec 1 registration online. Please click
 <a href="https://go.gov.sg/stc2026sec1" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to complete and submit the form before 24 December 2025.
-The link to the form can also be accessed at <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/stc2026sec1.</a>
-</p>
+The link to the form can also be accessed at <a href="https://go.gov.sg/stc2026sec1" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/stc2026sec1</a>.</p>
 <p>For students who intend to put in an appeal to another school, you will
 still need to fill up this form and notify the STC General Office should
 you be successful in your appeal.</p>
