@@ -308,5 +308,3 @@ the place.</p>
 <p>*Last PG1 student came in with PSLE score better than 30.</p>
 <h4>10. Frequently Asked Questions</h4>
 <p>Please click <a href="/files/Sec 1 Registration/Sec_1_Registration_FAQs.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
-<p></p>
-<p>a set of PE attire.</p>
