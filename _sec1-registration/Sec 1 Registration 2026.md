@@ -235,9 +235,8 @@ school.</p>
 <br>1G: MARIE</p>
 </li>
 <li>
-<p>Detailed instructions for the purchase can be found in the school website
+Detailed instructions for the purchase can be found in the school website
 at this&nbsp;<a href="https://www.chijsttheresasconvent.moe.edu.sg/theresian-family/students/school-bookshop-uniform-n-pe-attire/" rel="noopener noreferrer nofollow" target="_blank">link</a>
-</p>
 </li>
 </ul>
 </td>
