@@ -244,7 +244,10 @@ of approval issued by the school during self-collection in the school.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Date/Time:</p>
+<p>Date/</p>
+</td>
+	<td rowspan="1" colspan="1">
+<p>Time</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>[TBC]</p>
