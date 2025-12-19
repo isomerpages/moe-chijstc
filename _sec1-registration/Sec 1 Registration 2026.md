@@ -104,8 +104,7 @@ follows.</p>
 <p><strong>Date: <br></strong>6 January 2026 (Tuesday)</p>
 <p><strong>Time:<br></strong>4pm–6.30pm</p>
 <p><strong>Venue:</strong> 
-<br>School Multi-Purpose Hall</p>
-<p><strong>&nbsp;</strong>
+<br>School Multi-Purpose Hall<strong>&nbsp;</strong>
 </p>
 <h4>6. Purchase of School Uniforms, PE Attire and Textbooks</h4>
 <p>You are encouraged to make your orders online. Purchase can be done via
@@ -234,10 +233,12 @@ school.</p>
 <br>1F: JOSEPH
 <br>1G: MARIE</p>
 </li>
-</ul>
+<li>
 <p>Detailed instructions for the purchase can be found in the school website
 at this&nbsp;<a href="https://www.chijsttheresasconvent.moe.edu.sg/theresian-family/students/school-bookshop-uniform-n-pe-attire/" rel="noopener noreferrer nofollow" target="_blank">link.</a>
 </p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
