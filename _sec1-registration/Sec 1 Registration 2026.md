@@ -1,7 +1,7 @@
 ---
 title: Sec 1 Registration 2026
 permalink: /sec-1-registration-2026/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <h2><strong>Sec 1 Registration 2026</strong></h2>
@@ -28,7 +28,7 @@ guide you and your daughter through the registration process.</p>
 <h4>1. Principal's Welcome Letter</h4>
 <p>Please click <a href="/files/Sec 1 Registration/1__2026_Principal_s_Welcome_Letter___Sec_1_vf.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 view the letter.</p>
-<h4>2. Sec 1 Online E-Registration Form</h4>
+<h4>2. Sec 1 Online E-Registration </h4>
 <p>Please ensure that you have your Parents Gateway app to complete the Sec
 1 online e-registration on Sec 1 Registration Day. After you have received
 your school posting, STC should be automatically reflected on the Parents
@@ -37,8 +37,7 @@ Gateway app and you will be able to receive notifications from our school.</p>
 Gateway app to complete the online e-registration form on FormSG. This
 will allow you to complete the Sec 1 registration online. Please click
 <a href="https://go.gov.sg/stc2026sec1" rel="noopener noreferrer nofollow" target="_blank">here</a> <a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[LBL(1]</a>&nbsp;to complete and submit the form before
-24 December 2025. <a rel="noopener noreferrer nofollow" target="_blank">The link to the form can also be accessed at </a>
-<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/stc2026sec1.[LBL(2]</a>&nbsp;</p>
+24 December 2025. <a rel="noopener noreferrer nofollow" target="_blank">The link to the form can also be accessed at https://go.gov.sg/stc2026sec1.[LBL(2]</a>&nbsp;</p>
 <p>For students who intend to put in an appeal to another school, you will
 still need to fill up this form and notify the STC General Office should
 you be successful in your appeal.</p>
@@ -307,89 +306,92 @@ the place.</p>
 </tbody>
 </table>
 <p>*Last PG1 student came in with PSLE score better than 30.</p>
-
 <h4>10. Frequently Asked Questions</h4>
-          
-
-**Admissions and Curriculum**
-
-**Q: How are classes allocated, and what is the proportion of G1, G2, and G3 students?**  
-A: Each class will have approximately 37 or 38 students. The proportion will include around 20 G3 students, 11 G2 students, and 6 G1 students. We wish to nurture an inclusive class environment with positive class interactions.
-
-**Q: Are there religious activities during school time? For non-Christians, will there be different arrangements?**  
-A: Your child does not need to participate. Instead, she will be requested to remain silent during the session. We respect every student’s religion and would like to teach our Theresian girls how to be part of an inclusive society.
-
-**Q: Where can I accept the offer to take Higher Mother Tongue (HMT)?**  
-A: You can respond via Parents Gateway by 26 December 2025.
-
-**Q: How do I find out if my child is eligible to take Higher Mother Tongue (HMT)?**  
-A: If your child is offered HMTL, you will be notified via Parents Gateway. You need to respond to accept the offer by 26 Dec 2025.
-
-* * *
-
-**School Operations and Facilities**
-
-**Q: What time do the gates open in the morning for vehicle drop-off?**  
-A: The gates open at 6:30 AM.
-
-**Q: What time do the back gate open?**  
-A: The back gate will be opened daily from 6.30 - 7.30am and 1.30 - 2.30pm during dismissal time.
-
-**Q: Can parents park in the school on 6 January (Info Session for parents at 4.30 pm)?**  
-A: Due to limited parking lots in the school, parents are encouraged to park at nearby HDB car parks.
-
-**Q: Must students wear the pinafore all day?**  
-A: Yes, students are expected to be in their pinafore during school hours. Please refer to the school handbook for rules on the school attire.
-
-**Q: Can I check the regular school hours?**  
-A: For normal school days, school starts at 7.30 am sharp in the Hall with the national anthem, and all students should reach the Hall in good time. For the last period of the day, it will be 1.30 pm, or 2 or 2.30 pm latest, depending on the class timetables.
-
-* * *
-
-**Uniforms and Booklists**
-
-**Q: When will we receive the booklist?**  
-A: The booklist can be found on the school website at the following link:  
-[School Bookshop and Uniform Information](https://www.chijsttheresasconvent.moe.edu.sg/theresian-family/students/school-bookshop-uniform-n-pe-attire/).
-
-**Q: When will we know which booklist (G1/G2/G3) do we buy for our daughter?**  
-A: You would have been informed of your posting groups, PG1, 2 or 3. You can buy the books according to the these Posting groups, PG1 for G1, PG2 for G2 and PG3 for G3. If you are offered more demanding subjects (MDL), you would have already been informed via PG. If you accept the MDL subject, pls buy the books according to the level you accepted.
-
-**Q: How many sets of uniforms and PE attire should we purchase?**  
-A: It is recommended to purchase 2–3 sets of uniforms, 2 sets of PE attire, and 1 house T-shirt. House t-shirts can be purchased at a later date, at the school bookshop.
-
-**Q: Can we purchase the House t-shirt later?**
-
-A: Yes, house t-shirts can be purchased after the students know which house they are allocated to. The house t-shirts may be purchased from the school bookshop.
-
-**Q: Are there specific requirements for school shoes?**  
-A: Students should wear white school shoes.
-
-**Q: Can we buy uniforms and books on-site?**  
-A: Yes, both uniforms and books can be purchased on-site. For non-online purchases, you may book an appointment and visit the school at the allocated time.
-
-**Q: Do students need to purchase e-books?**  
-A: E-books are optional. You may purchase them if you wish to have both e-copy and print versions.
-
-**Q: On days with PE/CCA, are students allowed to wear their PE attire all day?**  
-A: Students are expected to wear their IJ Blue uniform to school and change into their PE attire for PE lessons, then change back afterward. During CCA, they may wear their CCA T-shirts after school hours.
-
-* * *
-
-**Special Programmes and Portfolios**
-
-**Q: Is the student guided in preparing her art portfolio for the Art Elective Programme (AEP)?**  
-A: Students need to prepare their artwork and show it to the art teachers, who will provide advice. Selection is conducted by the MOE Arts Education Branch.
-
-**Q: Does my child need a portfolio for the Music Elective Programme (MEP)?**  
-A: Yes, a recorded video of under five minutes featuring your child playing an instrument or singing is required. This audition file will be submitted online, and details will be sent via Parents Gateway.
-
-* * *
-
-**Payments and Logistics**
-
-**Q: Does the canteen accept cashless payments?**  
-A: Yes, the canteen accepts cashless payments for food purchases.
-
-**Q: Is my child supposed to wear the school uniform during orientation?**  
-A: Yes, students should report in their school uniform and bring a set of PE attire.
+<p><strong>Admissions and Curriculum</strong>
+</p>
+<p><strong>Q: How are classes allocated, and what is the proportion of G1, G2, and G3 students?</strong>
+<br>A: Each class will have approximately 37 or 38 students. The proportion
+will include around 20 G3 students, 11 G2 students, and 6 G1 students.
+We wish to nurture an inclusive class environment with positive class interactions.</p>
+<p><strong>Q: Are there religious activities during school time? For non-Christians, will there be different arrangements?</strong>
+<br>A: Your child does not need to participate. Instead, she will be requested
+to remain silent during the session. We respect every student’s religion
+and would like to teach our Theresian girls how to be part of an inclusive
+society.</p>
+<p><strong>Q: Where can I accept the offer to take Higher Mother Tongue (HMT)?</strong>
+<br>A: You can respond via Parents Gateway by 26 December 2025.</p>
+<p><strong>Q: How do I find out if my child is eligible to take Higher Mother Tongue (HMT)?</strong>
+<br>A: If your child is offered HMTL, you will be notified via Parents Gateway.
+You need to respond to accept the offer by 26 Dec 2025.</p>
+<hr>
+<p><strong>School Operations and Facilities</strong>
+</p>
+<p><strong>Q: What time do the gates open in the morning for vehicle drop-off?</strong>
+<br>A: The gates open at 6:30 AM.</p>
+<p><strong>Q: What time do the back gate open?</strong>
+<br>A: The back gate will be opened daily from 6.30 - 7.30am and 1.30 - 2.30pm
+during dismissal time.</p>
+<p><strong>Q: Can parents park in the school on 6 January (Info Session for parents at 4.30 pm)?</strong>
+<br>A: Due to limited parking lots in the school, parents are encouraged to
+park at nearby HDB car parks.</p>
+<p><strong>Q: Must students wear the pinafore all day?</strong>
+<br>A: Yes, students are expected to be in their pinafore during school hours.
+Please refer to the school handbook for rules on the school attire.</p>
+<p><strong>Q: Can I check the regular school hours?</strong>
+<br>A: For normal school days, school starts at 7.30 am sharp in the Hall
+with the national anthem, and all students should reach the Hall in good
+time. For the last period of the day, it will be 1.30 pm, or 2 or 2.30
+pm latest, depending on the class timetables.</p>
+<hr>
+<p><strong>Uniforms and Booklists</strong>
+</p>
+<p><strong>Q: When will we receive the booklist?</strong>
+<br>A: The booklist can be found on the school website at the following link:
+<br><a href="https://www.chijsttheresasconvent.moe.edu.sg/theresian-family/students/school-bookshop-uniform-n-pe-attire/" rel="noopener noreferrer nofollow" target="_blank">School Bookshop and Uniform Information</a>.</p>
+<p><strong>Q: When will we know which booklist (G1/G2/G3) do we buy for our daughter?</strong>
+<br>A: You would have been informed of your posting groups, PG1, 2 or 3. You
+can buy the books according to the these Posting groups, PG1 for G1, PG2
+for G2 and PG3 for G3. If you are offered more demanding subjects (MDL),
+you would have already been informed via PG. If you accept the MDL subject,
+pls buy the books according to the level you accepted.</p>
+<p><strong>Q: How many sets of uniforms and PE attire should we purchase?</strong>
+<br>A: It is recommended to purchase 2–3 sets of uniforms, 2 sets of PE attire,
+and 1 house T-shirt. House t-shirts can be purchased at a later date, at
+the school bookshop.</p>
+<p><strong>Q: Can we purchase the House t-shirt later?</strong>
+</p>
+<p>A: Yes, house t-shirts can be purchased after the students know which
+house they are allocated to. The house t-shirts may be purchased from the
+school bookshop.</p>
+<p><strong>Q: Are there specific requirements for school shoes?</strong>
+<br>A: Students should wear white school shoes.</p>
+<p><strong>Q: Can we buy uniforms and books on-site?</strong>
+<br>A: Yes, both uniforms and books can be purchased on-site. For non-online
+purchases, you may book an appointment and visit the school at the allocated
+time.</p>
+<p><strong>Q: Do students need to purchase e-books?</strong>
+<br>A: E-books are optional. You may purchase them if you wish to have both
+e-copy and print versions.</p>
+<p><strong>Q: On days with PE/CCA, are students allowed to wear their PE attire all day?</strong>
+<br>A: Students are expected to wear their IJ Blue uniform to school and change
+into their PE attire for PE lessons, then change back afterward. During
+CCA, they may wear their CCA T-shirts after school hours.</p>
+<hr>
+<p><strong>Special Programmes and Portfolios</strong>
+</p>
+<p><strong>Q: Is the student guided in preparing her art portfolio for the Art Elective Programme (AEP)?</strong>
+<br>A: Students need to prepare their artwork and show it to the art teachers,
+who will provide advice. Selection is conducted by the MOE Arts Education
+Branch.</p>
+<p><strong>Q: Does my child need a portfolio for the Music Elective Programme (MEP)?</strong>
+<br>A: Yes, a recorded video of under five minutes featuring your child playing
+an instrument or singing is required. This audition file will be submitted
+online, and details will be sent via Parents Gateway.</p>
+<hr>
+<p><strong>Payments and Logistics</strong>
+</p>
+<p><strong>Q: Does the canteen accept cashless payments?</strong>
+<br>A: Yes, the canteen accepts cashless payments for food purchases.</p>
+<p><strong>Q: Is my child supposed to wear the school uniform during orientation?</strong>
+<br>A: Yes, students should report in their school uniform and bring a set
+of PE attire.</p>
