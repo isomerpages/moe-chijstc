@@ -340,16 +340,17 @@ must have available vacancies, for her to be considered for the place.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>[TBC]</p>
+<p>13</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>[TBC]</p>
+<p>24</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>[TBC]</p>
+<p>30*</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p>*Last PG1 student came in with PSLE score better than 30.</p>
 <h4>10. Frequently Asked Questions</h4>
 <p>To be updated.</p>
