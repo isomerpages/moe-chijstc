@@ -14,60 +14,65 @@ description: ""
 </p>
 <p>We are pleased that you have made CHIJ St. Theresa's Convent (STC) your
 school of choice. You are entering into a new and an exciting phase of
-school life. At CHIJ STC, we aim to involve you in all aspects of school
-life to develop a strong community of leaders and learners for God and
-for others. For the students, we understand that transiting from primary
-to secondary school is a big step and that many of you will need time to
-adjust to a new environment and new expectations. There will be numerous
-opportunities to learn and to forge new friendships.</p>
-<p>When you receive your posting to CHIJ St Theresa’s Convent, you do not
-need to be physically present in our school on that day as the Sec 1 Registration
-will be conducted online.</p>
+school life. At STC, we aim to involve you in all aspects of school life
+to develop a strong community of leaders and learners for God and for others.
+For the students, we understand that transiting from primary to secondary
+school is a big step and that many of you will need time to adjust to a
+new environment and new expectations. There will be numerous opportunities
+to learn and to forge new friendships.</p>
+<p>When you receive your posting to STC, there is no need for students and
+their parents to be physically present in school as the Sec 1 registration
+process will take place online.</p>
+<p>In place of a webinar, necessary information will be provided here to
+guide you and your daughter through the registration process.</p>
 <h4>1. Principal's Welcome Letter</h4>
-<p>To be updated.</p>
-<h4>2. Sec 1 Online E-Registration Form</h4>
-<p>Please ensure you have your Parents Gateway app to complete the Sec 1
-online e-registration on Sec 1 Registration Day. After you have received
-your school posting, CHIJ St. Theresa’s Convent should be automatically
-reflected on the Parents Gateway app and you will be able to receive notifications
-from our school.</p>
+<p>Please click <a href="/files/Sec 1 Registration/1__2026_Principal_s_Welcome_Letter___Sec_1_vf.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+view the letter.</p>
+<h4>2. Sec 1 Online E-Registration</h4>
+<p>Please ensure that you have your Parents Gateway app to complete the Sec
+1 online e-registration on Sec 1 Registration Day. After you have received
+your school posting, STC should be automatically reflected on the Parents
+Gateway app and you will be able to receive notifications from our school.</p>
 <p>On Sec 1 Registration Day, you will receive a notification via the Parents
 Gateway app to complete the online e-registration form on FormSG. This
-will allow you to complete the Sec 1 registration online. Please complete
-and submit the form before [TBC]. The link to the form is [TBC].</p>
+will allow you to complete the Sec 1 registration online. Please click
+<a href="https://go.gov.sg/stc2026sec1" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to complete and submit the form before 24 December 2025.
+The link to the form can also be accessed at <a href="https://go.gov.sg/stc2026sec1" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/stc2026sec1</a>.</p>
 <p>For students who intend to put in an appeal to another school, you will
-still need to fill up this form and notify CHIJ STC General Office should
+still need to fill up this form and notify the STC General Office should
 you be successful in your appeal.</p>
-<h4>3. Sec 1 Level Team (KPs and Form Teachers + Contact Details)</h4>
-<p>To be updated.</p>
+<h4>3. Introduction of the Sec 1 Level Team</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/2026_Sec_1_Level_Team.png">
+</div>
+<p>You may reach out to them via their email addresses listed on the school
+website <a href="https://www.chijsttheresasconvent.moe.edu.sg/theresian-family/staff/teaching-staff/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <h4>4. Academic Matters</h4>
-<p><strong><u>Art &amp; Music Elective Matters</u></strong>
-</p>
 <p><a href="/files/Sec 1 Registration/2026_AEP_and_MEP_Centre_Briefing_Slides__19_Nov_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Art &amp; Music Elective Programmes</u></a>
-</p>
-<p><strong><u>Mother Tongue &amp; Foreign Language Matters</u></strong>
 </p>
 <p><a href="/files/Sec 1 Registration/2026_Sec_1_Registration__MTL.pdf" rel="noopener nofollow" target="_blank">Mother Tongue &amp; Foreign Language Matters</a>
 </p>
 <p><strong><u>Information on Non-Tamil&nbsp; Indian Language</u></strong>
 </p>
-<p>Please note that the Non-Tamil Languages (NTIL) lessons are <strong>not conducted</strong> in
-CHIJ St. Theresa’s Convent. Students who are taking NTIL will go to designated
-schools for their lessons.</p>
+<p>Please note that the Non-Tamil Languages (NTIL) lessons are&nbsp;<strong>not conducted</strong>&nbsp;in
+STC. Students who are taking NTIL will go to designated schools for their
+lessons.</p>
 <p>For more information on NTIL matters, please refer to Board for the Teaching
-and Testing of South Asian Languages. (<a href="http://www.bttsal.com" rel="noopener noreferrer nofollow" target="_blank"><u>http://www.bttsal.com</u></a>)</p>
+and Testing of South Asian Languages. (<a rel="noopener noreferrer nofollow" target="_blank">http://www.bttsal.com</a>)</p>
 <p>For questions related to Mother Tongue Languages, please approach Ms Ng
-Say Hong (<a href="mailto:Ng_Say_Hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ng_Say_Hong</u></a>
-<a href="mailto:Lee_Chai_Yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>@schools.gov.sg</u>
-</a>).</p>
+Say Hong (<a href="mailto:Ng_Say_Hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_say_hong@schools.gov.sg</a>).</p>
 <h4>5. Important Information for first day of school</h4>
 <p><strong><u>Traffic Flow System - Morning Peak Hour &amp; Afternoon Peak Traffic</u></strong>
 </p>
+<p>Click <a href="https://drive.google.com/file/d/1yzU3WtvMgVRz2ehtbhz7-ZdZe7Rvmsi9/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+watch the video on the traffic flows for parents who are driving to school
+to drop off their daughters in school in the morning.</p>
 <p>The school operates a 2-way traffic flow system during the morning peak
 period. Cars may either (i) enter from the main gate along Lower Delta
-Road and exit by the back gate along Telok Blangah Way;&nbsp;OR&nbsp;(ii)
-enter from the gate along Telok Blangah Way and exit by the main gate along
-Lower Delta Road.</p>
+Road and exit by the back gate along Telok Blangah Way; OR (ii) enter from
+the gate along Telok Blangah Way and exit by the main gate along Lower
+Delta Road.</p>
 <p>During the afternoon peak period, only 1-way traffic flow is allowed.
 Cars may only enter from the main gate along Lower Delta Road and exit
 by the back gate along Telok Blangah Way.</p>
@@ -79,100 +84,28 @@ by the back gate along Telok Blangah Way.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/traffic2.png">
 </div>
-<p><strong><u>Reporting Time and attire</u></strong>
+<p><strong><u>Reporting Time and attire for the First Day of School</u></strong>
 </p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Reporting date:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>[TBC]</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Reporting time:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>[TBC]</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Venue:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>[TBC]</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Attire:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Students can report in their IJ Uniform or in their Primary School Uniform</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Things to bring:</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Writing materials</p>
-</li>
-<li>
-<p>Water bottle</p>
-</li>
-<li>
-<p>PE attire or primary school PE attire</p>
-</li>
-<li>
-<p>A storybook</p>
-</li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
-<p>More details will be included in the Orientation Programme. More information
-to be updated.</p>
-<p><strong><u>Sec 1 Orientation Programme</u></strong>
-<br>To be Updated.</p>
-<p><strong><u>Sec 1 Info Night Session</u></strong>
-<br>
+<p><strong>First Day of School: <br></strong>2 January 2026 (Friday)</p>
+<p><strong>Reporting time: <br></strong>7.20am in the AVA Room (Level 4)</p>
+<p><strong>Attire</strong>:<em> <br></em>IJ Blue (Blue pinafore &amp; white
+blouse) or Primary school uniform*</p>
+<p>*Sec 1 students may wear their primary school attire (including PE attire
+for PE lessons) for the first two weeks of Term 1, to allow more time for
+the changeover to STC attire. Likewise for students pending appeal to another
+school.</p>
+<p>More details on the Orientation Programme will be shared with students
+on the first day of school.</p>
+<p><strong><u>Sec 1 Info Night (In person session)</u></strong>
 </p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Date:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 January 2026 (Tuesday)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Time:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4.30 pm to 6.30 pm</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p>All parents / guardians are cordially invited to this Info Night. Your
+daughter/ward should be with you during the Info Night. Details are as
+follows.</p>
+<p><strong>Date: <br></strong>6 January 2026 (Tuesday)</p>
+<p><strong>Time:<br></strong>4pm–6.30pm</p>
+<p><strong>Venue:</strong> 
+<br>School Multi-Purpose Hall<strong>&nbsp;</strong>
+</p>
 <h4>6. Purchase of School Uniforms, PE Attire and Textbooks</h4>
 <p>You are encouraged to make your orders online. Purchase can be done via
 online order (to opt for either home delivery or self-collection in school)
@@ -244,10 +177,18 @@ of approval issued by the school during self-collection in the school.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Date/Time:</p>
+<p>Date</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>[TBC]</p>
+<p>19, 22, 23, 26 and 29 Dec 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Time:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9am-4pm</p>
 </td>
 </tr>
 <tr>
@@ -267,8 +208,9 @@ of approval issued by the school during self-collection in the school.</p>
 in school:</p>
 </li>
 <li>
-<p>You need only make one e-appointment via [TBC] for the purchase of school
-uniform, PE attire, textbooks and stationery.</p>
+<p>Click <a href="https://www.picktime.com/home/chijstc2025" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+make the e-appointment. You need only make one e-appointment for the purchase
+of school uniform, PE attire, textbooks and stationery.</p>
 </li>
 <li>
 <p>You will receive a confirmation email on the appointment date and time.</p>
@@ -278,18 +220,23 @@ uniform, PE attire, textbooks and stationery.</p>
 Security Guard House (main gate).</p>
 </li>
 <li>
-<p>Student who is under the MOE/School-based FAS is also required to make
-an e-appointment to book a date to collect the required items in school.</p>
+<p>Do note that a student who is under the MOE/School-based FAS is also required
+to make an e-appointment to book a date to collect the required items in
+school.</p>
+</li>
+<li>
+<p>Do also note the STC House allocation for the 2026 Sec 1 students.
+<br>1A &amp; 1B: CAROLINE
+<br>1C: IGNATIUS
+<br>1D: CATHERINE
+<br>1E: ISABEL
+<br>1F: JOSEPH
+<br>1G: MARIE</p>
 </li>
 <li>
 <p>Detailed instructions for the purchase can be found in the school website
-at this <a href="https://www.chijsttheresasconvent.moe.edu.sg/theresian-family/students/school-bookshop-uniform-n-pe-attire/" rel="noopener nofollow" target="_blank">link.</a>
+at this&nbsp;<a href="https://www.chijsttheresasconvent.moe.edu.sg/theresian-family/students/school-bookshop-uniform-n-pe-attire/" rel="noopener noreferrer nofollow" target="_blank">link.</a>
 </p>
-</li>
-<li>
-<p>Secondary One students may wear their primary school attire (including
-PE attire for PE lessons) for the first two weeks of Term One, to allow
-more time for the changeover to STC attire.</p>
 </li>
 </ul>
 </td>
@@ -298,20 +245,26 @@ more time for the changeover to STC attire.</p>
 </table>
 <h4>7. Information for Financial Assistance Scheme (FAS) Application</h4>
 <p>If you wish to apply or need more information for the MOE Financial Assistance
-Scheme, you may read the details in the school website at this <a href="https://www.chijsttheresasconvent.moe.edu.sg/theresian-family/students/moe-financial-assistance-scheme/" rel="noopener noreferrer nofollow" target="_blank">link</a>.</p>
+Scheme, you may read the details in the school website at this&nbsp;
+<a href="https://www.chijsttheresasconvent.moe.edu.sg/theresian-family/students/moe-financial-assistance-scheme/" rel="noopener noreferrer nofollow" target="_blank">link</a>.</p>
 <h4>8. Transportation Matters</h4>
 <p><strong><u>Information on Secondary School Bus Concession Pass</u></strong>
 </p>
-<p>To be updated.</p>
-<p><strong><u>Information on Private Bus Transport</u></strong>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All Students entering Secondary
+One in Jan 2025 will be issued with a new Secondary level <strong>School Smart Card (SSC).</strong>
 </p>
-<p>To be updated.</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students can continue to <strong>use Primary SSC for concessionary travel till <u>end</u></strong><u> </u><strong><u>Apr 2026</u> </strong>while
+waiting for the Secondary SSC to be ready.</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You can purchase the <strong>Bus Concession Pass (BCP) </strong>using
+your Primary SSC but need to purchase the BCP for <strong>Secondary</strong> School.</p>
 <h4>9. Appeals for Transfer</h4>
-<p>For appeals due to serious medical conditions, please refer to <a href="https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer" rel="noopener nofollow" target="_blank">MOE webpage here</a>.</p>
-<p>If you wish to apply for transfer due to non-medical reasons, please click&nbsp;here
-[TBC] to complete the FormSG and submit it by [TBC]<em>.</em> Please note
-that your child needs to meet our school’s admission criteria and our school
-must have available vacancies, for her to be considered for the place.</p>
+<p>For appeals due to serious medical conditions, please refer to&nbsp;
+<a href="https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer" rel="noopener noreferrer nofollow" target="_blank">MOE webpage here</a>.</p>
+<p>If you wish to apply for transfer due to non-medical reasons, please click&nbsp;
+<a href="https://go.gov.sg/2026sec1appealstc" rel="noopener noreferrer nofollow" target="_blank">here</a>to complete the FormSG and submit it by 26 December 2025, 12pm<em>.</em>&nbsp;Please
+note that your child needs to meet our school’s admission criteria and
+our school must have available vacancies, for her to be considered for
+the place.</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -352,3 +305,92 @@ must have available vacancies, for her to be considered for the place.</p>
 </tbody>
 </table>
 <p>*Last PG1 student came in with PSLE score better than 30.</p>
+<h4>10. Frequently Asked Questions</h4>
+<p><strong>Admissions and Curriculum</strong>
+</p>
+<p><strong>Q: How are classes allocated, and what is the proportion of G1, G2, and G3 students?</strong>
+<br>A: Each class will have approximately 37 or 38 students. The proportion
+will include around 20 G3 students, 11 G2 students, and 6 G1 students.
+We wish to nurture an inclusive class environment with positive class interactions.</p>
+<p><strong>Q: Are there religious activities during school time? For non-Christians, will there be different arrangements?</strong>
+<br>A: Your child does not need to participate. Instead, she will be requested
+to remain silent during the session. We respect every student’s religion
+and would like to teach our Theresian girls how to be part of an inclusive
+society.</p>
+<p><strong>Q: Where can I accept the offer to take Higher Mother Tongue (HMT)?</strong>
+<br>A: You can respond via Parents Gateway by 26 December 2025.</p>
+<p><strong>Q: How do I find out if my child is eligible to take Higher Mother Tongue (HMT)?</strong>
+<br>A: If your child is offered HMTL, you will be notified via Parents Gateway.
+You need to respond to accept the offer by 26 Dec 2025.</p>
+<hr>
+<p><strong>School Operations and Facilities</strong>
+</p>
+<p><strong>Q: What time do the gates open in the morning for vehicle drop-off?</strong>
+<br>A: The gates open at 6:30 AM.</p>
+<p><strong>Q: What time do the back gate open?</strong>
+<br>A: The back gate will be opened daily from 6.30 - 7.30am and 1.30 - 2.30pm
+during dismissal time.</p>
+<p><strong>Q: Can parents park in the school on 6 January (Info Session for parents at 4.30 pm)?</strong>
+<br>A: Due to limited parking lots in the school, parents are encouraged to
+park at nearby HDB car parks.</p>
+<p><strong>Q: Must students wear the pinafore all day?</strong>
+<br>A: Yes, students are expected to be in their pinafore during school hours.
+Please refer to the school handbook for rules on the school attire.</p>
+<p><strong>Q: Can I check the regular school hours?</strong>
+<br>A: For normal school days, school starts at 7.30 am sharp in the Hall
+with the national anthem, and all students should reach the Hall in good
+time. For the last period of the day, it will be 1.30 pm, or 2 or 2.30
+pm latest, depending on the class timetables.</p>
+<hr>
+<p><strong>Uniforms and Booklists</strong>
+</p>
+<p><strong>Q: When will we receive the booklist?</strong>
+<br>A: The booklist can be found on the school website at the following link:
+<br><a href="https://www.chijsttheresasconvent.moe.edu.sg/theresian-family/students/school-bookshop-uniform-n-pe-attire/" rel="noopener noreferrer nofollow" target="_blank">School Bookshop and Uniform Information</a>.</p>
+<p><strong>Q: When will we know which booklist (G1/G2/G3) do we buy for our daughter?</strong>
+<br>A: You would have been informed of your posting groups, PG1, 2 or 3. You
+can buy the books according to the these Posting groups, PG1 for G1, PG2
+for G2 and PG3 for G3. If you are offered more demanding subjects (MDL),
+you would have already been informed via PG. If you accept the MDL subject,
+pls buy the books according to the level you accepted.</p>
+<p><strong>Q: How many sets of uniforms and PE attire should we purchase?</strong>
+<br>A: It is recommended to purchase 2–3 sets of uniforms, 2 sets of PE attire,
+and 1 house T-shirt. House t-shirts can be purchased at a later date, at
+the school bookshop.</p>
+<p><strong>Q: Can we purchase the House t-shirt later?</strong>
+</p>
+<p>A: Yes, house t-shirts can be purchased after the students know which
+house they are allocated to. The house t-shirts may be purchased from the
+school bookshop.</p>
+<p><strong>Q: Are there specific requirements for school shoes?</strong>
+<br>A: Students should wear white school shoes.</p>
+<p><strong>Q: Can we buy uniforms and books on-site?</strong>
+<br>A: Yes, both uniforms and books can be purchased on-site. For non-online
+purchases, you may book an appointment and visit the school at the allocated
+time.</p>
+<p><strong>Q: Do students need to purchase e-books?</strong>
+<br>A: E-books are optional. You may purchase them if you wish to have both
+e-copy and print versions.</p>
+<p><strong>Q: On days with PE/CCA, are students allowed to wear their PE attire all day?</strong>
+<br>A: Students are expected to wear their IJ Blue uniform to school and change
+into their PE attire for PE lessons, then change back afterward. During
+CCA, they may wear their CCA T-shirts after school hours.</p>
+<hr>
+<p><strong>Special Programmes and Portfolios</strong>
+</p>
+<p><strong>Q: Is the student guided in preparing her art portfolio for the Art Elective Programme (AEP)?</strong>
+<br>A: Students need to prepare their artwork and show it to the art teachers,
+who will provide advice. Selection is conducted by the MOE Arts Education
+Branch.</p>
+<p><strong>Q: Does my child need a portfolio for the Music Elective Programme (MEP)?</strong>
+<br>A: Yes, a recorded video of under five minutes featuring your child playing
+an instrument or singing is required. This audition file will be submitted
+online, and details will be sent via Parents Gateway.</p>
+<hr>
+<p><strong>Payments and Logistics</strong>
+</p>
+<p><strong>Q: Does the canteen accept cashless payments?</strong>
+<br>A: Yes, the canteen accepts cashless payments for food purchases.</p>
+<p><strong>Q: Is my child supposed to wear the school uniform during orientation?</strong>
+<br>A: Yes, students should report in their school uniform and bring a set
+of PE attire.</p>
