@@ -1,7 +1,7 @@
 ---
 title: Sec 1 Registration 2026
 permalink: /sec-1-registration-2026/
-variant: tiptap
+variant: markdown
 description: ""
 ---
 <h2><strong>Sec 1 Registration 2026</strong></h2>
@@ -49,9 +49,10 @@ you be successful in your appeal.</p>
 <p>You may reach out to them via their email addresses listed on the school
 website <a href="https://www.chijsttheresasconvent.moe.edu.sg/theresian-family/staff/teaching-staff/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <h4>4. Academic Matters</h4>
+<p>Please click on the following links to find out more about the programmes:</p>
 <p><a href="/files/Sec 1 Registration/2026_AEP_and_MEP_Centre_Briefing_Slides__19_Nov_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Art &amp; Music Elective Programmes</u></a>
 </p>
-<p><a href="/files/Sec 1 Registration/2026_Sec_1_Registration__MTL.pdf" rel="noopener nofollow" target="_blank">Mother Tongue &amp; Foreign Language Matters</a>
+<p><a href="/files/Sec 1 Registration/2026_Sec_1_Registration__MTL_vf.pdf" rel="noopener nofollow" target="_blank">Mother Tongue &amp; Foreign Language Matters</a>
 </p>
 <p><strong><u>Information on Non-Tamil&nbsp; Indian Language</u></strong>
 </p>
@@ -59,7 +60,7 @@ website <a href="https://www.chijsttheresasconvent.moe.edu.sg/theresian-family/s
 STC. Students who are taking NTIL will go to designated schools for their
 lessons.</p>
 <p>For more information on NTIL matters, please refer to Board for the Teaching
-and Testing of South Asian Languages. (<a rel="noopener noreferrer nofollow" target="_blank">http://www.bttsal.com</a>)</p>
+and Testing of South Asian Languages. (<a href="http://www.bttsal.com" rel="noopener noreferrer nofollow" target="_blank">http://www.bttsal.com</a>)</p>
 <p>For questions related to Mother Tongue Languages, please approach Ms Ng
 Say Hong (<a href="mailto:Ng_Say_Hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_say_hong@schools.gov.sg</a>).</p>
 <h4>5. Important Information for first day of school</h4>
@@ -234,9 +235,8 @@ school.</p>
 <br>1G: MARIE</p>
 </li>
 <li>
-<p>Detailed instructions for the purchase can be found in the school website
-at this&nbsp;<a href="https://www.chijsttheresasconvent.moe.edu.sg/theresian-family/students/school-bookshop-uniform-n-pe-attire/" rel="noopener noreferrer nofollow" target="_blank">link.</a>
-</p>
+Detailed instructions for the purchase can be found in the school website
+at this&nbsp;<a href="https://www.chijsttheresasconvent.moe.edu.sg/theresian-family/students/school-bookshop-uniform-n-pe-attire/" rel="noopener noreferrer nofollow" target="_blank">link</a>
 </li>
 </ul>
 </td>
@@ -306,91 +306,4 @@ the place.</p>
 </table>
 <p>*Last PG1 student came in with PSLE score better than 30.</p>
 <h4>10. Frequently Asked Questions</h4>
-<p><strong>Admissions and Curriculum</strong>
-</p>
-<p><strong>Q: How are classes allocated, and what is the proportion of G1, G2, and G3 students?</strong>
-<br>A: Each class will have approximately 37 or 38 students. The proportion
-will include around 20 G3 students, 11 G2 students, and 6 G1 students.
-We wish to nurture an inclusive class environment with positive class interactions.</p>
-<p><strong>Q: Are there religious activities during school time? For non-Christians, will there be different arrangements?</strong>
-<br>A: Your child does not need to participate. Instead, she will be requested
-to remain silent during the session. We respect every student’s religion
-and would like to teach our Theresian girls how to be part of an inclusive
-society.</p>
-<p><strong>Q: Where can I accept the offer to take Higher Mother Tongue (HMT)?</strong>
-<br>A: You can respond via Parents Gateway by 26 December 2025.</p>
-<p><strong>Q: How do I find out if my child is eligible to take Higher Mother Tongue (HMT)?</strong>
-<br>A: If your child is offered HMTL, you will be notified via Parents Gateway.
-You need to respond to accept the offer by 26 Dec 2025.</p>
-<hr>
-<p><strong>School Operations and Facilities</strong>
-</p>
-<p><strong>Q: What time do the gates open in the morning for vehicle drop-off?</strong>
-<br>A: The gates open at 6:30 AM.</p>
-<p><strong>Q: What time do the back gate open?</strong>
-<br>A: The back gate will be opened daily from 6.30 - 7.30am and 1.30 - 2.30pm
-during dismissal time.</p>
-<p><strong>Q: Can parents park in the school on 6 January (Info Session for parents at 4.30 pm)?</strong>
-<br>A: Due to limited parking lots in the school, parents are encouraged to
-park at nearby HDB car parks.</p>
-<p><strong>Q: Must students wear the pinafore all day?</strong>
-<br>A: Yes, students are expected to be in their pinafore during school hours.
-Please refer to the school handbook for rules on the school attire.</p>
-<p><strong>Q: Can I check the regular school hours?</strong>
-<br>A: For normal school days, school starts at 7.30 am sharp in the Hall
-with the national anthem, and all students should reach the Hall in good
-time. For the last period of the day, it will be 1.30 pm, or 2 or 2.30
-pm latest, depending on the class timetables.</p>
-<hr>
-<p><strong>Uniforms and Booklists</strong>
-</p>
-<p><strong>Q: When will we receive the booklist?</strong>
-<br>A: The booklist can be found on the school website at the following link:
-<br><a href="https://www.chijsttheresasconvent.moe.edu.sg/theresian-family/students/school-bookshop-uniform-n-pe-attire/" rel="noopener noreferrer nofollow" target="_blank">School Bookshop and Uniform Information</a>.</p>
-<p><strong>Q: When will we know which booklist (G1/G2/G3) do we buy for our daughter?</strong>
-<br>A: You would have been informed of your posting groups, PG1, 2 or 3. You
-can buy the books according to the these Posting groups, PG1 for G1, PG2
-for G2 and PG3 for G3. If you are offered more demanding subjects (MDL),
-you would have already been informed via PG. If you accept the MDL subject,
-pls buy the books according to the level you accepted.</p>
-<p><strong>Q: How many sets of uniforms and PE attire should we purchase?</strong>
-<br>A: It is recommended to purchase 2–3 sets of uniforms, 2 sets of PE attire,
-and 1 house T-shirt. House t-shirts can be purchased at a later date, at
-the school bookshop.</p>
-<p><strong>Q: Can we purchase the House t-shirt later?</strong>
-</p>
-<p>A: Yes, house t-shirts can be purchased after the students know which
-house they are allocated to. The house t-shirts may be purchased from the
-school bookshop.</p>
-<p><strong>Q: Are there specific requirements for school shoes?</strong>
-<br>A: Students should wear white school shoes.</p>
-<p><strong>Q: Can we buy uniforms and books on-site?</strong>
-<br>A: Yes, both uniforms and books can be purchased on-site. For non-online
-purchases, you may book an appointment and visit the school at the allocated
-time.</p>
-<p><strong>Q: Do students need to purchase e-books?</strong>
-<br>A: E-books are optional. You may purchase them if you wish to have both
-e-copy and print versions.</p>
-<p><strong>Q: On days with PE/CCA, are students allowed to wear their PE attire all day?</strong>
-<br>A: Students are expected to wear their IJ Blue uniform to school and change
-into their PE attire for PE lessons, then change back afterward. During
-CCA, they may wear their CCA T-shirts after school hours.</p>
-<hr>
-<p><strong>Special Programmes and Portfolios</strong>
-</p>
-<p><strong>Q: Is the student guided in preparing her art portfolio for the Art Elective Programme (AEP)?</strong>
-<br>A: Students need to prepare their artwork and show it to the art teachers,
-who will provide advice. Selection is conducted by the MOE Arts Education
-Branch.</p>
-<p><strong>Q: Does my child need a portfolio for the Music Elective Programme (MEP)?</strong>
-<br>A: Yes, a recorded video of under five minutes featuring your child playing
-an instrument or singing is required. This audition file will be submitted
-online, and details will be sent via Parents Gateway.</p>
-<hr>
-<p><strong>Payments and Logistics</strong>
-</p>
-<p><strong>Q: Does the canteen accept cashless payments?</strong>
-<br>A: Yes, the canteen accepts cashless payments for food purchases.</p>
-<p><strong>Q: Is my child supposed to wear the school uniform during orientation?</strong>
-<br>A: Yes, students should report in their school uniform and bring a set
-of PE attire.</p>
+<p>Please click <a href="/files/Sec 1 Registration/Sec_1_Registration_FAQs.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
