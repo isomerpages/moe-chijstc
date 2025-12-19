@@ -393,5 +393,3 @@ A: Yes, the canteen accepts cashless payments for food purchases.
 
 **Q: Is my child supposed to wear the school uniform during orientation?**  
 A: Yes, students should report in their school uniform and bring a set of PE attire.
-
-
