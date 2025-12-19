@@ -49,6 +49,7 @@ you be successful in your appeal.</p>
 <p>You may reach out to them via their email addresses listed on the school
 website <a href="https://www.chijsttheresasconvent.moe.edu.sg/theresian-family/staff/teaching-staff/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <h4>4. Academic Matters</h4>
+<p>Please click on the following links to find out more about the programmes:</p>
 <p><a href="/files/Sec 1 Registration/2026_AEP_and_MEP_Centre_Briefing_Slides__19_Nov_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Art &amp; Music Elective Programmes</u></a>
 </p>
 <p><a href="/files/Sec 1 Registration/2026_Sec_1_Registration__MTL.pdf" rel="noopener nofollow" target="_blank">Mother Tongue &amp; Foreign Language Matters</a>
@@ -59,7 +60,7 @@ website <a href="https://www.chijsttheresasconvent.moe.edu.sg/theresian-family/s
 STC. Students who are taking NTIL will go to designated schools for their
 lessons.</p>
 <p>For more information on NTIL matters, please refer to Board for the Teaching
-and Testing of South Asian Languages. (<a rel="noopener noreferrer nofollow" target="_blank">http://www.bttsal.com</a>)</p>
+and Testing of South Asian Languages. (<a href="http://www.bttsal.com" rel="noopener noreferrer nofollow" target="_blank">http://www.bttsal.com</a>)</p>
 <p>For questions related to Mother Tongue Languages, please approach Ms Ng
 Say Hong (<a href="mailto:Ng_Say_Hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_say_hong@schools.gov.sg</a>).</p>
 <h4>5. Important Information for first day of school</h4>
@@ -235,7 +236,7 @@ school.</p>
 </li>
 <li>
 <p>Detailed instructions for the purchase can be found in the school website
-at this&nbsp;<a href="https://www.chijsttheresasconvent.moe.edu.sg/theresian-family/students/school-bookshop-uniform-n-pe-attire/" rel="noopener noreferrer nofollow" target="_blank">link.</a>
+at this&nbsp;<a href="https://www.chijsttheresasconvent.moe.edu.sg/theresian-family/students/school-bookshop-uniform-n-pe-attire/" rel="noopener noreferrer nofollow" target="_blank">link</a>
 </p>
 </li>
 </ul>
