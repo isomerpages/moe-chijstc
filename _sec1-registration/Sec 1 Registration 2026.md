@@ -28,7 +28,7 @@ guide you and your daughter through the registration process.</p>
 <h4>1. Principal's Welcome Letter</h4>
 <p>Please click <a href="/files/Sec 1 Registration/1__2026_Principal_s_Welcome_Letter___Sec_1_vf.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 view the letter.</p>
-<h4>2. Sec 1 Online E-Registration </h4>
+<h4>2. Sec 1 Online E-Registration</h4>
 <p>Please ensure that you have your Parents Gateway app to complete the Sec
 1 online e-registration on Sec 1 Registration Day. After you have received
 your school posting, STC should be automatically reflected on the Parents
@@ -36,8 +36,9 @@ Gateway app and you will be able to receive notifications from our school.</p>
 <p>On Sec 1 Registration Day, you will receive a notification via the Parents
 Gateway app to complete the online e-registration form on FormSG. This
 will allow you to complete the Sec 1 registration online. Please click
-<a href="https://go.gov.sg/stc2026sec1" rel="noopener noreferrer nofollow" target="_blank">here</a> <a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[LBL(1]</a>&nbsp;to complete and submit the form before
-24 December 2025. <a rel="noopener noreferrer nofollow" target="_blank">The link to the form can also be accessed at https://go.gov.sg/stc2026sec1.[LBL(2]</a>&nbsp;</p>
+<a href="https://go.gov.sg/stc2026sec1" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to complete and submit the form before 24 December 2025.
+The link to the form can also be accessed at <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/stc2026sec1.</a>
+</p>
 <p>For students who intend to put in an appeal to another school, you will
 still need to fill up this form and notify the STC General Office should
 you be successful in your appeal.</p>
@@ -60,8 +61,7 @@ lessons.</p>
 and Testing of South Asian Languages. (<a rel="noopener noreferrer nofollow" target="_blank">http://www.bttsal.com</a>)</p>
 <p>For questions related to Mother Tongue Languages, please approach Ms Ng
 Say Hong (<a href="mailto:Ng_Say_Hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ng_Say_Hong</a>&nbsp;
-<a href="mailto:Lee_Chai_Yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@</a><a rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
-<a href="mailto:Lee_Chai_Yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>).</p>
+<a href="mailto:Lee_Chai_Yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@</a><a rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>).</p>
 <h4>5. Important Information for first day of school</h4>
 <p><strong><u>Traffic Flow System - Morning Peak Hour &amp; Afternoon Peak Traffic</u></strong>
 </p>
@@ -96,8 +96,6 @@ the changeover to STC attire. Likewise for students pending appeal to another
 school.</p>
 <p>More details on the Orientation Programme will be shared with students
 on the first day of school.</p>
-<p>More details will be included in the Orientation Programme. More information
-to be updated.</p>
 <p><strong><u>Sec 1 Info Night (In person session)</u></strong>
 </p>
 <p>All parents / guardians are cordially invited to this Info Night. Your
