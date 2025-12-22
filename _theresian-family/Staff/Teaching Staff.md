@@ -100,8 +100,8 @@ Mr Chua Qiyou</p>
 <p>1 St. Faustina (1F)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Meninder Kaur</p>
-<p>Mr Keith Koh</p>
+<p>Ms Meninder Kaur<br>
+	Mr Keith Koh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:meninder_kaur@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">meninder_kaur@schools.gov.sg</a>
