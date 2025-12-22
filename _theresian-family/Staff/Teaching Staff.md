@@ -399,9 +399,8 @@ Mr Chua Qiyou</p>
 	Mr Wang Qiming</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:philomina_angelus_gomez@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">philomina_angelus_gomez@moe.edu.sg</a>
-</p>
-<p><a href="mailto:wang_qiming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_qiming@moe.edu.sg</a>
+<p><a href="mailto:philomina_angelus_gomez@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">philomina_angelus_gomez@moe.edu.sg</a><br>
+<a href="mailto:wang_qiming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_qiming@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -416,8 +415,7 @@ Mr Chua Qiyou</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:du_liang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">du_liang@moe.edu.sg</a>
-</p>
-<p><a href="mailto:toh_boon_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh_boon_hui@moe.edu.sg</a>
+<br><a href="mailto:toh_boon_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh_boon_hui@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -431,8 +429,7 @@ Mr Chua Qiyou</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_en_yaw_philip@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_en_yaw_philip@moe.edu.sg</a>
-</p>
-<p><a href="mailto:zaynab_abdul_rahman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zaynab_abdul_rahman@moe.edu.sg</a>
+<br><a href="mailto:zaynab_abdul_rahman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zaynab_abdul_rahman@moe.edu.sg</a>
 </p>
 </td>
 </tr>
