@@ -85,9 +85,8 @@ Mr Chua Qiyou</p>
 <p>1 St. Elizabeth (1E)</p>
 </td>
 	<td rowspan="1" colspan="1">
-<p>Ms Alicia Lim
-<br>Ms Alfie Yang
-</p>
+<p>Ms Alicia Lim<br>
+	Ms Alfie Yang</p>
 </td><td rowspan="1" colspan="1">
 <p><a href="mailto:alicia_lim_jia_yu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">alicia_lim_jia_yu@moe.edu.sg</a>
 </p>
@@ -96,6 +95,8 @@ Mr Chua Qiyou</p>
 </td>
 </tr>
 <tr>
+	
+	
 <td rowspan="1" colspan="1">
 <p>1 St. Faustina (1F)</p>
 </td>
