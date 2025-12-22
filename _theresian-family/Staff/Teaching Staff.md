@@ -366,7 +366,7 @@ Mr Chua Qiyou</p>
 <td rowspan="1" colspan="1">
 <p>Mrs Maggie Dabbs<br>
 	Mr Patrick Ng</p>
-<p></p>
+
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_peck_lin_maggie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_peck_lin_maggie@moe.edu.sg</a>
