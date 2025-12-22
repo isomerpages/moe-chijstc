@@ -284,7 +284,7 @@ Mr Chua Qiyou</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Li Ziyi<br>
-	Mrs Megalai Hari</p>
+	Ms Megalai Rajandran</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:li_ziyi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">li_ziyi@moe.edu.sg</a>
