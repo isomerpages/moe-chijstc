@@ -201,8 +201,8 @@ Mr Chua Qiyou</p>
 <p>St. Faustina (2F)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Jit Hong</p>
-<p>Ms Esther Lee</p>
+<p>Mr Tan Jit Hong<br>
+	Ms Esther Lee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_jit_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jit_hong@moe.edu.sg</a>
@@ -215,8 +215,8 @@ Mr Chua Qiyou</p>
 <p>2 St. Gemma (2G)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Eunice Hung</p>
-<p>Ms Eunice Hung</p>
+<p>Ms Eunice Hung<br>
+	Ms Eunice Hung</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -231,8 +231,8 @@ Mr Chua Qiyou</p>
 <p>3 St. Anne (3A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Edgar Seow</p>
-<p>Ms Evelyn Yau</p>
+<p>Mr Edgar Seow<br>
+	Ms Evelyn Yau</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:seow_siang_kim_edgar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seow_siang_kim_edgar@moe.edu.sg</a>
@@ -246,10 +246,8 @@ Mr Chua Qiyou</p>
 <p>3 St. Bernadette (3B)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Miroshini D/O Kannathasan</p>
-<p>Mr Samuel Zou
-<br>
-</p>
+<p>Ms Miroshini D/O Kannathasan<br>
+	Mr Samuel Zou</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:miroshini_kannathasan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">miroshini_kannathasan@moe.edu.sg</a>
