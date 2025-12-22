@@ -57,8 +57,8 @@ Ms Tang Li Hua</p>
 <p>1 St. Clare (1C)</p>
 </td>
 <td rowspan="1" colspan="1">
-Mr Afdillah Aman<br>
-Mdm Choy Cheng Mun
+<p>Mr Afdillah Aman<br>
+Mdm Choy Cheng Mun</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:afdillah_aman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">afdillah_aman@moe.edu.sg</a> 
