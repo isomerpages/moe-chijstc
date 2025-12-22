@@ -57,7 +57,7 @@ variant: markdown
 </tr>
 <tr>
 	<td rowspan="1" colspan="1">
-<p>Oh See Moey(Mdm)</p>
+<p>Oh See Moey (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Principal &amp; Sec 1 Level Advisor</p>
