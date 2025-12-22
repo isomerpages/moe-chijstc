@@ -126,8 +126,8 @@ Mr Chua Qiyou</p>
 <p>2 St. Anne (2A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Kasthuri D/O Mahanthran</p>
-<p>Mr Ngiam Xing Hao</p>
+<p>Ms Kasthuri D/O Mahanthran<br>
+	Mr Ngiam Xing Hao</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kasthuri_mahanthran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kasthuri_mahanthran@moe.edu.sg</a>
@@ -141,9 +141,9 @@ Mr Chua Qiyou</p>
 <p>2 St. Bernadette (2B)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ho Yeng Yeng</p>
-<p>Mr Sekaran S/O Govanden</p>
-<p></p>
+<p>Ms Ho Yeng Yeng<br>
+	Mr Sekaran S/O Govanden</p>
+
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ho_yeng_yeng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_yeng_yeng@moe.edu.sg</a>
@@ -157,8 +157,8 @@ Mr Chua Qiyou</p>
 <p>2 St. Clare (2C)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Pek Aik Soon</p>
-<p>Ms Quek Ygee Leng</p>
+<p>Mr Pek Aik Soon<br>
+	Ms Quek Ygee Leng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:pek_aik_soon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pek_aik_soon@moe.edu.sg</a>
@@ -172,8 +172,7 @@ Mr Chua Qiyou</p>
 <p>2 St. Deirdre (2D)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Shirley Sim</p>
-<p>Mr Tay Ngee Peng</p>
+<p>Ms Shirley Sim<br>Mr Tay Ngee Peng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sim_ai_ling_shirley@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_ai_ling_shirley@moe.edu.sg</a>
@@ -187,8 +186,8 @@ Mr Chua Qiyou</p>
 <p>2 St. Elizabeth (2E)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Clara Ang</p>
-<p>Mr Dillon Num Jun Feng</p>
+<p>Mrs Clara Ang<br>
+	Mr Dillon Num Jun Feng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wong_kit_han_clara@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_kit_han_clara@moe.edu.sg</a>
