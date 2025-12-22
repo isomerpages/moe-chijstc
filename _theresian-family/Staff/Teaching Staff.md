@@ -71,8 +71,8 @@ Mdm Choy Cheng Mun</p>
 <p>1 St. Deirdre (1D)</p>
 </td>
 <td rowspan="1" colspan="1">
-Ms Gunasunthari Velraj<br>
-Mr Chua Qiyou
+<p>Ms Gunasunthari Velraj<br>
+Mr Chua Qiyou</p>
 
 </td>
 <td rowspan="1" colspan="1">
