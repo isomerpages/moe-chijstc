@@ -274,8 +274,7 @@ Mr Chua Qiyou</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:dora_lee_bee_poh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dora_lee_bee_poh@moe.edu.sg</a>
-</p>
-<p><a href="mailto:lua_jiong_how@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lua_jiong_how@moe.edu.sg</a>
+<br><a href="mailto:lua_jiong_how@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lua_jiong_how@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -302,7 +301,7 @@ Mr Chua Qiyou</p>
 	Mr Andrew Lau</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:haslinda_ramat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">haslinda_ramat@moe.edu.sg</a>
+<p><a href="mailto:haslinda_ramat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">haslinda_ramat@moe.edu.sg</a><br>
 <br><a href="mailto:andrew_lau_fu_yang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">andrew_lau_fu_yang@moe.edu.sg</a>
 </p>
 </td>
