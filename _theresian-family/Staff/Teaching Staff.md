@@ -189,8 +189,7 @@ Mr Chua Qiyou</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wong_kit_han_clara@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_kit_han_clara@moe.edu.sg</a>
-<br><a href="mailto:dillon_num_jun_feng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dillon_num_jun_feng@moe.edu.sg</a>
-</p>
+<br><a href="mailto:dillon_num_jun_feng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dillon_num_jun_feng@moe.edu.sg</a></p>
 </td>
 </tr>
 <tr>
