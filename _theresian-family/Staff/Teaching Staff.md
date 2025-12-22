@@ -261,8 +261,8 @@ Mr Chua Qiyou</p>
 <p>3 St. Clare (3C)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Alwyn Lee</p>
-<p>Mdm Joy See
+<p>Mr Alwyn Lee<br>
+	Mdm Joy See
 <br>
 </p>
 </td>
