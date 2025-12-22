@@ -89,8 +89,7 @@ Mr Chua Qiyou</p>
 	Ms Alfie Yang</p>
 </td><td rowspan="1" colspan="1">
 <p><a href="mailto:alicia_lim_jia_yu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">alicia_lim_jia_yu@moe.edu.sg</a>
-</p>
-<p><a href="mailto:alfie_yang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">alfie_yang@moe.edu.sg</a>
+<a href="mailto:alfie_yang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">alfie_yang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
