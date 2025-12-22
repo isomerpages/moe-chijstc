@@ -213,7 +213,7 @@ Mr Chua Qiyou</p>
 <td rowspan="1" colspan="1">
 <p>Ms Eunice Hung<br>
 	Mr Lim Choon Hong</p>
-<p></p>
+
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:hung_pek_hui_eunice@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hung_pek_hui_eunice@moe.edu.sg</a>
@@ -328,8 +328,7 @@ Mr Chua Qiyou</p>
 <p>Ms Yap Jen Huey</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yap_jen_huey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yap_jen_huey@moe.edu.sg</a></p><a href="mailto:yap_jen_huey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">
-</a></td>
+<p><a href="mailto:yap_jen_huey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yap_jen_huey@moe.edu.sg</a></p><a href="mailto:yap_jen_huey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"></a></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -338,8 +337,6 @@ Mr Chua Qiyou</p>
 <td rowspan="1" colspan="1">
 <p>Mrs Karen Leong<br>
 	Mr Terance Wong</p>
-<br>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_lee_jiun_karen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_lee_jiun_karen@moe.edu.sg</a>
@@ -386,7 +383,7 @@ Mr Chua Qiyou</p>
 	Mr Wang Qiming</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:philomina_angelus_gomez@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">philomina_angelus_gomez@moe.edu.sg</a><br>
+<p><a href="mailto:philomina_angelus_gomez@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">philomina_angelus_gomez@moe.edu.sg</a><br><br>
 <a href="mailto:wang_qiming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_qiming@moe.edu.sg</a>
 </p>
 </td>
