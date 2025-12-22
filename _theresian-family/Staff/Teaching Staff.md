@@ -171,11 +171,11 @@ Mr Chua Qiyou</p>
 <p>2 St. Deirdre (2D)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Shirley Sim<br>Mr Tay Ngee Peng</p>
+<p>Ms Shirley Sim<br>Ms Tay Ngee Peng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sim_ai_ling_shirley@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_ai_ling_shirley@moe.edu.sg</a>
-<br><a href="mailto:tay_ngee_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_ngee_peng@schools.gov.sg</a>
+<br><a href="mailto:tay_ngee_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_ngee_peng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
