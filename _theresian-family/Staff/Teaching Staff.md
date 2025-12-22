@@ -72,14 +72,12 @@ Mdm Choy Cheng Mun</p>
 <td rowspan="1" colspan="1">
 <p>Ms Gunasunthari Velraj<br>
 Mr Chua Qiyou</p>
-
+</td><td rowspan="1" colspan="1">
+<p><a href="mailto:velraj_gunasunthari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">velraj_gunasunthari@moe.edu.sg</a> 
+<br><a href="mailto:chua_qiyou@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_qiyou@moe.edu.sg</a>
+</p>
 </td>
-<td rowspan="1" colspan="1">
-<a href="mailto:velraj_gunasunthari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">velraj_gunasunthari@moe.edu.sg</a><br>
 
-<a href="mailto:chua_qiyou@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_qiyou@moe.edu.sg</a>
-
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
