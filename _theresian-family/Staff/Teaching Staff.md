@@ -47,7 +47,7 @@ Ms Tang Li Hua<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chong_shufen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_shufen@moe.edu.sg</a> 
-<br><a href="mailto:ho_yeng_yeng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_yeng_yeng@moe.edu.sg</a>
+
 <a href="mailto:natarajan_saravanan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">natarajan_saravanan@moe.edu.sg</a>
 </p>
 </td>
