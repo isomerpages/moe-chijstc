@@ -128,7 +128,7 @@ or non-online order (to order and self-collect in school).</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>My Uniform Shop (Asia) Pte. Ltd.</p>
-<p>Website: <a href="www.myuniformshop.com.sg" rel="noopener noreferrer nofollow" target="_blank">www.myuniformshop.com.sg</a>
+<p>Website: <a href="https://www.myuniformshop.com.sg/" rel="noopener noreferrer nofollow" target="_blank">www.myuniformshop.com.sg</a>
 </p>
 <p>209 New Upper Changi Road #03-651</p>
 <p>Singapore&nbsp;460209</p>
