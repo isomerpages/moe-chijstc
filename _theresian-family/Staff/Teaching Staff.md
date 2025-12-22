@@ -244,7 +244,7 @@ Mr Chua Qiyou</p>
 	Mr Samuel Zou</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:miroshini_kannathasan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">miroshini_kannathasan@moe.edu.sg</a>
+<p><a href="mailto:miroshini_kannathasan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">miroshini_kannathasan@moe.edu.sg</a><br>
 <br><a href="mailto:zou_en_samuel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zou_en_samuel@moe.edu.sg</a>
 </p>
 </td>
