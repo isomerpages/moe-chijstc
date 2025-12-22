@@ -365,8 +365,8 @@ Mr Chua Qiyou</p>
 <p>4 St. Clare (4C)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Isabelle Teo</p>
-<p>Mr James Wong</p>
+<p>Ms Isabelle Teo<br>
+	Mr James Wong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:teo_zhi_yi_isabelle@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_zhi_yi_isabelle@moe.edu.sg</a>
@@ -380,8 +380,8 @@ Mr Chua Qiyou</p>
 <p>4 St. Deirdre (4D)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Maggie Dabbs</p>
-<p>Mr Patrick Ng</p>
+<p>Mrs Maggie Dabbs<br>
+	Mr Patrick Ng</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -395,10 +395,8 @@ Mr Chua Qiyou</p>
 <p>4 St. Elizabeth (4E)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Philomina Gomez</p>
-<p>Mr Wang Qiming</p>
-<p></p>
-<p></p>
+<p>Mrs Philomina Gomez<br>
+	Mr Wang Qiming</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:philomina_angelus_gomez@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">philomina_angelus_gomez@moe.edu.sg</a>
@@ -412,9 +410,9 @@ Mr Chua Qiyou</p>
 <p>4 St. Faustina (4F)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Du Liang</p>
-<p>Mr Toh Boon Hui</p>
-<p></p>
+<p>Mdm Du Liang<br>
+	Mr Toh Boon Hui</p>
+
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:du_liang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">du_liang@moe.edu.sg</a>
@@ -428,8 +426,8 @@ Mr Chua Qiyou</p>
 <p>4 St. Gemma (4G)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Philip Tan</p>
-<p>Mdm Zaynab Abdul Rahman</p>
+<p>Mr Philip Tan<br>
+	Mdm Zaynab Abdul Rahman</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_en_yaw_philip@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_en_yaw_philip@moe.edu.sg</a>
