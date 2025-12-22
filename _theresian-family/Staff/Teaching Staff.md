@@ -28,8 +28,8 @@ variant: markdown
 <p>1 St. Anne (1A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Shehana Binte Zulazmi</p>
-<p>Ms Tang Li Hua</p>
+Ms Shehana Binte Zulazmi<br>
+Ms Tang Li Hua<p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
