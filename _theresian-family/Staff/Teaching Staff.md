@@ -147,7 +147,7 @@ Mr Chua Qiyou</p>
 	
 	
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ho_yeng_yeng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_yeng_yeng@moe.edu.sg</a><br><br>
+<p><a href="mailto:ho_yeng_yeng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_yeng_yeng@moe.edu.sg</a><br>
 	<a href="mailto:sekaran_chinna_govanden@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sekaran_chinna_govanden@moe.edu.sg</a>
 </p>
 </td>
