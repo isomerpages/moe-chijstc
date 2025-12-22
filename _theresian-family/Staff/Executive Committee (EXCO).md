@@ -56,6 +56,18 @@ variant: markdown
 </td>
 </tr>
 <tr>
+	<td rowspan="1" colspan="1">
+<p>Oh See Moey(Mdm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal &amp; Sec 1 Level Advisor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chijstcs@moe.edu.sg" rel="noopener noreferrer nofollow" target="">chijstcs@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Yeo Ngee Yang (Mr)</p>
 </td>
@@ -232,13 +244,13 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Joyce Tan (Ms)</p>
+<p>Lee Boon Leong (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 1 Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_shu_min_joyce@moe.edu.sg" rel="noopener noreferrer nofollow" target="">tan_shu_min_joyce@moe.edu.sg</a>
+<p><a href="mailto:lee_boon_leong@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lee_boon_leong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
