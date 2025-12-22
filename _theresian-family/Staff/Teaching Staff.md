@@ -71,9 +71,9 @@ Mdm Choy Cheng Mun
 <p>1 St. Deirdre (1D)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Gunasunthari Velraj</p>
-<p>Mr Chua Qiyou</p>
-<p></p>
+Ms Gunasunthari Velraj<br>
+Mr Chua Qiyou
+
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:velraj_gunasunthari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">velraj_gunasunthari@moe.edu.sg</a>
@@ -87,8 +87,8 @@ Mdm Choy Cheng Mun
 <p>1 St. Elizabeth (1E)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Alicia Lim</p>
-<p>Ms Alfie Yang</p>
+Ms Alicia Lim<br>
+Ms Alfie Yang
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:alicia_lim_jia_yu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">alicia_lim_jia_yu@moe.edu.sg</a>
