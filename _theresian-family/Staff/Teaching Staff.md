@@ -126,7 +126,7 @@ Mr Chua Qiyou</p>
 <p>2 St. Anne (2A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Kasthuri D/O Mahanthran<br>
+<p>Mrs Kasthuri D/O Mahanthran<br>
 	Mr Ngiam Xing Hao</p>
 </td>
 <td rowspan="1" colspan="1">
