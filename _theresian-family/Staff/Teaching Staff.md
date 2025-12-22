@@ -276,8 +276,8 @@ Mr Chua Qiyou</p>
 <p>3 St. Deirdre (3D)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Dora Lee</p>
-<p>Mr Lua Jiong How</p>
+<p>Ms Dora Lee<br>
+	Mr Lua Jiong How</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:dora_lee_bee_poh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dora_lee_bee_poh@moe.edu.sg</a>
@@ -291,8 +291,8 @@ Mr Chua Qiyou</p>
 <p>3 St. Elizabeth (3E)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Li Ziyi</p>
-<p>Mrs Megalai Hari</p>
+<p>Ms Li Ziyi<br>
+	Mrs Megalai Hari</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:li_ziyi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">li_ziyi@moe.edu.sg</a>
@@ -306,8 +306,8 @@ Mr Chua Qiyou</p>
 <p>3 St. Faustina (3F)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Haslinda Ramat</p>
-<p>Mr Andrew Lau</p>
+<p>Mdm Haslinda Ramat<br>
+	Mr Andrew Lau</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:haslinda_ramat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">haslinda_ramat@moe.edu.sg</a>
@@ -321,8 +321,8 @@ Mr Chua Qiyou</p>
 <p>3 St. Gemma (3G)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Valarie Lee</p>
-<p>Mr Mark Tan</p>
+<p>Mrs Valarie Lee<br>
+	Mr Mark Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:leong_kai_yun_valarie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leong_kai_yun_valarie@moe.edu.sg</a>
@@ -339,18 +339,18 @@ Mr Chua Qiyou</p>
 <p>Ms Yap Jen Huey</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yap_jen_huey@moe.edu.sg</p>
-</td>
+<p><a href="mailto:yap_jen_huey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yap_jen_huey@moe.edu.sg</a></p><a href="mailto:yap_jen_huey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">
+</a></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>4 St. Bernadette (4B)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Karen Leong</p>
-<p>Mr Terance Wong
+<p>Mrs Karen Leong<br>
+	Mr Terance Wong</p>
 <br>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_lee_jiun_karen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_lee_jiun_karen@moe.edu.sg</a>
