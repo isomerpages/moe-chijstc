@@ -370,8 +370,7 @@ Mr Chua Qiyou</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:teo_zhi_yi_isabelle@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_zhi_yi_isabelle@moe.edu.sg</a>
-</p>
-<p><a href="mailto:wong_kin_wah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_kin_wah@moe.edu.sg</a>
+<br><a href="mailto:wong_kin_wah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_kin_wah@moe.edu.sg</a>
 </p>
 </td>
 </tr>
