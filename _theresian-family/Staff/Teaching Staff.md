@@ -141,7 +141,7 @@ Mr Chua Qiyou</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ho Yeng Yeng<br>
-	Mr Sekaran S/O Govanden</p>
+	Mr Sekaran S/O Chinna Govanden</p>
 
 </td>
 	
