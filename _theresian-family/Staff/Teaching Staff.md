@@ -199,7 +199,7 @@ Mr Chua Qiyou</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>a (2F)</p>
+<p>St. Faustina (2F)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Jit Hong</p>
