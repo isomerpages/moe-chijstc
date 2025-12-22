@@ -335,7 +335,7 @@ Mr Chua Qiyou</p>
 <p>4 St. Bernadette (4B)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Karen Leong<br>
+<p>Ms Karen Ng<br>
 	Mr Terance Wong</p>
 </td>
 <td rowspan="1" colspan="1">
