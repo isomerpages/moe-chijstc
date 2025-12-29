@@ -1,7 +1,7 @@
 ---
 title: Sec 1 Registration 2026
 permalink: /sec-1-registration-2026/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <h2><strong>Sec 1 Registration 2026</strong></h2>
@@ -44,7 +44,7 @@ you be successful in your appeal.</p>
 <h4>3. Introduction of the Sec 1 Level Team</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/2026_Sec_1_Level_Team.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/2026_Sec_1_Level_Team_.jpg">
 </div>
 <p>You may reach out to them via their email addresses listed on the school
 website <a href="https://www.chijsttheresasconvent.moe.edu.sg/theresian-family/staff/teaching-staff/" rel="noopener nofollow" target="_blank">here</a>.</p>
@@ -235,8 +235,9 @@ school.</p>
 <br>1G: MARIE</p>
 </li>
 <li>
-Detailed instructions for the purchase can be found in the school website
+<p>Detailed instructions for the purchase can be found in the school website
 at this&nbsp;<a href="https://www.chijsttheresasconvent.moe.edu.sg/theresian-family/students/school-bookshop-uniform-n-pe-attire/" rel="noopener noreferrer nofollow" target="_blank">link</a>
+</p>
 </li>
 </ul>
 </td>
