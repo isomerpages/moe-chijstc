@@ -3,7 +3,7 @@ title: Executive Committee (EXCO)
 permalink: /theresian-family/staff/executive-committee-exco/
 description: ""
 third_nav_title: Staff
-variant: markdown
+variant: tiptap
 ---
 <p></p>
 <p></p>
@@ -36,7 +36,7 @@ variant: markdown
 <p>Jenny Leong&nbsp;(Mrs)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Principal &amp; Sec 3/4/5 Level Advisor</p>
+<p>Principal &amp; Sec 4/5 Level Advisor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chijstcs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chijstcs@moe.edu.sg</a>
@@ -48,7 +48,7 @@ variant: markdown
 <p>Janice Wee (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice-Principal &amp; Sec 1/2 Level Advisor</p>
+<p>Vice-Principal &amp; Sec 2/3 Level Advisor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chijstcs@moe.edu.sg" rel="noopener noreferrer nofollow" target="">chijstcs@moe.edu.sg</a>
@@ -56,7 +56,7 @@ variant: markdown
 </td>
 </tr>
 <tr>
-	<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Oh See Moey (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -291,13 +291,14 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Angela Yang (Ms)</p>
+<p>Joyce Tan (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 2 Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:angela_yang_hui_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="">angela_yang_hui_hui@moe.edu.sg</a>&nbsp;</p>
+<p><a href="mailto:tan_shu_min_joyce@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_shu_min_joyce@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -358,7 +359,7 @@ variant: markdown
 </p>
 </td>
 </tr>
-	<tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Lee Wai Hoong (Mr)</p>
 </td>
