@@ -3,7 +3,7 @@ title: Parent Support Group (PSG)
 permalink: /theresian-family/partners/parent-support-group-psg/
 description: ""
 third_nav_title: Partners
-variant: tiptap
+variant: markdown
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PSG_LOGO.png">
@@ -45,38 +45,36 @@ ready to serve.</p>
 <p>We would like to encourage new parents to come forward to share their
 expertise to provide a holistic education for the students and help to
 organize activities for parents and students that promote family bonding.&nbsp;We
-believe that these activities will bring your daughters closer to you and
-deepen your bond.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_EXCO.png">
-</div>
-<p></p>
-<p><strong><u>School Activities<br></u></strong>Support School-led initiatives
-and organizes events that engage parent and their children.
-<br>Term 1 - Orientation Day, Packing of CNY Care packages, PSG Lohei
-<br>Term 2 - Gratitude &amp; Kindness, Easter Celebrations, Kindness Day
-<br>Term 3 - Youth Day, Teachers’ Day, Chill Out Day
-<br>Term 4 - Open House</p>
-<p><strong><u>Student Activities<br></u></strong>Support and enhance student’s
-school experiences
-<br>Term 2 - IFD &amp; Theresian Awards
-<br>Term 3 - Motivation Pack for “N” &amp; “O” level student &amp; National
-Day &amp; Investiture
-<br>Term 4 - Graduation Party</p>
-<p><strong><u>Contact Us</u></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Email us at <a href="mailto:sttheresapsg@gmail.com" rel="noopener noreferrer nofollow" target="_blank">sttheresapsg@gmail.com</a>
-</p>
-</li>
-<li>
-<p>Join STC PSG by scanning this QR code<u>.</u>
-</p>
-</li>
-</ul>
+believe that through these activities will your girls further enhance a
+better relationship with you.&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSG_QR_Code.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG and IJ Board/PSG_EXCO_2026.jpg">
 </div>
+<p><u>School Activities</u>
+</p>
+<p>Support School-led initiatives and organizes events that engage parent
+and their children.</p>
+<p>Term 1 - Orientation Day, Packing of CNY Care packages, PSG Lohei</p>
+<p>Term 2 – Gratitude &amp; Kindness, Easter Celebrations, Kindness Day</p>
+<p>Term 3 – Youth Day, Teachers’ Day, Chill Out Day</p>
+<p>Term 4 - Open House</p>
+<p>&nbsp;<u>Student Activities</u>
+</p>
+<p>Support and enhance student’s school experiences</p>
+<p>Term 2 - IFD &amp; Theresian Awards</p>
+<p>Term 3 - Motivation Pack for “N” &amp; “O” level student &amp; National
+Day &amp; Investiture</p>
+<p>Term 4 - Graduation Party</p>
+<p>&nbsp;<u>Contact Us</u>
+</p>
+<p>Email us at <a rel="noopener noreferrer nofollow" target="_blank" href="mailto:sttheresapsg@gmail.com">sttheresapsg@gmail.com</a>
+</p>
+<p>Like the STC PSG Facebook page.</p>
+<p>Join STC PSG by scanning this QR code:</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/PSG and IJ Board/Picture1.png">
+</div>
+<p></p>
 <p></p>
