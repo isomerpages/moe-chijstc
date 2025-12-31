@@ -68,7 +68,7 @@ Day &amp; Investiture</p>
 <p>Term 4 - Graduation Party</p>
 <p>&nbsp;<u>Contact Us</u>
 </p>
-<p>Email us at <a rel="noopener noreferrer nofollow" target="_blank">sttheresapsg@gmail.com</a>
+<p>Email us at <a rel="noopener noreferrer nofollow" target="_blank" href="mailto:sttheresapsg@gmail.com">sttheresapsg@gmail.com</a>
 </p>
 <p>Like the STC PSG Facebook page.</p>
 <p>Join STC PSG by scanning this QR code:</p>
