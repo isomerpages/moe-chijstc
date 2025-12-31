@@ -47,6 +47,10 @@ expertise to provide a holistic education for the students and help to
 organize activities for parents and students that promote family bonding.&nbsp;We
 believe that through these activities will your girls further enhance a
 better relationship with you.&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG and IJ Board/PSG_EXCO_2026.jpg">
+</div>
 <p><u>School Activities</u>
 </p>
 <p>Support School-led initiatives and organizes events that engage parent
@@ -75,4 +79,5 @@ Day &amp; Investiture</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/Picture1.png">
 </div>
+<p></p>
 <p></p>
