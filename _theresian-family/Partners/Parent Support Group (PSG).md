@@ -70,11 +70,3 @@ Day &amp; Investiture</p>
 </p>
 <p>Email us at <a rel="noopener noreferrer nofollow" target="_blank" href="mailto:sttheresapsg@gmail.com">sttheresapsg@gmail.com</a>
 </p>
-<p>Like the STC PSG Facebook page.</p>
-<p>Join STC PSG by scanning this QR code:</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/PSG and IJ Board/Picture1.png">
-</div>
-<p></p>
-<p></p>
