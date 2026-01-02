@@ -2,10 +2,10 @@
 title: Group Personal Accident (GPA) Insurance For Student
 permalink: /folders/students/group-personal-accident-gpa-insurance-for-student/
 description: ""
-variant: tiptap
+variant: markdown
 ---
-<p><a href="/files/GPA_Product_Fact_Sheet_Year_2025___Benefits__Sum_Assured_and_Claims_Procedures.pdf" rel="noopener nofollow" target="_blank">GPA Product Fact Sheet Year 2025 Benefits Sum Assured and Claims Procedures</a>
-</p>
+<a href="/files/GPA_Product_Fact_Sheet_Year_2026___Benefits__Sum_Assured_and_Claims_Procedures.pdf" rel="noopener nofollow" target="_blank">GPA Product Fact Sheet Year 2026 Benefits Sum Assured and Claims Procedures</a>
+<p></p>
 <p><strong>Online Claim Form</strong>
 </p>
 <p>The online claims portal is at&nbsp;<a href="https://studentgpa.incomegroupins.com.sg" rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg</a>
