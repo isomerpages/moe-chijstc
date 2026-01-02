@@ -3,7 +3,7 @@ title: Parent Support Group (PSG)
 permalink: /theresian-family/partners/parent-support-group-psg/
 description: ""
 third_nav_title: Partners
-variant: markdown
+variant: tiptap
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PSG_LOGO.png">
@@ -68,5 +68,5 @@ Day &amp; Investiture</p>
 <p>Term 4 - Graduation Party</p>
 <p>&nbsp;<u>Contact Us</u>
 </p>
-<p>Email us at <a rel="noopener noreferrer nofollow" target="_blank" href="mailto:sttheresapsg@gmail.com">sttheresapsg@gmail.com</a>
+<p>Email us at <a href="mailto:sttheresapsg@gmail.com" rel="noopener noreferrer nofollow" target="_blank">sttheresapsg@gmail.com</a>
 </p>
