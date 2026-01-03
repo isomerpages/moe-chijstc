@@ -41,9 +41,8 @@ we are always there for one another.</p>
 </p>
 <p>Mr Pek Aik Soon (<a href="mailto:pek_aik_soon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pek_aik_soon@moe.edu.sg</a>)
 <br>Ms Choy Cheng Mun (<a href="mailto:choy_cheng_mun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choy_cheng_mun@moe.edu.sg</a>)
-<br>
-<br>Ms Isabelle Teo (<a href="mailto:teo_zhi_yi_isabelle@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_zhi_yi_isabelle@moe.edu.sg</a>)</p>
-<p>Mr Lee Boon Leong (<a href="mailto:lee_boon_leong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_boon_leong@moe.edu.sg)</a>
+<br>Ms Isabelle Teo (<a href="mailto:teo_zhi_yi_isabelle@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_zhi_yi_isabelle@moe.edu.sg</a>)<br>
+Mr Lee Boon Leong (<a href="mailto:lee_boon_leong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_boon_leong@moe.edu.sg)</a>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/sb2.jpg">
