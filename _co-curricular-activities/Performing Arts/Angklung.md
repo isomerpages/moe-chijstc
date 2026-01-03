@@ -27,10 +27,8 @@ and inclusiveness – essential ingredients to the betterment and success
 of any social fabric.</p>
 <p><strong>Teachers–in–Charge</strong>
 <br>Ms Wong Kit Han Clara (<a href="mailto:wong_kit_han_clara@moe.edu.sg" rel="noopener noreferrer nofollow" target="">wong_kit_han_clara@moe.edu.sg</a>)
-<br>Ms Haslinda Ramat (<a href="mailto:S_Sivapriya@moe.edu.sg" rel="noopener noreferrer nofollow" target="">haslinda_ramat@moe.edu.sg</a>)</p>
-Ms Mok Peck Yim (<a href="mailto:Mok_Peck_Yim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mok_peck_yim@moe.edu.sg)</a>
-<p></p>
-<p><strong>Photos</strong>
+<br>Ms Haslinda Ramat (<a href="mailto:S_Sivapriya@moe.edu.sg" rel="noopener noreferrer nofollow" target="">haslinda_ramat@moe.edu.sg</a>)<br>Ms Mok Peck Yim (<a href="mailto:Mok_Peck_Yim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mok_peck_yim@moe.edu.sg)</a>
+</p><p><strong>Photos</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" src="/images/ang2.jpg">
