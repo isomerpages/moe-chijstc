@@ -22,9 +22,9 @@ the team that won the Gold medal comprised 9 Theresians.</p>
 with Theresians putting the school on the map with their participation
 in the national teams, SEA Games, and other international Hockey tournaments</p>
 <p><strong>Teachers-in-Charge</strong>
-<br>Mr Alfie Yang (<a href="mailto:alfie_yang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">alfie_yang@moe.edu.sg</a>)
-<br>Mr Mark Tan (<a href="mailto:mark_tan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mark_tan@moe.edu.sg</a>)
-<br>Mr Toh Boon Hui (<a href="mailto:toh_boon_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh_boon_hui@moe.edu.sg</a>)
+<br>Mr Afdillah Bin Aman (<a href="mailto:mark_tan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mark_tan@moe.edu.sg</a>)</p>
+<p>Mr Sekaran S/O Chinna Govanden (<a href="mailto:sekaran_chinna_govanden@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sekaran_chinna_govanden@moe.edu.sg</a>)</p>
+<p>Mr Alfie Yang (<a href="mailto:alfie_yang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">alfie_yang@moe.edu.sg</a>)
 <br>Ms Gunasunthari Velraj (<a href="mailto:velraj_gunasunthari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">velraj_gunasunthari@moe.edu.sg</a>)
 <br>Ms Kasthuri Davaraj (<a href="mailto:kasthuri_mahanthran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kasthuri_mahanthran@moe.edu.sg</a>)</p>
 <p><strong>NSG B &amp; C Division</strong>
