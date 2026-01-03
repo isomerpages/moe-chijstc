@@ -13,7 +13,7 @@ variant: markdown
 <p><strong>Vision<br></strong>The CHIJ Youth is transformed by the experience of servant leadership.</p>
 <p><strong>Essential Understanding<br></strong>The call from the disadvantaged, for justice, peace and joy, is the ground of our service with freedom and out of love.</p>
 <p><strong>
-</strong></p><p><strong><strong>Teachers-in-Charge</strong><br>Ms Dora Lee (<a href="mailto:dora_lee_bee_poh@moe.edu.sg">dora_lee_bee_poh@moe.edu.sg</a>)<br>Mrs Amutha Elangovan (<a href="mailto:amutha_elangovan@moe.edu.sg">amutha_elangovan@moe.edu.sg</a>)</strong></p><strong>
+</strong></p><p><strong>Teachers-in-Charge</strong><br>Ms Dora Lee (<a href="mailto:dora_lee_bee_poh@moe.edu.sg">dora_lee_bee_poh@moe.edu.sg</a>)<br>Mr Loh Chiu Wai (<a href="mailto:loh_chiu_wai@moe.edu.sg">loh_chiu_wai@moe.edu.sg</a>)</p><strong>
 <img style="width: 80%;" src="/images/ij2.jpg"><br>
 <img style="width: 80%;" src="/images/ij3.jpg"><br>
 <img style="width: 80%;" src="/images/ij4.jpeg"><br>
