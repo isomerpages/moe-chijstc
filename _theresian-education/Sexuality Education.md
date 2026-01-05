@@ -387,8 +387,7 @@ is important when entering into a datingrelationship</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mending a Broken Heart Lesson 1B</p>
-<p>(60 mins)</p>
+<p>Mending a Broken Heart Lesson 1B (60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students will learn how to manage their emotions if they were to face
@@ -491,8 +490,7 @@ alignment with our beliefs</p>
 <p>Respectful Relationships &amp; Safety</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Levelling the Ground
-<br>(60 mins)</p>
+<p>Levelling the Ground (60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson aims to help students think critically about gender stereotypes
@@ -661,8 +659,7 @@ alignment with our beliefs</p>
 <p>Respectfulrelationships &amp; Safety</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>This is Where I Draw the Line</p>
-<p>(60 mins)</p>
+<p>This is Where I Draw the Line (60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>In this lesson, students will understand that different individuals have
