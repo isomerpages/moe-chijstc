@@ -777,4 +777,4 @@ at the start of the year and is also available <a href="/files/Sexuality_Educati
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at <strong>64775777</strong>&nbsp;or
 email to&nbsp;<strong><a href="mailto:chijstcs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chijstcs@moe.edu.sg</a></strong> for
 discussion or to seek clarification about the school’s Sexuality Education
-programme.the key messages.</p>
+programme.</p>
