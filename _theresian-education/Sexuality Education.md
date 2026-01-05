@@ -2,7 +2,7 @@
 title: Sexuality Education
 permalink: /theresian-education/sexuality-education/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <p><strong>MOE Sexuality Education in Schools</strong>
 </p>
@@ -598,7 +598,7 @@ beliefs</p>
 </tbody>
 </table>
 <p><strong><em>eTeens</em></strong>  <strong>Programme</strong>:</p>
-<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>eTeens</em> is a programme that
+<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>eTeens</em> is a programme that
 was developed by Health Promotion Board, in collaboration with the Ministry
 of Education, to provide Secondary 3 students with accurate information
 on STIs, HIV and protection from a health perspective. With the formation
@@ -613,11 +613,7 @@ as decision-making, assertiveness and negotiation to say “no” to sex and
 negative peer pressure. They also learn that the impact of STIs/HIV extends
 beyond themselves and involves their family, and the importance of responsible
 decision-making and seeking help. Abstinence and upholding family values
-are</p>
-<h3>2026 Sexuality Education Lessons in CCE - Secondary 4</h3>
-<p>son 3 (60 mins)</p>
-<p></p>
-<p></p>
+are the key messages.</p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
