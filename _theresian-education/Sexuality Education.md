@@ -601,7 +601,8 @@ beyond themselves and involves their family, and the importance of responsible
 decision-making and seeking help. Abstinence and upholding family values
 are</p>
 <h3>2026 Sexuality Education Lessons in CCE - Secondary 4</h3>
-<table style="minWidth: 125px">
+
+son 3 (60 mins)<p></p><table style="minWidth: 125px">
 <colgroup>
 <col>
 <col>
@@ -651,17 +652,8 @@ way, including avenues for help-seeking.</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
-<li>
-<p>Understand gender stereotypes and societal impact</p>
-</li>
-<li>
-<p>Avoid imposing stereotypes on self and others</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 1 Week 7</p>
-</td>
+
+</ul></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -675,60 +667,19 @@ decision-making</p>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 4</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Term 1 Week 8</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>For Better or For Worse
-<br>Lesson 3 (60 mins)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Building positive marital relationships, understanding commitment, communication,
-and conflict resolution.</p>
-</td>
+
+
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Understand long-term relationships in multiple dimensions</p>
-</li>
-<li>
-<p>Marriage requires love, trust, commitment, and mutual effort</p>
-</li>
-<li>
-<p>Conflicts are normal; how conflicts are handled is critical</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 2 Week 1</p>
-</td>
+</li></ul></td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>There’s Always More to a Story
-<br>Lesson 4 (60 mins)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Impact of pornography and revenge pornography. Learn help-seeking and
-setting boundaries.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Strengthen character through values-based decisions and alignment with
-beliefs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 2 Week 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+
 </td>
 </tr>
 </tbody>
