@@ -74,6 +74,12 @@ Education lessons, secondary students will have the opportunity to develop
 a positive self-esteem, develop their character, and expand their understanding
 and repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
+<p></p>
+<p>&nbsp;<strong>At CHIJ St Theresa’s Convent, the following Sexuality Education lessons will be taught in <u>2026</u>:</strong>
+</p>
+<p></p>
+<p><strong>2026 Sexuality Education Lessons in CCE</strong>
+</p>
 <p><strong>Secondary 1</strong>
 </p>
 <p><strong>&nbsp;</strong>
@@ -684,29 +690,7 @@ for life) and decisions, and speak and act in alignment with our beliefs</p>
 </table>
 <p><strong><a rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a></strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p></p>
-<p></p>
-<p><strong>2026 Sexuality Education Lessons in CCE</strong>
+<p><strong>&nbsp;2026 Sexuality Education Lessons in CCE</strong>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
@@ -779,10 +763,6 @@ for life) and decisions, and speak and act in alignment with our beliefs</p>
 <p><strong>&nbsp;</strong>
 </p>
 <p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong><em><u>&nbsp;</u></em></strong>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
