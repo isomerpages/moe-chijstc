@@ -82,9 +82,8 @@ which are of prime concern at this age.</p>
 <h3>2026 Sexuality Education Lessons in CCE</h3>
 <p><strong>Secondary 1</strong>
 </p>
-<table style="minWidth: 125px">
-<colgroup>
-<col>
+<table cellpadding="5" cellspacing="0" border="1" style="min-width: 125px">
+<colgroup><col>
 <col>
 <col>
 <col>
@@ -197,7 +196,7 @@ pornography access</p>
 <h3>2026 Sexuality Education Lessons in CCE</h3>
 <p><strong>Secondary 2</strong>
 </p>
-<table style="minWidth: 125px">
+<table cellpadding="5" cellspacing="0" border="1" style="min-width: 125px">
 <colgroup>
 <col>
 <col>
@@ -299,7 +298,7 @@ pregnancy, and abortion. Understand laws protecting minors.</p>
 <h3>2026 Sexuality Education Lessons in CCE</h3>
 <p><strong>Secondary 3</strong>
 </p>
-<table style="minWidth: 125px">
+<table cellpadding="5" cellspacing="0" border="1" style="min-width: 125px">
 <colgroup>
 <col>
 <col>
@@ -411,7 +410,7 @@ Emphasises personal safety, boundaries, and seeking help.</p>
 <h3>2026 Sexuality Education Lessons in CCE</h3>
 <p><strong>Secondary 4</strong>
 </p>
-<table style="minWidth: 125px">
+<table cellpadding="5" cellspacing="0" border="1" style="min-width: 125px">
 <colgroup>
 <col>
 <col>
@@ -549,7 +548,7 @@ beliefs</p>
 <h3>2026 Sexuality Education Lessons in CCE</h3>
 <p><strong>Secondary 5</strong>
 </p>
-<table style="minWidth: 125px">
+<table cellpadding="5" cellspacing="0" border="1" style="min-width: 125px">
 <colgroup>
 <col>
 <col>
