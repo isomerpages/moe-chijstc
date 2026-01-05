@@ -709,7 +709,7 @@ are the key messages.</p>
 <colgroup>
 <col>
 <col>
-<col>
+<col width="20%">
 </colgroup>
 <tbody>
 <tr>
