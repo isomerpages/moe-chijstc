@@ -200,12 +200,13 @@ pornography access and acting irresponsibly or maliciously when online
 <h4><strong><u>Secondary 2</u></strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col style="width:20%;">
 </colgroup>
+
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -337,11 +338,11 @@ offline and online</p>
 <h4><strong><u>Secondary 3</u></strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col style="width:20%;">
 </colgroup>
 <tbody>
 <tr>
@@ -479,12 +480,13 @@ alignment with our beliefs</p>
 <h4><strong><u>Secondary 4</u></strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col style="width:20%;">
 </colgroup>
+
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -643,11 +645,11 @@ alignment with our beliefs</p>
 <h4><strong><u>Secondary 5</u></strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col style="width:20%;">
 </colgroup>
 <tbody>
 <tr>
