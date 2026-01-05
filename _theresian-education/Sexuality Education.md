@@ -2,7 +2,7 @@
 title: Sexuality Education
 permalink: /theresian-education/sexuality-education/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <p><strong>MOE Sexuality Education in Schools</strong>
 </p>
@@ -92,9 +92,7 @@ a positive self-esteem, develop their character, and expand their understanding.
 <p>Respectful Relationships &amp; Safety</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Steady or Not</p>
-<p>Lesson 1</p>
-<p>(60 mins)</p>
+<p>Steady or Not Lesson 1 (60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson helps students understand more about relationship building
@@ -132,9 +130,7 @@ in dating vary among individuals</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Being Aware, Being Safe</p>
-<p>Lesson 2</p>
-<p>(60 mins)</p>
+<p>Being Aware, Being Safe Lesson 2 (60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson focuses on helping students to be safe from the dangers of
@@ -162,9 +158,7 @@ self-concept</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>More than Meets the Eye</p>
-<p>Lesson 3</p>
-<p>(60 mins)</p>
+<p>More than Meets the Eye Lesson 3 (60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson touches on two areas relevant to an adolescent’s curiosity
@@ -200,13 +194,12 @@ pornography access and acting irresponsibly or maliciously when online
 <h4><strong><u>Secondary 2</u></strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
-  <col>
-  <col>
-  <col>
-  <col>
-  <col style="width:20%;">
+<col>
+<col>
+<col>
+<col>
+<col>
 </colgroup>
-
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -230,9 +223,7 @@ pornography access and acting irresponsibly or maliciously when online
 <p>Respectful Relationships &amp; Safety</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>A Role for Everyone</p>
-<p>Lesson 1</p>
-<p>(60&nbsp; mins)</p>
+<p>A Role for Everyone Lesson 1 (60&nbsp; mins)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson focus on how the family, culture and society can influence
@@ -338,11 +329,11 @@ offline and online</p>
 <h4><strong><u>Secondary 3</u></strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
-  <col>
-  <col>
-  <col>
-  <col>
-  <col style="width:20%;">
+<col>
+<col>
+<col>
+<col>
+<col>
 </colgroup>
 <tbody>
 <tr>
@@ -480,13 +471,12 @@ alignment with our beliefs</p>
 <h4><strong><u>Secondary 4</u></strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
-  <col>
-  <col>
-  <col>
-  <col>
-  <col style="width:20%;">
+<col>
+<col>
+<col>
+<col>
+<col>
 </colgroup>
-
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -514,8 +504,14 @@ alignment with our beliefs</p>
 <br>(60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>This lesson aims to help students think critically about gender stereotypes that exist in our society in the contexts of career and family (e.g. males typically perceived as main breadwinners and females typically perceived as main caregivers in the family), and the impact of these stereotypes on individuals. Students will learn to be aware of possible gender stereotypes that may affect one’s family and future decisions. They will also learn to reframe their perspectives and not judge others based on their own or others’ values and principles, with regard to gender stereotypes.
-</p>
+<p>This lesson aims to help students think critically about gender stereotypes
+that exist in our society in the contexts of career and family (e.g. males
+typically perceived as main breadwinners and females typically perceived
+as main caregivers in the family), and the impact of these stereotypes
+on individuals. Students will learn to be aware of possible gender stereotypes
+that may affect one’s family and future decisions. They will also learn
+to reframe their perspectives and not judge others based on their own or
+others’ values and principles, with regard to gender stereotypes.</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -587,8 +583,14 @@ relationship</p>
 <p>(60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>This lesson focuses on building a positive relationship with one’s partner in a marriage. Students will understand that while a marriage, defined in Singapore as a union between a man and a woman, requires mutual commitment and effort like the other relationships in their lives, what sets a marriage apart is its lifelong commitment. Students will learn that what really matters in &nbsp;sustaining and maintaining a long-term romantic relationship that leads to marriage, is understanding the other person’s perspective and effectively communicating with each other.&nbsp;
-</p>
+<p>This lesson focuses on building a positive relationship with one’s partner
+in a marriage. Students will understand that while a marriage, defined
+in Singapore as a union between a man and a woman, requires mutual commitment
+and effort like the other relationships in their lives, what sets a marriage
+apart is its lifelong commitment. Students will learn that what really
+matters in &nbsp;sustaining and maintaining a long-term romantic relationship
+that leads to marriage, is understanding the other person’s perspective
+and effectively communicating with each other.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -645,11 +647,11 @@ alignment with our beliefs</p>
 <h4><strong><u>Secondary 5</u></strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
-  <col>
-  <col>
-  <col>
-  <col>
-  <col style="width:20%;">
+<col>
+<col>
+<col>
+<col>
+<col>
 </colgroup>
 <tbody>
 <tr>
@@ -721,12 +723,12 @@ are the key messages.</p>
 <p><strong>At CHIJ St Theresa’s Convent, the <em>eTeens</em> programme will be implemented as follows in 2026:</strong>
 </p>
 <p></p>
-<table style="width:100%; min-width:75px; border-collapse:collapse;">
+<table style="minWidth: 75px">
 <colgroup>
-    <col style="width:25%;">
-    <col style="width:55%;">
-    <col style="width:20%;"> 
-  </colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -785,7 +787,8 @@ of assertiveness and responsible decision-making</p>
 </tr>
 </tbody>
 </table>
-<strong>Information for Parents</strong>
+<p><strong>Information for Parents</strong>
+</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of
 the Sexuality Education lessons, <em>eTeens</em> and/or supplementary sexuality
 education programmes by MOE-approved external providers.</p>
