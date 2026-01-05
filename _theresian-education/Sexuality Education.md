@@ -614,7 +614,8 @@ negative peer pressure. They also learn that the impact of STIs/HIV extends
 beyond themselves and involves their family, and the importance of responsible
 decision-making and seeking help. Abstinence and upholding family values
 are the key messages.</p>
-<table style="minWidth: 125px">
+<table cellpadding="5" cellspacing="0" border="1" style="minWidth: 125px">
+
 <colgroup>
 <col>
 <col>
