@@ -614,108 +614,31 @@ negative peer pressure. They also learn that the impact of STIs/HIV extends
 beyond themselves and involves their family, and the importance of responsible
 decision-making and seeking help. Abstinence and upholding family values
 are the key messages.</p>
-<table cellpadding="5" cellspacing="0" border="1" style="minWidth: 125px">
-
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Topics/Lessons</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Programme Learning Objectives</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Time Period (e.g. Term 3 Week 9)</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mass Talk delivered through a pre-recorded video</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Raise awareness and provide knowledge
-on:</p>
-<p>a)&nbsp;&nbsp; Sexually transmitted infectious diseases (STIs and HIV):
-what it is, how it spreads, how to prevent infection mainly through ABC
-(abstinence, being faithful, correct, and consistent condom use), consequences
-and impact</p>
-
-<p>b)&nbsp;&nbsp; Skills for respecting boundaries (e.g. decision-making,
-assertiveness, negotiation to say ‘no’ to peer pressure)</p>
-
-<p>c)&nbsp;&nbsp; Managing relationships and risky situations in a healthy
-way, including avenues for help-seeking.</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 3 Week 4</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p></p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Classroom-based Lesson</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learn to negotiate their way out
-of a risky situation by applying skills of assertiveness and responsible
-decision-making</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 3 Week 4</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p></p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
+<table cellpadding="5" cellspacing="0" border="1" style="min-width: 125px">
+  <tbody>
+    <tr>
+      <th>Topics/Lessons</th>
+      <th>Programme Learning Objectives</th>
+      <th>Time Period (e.g. Term 3 Week 9)</th>
+    </tr>
+    <tr>
+      <td>Mass Talk delivered through a pre-recorded video</td>
+      <td>
+        · Raise awareness and provide knowledge on:<br>
+        a) Sexually transmitted infectious diseases (STIs and HIV): what it is, how it spreads, how to prevent infection mainly through ABC (abstinence, being faithful, correct, and consistent condom use), consequences and impact<br>
+        b) Skills for respecting boundaries (e.g. decision-making, assertiveness, negotiation to say ‘no’ to peer pressure)<br>
+        c) Managing relationships and risky situations in a healthy way, including avenues for help-seeking.
+      </td>
+      <td>Term 3 Week 4</td>
+    </tr>
+    <tr>
+      <td>Classroom-based Lesson</td>
+      <td>· Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</td>
+      <td>Term 3 Week 4</td>
+    </tr>
+  </tbody>
 </table>
+
 <p><strong>Information for Parents</strong>
 </p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of
