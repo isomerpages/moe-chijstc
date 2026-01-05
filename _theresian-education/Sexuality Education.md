@@ -107,16 +107,24 @@ online and offline.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise the importance of monitoring
-and managing our emotional reactions, in helpful ways that are reflective
-of our values and principles</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise that there are different
-forms of love (e.g. familial, platonic, romantic love)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise the importance of, and
-understand what builds healthy and supportive relationships, both online
-and offline</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand what dating is, and recognise
-that the readiness and interest in dating vary among individuals</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Recognise the importance of monitoring and managing our emotional reactions,
+in helpful ways that are reflective of our values and principles</p>
+</li>
+<li>
+<p>Recognise that there are different forms of love (e.g. familial, platonic,
+romantic love)</p>
+</li>
+<li>
+<p>Recognise the importance of, and understand what buildshealthy and supportive
+relationships, both online and offline</p>
+</li>
+<li>
+<p>Understand what dating is, and recognise that the readiness and interest
+in dating vary among individuals</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 8</p>
@@ -140,9 +148,13 @@ of self.&nbsp;</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand that physical and psychological
-abuse from others, especially those we know and trust, can have strong
-negative effects on a person’s self-concept</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Understand that physical and psychological abuse from others, especially
+those we know and trust, can have strongnegative effects on a person’s
+self-concept</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 9</p>
@@ -166,14 +178,18 @@ will learn that it could lead to addiction and/or other risky sexual behaviours.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand and accept that as we
-work towards becoming our best self, there will be times when we make mistakes,
-and recognise the importance of exercising moral courage in facing up to
-consequences</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise that there are moral and
-legal consequences of risky sexual behaviours, pornography access and acting
-irresponsibly or maliciously when online (e.g. spreading of online falsehoods,
-flouting copyright laws, etc.)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Understand and accept that as we work towards becoming our best self,
+there will be times when we make mistakes, and recognise the importance
+of exercising moral courage in facing up to consequences</p>
+</li>
+<li>
+<p>Recognise that there are moral and legal consequences of risky sexualbehaviours,
+pornography access and acting irresponsibly or maliciously when online
+(e.g. spreading of online falsehoods, flouting copyright laws, etc.)</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 1</p>
@@ -235,12 +251,19 @@ treat everyone with respect and empathy.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that one’s understanding of
-gender roles should not be limited by gender stereotypes</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; develop an appreciation of one’s
-own unique qualities and characteristics as a male or female</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand what sexual orientation
-entails</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Know that one’s understanding of gender roles should not be limited by
+gender stereotypes</p>
+</li>
+<li>
+<p>Develop an appreciation of one’s own unique qualities and characteristics
+as a male or female</p>
+</li>
+<li>
+<p>Understand what sexual orientation entails</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 8</p>
@@ -265,9 +288,13 @@ and safety.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp; recognise one’s vulnerability to risky situations
-and the importance of exercising discretion to reduce risks and avoid negative
-consequences, both online and offline</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Recognise one’s vulnerability to risky situations and the importance of
+exercising discretion to reduce risks and avoid negative consequences,
+both online and offline</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 9</p>
@@ -290,11 +317,17 @@ of having sex with a minor, abortion and the abandonment of babies.&nbsp;</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp; recognise the importance of self-respect and
-respect for others in relating to members of the opposite sex</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp; recognise one’s vulnerability to risky situations
-and the importance of exercising discretion to reduce risks and avoid negative
-consequences, both offline and online</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Recognise the importance of self-respect and respect for others in relating
+to members of the opposite sex</p>
+</li>
+<li>
+<p>Recognise one’s vulnerability to risky situations and the importance of
+exercisingdiscretion to reduce risks and avoid negative consequences, both
+offline and online</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 4 Week 1</p>
@@ -349,15 +382,21 @@ entering into a dating relationship.&nbsp;</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that self-perception
-and identity have an impact on our self-esteem and how we interact with
-others and the choices we make, both online and offline</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand that expectations
-of oneself and others may differ and can affect one’s emotions, thoughts
-and behaviours</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise what healthy
-dating relationships involve and know that readiness is important when
-entering into a dating relationship</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Know that self-perception and identity have an impact on our self-esteem
+and how we interact with others and the choices we make, both online and
+offline</p>
+</li>
+<li>
+<p>Understand that expectations of oneself and others may differ and can
+affect one’s emotions, thoughts and behaviours</p>
+</li>
+<li>
+<p>Recognise what healthy dating relationships involve and know that readiness
+is important when entering into a datingrelationship</p>
+</li>
+</ul>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -381,13 +420,20 @@ and that family and friends are important pillars of support.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that relationship-building
-involves personal emotions and vulnerabilities, and changes and challenges</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that a decision
-to end a relationship will have consequences on oneself and others</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that grief and
-loss due to rejections and broken relationships is normal and one can recover
-from the experience</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Know that relationship-building involves personal emotions and vulnerabilities,
+and changes and challenges</p>
+</li>
+<li>
+<p>Know that a decision to end a relationship will have consequences on oneself
+and others</p>
+</li>
+<li>
+<p>Know that grief and loss due to rejections and broken relationships is
+normal and one can recover from the experience</p>
+</li>
+</ul>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know there are healthy
 ways of coping with broken relationships, and family and friends are important
 pillars of support</p>
@@ -414,10 +460,13 @@ also learn that sexting, voyeurism and other related sexual offences are
 never justifiable and they can seek help in times of need.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise the
-importance of being informed of social and moral issues of the day and
-the need to reflect on these issues, and weigh them against our own moral
-standpoints as we form our perspectives about them</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Recognise the importance of being informed of social and moral issues
+of the day and the need to reflect on these issues, and weigh them against
+our own moral standpoints as we form our perspectives about them</p>
+</li>
+</ul>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand that
 we strengthen our character when we commit to sound values-based viewpoints
 (e.g. respect for life) and decisions, and speak and act in alignment with
