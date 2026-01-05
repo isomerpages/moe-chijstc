@@ -723,8 +723,7 @@ are the key messages.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Time Period</strong>
-</p>
-<p><strong>(e.g. Term 3 Week 9)</strong>
+<strong>(e.g. Term 3 Week 9)</strong>
 </p>
 </td>
 </tr>
