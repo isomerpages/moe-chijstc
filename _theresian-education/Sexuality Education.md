@@ -719,12 +719,12 @@ are the key messages.</p>
 <p><strong>At CHIJ St Theresa’s Convent, the <em>eTeens</em> programme will be implemented as follows in 2026:</strong>
 </p>
 <p></p>
-<table style="minWidth: 75px">
+<table style="width:100%; min-width:75px; border-collapse:collapse;">
 <colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+    <col style="width:25%;">
+    <col style="width:55%;">
+    <col style="width:20%;"> 
+  </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -787,8 +787,7 @@ of assertiveness and responsible decision-making</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Information for Parents</strong>
-</p>
+<strong>Information for Parents</strong>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of
 the Sexuality Education lessons, <em>eTeens</em> and/or supplementary sexuality
 education programmes by MOE-approved external providers.</p>
