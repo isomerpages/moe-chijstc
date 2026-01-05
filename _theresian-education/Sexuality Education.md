@@ -2,7 +2,7 @@
 title: Sexuality Education
 permalink: /theresian-education/sexuality-education/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <p><strong>MOE Sexuality Education in Schools</strong>
 </p>
@@ -18,10 +18,9 @@ and learning of SEd is based on respect for the values and beliefs of the
 different ethnic and religious communities in Singapore on sexuality issues.</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Goals</strong> of
 Sexuality Education are to:</p>
-<p>&nbsp;</p>
-<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support
-students in managing their physiological, social and emotional changes
-as they grow up and develop safe and healthy relationships.</p>
+<p>&nbsp;(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Support students in managing their physiological, social and emotional
+changes as they grow up and develop safe and healthy relationships.</p>
 <p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Guide
 students to make wise, informed and responsible decisions on sexuality
 matters.</p>
@@ -31,9 +30,8 @@ positive mainstream values and attitudes about sexuality that are premised
 on the family as the basic unit of society.</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The <strong>Key Messages</strong> of
 Sexuality Education are:</p>
-<p>&nbsp;</p>
-<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Love and
-respect yourself as you love and respect others;</p>
+<p>&nbsp;(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Love and respect yourself as you love and respect others;</p>
 <p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Build
 positive relationships based on love and respect (which are the foundation
 for strong families);</p>
@@ -44,7 +42,7 @@ before marriage is the best protection against STIs/HIV and unintended
 pregnancies. Casual sex can harm and hurt you and your loved ones.</p>
 <p>&nbsp;You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for more information
 on MOE Sexuality Education.</p>
-<p><strong>Overview of CHIJ St Theresa’s Convent Sexuality Education Programme for 2025</strong>
+<p><strong>Overview of CHIJ St Theresa’s Convent’s Sexuality Education Programme for 2026</strong>
 </p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered
 in a holistic manner through the school curriculum. The content for Sexuality
@@ -79,11 +77,12 @@ and repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
 <p>&nbsp;<strong>At CHIJ St Theresa’s Convent, the following Sexuality Education lessons will be taught in <u>2026</u>:</strong>
 </p>
-<h3>2026 Sexuality Education Lessons in CCE</h3>
+<h4>2026 Sexuality Education Lessons in CCE</h4>
 <p><strong>Secondary 1</strong>
 </p>
-<table cellpadding="5" cellspacing="0" border="1" style="min-width: 125px">
-<colgroup><col>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -193,10 +192,9 @@ pornography access</p>
 </tr>
 </tbody>
 </table>
-<h3>2026 Sexuality Education Lessons in CCE</h3>
 <p><strong>Secondary 2</strong>
 </p>
-<table cellpadding="5" cellspacing="0" border="1" style="min-width: 125px">
+<table style="minWidth: 125px">
 <colgroup>
 <col>
 <col>
@@ -295,10 +293,9 @@ pregnancy, and abortion. Understand laws protecting minors.</p>
 </tr>
 </tbody>
 </table>
-<h3>2026 Sexuality Education Lessons in CCE</h3>
 <p><strong>Secondary 3</strong>
 </p>
-<table cellpadding="5" cellspacing="0" border="1" style="min-width: 125px">
+<table style="minWidth: 125px">
 <colgroup>
 <col>
 <col>
@@ -407,10 +404,9 @@ Emphasises personal safety, boundaries, and seeking help.</p>
 </tr>
 </tbody>
 </table>
-<h3>2026 Sexuality Education Lessons in CCE</h3>
 <p><strong>Secondary 4</strong>
 </p>
-<table cellpadding="5" cellspacing="0" border="1" style="min-width: 125px">
+<table style="minWidth: 125px">
 <colgroup>
 <col>
 <col>
@@ -488,10 +484,12 @@ skills, and communicate personal boundaries.</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 8</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know there are healthy ways of coping
+with broken relationships, and family and friends are important pillars
+of support</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Term 1 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -517,10 +515,29 @@ and conflict resolution.</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 1</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise emotions caused by traumatic
+situations, e.g. bullying, abuse and dating violence, and understand the
+physiological and psychological, social impact on victims</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand that we need moral courage
+and wisdom to recognise and end relationships that are unhealthy and cause
+harm to our mental and emotional well-being</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>understand the importance of ensuring that non-verbal messages match with
+verbal ones, when communicating personal and emotional boundaries in a
+relationship</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Term 2 Week 1</p>
 </td>
 </tr>
 <tr>
@@ -537,18 +554,23 @@ setting boundaries.</p>
 beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 2</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that long-term romantic relationships
+leading to marriage involve understanding oneself and others in the intellectual,
+emotional, social and moral dimensions</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that marriage entails a union
+between a man and a woman based on love, trust, commitment, and requires
+mutual effort</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand that conflicts are normal
+in any relationship, including marriage, and the way in which a couple
+handles conflict is critical to the success of their marriage</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Term 2 Week 2</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h3>2026 Sexuality Education Lessons in CCE</h3>
-<p><strong>Secondary 5</strong>
-</p>
-<table cellpadding="5" cellspacing="0" border="1" style="min-width: 125px">
+<table style="minWidth: 125px">
 <colgroup>
 <col>
 <col>
@@ -559,11 +581,19 @@ beliefs</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Unit</p>
+<p></p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Lesson Title</p>
-</th>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that long-term romantic relationships
+leading to marriage involve understanding oneself and others in the intellectual,
+emotional, social and moral dimensions</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that marriage entails a union
+between a man and a woman based on love, trust, commitment, and requires
+mutual effort</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand that conflicts are normal
+in any relationship, including marriage, and the way in which a couple
+handles conflict is critical to the success of their marriage</p>
+</td>
 <th rowspan="1" colspan="1">
 <p>Lesson Overview</p>
 </th>
@@ -613,31 +643,56 @@ negative peer pressure. They also learn that the impact of STIs/HIV extends
 beyond themselves and involves their family, and the importance of responsible
 decision-making and seeking help. Abstinence and upholding family values
 are the key messages.</p>
-<table cellpadding="5" cellspacing="0" border="1" style="min-width: 125px">
-  <tbody>
-    <tr>
-      <th>Topics/Lessons</th>
-      <th>Programme Learning Objectives</th>
-      <th>Time Period (e.g. Term 3 Week 9)</th>
-    </tr>
-    <tr>
-      <td>Mass Talk delivered through a pre-recorded video</td>
-      <td>
-        · Raise awareness and provide knowledge on:<br>
-        a) Sexually transmitted infectious diseases (STIs and HIV): what it is, how it spreads, how to prevent infection mainly through ABC (abstinence, being faithful, correct, and consistent condom use), consequences and impact<br>
-        b) Skills for respecting boundaries (e.g. decision-making, assertiveness, negotiation to say ‘no’ to peer pressure)<br>
-        c) Managing relationships and risky situations in a healthy way, including avenues for help-seeking.
-      </td>
-      <td>Term 3 Week 4</td>
-    </tr>
-    <tr>
-      <td>Classroom-based Lesson</td>
-      <td>· Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</td>
-      <td>Term 3 Week 4</td>
-    </tr>
-  </tbody>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Topics/Lessons</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Programme Learning Objectives</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time Period (e.g. Term 3 Week 9)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mass Talk delivered through a pre-recorded video</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>· Raise awareness and provide knowledge on:
+<br>a) Sexually transmitted infectious diseases (STIs and HIV): what it is,
+how it spreads, how to prevent infection mainly through ABC (abstinence,
+being faithful, correct, and consistent condom use), consequences and impact
+<br>b) Skills for respecting boundaries (e.g. decision-making, assertiveness,
+negotiation to say ‘no’ to peer pressure)
+<br>c) Managing relationships and risky situations in a healthy way, including
+avenues for help-seeking.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 3 Week 4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Classroom-based Lesson</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>· Learn to negotiate their way out of a risky situation by applying skills
+of assertiveness and responsible decision-making</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 3 Week 4</p>
+</td>
+</tr>
+</tbody>
 </table>
-
 <p><strong>Information for Parents</strong>
 </p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of
