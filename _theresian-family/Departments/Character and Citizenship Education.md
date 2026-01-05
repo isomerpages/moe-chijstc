@@ -90,6 +90,9 @@ areas pertaining to academic progress, sports and service to the school
 community throughout the school experience.</p>
 </li>
 </ul>
+<h3>Head of Department</h3>
+MsYeo Kai Ling (<a href="mailto:wong_kit_han_clara@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_kai_ling@moe.edu.sg</a>)
+<h4>Department Staffs</h4>
 <p><strong>Senior Teacher CCE &amp; Values Education<br></strong>Mrs Clara
 Ang (<a href="mailto:wong_kit_han_clara@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_kit_han_clara@moe.edu.sg</a>)</p>
 <strong>CCE &amp; Values Coordinator </strong><br>
