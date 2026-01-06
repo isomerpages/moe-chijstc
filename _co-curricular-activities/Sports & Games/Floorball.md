@@ -26,10 +26,13 @@ we value every individual and equip them with skills in Floorball and other
 competencies required to serve the school and the community.Students can
 look forward to increasing their physical fitness as well as taking part
 in a sport that never has a dull moment</p>
-<p><strong>Teachers-In-Charge</strong>
+<p><strong>Teachers-In-Charge:</strong>
+</p>
+<p>Mr Keith Koh Choon Yim(<a href="mailto:sekaran_chinna_govanden@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">keith_koh@moe.edu.sg</a>)
 <br>Ms Nur Hannah Binte Mohamed Elyas (<a href="mailto:nur_hannah_mohamed_elyas@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_hannah_mohamed_elyas@moe.edu.sg</a>)
 <br>Ms Quek Ygee Leng (<a href="mailto:quek_ygee_leng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">quek_ygee_leng_a@moe.edu.sg</a>)
-<br>Mr Sekaran S/O Chinna Govanden (<a href="mailto:sekaran_chinna_govanden@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sekaran_chinna_govanden@moe.edu.sg</a>)</p>
+<br>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/fb2.jpg">
 </div>

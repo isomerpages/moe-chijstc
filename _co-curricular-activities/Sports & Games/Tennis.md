@@ -3,7 +3,7 @@ title: Tennis
 permalink: /theresian-family/students/co-curricular-activities-cca/sports-n-games/tennis/
 description: ""
 third_nav_title: Sports & Games
-variant: tiptap
+variant: markdown
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2025%20CCA%20Photos/Tennis_Formal.jpg">
@@ -18,9 +18,8 @@ to gain more exposure. Through Tennis, the CCA aims to develop a passion
 for the sport, sense of resilience, confidence and fighting spirit in its
 members.</p>
 <p>***Tennis will not be recruiting Sec 1 members from 2024 onwards.***</p>
-<p><strong>Teachers-in-Charge</strong>
-<br>Mr Ng Say Hong (<a href="mailto:ng_say_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_say_hong@moe.edu.sg</a>)
-<br>Mr Terance Wong (<a href="mailto:wong_foh_peng_terance@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_foh_peng_terance@moe.edu.sg</a>)</p>
+<p><strong>Teachers-in-Charge:</strong>
+<br>Mr Terance Wong (<a href="mailto:wong_foh_peng_terance@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_foh_peng_terance@moe.edu.sg</a>)<br>Mr Ng Say Hong (<a href="mailto:ng_say_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_say_hong@moe.edu.sg</a>)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/ten2.jpg">
 </div>

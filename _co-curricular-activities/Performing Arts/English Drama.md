@@ -47,11 +47,6 @@ they learn and experience.</p>
 <p><strong>Teachers-in-Charge</strong> 
 <br>Ms Shehana Binte Zulazmi (<a href="mailto:shehana_zulazmi@moe.edu.sg" rel="noopener noreferrer nofollow" target="">shehana_zulazmi@moe.edu.sg</a>)
 <br>Ms Shirley Sim (<a href="mailto:sim_ai_ling_shirley@moe.edu.sg" rel="noopener noreferrer nofollow" target="">sim_ai_ling_shirley@moe.edu.sg</a>)
-<br>Mr Timothy Chow (<a href="mailto:timothy_chow_rui_jun@moe.edu.sg" rel="noopener noreferrer nofollow" target="">timothy_chow_rui_jun@moe.edu.sg</a>)</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/ed2.jpeg">
-</div>
-<p>
 <br>
 </p>
 <div class="isomer-image-wrapper">

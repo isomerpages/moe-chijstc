@@ -41,8 +41,8 @@ we aim to develop netballers holistically to their fullest potential.</p>
 </li>
 </ul>
 <p><strong>Teachers-in-Charge</strong>
-<br>Mrs Evelyn Jayesh (<a href="mailto:poon_siow_wei_evelyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="">poon_siow_wei_evelyn@moe.edu.sg</a>)
-<br>Mr Chua Qiyou (<a href="mailto:chua_qiyou@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_qiyou@moe.edu.sg</a>)</p>
+<br>Mr Toh Boon Hui (<a href="mailto:toh_boon_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_boon_hui@schools.gov.sg</a>)
+<br>Ms Meninder Kaur (<a href="mailto:meninder_kaur@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">meninder_kaur@moe.edu.sg</a>)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" src="/images/nb2.jpg">
 </div>

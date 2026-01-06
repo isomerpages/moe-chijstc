@@ -3,7 +3,7 @@ title: Softball
 permalink: /theresian-family/students/co-curricular-activities-cca/sports-n-games/softball/
 description: ""
 third_nav_title: Sports & Games
-variant: tiptap
+variant: markdown
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2025%20CCA%20Photos/Softball_Formal.jpg">
@@ -37,10 +37,13 @@ we participate in various sports activities as a team. In the past years,
 we have gone for bowling, dragon boating, handball and sport climbing.
 Activities such as these keep the team bonded and strong. As teammates,
 we are always there for one another.</p>
-<p><strong>Teachers-in-charge</strong>
+<p><strong>Teachers-in-charge:</strong>
+</p>
+<p>Mr Pek Aik Soon (<a href="mailto:pek_aik_soon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pek_aik_soon@moe.edu.sg</a>)
 <br>Ms Choy Cheng Mun (<a href="mailto:choy_cheng_mun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choy_cheng_mun@moe.edu.sg</a>)
-<br>Mr Pek Aik Soon (<a href="mailto:pek_aik_soon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pek_aik_soon@moe.edu.sg</a>)
-<br>Ms Isabelle Teo (<a href="mailto:teo_zhi_yi_isabelle@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_zhi_yi_isabelle@moe.edu.sg</a>)</p>
+<br>Ms Isabelle Teo (<a href="mailto:teo_zhi_yi_isabelle@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_zhi_yi_isabelle@moe.edu.sg</a>)<br>
+Mr Lee Boon Leong (<a href="mailto:lee_boon_leong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_boon_leong@moe.edu.sg)</a>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/sb2.jpg">
 </div>

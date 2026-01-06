@@ -3,8 +3,8 @@ title: Performing Arts
 permalink: /theresian-family/students/co-curricular-activities-cca/performing-arts/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
-
 <ul>
 <li><a href="/theresian-family/students/co-curricular-activities-cca/performing-arts/angklung">Angklung</a></li>
 <li><a href="/theresian-family/students/co-curricular-activities-cca/performing-arts/choir">Choir</a></li>
