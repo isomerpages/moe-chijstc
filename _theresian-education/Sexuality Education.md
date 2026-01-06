@@ -129,7 +129,7 @@ in helpful ways that are reflective of our values and principles</p>
 romantic love)</p>
 </li>
 <li>
-<p>Recognise the importance of, and understand what buildshealthy and supportive
+<p>Recognise the importance of, and understand what build healthy and supportive
 relationships, both online and offline</p>
 </li>
 <li>
