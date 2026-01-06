@@ -2,7 +2,7 @@
 title: Sexuality Education
 permalink: /theresian-education/sexuality-education/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <p><strong>MOE Sexuality Education in Schools</strong>
 </p>
@@ -53,7 +53,19 @@ topics on sexuality include:</p>
 </p>
 <p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The values and attitudes
 of our youth towards sexuality are increasingly shaped by their peers,
-exposure to the media, popular culture and the internet.</p>
+exposure to the media, popular culture and the internet. Adolescence is
+a complex stage in life as the adolescent attempts to find his or her own
+identity and often struggles with new social relationships. The period
+of middle adolescence (generally from 15 – 17 years old) can be a turbulent
+period for adolescents. The gap between physical and emotional/cognitive
+maturity may result in a tendency to act on impulse, experiment with various
+activities (including sexual activities), sometimes without understanding
+the unpleasant consequences that may arise from such experimentation. The
+need for peer acceptance can be overwhelmingly strong and hinder one’s
+ability to act responsibly.&nbsp; Given the pressures faced by the middle
+adolescent from within themselves and from peers, it is important to build
+a strong sense of self-worth, personal conviction and an understanding
+of the possible consequences of sexual behaviour.</p>
 <p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Through the Sexuality
 Education lessons, secondary students will have the opportunity to develop
 a positive self-esteem, develop their character, and expand their understanding.</p>
@@ -264,7 +276,6 @@ influence. The lesson encourages the safe and responsible use of social
 media, and aims to deepen students’ conviction, and extend a call to action
 to students to taking appropriate decisions to safeguard their well-being
 and safety.</p>
-
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -700,7 +711,7 @@ are the key messages.</p>
 <colgroup>
 <col>
 <col>
-<col width="20%">
+<col>
 </colgroup>
 <tbody>
 <tr>
@@ -713,8 +724,7 @@ are the key messages.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Time Period</strong>
-<strong>(e.g. Term 3 Week 9)</strong>
+<p><strong>Time Period(e.g. Term 3 Week 9)</strong>
 </p>
 </td>
 </tr>
