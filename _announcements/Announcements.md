@@ -83,7 +83,7 @@ the appointment booking form.</p>
 <p>Education and Career Guidance (ECG) Parent Resource</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/nlevel-ecgparentresources</a>
+<p><a href="http://go.gov.sg/nlevel-ecgparentresources" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/nlevel-ecgparentresources</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -95,7 +95,7 @@ the appointment booking form.</p>
 <p>Social and Emotional learning: Resources for Parents</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/olevel-selparentresources</a>
+<p><a href="http://go.gov.sg/olevel-selparentresources" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/olevel-selparentresources</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -108,7 +108,7 @@ the appointment booking form.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ecg-instagram</a>
-<a href="https://go.gov.sg/ecg-instagram" rel="noopener noreferrer nofollow" target="_blank"></a>&nbsp;</p>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Resource for parents/ guardians to engage their daughters/ wards in ECG
@@ -122,6 +122,7 @@ insights into industries, as well as pathway-related information.</p>
 Wednesday. More importantly, we believe that they have done their best!&nbsp;</p>
 <p>&nbsp;Thank you and may God bless you,</p>
 <p>CHIJ STC</p>
+<hr>
 <h4><strong>2025 Year End Message from Ms Vivienne Lim, Chairperson, <br>IJ Board of Management<br></strong></h4>
 <p></p>
 <p><a href="/files/Announcement/STC___2025_Year_End_Message_from_IJBOM_Chairperson.pdf" rel="noopener noreferrer nofollow" target="_blank">Message from Ms Vivienne Lim, Chairperson, CHIJ Board ofManagement</a>
