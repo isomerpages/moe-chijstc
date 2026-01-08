@@ -116,6 +116,18 @@ exploration through bite-sized content featuring conversation starters,
 insights into industries, as well as pathway-related information.</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tips and Resources for Parents</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Exam TT/2025_O_Level_Parent_Information_Sheet.pdf" rel="noopener nofollow" target="_blank">Supporting Your Teen Upon Results Release Tips and Resources for Parents</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>&nbsp;The school will be praying for our students for every success this
