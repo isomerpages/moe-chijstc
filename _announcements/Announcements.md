@@ -2,7 +2,7 @@
 title: Announcements
 permalink: /others/announcement/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h4><strong>2025 GCE O-Level Results Release</strong></h4>
 <p>&nbsp;Dear Parents/ Guardians,</p>
@@ -68,7 +68,7 @@ social and emotional support as well as education and career guidance.</p>
 <p>Booking Form for ECG Counselling Appointments at the ECG Centre @ MOE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-ecg-centre</a>
+<p><a href="https://go.gov.sg/moe-ecg-centre" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-ecg-centre</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -107,7 +107,7 @@ the appointment booking form.</p>
 <p>@explore.ecg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ecg-instagram</a>
+<p><a href="https://go.gov.sg/ecg-instagram" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ecg-instagram</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
