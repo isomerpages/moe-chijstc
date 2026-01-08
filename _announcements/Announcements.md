@@ -23,14 +23,14 @@ to enter the school hall for the release of the results. &nbsp;</p>
 <p>&nbsp;For students who are unable to collect their results in person,
 you can appoint a proxy to collect a physical copy of their results from
 the school. Proxies are required to produce the relevant documents for
-the school’s verification when collecting the results. Please see the Letter
-of Authorisation (Appointment of proxy for school candidates who are unable
-to collect their results in person) as attached for your completion. Please
-print out this letter for the school’s verification when collecting their
-results. Do contact the school through their Form Teacher for assistance
-if they are unable to appoint a proxy before 13 January 2026. Do also note
-that the results will be released to the proxies only after the results
-release is over in the School Hall.</p>
+the school’s verification when collecting the results. Please see the
+<a href="/files/Exam TT/Authorisation_letter_for_collection_of_results.pdf" rel="noopener noreferrer nofollow" target="_blank">Letter of Authorisation</a>(Appointment of proxy for school candidates
+who are unable to collect their results in person) as attached for your
+completion. Please print out this letter for the school’s verification
+when collecting their results. Do contact the school through their Form
+Teacher for assistance if they are unable to appoint a proxy before 13
+January 2026. Do also note that the results will be released to the proxies
+only after the results release is over in the School Hall.</p>
 <p>&nbsp;While we await the results, let us also remember to celebrate the
 efforts of each one of our Theresians, regardless of the results. We can
 show support for our students by showing them through our words and actions
