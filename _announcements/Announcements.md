@@ -121,7 +121,7 @@ insights into industries, as well as pathway-related information.</p>
 <p>Tips and Resources for Parents</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Exam TT/2025_O_Level_Parent_Information_Sheet.pdf" rel="noopener nofollow" target="_blank">Supporting Your Teen Upon Results Release Tips and Resources for Parents</a>
+<p><a href="/files/Exam TT/2025_O_Level_Parent_Information_Sheet.pdf" rel="noopener nofollow" target="_blank">Supporting Your Teen Upon Results Release</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
