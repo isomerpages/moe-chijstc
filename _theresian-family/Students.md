@@ -7,7 +7,7 @@ variant: tiptap
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/School_Calendar_2025.pdf" rel="noopener nofollow" target="_blank">School Calendar</a>
+<p><a href="/files/Student Matters/School_Calendar_2026.pdf" rel="noopener nofollow" target="_blank">School Calendar</a>
 </p>
 </li>
 <li>
