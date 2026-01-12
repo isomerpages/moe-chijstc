@@ -13,7 +13,7 @@ variant: markdown
 
 <p><strong>Teachers-in-charge:</strong><br>Ms Li Ziyi (<a href="mailto:li_ziyi@moe.edu.sg">li_ziyi@moe.edu.sg</a>)<br>
 	Ms Joyce Tan (<a href="mailto:tan_shu_min_joyce@moe.edu.sg">tan_shu_min_joyce@moe.edu.sg</a>)<br>Ms Evelyn Yau (<a href="mailto:evelyn_yau@moe.edu.sg">evelyn_yau@moe.edu.sg</a>)<br>
-Mdm Joy See Jia Hui(<a href="mailto:joy_see@schools.gov.sg">joy_see@moe.edu.sgov.sg</a>)
+Mdm Joy See Jia Hui (<a href="mailto:joy_see@schools.gov.sg">joy_see@moe.edu.sgov.sg</a>)
 
 <img src="/images/gg1.jpg"><br>
 <img style="width: 80%;" src="/images/gg2.jpg"><br>
