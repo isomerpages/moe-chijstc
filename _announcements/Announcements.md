@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>2026 CCA Schedule</strong></h4>
-<p>Please refer to the attached below for details of the CCA schedule.</p>
+<p>Please refer to the attachment below for details of the CCA schedule.</p>
 <p><a href="/files/Student Matters/CCA_Master_Schedule_2026__with_emails_.pdf" rel="noopener nofollow" target="_blank">CCA Schedule</a>
 </p>
 <h4><strong>2025 GCE O-Level Results Release</strong></h4>
