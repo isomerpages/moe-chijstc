@@ -3,7 +3,7 @@ title: Track and Field
 permalink: /theresian-family/students/co-curricular-activities-cca/sports-n-games/track-and-field/
 description: ""
 third_nav_title: Sports & Games
-variant: markdown
+variant: tiptap
 ---
 <h4></h4>
 <div class="isomer-image-wrapper">
@@ -26,8 +26,7 @@ the tough competitions, we have challenged our abilities to greater heights.
 Braving through the many competitors in the various events, we have achieved
 stupendous victories in the various Nationals School competition. Through
 the many moments, it is the shared memories we hold strong as a team.</p>
-<p><strong>Teachers-in-Charge:<br></strong>
-	Mr Lua Jiong How ((<a href="lua_jiong_how@moe.edu.sg&quot;" rel="noopener noreferrer nofollow" target="_blank">lua_jiong_how@moe.edu.sg</a>)
+<p><strong>Teachers-in-Charge:<br></strong> Mr Lua Jiong How (<a href="lua_jiong_how@moe.edu.sg&quot;" rel="noopener noreferrer nofollow" target="_blank">lua_jiong_how@moe.edu.sg</a>)
 <br>Mr Philip Tan (<a href="mailto:tan_en_yaw_philip@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_en_yaw_philip@moe.edu.sg</a>)
 <br>Mr Tan Jit Hong (<a href="mailto:tan_jit_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jit_hong@moe.edu.sg</a>)</p>
 <p>
