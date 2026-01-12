@@ -43,6 +43,7 @@ we aim to develop netballers holistically to their fullest potential.</p>
 <p><strong>Teachers-in-Charge</strong>
 <br>Mr Toh Boon Hui (<a href="mailto:toh_boon_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_boon_hui@schools.gov.sg</a>)
 <br>Ms Meninder Kaur (<a href="mailto:meninder_kaur@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">meninder_kaur@moe.edu.sg</a>)</p>
+<p>Mr Wong Chee Leong (<a href="mailto:wong_chee_leong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_chee_leong@moe.edu.sg</a>)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" src="/images/nb2.jpg">
 </div>
