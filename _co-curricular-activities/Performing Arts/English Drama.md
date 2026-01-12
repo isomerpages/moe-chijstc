@@ -46,8 +46,8 @@ they learn and experience.</p>
 </ul>
 <p><strong>Teachers-in-Charge</strong> 
 <br>Ms Shehana Binte Zulazmi (<a href="mailto:shehana_zulazmi@moe.edu.sg" rel="noopener noreferrer nofollow" target="">shehana_zulazmi@moe.edu.sg</a>)
-<br>Ms Shirley Sim (<a href="mailto:sim_ai_ling_shirley@moe.edu.sg" rel="noopener noreferrer nofollow" target="">sim_ai_ling_shirley@moe.edu.sg</a>)</p>
-<p>Mr Royston Ang (<a href="mailto:Ang_Royston_Alvin_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_royston_alvin_a@moe.edu.sg</a>)
+<br>Ms Shirley Sim (<a href="mailto:sim_ai_ling_shirley@moe.edu.sg" rel="noopener noreferrer nofollow" target="">sim_ai_ling_shirley@moe.edu.sg</a>)<br>
+Mr Royston Ang (<a href="mailto:Ang_Royston_Alvin_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_royston_alvin_a@moe.edu.sg</a>)
 <br>
 </p>
 <div class="isomer-image-wrapper">
