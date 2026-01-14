@@ -9,7 +9,7 @@ variant: markdown
 <h4><strong>Introduction</strong></h4>
 <p><strong>NPCC - Developing leaders with characters and values</strong>&nbsp;<br>NPCC believes in training our girls to become leaders who are respectful, resilient and responsible. Some of the activities we offer include Adventure and Survival Training Camp, Revolver Shoots, Unarmed Combat, Parades, Police Patrols and campcraft. These activities challenge our cadets to be independent and resilient.</p>
 
-<p><strong>Teachers-in-Charge<br></strong>Ms Valarie Leong (leong_kai_yun_valarie@moe.edu.sg)<br>Mr Mar Tan &nbsp;(mark_tan_jie-yi@schools.gov.sg)</p>
+<p><strong>Teachers-in-Charge<br></strong>Ms Valarie Leong (<a href="mailto:leong_kai_yun_valarie@moe.edu.sg">leong_kai_yun_valarie@moe.edu.sg</a>)<br>Mr Mark Tan &nbsp;(<a href="mailto:mark_tan_jie-yi@moe.edu.sg">mark_tan_jie-yi@moe.edu.sg</a>)</p>
 
 <img src="/images/npcc2.jpg"><br>
 <img src="/images/npcc3.jpg"><br>

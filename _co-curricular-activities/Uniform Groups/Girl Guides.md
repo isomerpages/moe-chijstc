@@ -11,10 +11,10 @@ variant: markdown
 <p>Girl Guides is one of the first few CCAs that have existed since the founding of CHIJ St. Theresa’s Convent. Girl Guiding is a worldwide movement that aims to develop girls in different domains of personal and social development, outdoors, home, community and international. Plenty of opportunities are provided for its members to acquire life skills beyond the classroom.&nbsp;</p>
 <p>Campfires, camps and overseas exchange programmes form the myriad of experiences for a Guide to be empowered and grow in Truth, Justice, Freedom and Love.</p>
 
-<p><strong>Teachers-in-charge:<br><br>Ms Li Ziyi (<a href="mailto:li_ziyi@moe.edu.sg">li_ziyi@moe.edu.sg</a>)<br>
-	Ms Joyce Tan (<a href="mailto:tan_shu_min_joyce@moe.edu.sg">tan_shu_min_joyce@moe.edu.sg</a>)<br>Ms Evelyn Yau (<a href="mailto:evelyn_yau@moe.edu.sg">evelyn_yau@moe.edu.sg</a>)</strong></p><strong>
-Mdm Joy See Jia Hui(<a href="mailto:joy_see@schools.gov.sg">joy_see@moe.edu.sgov.sg</a>)	</strong>
+<p><strong>Teachers-in-charge:</strong><br>Ms Li Ziyi (<a href="mailto:li_ziyi@moe.edu.sg">li_ziyi@moe.edu.sg</a>)<br>
+	Ms Joyce Tan (<a href="mailto:tan_shu_min_joyce@moe.edu.sg">tan_shu_min_joyce@moe.edu.sg</a>)<br>Ms Evelyn Yau (<a href="mailto:evelyn_yau@moe.edu.sg">evelyn_yau@moe.edu.sg</a>)<br>
+Mdm Joy See Jia Hui (<a href="mailto:joy_see@schools.gov.sg">joy_see@moe.edu.sgov.sg</a>)
 
 <img src="/images/gg1.jpg"><br>
 <img style="width: 80%;" src="/images/gg2.jpg"><br>
-<img src="/images/gg3.jpg">
+<img src="/images/gg3.jpg"></p>
