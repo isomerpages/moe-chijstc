@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>2025 O-Level Briefing Slides for Students</strong></h4>
-<p><a href="/files/Student Matters/2025_O_Level_Briefing_Slides_for_Students__website_.pdf" rel="noopener nofollow" target="_blank">2025_O_Level_Briefing_Slides_for_Students</a>
+<p><a href="/files/Student Matters/2025_O_Level_Briefing_Slides_for_Students__website_.pdf" rel="noopener nofollow" target="_blank">O_Level_Briefing_Slides_for_Students</a>
 </p>
 <h4><strong>CCA Schedule</strong></h4>
 <p>Please refer to the attachment below for details of the CCA schedule.</p>
