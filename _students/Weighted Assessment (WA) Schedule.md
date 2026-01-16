@@ -5,6 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>Semester 1 Weighted Assessment Schedule</strong></h4>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
