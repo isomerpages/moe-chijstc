@@ -18,7 +18,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Exam TT/2026_Sec_1_Assessment_GC.pdf" rel="noopener nofollow" target="_blank">Sec 1 WA Schedule</a>
+<p><a href="/files/Exam TT/Sec_1_WA_Schedule_updated.pdf" rel="noopener nofollow" target="_blank">Sec 1 WA Schedule</a>
 </p>
 </td>
 </tr>
