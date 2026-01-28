@@ -105,6 +105,7 @@ Mr Chua Qiyou</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:meninder_kaur@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">meninder_kaur@moe.edu.sg</a>
+	<a href="mailto:keith_koh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">keith_koh@moe.edu.sg</a>
 </p>
 </td>
 </tr>
