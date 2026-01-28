@@ -33,6 +33,7 @@ variant: markdown
 </p></td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:shehana_zulazmi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shehana_zulazmi@moe.edu.sg</a>
+	</p><p><a href="mailto:tang_li_hua_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tang_li_hua_b@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -46,7 +47,6 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chong_shufen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_shufen@moe.edu.sg</a> 
-
 <a href="mailto:natarajan_saravanan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">natarajan_saravanan@moe.edu.sg</a>
 </p>
 </td>
@@ -118,6 +118,7 @@ Mr Chua Qiyou</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:loh_chiu_wai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_chiu_wai@moe.edu.sg</a>
+<a href="mailto:mok_peck_yim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mok_peck_yim@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -202,6 +203,7 @@ Mr Chua Qiyou</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_jit_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jit_hong@moe.edu.sg</a>
+	<a href="mailto:lee_shu_fen_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_shu_fen_a@moe.edu.sg</a>
 </p>
 <p></p>
 </td>
