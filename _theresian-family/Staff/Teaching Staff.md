@@ -303,7 +303,7 @@ Mr Chua Qiyou</p>
 	Mr Andrew Lau</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:haslinda_ramat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">haslinda_ramat@moe.edu.sg</a><br>
+<p><a href="mailto:haslinda_ramat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">haslinda_ramat@moe.edu.sg</a>
 <br><a href="mailto:andrew_lau_fu_yang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">andrew_lau_fu_yang@moe.edu.sg</a>
 </p>
 </td>
