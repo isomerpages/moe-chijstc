@@ -344,7 +344,6 @@ Mr Chua Qiyou</p>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_lee_jiun_karen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_lee_jiun_karen@moe.edu.sg</a>
 <br><a href="mailto:wong_foh_peng_terance@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_foh_peng_terance@moe.edu.sg</a>
-<br>
 </p>
 </td>
 </tr>
