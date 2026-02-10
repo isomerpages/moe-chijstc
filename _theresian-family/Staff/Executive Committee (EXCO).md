@@ -3,7 +3,7 @@ title: Executive Committee (EXCO)
 permalink: /theresian-family/staff/executive-committee-exco/
 description: ""
 third_nav_title: Staff
-variant: markdown
+variant: tiptap
 ---
 <p></p>
 <p></p>
@@ -117,24 +117,13 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Timothy Chow (Mr)</p>
+<p>Yeo Kai Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH Literature</p>
+<p>HOD CCE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:timothy_chow_rui_jun@moe.edu.sg" rel="noopener noreferrer nofollow" target="">timothy_chow_rui_jun@moe.edu.sg</a>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chua Qiyou (Mr)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH Geography</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="http://chua_qiyou@moe.edu.sg%20/" rel="noopener noreferrer nofollow" target="">chua_qiyou@moe.edu.sg</a>
+<p><a href="mailto:yeo_kai_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_kai_ling@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -186,24 +175,14 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lee Boon Leong (Mr)</p>
+<p>Tan Keng Seng (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 4/5 Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_boon_leong@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lee_boon_leong@moe.edu.sg</a>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lee Chai Yen (Mdm)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD Mother Tongue Languages</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_chai_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lee_chai_yen@moe.edu.sg</a>&nbsp;</p>
+<p><a href="mailto:tan_keng_seng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_keng_seng@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
