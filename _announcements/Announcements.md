@@ -4,6 +4,8 @@ permalink: /others/announcement/
 description: ""
 variant: markdown
 ---
+<h4><strong>School Operating Hours on 16 February 2026 (Chinese New Year Eve)</strong></h4>
+Please note that the school will be operating from 6:00am to 12:00pm.<hr>
 <h4><strong>2025 O-Level Briefing Slides for Students</strong></h4>
 <p><a href="/files/Student Matters/2025_O_Level_Briefing_Slides_for_Students__website_.pdf" rel="noopener nofollow" target="_blank">O_Level_Briefing_Slides_for_Students</a>
 </p><hr>
