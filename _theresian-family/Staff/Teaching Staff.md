@@ -220,7 +220,7 @@ Mr Chua Qiyou</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:hung_pek_hui_eunice@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hung_pek_hui_eunice@moe.edu.sg</a>
-<br><a href="mailto:lim_choon_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_choon_hong@moe.edu.sg</a>
+<br><a href="mailto:lim_choon_hong_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_choon_hong_b@moe.edu.sg</a>
 </p>
 </td>
 </tr>
