@@ -55,10 +55,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/theresian-family/students/exercise-and-sports-science-ess" rel="noopener noreferrer nofollow" target="">Information about Exercise and Sports Science (ESS)</a>
-</p>
-</li>
-<li>
 <p><a href="/others/2024-weighted-assessment-wa-schedule" rel="noopener noreferrer nofollow" target="">WA Schedule</a>
 </p>
 </li>
