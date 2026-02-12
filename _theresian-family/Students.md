@@ -27,7 +27,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/others/2024-exam-timetable" rel="noopener noreferrer nofollow" target="">Exam Timetable</a>
+<p><a href="/others/exam-timetable" rel="noopener noreferrer nofollow" target="">Exam Timetable</a>
 </p>
 </li>
 <li>
@@ -55,11 +55,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/theresian-family/students/exercise-and-sports-science-ess" rel="noopener noreferrer nofollow" target="">Information about Exercise and Sports Science (ESS)</a>
-</p>
-</li>
-<li>
-<p><a href="/others/2024-weighted-assessment-wa-schedule" rel="noopener noreferrer nofollow" target="">WA Schedule</a>
+<p><a href="/others/weighted-assessment-wa-schedule" rel="noopener noreferrer nofollow" target="">WA Schedule</a>
 </p>
 </li>
 <li>

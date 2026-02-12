@@ -1,6 +1,6 @@
 ---
 title: Weighted Assessment (WA) Schedule
-permalink: /others/2026-weighted-assessment-wa-schedule/
+permalink: /others/weighted-assessment-wa-schedule/
 description: ""
 variant: tiptap
 ---
