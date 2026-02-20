@@ -3,55 +3,78 @@ title: Design & Food Studies
 permalink: /theresian-family/departments/design-n-food-studies/
 description: ""
 third_nav_title: Departments
-variant: markdown
+variant: tiptap
 ---
 <h4></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2025 Staff Photos/DFS.jpg">
 </div>
 <h4><strong>"Learn, Collaborate &amp; Impact"</strong></h4>
-
-<p>Art, Design &amp; Technology (D&amp;T), Food and Consumer Education (FCE), Nutrition and Food Science (NFS) and Music.</p>
+<p>Art, Design &amp; Technology (D&amp;T), Food and Consumer Education (FCE),
+Nutrition and Food Science (NFS) and Music.</p>
 <p><strong>Mission</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>To foster creative, critical and analytical thinking, sensitivity and powers of observation.</p>
+<p>To foster creative, critical and analytical thinking, sensitivity and
+powers of observation.</p>
 </li>
 <li>
 <p>To educate the appreciation for the fine things in life.</p>
 </li>
 </ol>
 <p><strong>Vision</strong>
-</p>To nurture creative and confident Theresians who think critically, express themselves creatively through the aesthetics, guided by critical thinking, problem-solving and a spirit of lifelong learning.
-
-<p><strong>Key Programmes </strong>
-</p><ul>
-  <li>Art Elective Programme</li>
-  <li>Music Elective Programme</li>
-  <li>Performance-Based Learning Journey</li>
-  <li>Aesthetics Week</li>
-  <li>Battle of the Bands</li>
-  <li>Racial Harmony Day Workshops</li>
-  <li>STC Bazaar</li>
-  <li>STC Got Talent</li>
-  <li>SYF Art Exhibition</li>
+</p>
+<p>To nurture creative and confident Theresians who think critically, express
+themselves creatively through the aesthetics, guided by critical thinking,
+problem-solving and a spirit of lifelong learning.</p>
+<p><strong>Key Programmes</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Art Elective Programme</p>
+</li>
+<li>
+<p>Music Elective Programme</p>
+</li>
+<li>
+<p>Performance-Based Learning Journey</p>
+</li>
+<li>
+<p>Aesthetics Week</p>
+</li>
+<li>
+<p>Battle of the Bands</p>
+</li>
+<li>
+<p>Racial Harmony Day Workshops</p>
+</li>
+<li>
+<p>STC Bazaar</p>
+</li>
+<li>
+<p>STC Got Talent</p>
+</li>
+<li>
+<p>SYF Art Exhibition</p>
+</li>
 </ul>
-
-
 <h4><strong>Head of Department</strong></h4>
-Mdm Chin Pooi Pooi (<a href="mailto:chin_pooi_pooi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chin_pooi_pooi@moe.edu.sg</a>)
+<p>Mdm Chin Pooi Pooi (<a href="mailto:chin_pooi_pooi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chin_pooi_pooi@moe.edu.sg</a>)</p>
 <h4><strong>Department Staff</strong></h4>
-<strong>Art and Design</strong>
+<p><strong>Art and Design</strong>
 <br>Mr Edgar Seow (<a href="mailto:seow_siang_kim_edgar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seow_siang_kim_edgar@moe.edu.sg</a>)
-<br>Ms Shehana Binte Zulazmi (<a href="mailto:shehana_zulazmi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shehana_zulazmi@moe.edu.sg</a>)<br>
+<br>Ms Shehana Binte Zulazmi (<a href="mailto:shehana_zulazmi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shehana_zulazmi@moe.edu.sg</a>)
+<br>
 <br><strong>Design and Technology<br></strong>Mr Lim Choon Hong (<a href="mailto:lim_choon_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_choon_hong@moe.edu.sg</a>)
 <br>Mr Pek Aik Soon (<a href="mailto:pek_aik_soon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pek_aik_soon@moe.edu.sg</a>)
 <br>Ms Rachel Chong (<a href="mailto:chong_shufen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_shufen@moe.edu.sg</a>)
 <br>Mr Philip Tan (<a href="mailto:tan_en_yaw_philip@moe.edu.sg" rel="noopener noreferrer nofollow" target="">tan_en_yaw_philip@moe.edu.sg</a>)
-<br><br><strong>Food and Consumer Education/Food and Nutrition<br></strong>Ms
-Angela Yang Huihui (<a href="mailto:angela_yang_hui_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">angela_yang_hui_hui@moe.edu.sg</a>)<br>
-<br><strong>Music<br></strong>Mr Ngiam Xing Hao(<a href="mailto:ngiam_xing_hao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ngiam_xing_hao@moe.edu.sg</a>)
+<br>
+<br><strong>Food and Consumer Education/Food and Nutrition<br></strong>Ms
+Angela Yang Huihui (<a href="mailto:angela_yang_hui_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">angela_yang_hui_hui@moe.edu.sg</a>)
+<br>
+<br><strong>Music<br></strong>Mr Ngiam Xing Hao(<a href="mailto:ngiam_xing_hao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ngiam_xing_hao@moe.edu.sg</a>)</p>
 <h4><strong>Syllabuses</strong></h4>
 <p><strong>Lower Secondary<br></strong>Food and Nutrition - Lower Secondary
 <br>Visual Arts - Lower Secondary
@@ -63,10 +86,6 @@ Angela Yang Huihui (<a href="mailto:angela_yang_hui_hui@moe.edu.sg" rel="noopene
 <p><strong>Design and Technology:</strong>
 </p>
 <ul data-tight="true" class="tight">
-<li>
-<p><a href="http://www.technologystudent.com/" rel="noopener noreferrer nofollow" target="_blank">http://www.technologystudent.com/</a>
-</p>
-</li>
 <li>
 <p><a href="http://www.design-technology.org/TVS3.htm" rel="noopener noreferrer nofollow" target="_blank">http://www.design-technology.org/TVS3.htm</a>
 </p>
