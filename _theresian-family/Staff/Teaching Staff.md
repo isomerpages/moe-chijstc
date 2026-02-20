@@ -264,7 +264,7 @@ Mr Chua Qiyou</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_zhong_hao_alwyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_zhong_hao_alwyn@moe.edu.sg</a>
-	<a href="mailto:joy_see@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">joy_see@moe.edu.sg</a>
+	<a href="mailto:see_jia_hui_joy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">see_jia_hui_joy@schools.moe.edu.sg</a>
 </p>
 </td>
 </tr>
