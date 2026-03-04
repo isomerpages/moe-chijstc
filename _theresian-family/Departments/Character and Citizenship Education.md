@@ -3,14 +3,11 @@ title: Character and Citizenship Education
 permalink: /theresian-family/departments/character-and-citizenship-education/
 description: ""
 third_nav_title: Departments
-variant: markdown
+variant: tiptap
 ---
 <p></p>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2025 Staff Photos/CCE.jpg">
-</div>
 <p><strong>Mission<br></strong>To develop Theresian students to be persons
 for God and for others through the promotion of truth, justice, freedom
 and love.</p>
@@ -91,9 +88,9 @@ community throughout the school experience.</p>
 </li>
 </ul>
 <h3>Head of Department</h3>
-MsYeo Kai Ling (<a href="mailto:wong_kit_han_clara@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_kai_ling@moe.edu.sg</a>)
+<p>MsYeo Kai Ling (<a href="mailto:wong_kit_han_clara@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_kai_ling@moe.edu.sg</a>)</p>
 <h4>Department Staffs</h4>
 <p><strong>Senior Teacher CCE &amp; Values Education<br></strong>Mrs Clara
 Ang (<a href="mailto:wong_kit_han_clara@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_kit_han_clara@moe.edu.sg</a>)</p>
-<strong>CCE &amp; Values Coordinator </strong><br>
-Ms Miroshini D/O Kannathasan (<a href="mailto:miroshini_kannathasan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">miroshini_kannathasan@moe.edu.sg</a>)
+<p><strong>CCE &amp; Values Coordinator </strong>
+<br>Ms Miroshini D/O Kannathasan (<a href="mailto:miroshini_kannathasan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">miroshini_kannathasan@moe.edu.sg</a>)</p>
