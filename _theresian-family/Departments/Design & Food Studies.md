@@ -6,9 +6,6 @@ third_nav_title: Departments
 variant: tiptap
 ---
 <h4></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2025 Staff Photos/DFS.jpg">
-</div>
 <h4><strong>"Learn, Collaborate &amp; Impact"</strong></h4>
 <p>Art, Design &amp; Technology (D&amp;T), Food and Consumer Education (FCE),
 Nutrition and Food Science (NFS) and Music.</p>
