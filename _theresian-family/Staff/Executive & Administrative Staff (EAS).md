@@ -3,16 +3,10 @@ title: Executive & Administrative Staff (EAS)
 permalink: /theresian-family/staff/executive-n-administrative-staff-eas/
 description: ""
 third_nav_title: Staff
-variant: markdown
+variant: tiptap
 ---
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2025 Staff Photos/EAS.jpg">
-</div>
-<p>
-<br>
-</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -53,7 +47,6 @@ variant: markdown
 <p>Administration Manager</p>
 </td>
 </tr>
-
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Poh Joo Heng</p>
@@ -62,7 +55,7 @@ variant: markdown
 <p>Operations Manager&nbsp;</p>
 </td>
 </tr>
-	<tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Mr Lee Wai Hoong</p>
 </td>
@@ -110,16 +103,23 @@ variant: markdown
 <p>Education Workshop Instructor</p>
 </td>
 </tr>
-	<tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Mr Sirrul Hadi Bin Azman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>STEM Instructor (Laboratory) </p>
+<p>STEM Instructor (Laboratory)</p>
 </td>
 </tr>
 <tr>
-</tr><tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Kamala D/O Siddhannan</p>
 </td>
