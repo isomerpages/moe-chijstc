@@ -3,13 +3,10 @@ title: English
 permalink: /theresian-family/departments/english/
 description: ""
 third_nav_title: Departments
-variant: markdown
+variant: tiptap
 ---
 <h4></h4>
 <h4></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2025 Staff Photos/English_Language_and_Literature.jpg">
-</div>
 <h4><strong>"A language many-coloured and richly storied" - James Joyce</strong></h4>
 <p><strong>Mission</strong>
 </p>
@@ -61,13 +58,14 @@ read for pleasure, think deeply about the world around them, and grow into
 confident lifelong readers who use stories and ideas to understand themselves
 and others.</p>
 <p></p>
-<b><u>STC Creative Writing Programme</u></b>
+<p><strong><u>STC Creative Writing Programme</u></strong>
 <br>The STC Creative Writing Programme nurtures students who show strong interest
 and aptitude in writing. Through targeted enrichment sessions such as the
 Creative Writing Camp, students deepen their skills in creative expression,
 narrative craft, and editorial refinement. They explore a range of writing
 forms—from personal essays and short stories to poetry and songs—and learn
-to develop their confidence and sensitivity to audience, purpose, and context.<p></p>
+to develop their confidence and sensitivity to audience, purpose, and context.</p>
+<p></p>
 <p>Students engage in:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -86,11 +84,13 @@ Competition, Live On Writing Competition</p>
 </ul>
 <p>This programme aims to inspire students to see writing not just as a skill,
 but as a form of personal voice, creative expression, and meaningful influence.</p>
-<u><b>Literature on stage</b></u><br>Lit on Stage is a signature Literature programme in STC that brings texts
+<p><strong><u>Literature on stage</u></strong>
+<br>Lit on Stage is a signature Literature programme in STC that brings texts
 to life through performance. The upper secondary Literature students step
 into the roles, voices, and worlds of the characters they study in their
 Literature texts —exploring how language, movement, and expression shape
-meaning.<p></p>
+meaning.</p>
+<p></p>
 <p>Through stage performances, students:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -126,9 +126,7 @@ and personal voice.</p>
 <br>Mr Edgar Seow (<a href="mailto:seow_siang_kim_edgar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seow_siang_kim_edgar@moe.edu.sg</a>)
 <br>Mr Lee Boon Leong (<a href="mailto:lee_boon_leong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_boon_leong@moe.edu.sg</a>)
 <br>Ms Ling Kay Bin (<a href="mailto:ling_kay_bin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ling_kay_bin@moe.edu.sg</a>)
-<br>
-	Mr Mark Tan (<a href="mailto:mark_tan_jie_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mark_tan_jie_yi@moe.edu.sg</a>)</p>
-
+<br>Mr Mark Tan (<a href="mailto:mark_tan_jie_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mark_tan_jie_yi@moe.edu.sg</a>)</p>
 <p></p>
 <p><strong>English Language and Literature<br></strong>Ms Dawn Tan ( <a href="mailto:tan_qiu_yin_dawn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_qiu_yin_dawn@moe.edu.sg</a>)
 <br>Ms Joyce Tan (<a href="mailto:tan_shu_min_joyce@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_shu_min_joyce@moe.edu.sg</a>)
@@ -138,6 +136,3 @@ and personal voice.</p>
 <br>Ms Isabelle Teo (<a href="mailto:teo_zhi_yi_isabelle@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_zhi_yi_isabelle@moe.edu.sg)</a>
 <br>Mr Samuel Zou (<a href="mailto:zou_en_samuel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zou_en_samuel@moe.edu.sg</a>)
 <br>Mr Timothy Chow (<a href="mailto:timothy_chow_rui_jun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">timothy_chow_rui_jun@moe.edu.sg</a>)</p>
-
-
-
