@@ -3,28 +3,38 @@ title: Mathematics
 permalink: /theresian-family/departments/mathematics/
 description: ""
 third_nav_title: Departments
-variant: markdown
+variant: tiptap
 ---
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2025 Staff Photos/Mathematics.jpg">
-</div>
-<p></p><h4><strong>"The function of education is to teach one to think intensively and to think critically. Intelligence plus character - that is the goal of true education" --Martin Luther King, Jr.</strong></h4>
+<h4><strong>"The function of education is to teach one to think intensively and to think critically. Intelligence plus character - that is the goal of true education" --Martin Luther King, Jr.</strong></h4>
 <p></p>
-<p><strong>Mission<br></strong>To develop critical thinkers and confident problem-solvers, enabling them for continuous learning in Mathematics and related disciplines.</p>
+<p><strong>Mission<br></strong>To develop critical thinkers and confident
+problem-solvers, enabling them for continuous learning in Mathematics and
+related disciplines.</p>
 <p><strong>Vision</strong>
 <br>Every Theresian a lifelong critical thinker and problem-solver.</p>
-
-<strong>Key Programmes</strong>
+<p><strong>Key Programmes</strong>
+</p>
 <ul>
-<li>Mathematics and D&amp;T Trail.  </li>
-<li>External Mathematics and Financial Literacy competitions</li><li>Mathematics peer tutoring programme.</li>
-	
-	</ul>
-<h4><strong>Head of Department<br></strong></h4>Mr Andy Quek (<a href="mailto:quek_kim_leng_andy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">quek_kim_leng_andy@moe.edu.sg</a>)
-<h4><strong>Subject Head</strong></h4>Ms Li Ziyi&nbsp;(<a href="mailto:li_ziyi@moe.edu.sg" rel="noopener noreferrer nofollow" target="">li_ziyi@moe.edu.sg</a>)
-<h4><strong>Senior Teacher<br></strong></h4>Mr Patrick Ng (<a href="mailto:ng_siong_teck_patrick@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_siong_teck_patrick@moe.edu.sg</a>)
+<li>
+<p>Mathematics and D&amp;T Trail.</p>
+</li>
+<li>
+<p>External Mathematics and Financial Literacy competitions</p>
+</li>
+<li>
+<p>Mathematics peer tutoring programme.</p>
+</li>
+<li>
+<p><code>&lt;/ul&gt;</code>
+</p>
+<h4><strong>Head of Department<br></strong></h4>
+<p>Mr Andy Quek (<a href="mailto:quek_kim_leng_andy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">quek_kim_leng_andy@moe.edu.sg</a>)</p>
+<h4><strong>Subject Head</strong></h4>
+<p>Ms Li Ziyi&nbsp;(<a href="mailto:li_ziyi@moe.edu.sg" rel="noopener noreferrer nofollow" target="">li_ziyi@moe.edu.sg</a>)</p>
+<h4><strong>Senior Teacher<br></strong></h4>
+<p>Mr Patrick Ng (<a href="mailto:ng_siong_teck_patrick@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_siong_teck_patrick@moe.edu.sg</a>)</p>
 <h4><strong>Department Staff</strong></h4>
 <p>Mr Alwyn Lee&nbsp;(<a href="mailto:lee_zhong_hao_alwyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_zhong_hao_alwyn@moe.edu.sg</a>)
 <br>Mrs Amutha Elangovan (<a href="mailto:amutha_elangovan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">amutha_elangovan@moe.edu.sg</a>)
@@ -41,3 +51,6 @@ variant: markdown
 <br>Mr Terance Wong (<a href="mailto:wong_foh_peng_terance@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_foh_peng_terance@moe.edu.sg</a>)
 <br>Mrs Clara Ang (<a href="mailto:wong_kit_han_clara@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_kit_han_clara@moe.edu.sg</a>)
 <br>Mr Afdillah Aman (<a href="mailto:afdillah_aman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">afdillah_aman@moe.edu.sg</a>)</p>
+</li>
+</ul>
+<p></p>
