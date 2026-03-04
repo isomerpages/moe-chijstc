@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Staff
 ---
-<p></p>
+<p>&nbsp;</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -15,13 +15,16 @@ third_nav_title: Staff
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>NAME</p>
+<p><strong>Name</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>DESIGNATION</p>
+<p><strong>Designation</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>EMAIL</p>
+<p><strong>Email</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -32,7 +35,8 @@ third_nav_title: Staff
 <p>Special Needs Educational Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-	<p><a href="mailto:astan_lisa_yoanna@moe.edu.sg">astan_lisa_yoanna@moe.edu.sg</a></p>
+<p><a href="mailto:astan_lisa_yoanna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">astan_lisa_yoanna@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -43,7 +47,8 @@ third_nav_title: Staff
 <p>Special Needs Educational Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-	<p><a href="mailto:cindy_cheong@moe.edu.sg">cindy_cheong@moe.edu.sg</a></p>
+<p><a href="mailto:cindy_cheong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cindy_cheong@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -66,7 +71,8 @@ third_nav_title: Staff
 <p>Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:karene_teo_wei_fang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">karene_teo_wei_fang@moe.edu.sg</a></p>
+<p><a href="mailto:karene_teo_wei_fang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">karene_teo_wei_fang@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -80,11 +86,11 @@ third_nav_title: Staff
 <p><a href="mailto:chua_boon_wai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_boon_wai@moe.edu.sg</a>
 </p>
 </td>
-		</tr><tr>
-	<td rowspan="1" colspan="1">
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ho Yuin Ching Christina (Ms)</p>
 </td>
-
 <td rowspan="1" colspan="1">
 <p>Education and Career Guidance Counsellor</p>
 </td>
@@ -93,8 +99,6 @@ third_nav_title: Staff
 </p>
 </td>
 </tr>
-
-
 </tbody>
 </table>
 <p></p>

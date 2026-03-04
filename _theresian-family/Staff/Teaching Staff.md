@@ -18,8 +18,11 @@ variant: markdown
 <p><strong>Class</strong>
 </p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p><strong>Form Teachers</strong>
+</p>
+	</td><td rowspan="1" colspan="1">
+<p><strong>Email</strong>
 </p>
 </td>
 </tr>

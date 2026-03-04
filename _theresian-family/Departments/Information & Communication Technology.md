@@ -7,9 +7,6 @@ variant: tiptap
 ---
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2025 Staff Photos/ICT.jpg">
-</div>
 <h4><strong>Head Of Department - ICT</strong></h4>
 <p>Mr Ng Kok Huat (<a href="mailto:ng_kok_huat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_kok_huat@moe.edu.sg</a>)</p>
 <h4><strong>Level Head - ICT</strong></h4>
