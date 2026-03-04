@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Staff
 ---
-<p></p>
+<p>&nbsp;</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
