@@ -4,9 +4,9 @@ permalink: /others/announcement/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Early Closure of School on 13 March 2026 in view of Eat With Your Family Day</strong></h4>
-<p>Please note that the school will close at 5 pm in observance of Eat With
-Your Family Day.</p>
+<h4><strong>Early Closure of School on 13 March 2026 in view of 'Eat With Your Family Day'</strong></h4>
+<p>Please note that the school will close at 5 pm in observance of 'Eat With
+Your Family Day'.</p>
 <hr>
 <h4><strong>2025 O-Level Briefing Slides for Students</strong></h4>
 <p><a href="/files/Student Matters/2025_O_Level_Briefing_Slides_for_Students__website_.pdf" rel="noopener nofollow" target="_blank">O_Level_Briefing_Slides_for_Students</a>
