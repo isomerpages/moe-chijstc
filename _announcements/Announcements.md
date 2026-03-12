@@ -4,8 +4,8 @@ permalink: /others/announcement/
 description: ""
 variant: markdown
 ---
-<h4><strong>Early Closure of School in View of Eat With Your Family Day</strong></h4><strong>
-Please note that the school will close early in observance of Eat With Your Family Day.<br>
+<h4><strong>Early Closure of School on 12 March 2026 in view of Eat With Your Family Day</strong></h4>
+<p>Please note that the school will close at 5 pm in observance of Eat With Your Family Day.</p>
 <hr><h4><strong>School Operating Hours on 16 February 2026 (Chinese New Year Eve)</strong></h4>
 Please note that the school will be operating from 6:00am to 12:00pm.<br>
 <hr>
@@ -207,4 +207,4 @@ Wednesday. More importantly, we believe that they have done their best!&nbsp;</p
 <hr>
 <h4><strong>From the Principal's Desk</strong> <br>Please click&nbsp;<a href="/others/announcement/from-the-principals-desk" rel="noopener noreferrer nofollow" target="_blank">here</a>.</h4>
 <p></p>
-<p></p></strong>
+<p></p>
