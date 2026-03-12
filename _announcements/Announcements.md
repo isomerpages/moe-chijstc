@@ -2,17 +2,18 @@
 title: Announcements
 permalink: /others/announcement/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<h4><strong>School Operating Hours on 16 February 2026 (Chinese New Year Eve)</strong></h4>
-Please note that the school will be operating from 6:00am to 12:00pm.<br>
+<h4><strong>Early Closure of School on 13 March 2026 in view of 'Eat With Your Family Day'</strong></h4>
+<p>Please note that the school will close at 5 pm in observance of 'Eat With
+Your Family Day'.</p>
 <hr>
 <h4><strong>2025 O-Level Briefing Slides for Students</strong></h4>
 <p><a href="/files/Student Matters/2025_O_Level_Briefing_Slides_for_Students__website_.pdf" rel="noopener nofollow" target="_blank">O_Level_Briefing_Slides_for_Students</a>
-</p><hr>
+</p>
+<hr>
 <h4><strong>CCA Schedule</strong></h4>
 <p>Please refer to the attachment below for details of the CCA schedule.</p>
-
 <p><a href="/files/Student Matters/CCA_Master_Schedule_2026__with_emails_.pdf" rel="noopener nofollow" target="_blank">CCA Schedule</a>
 </p>
 <hr>
