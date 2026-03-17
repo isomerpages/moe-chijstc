@@ -209,7 +209,6 @@ Mr Chua Qiyou</p>
 <p><a href="mailto:tan_jit_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jit_hong@moe.edu.sg</a>
 	<a href="mailto:lee_shu_fen_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_shu_fen_a@moe.edu.sg</a>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>
