@@ -3,7 +3,7 @@ title: Executive Committee (EXCO)
 permalink: /theresian-family/staff/executive-committee-exco/
 description: ""
 third_nav_title: Staff
-variant: markdown
+variant: tiptap
 ---
 <p>&nbsp;</p>
 <table style="minWidth: 75px">
@@ -215,7 +215,7 @@ variant: markdown
 <p>Year Head (Secondary 3)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chijstcs@moe.edu.sg</a>
+<p><a href="mailto:angela_yang_hui_hui@moe.edu.sg" rel="noopener nofollow" target="_blank">angela_yang_hui_hui@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -299,7 +299,7 @@ variant: markdown
 <p>Subject Head, Student Leadership &amp; Student Discipline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Zaynab_Abdul_Rahman@moe.edu.sg</a>
+<p><a href="mailto:zaynab_abdul_rahman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zaynab_abdul_rahman@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -311,7 +311,7 @@ variant: markdown
 <p>Subject Head, Special Educational Needs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chong_shufen@moe.edu.sg</a>
+<p><a href="mailto:chong_shufen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_shufen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -327,15 +327,15 @@ variant: markdown
 </p>
 </td>
 </tr>
-
-<tr><td rowspan="1" colspan="1">
+<tr>
+<td rowspan="1" colspan="1">
 <p>Lisa Lam (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lisa_lam_yok@schools.gov.sg</a>
+<p><a href="mailto:lisa_lam_yok@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lisa_lam_yok@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -347,7 +347,7 @@ variant: markdown
 <p>Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tang_mun_wah@schools.gov.sg</a>
+<p><a href="tang_mun_wah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tang_mun_wah@moe.edu.sg</a>
 </p>
 </td>
 </tr>
