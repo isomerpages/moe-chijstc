@@ -107,7 +107,7 @@ Mr Chua Qiyou</p>
 	Mr Keith Koh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:meninder_kaur@schools.gov.sg" rel="noopener noreferrer nofollow" target="">meninder_kaur@moe.edu.sg</a>
+<p><a href="mailto:meninder_kaur@moe.edu.sg" rel="noopener noreferrer nofollow" target="">meninder_kaur@moe.edu.sg</a>
 	<a href="mailto:keith_koh@moe.edu.sg" rel="noopener noreferrer nofollow" target="">keith_koh@moe.edu.sg</a>
 </p>
 </td>
@@ -135,7 +135,7 @@ Mr Chua Qiyou</p>
 	Mr Ngiam Xing Hao</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kasthuri_mahanthran@schools.gov.sg" rel="noopener noreferrer nofollow" target="">kasthuri_mahanthran@moe.edu.sg</a><br>
+<p><a href="mailto:kasthuri_mahanthran@moe.edu.sg" rel="noopener noreferrer nofollow" target="">kasthuri_mahanthran@moe.edu.sg</a><br>
 <br><a href="mailto:ngiam_xing_hao@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ngiam_xing_hao@moe.edu.sg</a>
 </p>
 </td>
@@ -180,7 +180,7 @@ Mr Chua Qiyou</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sim_ai_ling_shirley@moe.edu.sg" rel="noopener noreferrer nofollow" target="">sim_ai_ling_shirley@moe.edu.sg</a>
-<br><a href="mailto:tay_ngee_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="">tay_ngee_peng@moe.edu.sg</a>
+<br><a href="mailto:tay_ngee_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="">tay_ngee_peng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
