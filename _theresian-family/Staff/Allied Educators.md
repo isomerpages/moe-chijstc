@@ -35,7 +35,7 @@ third_nav_title: Staff
 <p>Special Needs Educational Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:astan_lisa_yoanna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">astan_lisa_yoanna@moe.edu.sg</a>
+<p><a href="mailto:astan_lisa_yoanna@moe.edu.sg" rel="noopener noreferrer nofollow" target="">astan_lisa_yoanna@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -47,7 +47,7 @@ third_nav_title: Staff
 <p>Special Needs Educational Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cindy_cheong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cindy_cheong@moe.edu.sg</a>
+<p><a href="mailto:cindy_cheong@moe.edu.sg" rel="noopener noreferrer nofollow" target="">cindy_cheong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -59,7 +59,7 @@ third_nav_title: Staff
 <p>Senior Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:soohu_siew_foong_christina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soohu_siew_foong_christina@moe.edu.sg</a>
+<p><a href="mailto:soohu_siew_foong_christina@moe.edu.sg" rel="noopener noreferrer nofollow" target="">soohu_siew_foong_christina@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -71,7 +71,7 @@ third_nav_title: Staff
 <p>Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:karene_teo_wei_fang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">karene_teo_wei_fang@moe.edu.sg</a>
+<p><a href="mailto:karene_teo_wei_fang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">karene_teo_wei_fang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -83,7 +83,7 @@ third_nav_title: Staff
 <p>Student Welfare Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chua_boon_wai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_boon_wai@moe.edu.sg</a>
+<p><a href="mailto:chua_boon_wai@moe.edu.sg" rel="noopener noreferrer nofollow" target="">chua_boon_wai@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -95,7 +95,7 @@ third_nav_title: Staff
 <p>Education and Career Guidance Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ho_yuin_ching_christina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_yuin_ching_christina@moe.edu.sg</a>
+<p><a href="mailto:ho_yuin_ching_christina@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ho_yuin_ching_christina@moe.edu.sg</a>
 </p>
 </td>
 </tr>
