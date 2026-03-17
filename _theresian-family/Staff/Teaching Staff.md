@@ -35,8 +35,8 @@ variant: markdown
 <br>Ms Tang Li Hua
 </p></td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:shehana_zulazmi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shehana_zulazmi@moe.edu.sg</a>
-	</p><p><a href="mailto:tang_li_hua_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tang_li_hua_b@moe.edu.sg</a>
+<p><a href="mailto:shehana_zulazmi@moe.edu.sg" rel="noopener noreferrer nofollow" target="">shehana_zulazmi@moe.edu.sg</a>
+	</p><p><a href="mailto:tang_li_hua_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="">tang_li_hua_b@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -49,8 +49,8 @@ variant: markdown
 <br>Mr Natarajan Saravanan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chong_shufen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_shufen@moe.edu.sg</a> 
-<a href="mailto:natarajan_saravanan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">natarajan_saravanan@moe.edu.sg</a>
+<p><a href="mailto:chong_shufen@moe.edu.sg" rel="noopener noreferrer nofollow" target="">chong_shufen@moe.edu.sg</a> 
+<a href="mailto:natarajan_saravanan@moe.edu.sg" rel="noopener noreferrer nofollow" target="">natarajan_saravanan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -63,8 +63,8 @@ variant: markdown
 Mdm Choy Cheng Mun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:afdillah_aman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">afdillah_aman@moe.edu.sg</a> 
-<br><a href="mailto:choy_cheng_mun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choy_cheng_mun@moe.edu.sg</a>
+<p><a href="mailto:afdillah_aman@moe.edu.sg" rel="noopener noreferrer nofollow" target="">afdillah_aman@moe.edu.sg</a> 
+<br><a href="mailto:choy_cheng_mun@moe.edu.sg" rel="noopener noreferrer nofollow" target="">choy_cheng_mun@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -76,8 +76,8 @@ Mdm Choy Cheng Mun</p>
 <p>Ms Gunasunthari Velraj<br>
 Mr Chua Qiyou</p>
 </td><td rowspan="1" colspan="1">
-<p><a href="mailto:velraj_gunasunthari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">velraj_gunasunthari@moe.edu.sg</a> <br>
-<br><a href="mailto:chua_qiyou@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_qiyou@moe.edu.sg</a>
+<p><a href="mailto:velraj_gunasunthari@moe.edu.sg" rel="noopener noreferrer nofollow" target="">velraj_gunasunthari@moe.edu.sg</a> <br>
+<br><a href="mailto:chua_qiyou@moe.edu.sg" rel="noopener noreferrer nofollow" target="">chua_qiyou@moe.edu.sg</a>
 </p>
 </td>
 
@@ -91,8 +91,8 @@ Mr Chua Qiyou</p>
 <p>Ms Alicia Lim<br>
 	Ms Alfie Yang</p>
 </td><td rowspan="1" colspan="1">
-<p><a href="mailto:alicia_lim_jia_yu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">alicia_lim_jia_yu@moe.edu.sg</a>
-<a href="mailto:alfie_yang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">alfie_yang@moe.edu.sg</a>
+<p><a href="mailto:alicia_lim_jia_yu@moe.edu.sg" rel="noopener noreferrer nofollow" target="">alicia_lim_jia_yu@moe.edu.sg</a>
+<a href="mailto:alfie_yang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">alfie_yang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -107,8 +107,8 @@ Mr Chua Qiyou</p>
 	Mr Keith Koh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:meninder_kaur@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">meninder_kaur@moe.edu.sg</a>
-	<a href="mailto:keith_koh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">keith_koh@moe.edu.sg</a>
+<p><a href="mailto:meninder_kaur@schools.gov.sg" rel="noopener noreferrer nofollow" target="">meninder_kaur@moe.edu.sg</a>
+	<a href="mailto:keith_koh@moe.edu.sg" rel="noopener noreferrer nofollow" target="">keith_koh@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -121,8 +121,8 @@ Mr Chua Qiyou</p>
 <br>Ms Mok Peck Yim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:loh_chiu_wai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_chiu_wai@moe.edu.sg</a>
-<a href="mailto:mok_peck_yim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mok_peck_yim@moe.edu.sg</a>
+<p><a href="mailto:loh_chiu_wai@moe.edu.sg" rel="noopener noreferrer nofollow" target="">loh_chiu_wai@moe.edu.sg</a>
+<a href="mailto:mok_peck_yim@moe.edu.sg" rel="noopener noreferrer nofollow" target="">mok_peck_yim@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -135,8 +135,8 @@ Mr Chua Qiyou</p>
 	Mr Ngiam Xing Hao</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kasthuri_mahanthran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kasthuri_mahanthran@moe.edu.sg</a><br>
-<br><a href="mailto:ngiam_xing_hao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ngiam_xing_hao@moe.edu.sg</a>
+<p><a href="mailto:kasthuri_mahanthran@schools.gov.sg" rel="noopener noreferrer nofollow" target="">kasthuri_mahanthran@moe.edu.sg</a><br>
+<br><a href="mailto:ngiam_xing_hao@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ngiam_xing_hao@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -152,8 +152,8 @@ Mr Chua Qiyou</p>
 	
 	
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ho_yeng_yeng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_yeng_yeng@moe.edu.sg</a><br>
-	<a href="mailto:sekaran_chinna_govanden@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sekaran_chinna_govanden@moe.edu.sg</a>
+<p><a href="mailto:ho_yeng_yeng@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ho_yeng_yeng@moe.edu.sg</a><br>
+	<a href="mailto:sekaran_chinna_govanden@moe.edu.sg" rel="noopener noreferrer nofollow" target="">sekaran_chinna_govanden@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -166,8 +166,8 @@ Mr Chua Qiyou</p>
 	Ms Quek Ygee Leng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:pek_aik_soon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pek_aik_soon@moe.edu.sg</a>
-<br><a href="mailto:quek_ygee_leng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">quek_ygee_leng_a@moe.edu.sg</a>
+<p><a href="mailto:pek_aik_soon@moe.edu.sg" rel="noopener noreferrer nofollow" target="">pek_aik_soon@moe.edu.sg</a>
+<br><a href="mailto:quek_ygee_leng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="">quek_ygee_leng_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -179,8 +179,8 @@ Mr Chua Qiyou</p>
 <p>Ms Shirley Sim<br>Ms Tay Ngee Peng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sim_ai_ling_shirley@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_ai_ling_shirley@moe.edu.sg</a>
-<br><a href="mailto:tay_ngee_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_ngee_peng@moe.edu.sg</a>
+<p><a href="mailto:sim_ai_ling_shirley@moe.edu.sg" rel="noopener noreferrer nofollow" target="">sim_ai_ling_shirley@moe.edu.sg</a>
+<br><a href="mailto:tay_ngee_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="">tay_ngee_peng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -193,8 +193,8 @@ Mr Chua Qiyou</p>
 	Mr Dillon Num Jun Feng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_kit_han_clara@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_kit_han_clara@moe.edu.sg</a>
-<br><a href="mailto:dillon_num_jun_feng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dillon_num_jun_feng@moe.edu.sg</a></p>
+<p><a href="mailto:wong_kit_han_clara@moe.edu.sg" rel="noopener noreferrer nofollow" target="">wong_kit_han_clara@moe.edu.sg</a>
+<br><a href="mailto:dillon_num_jun_feng@moe.edu.sg" rel="noopener noreferrer nofollow" target="">dillon_num_jun_feng@moe.edu.sg</a></p>
 </td>
 </tr>
 <tr>
@@ -206,8 +206,8 @@ Mr Chua Qiyou</p>
 	Ms Esther Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_jit_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jit_hong@moe.edu.sg</a>
-	<a href="mailto:lee_shu_fen_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_shu_fen_a@moe.edu.sg</a>
+<p><a href="mailto:tan_jit_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="">tan_jit_hong@moe.edu.sg</a>
+	<a href="mailto:lee_shu_fen_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lee_shu_fen_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -221,8 +221,8 @@ Mr Chua Qiyou</p>
 
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:hung_pek_hui_eunice@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hung_pek_hui_eunice@moe.edu.sg</a>
-<br><a href="mailto:lim_choon_hong_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_choon_hong_b@moe.edu.sg</a>
+<p><a href="mailto:hung_pek_hui_eunice@moe.edu.sg" rel="noopener noreferrer nofollow" target="">hung_pek_hui_eunice@moe.edu.sg</a>
+<br><a href="mailto:lim_choon_hong_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lim_choon_hong_b@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -235,8 +235,8 @@ Mr Chua Qiyou</p>
 	Ms Evelyn Yau</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:seow_siang_kim_edgar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seow_siang_kim_edgar@moe.edu.sg</a>
-<br><a href="mailto:evelyn_yau_yen_teng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">evelyn_yau_yen_teng@moe.edu.sg</a>
+<p><a href="mailto:seow_siang_kim_edgar@moe.edu.sg" rel="noopener noreferrer nofollow" target="">seow_siang_kim_edgar@moe.edu.sg</a>
+<br><a href="mailto:evelyn_yau_yen_teng@moe.edu.sg" rel="noopener noreferrer nofollow" target="">evelyn_yau_yen_teng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -249,8 +249,8 @@ Mr Chua Qiyou</p>
 	Mr Samuel Zou</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:miroshini_kannathasan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">miroshini_kannathasan@moe.edu.sg</a><br>
-<br><a href="mailto:zou_en_samuel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zou_en_samuel@moe.edu.sg</a>
+<p><a href="mailto:miroshini_kannathasan@moe.edu.sg" rel="noopener noreferrer nofollow" target="">miroshini_kannathasan@moe.edu.sg</a><br>
+<br><a href="mailto:zou_en_samuel@moe.edu.sg" rel="noopener noreferrer nofollow" target="">zou_en_samuel@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -265,8 +265,8 @@ Mr Chua Qiyou</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_zhong_hao_alwyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_zhong_hao_alwyn@moe.edu.sg</a>
-	<a href="mailto:see_jia_hui_joy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">see_jia_hui_joy@schools.moe.edu.sg</a>
+<p><a href="mailto:lee_zhong_hao_alwyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lee_zhong_hao_alwyn@moe.edu.sg</a>
+	<a href="mailto:see_jia_hui_joy@moe.edu.sg" rel="noopener noreferrer nofollow" target="">see_jia_hui_joy@schools.moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -279,8 +279,8 @@ Mr Chua Qiyou</p>
 	Mr Lua Jiong How</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:dora_lee_bee_poh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dora_lee_bee_poh@moe.edu.sg</a>
-<br><a href="mailto:lua_jiong_how@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lua_jiong_how@moe.edu.sg</a>
+<p><a href="mailto:dora_lee_bee_poh@moe.edu.sg" rel="noopener noreferrer nofollow" target="">dora_lee_bee_poh@moe.edu.sg</a>
+<br><a href="mailto:lua_jiong_how@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lua_jiong_how@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -293,8 +293,8 @@ Mr Chua Qiyou</p>
 	Ms Megalai Rajandran</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:li_ziyi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">li_ziyi@moe.edu.sg</a>
-<br><a href="mailto:megalai_rajandran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">megalai_rajandran@moe.edu.sg</a>
+<p><a href="mailto:li_ziyi@moe.edu.sg" rel="noopener noreferrer nofollow" target="">li_ziyi@moe.edu.sg</a>
+<br><a href="mailto:megalai_rajandran@moe.edu.sg" rel="noopener noreferrer nofollow" target="">megalai_rajandran@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -307,8 +307,8 @@ Mr Chua Qiyou</p>
 	Mr Andrew Lau</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:haslinda_ramat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">haslinda_ramat@moe.edu.sg</a>
-<br><a href="mailto:andrew_lau_fu_yang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">andrew_lau_fu_yang@moe.edu.sg</a>
+<p><a href="mailto:haslinda_ramat@moe.edu.sg" rel="noopener noreferrer nofollow" target="">haslinda_ramat@moe.edu.sg</a>
+<br><a href="mailto:andrew_lau_fu_yang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">andrew_lau_fu_yang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -321,8 +321,8 @@ Mr Chua Qiyou</p>
 	Mr Mark Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:leong_kai_yun_valarie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leong_kai_yun_valarie@moe.edu.sg</a>
-<br><a href="mailto:mark_tan_jie-yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mark_tan_jie-yi@moe.edu.sg</a>
+<p><a href="mailto:leong_kai_yun_valarie@moe.edu.sg" rel="noopener noreferrer nofollow" target="">leong_kai_yun_valarie@moe.edu.sg</a>
+<br><a href="mailto:mark_tan_jie-yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="">mark_tan_jie-yi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -334,7 +334,7 @@ Mr Chua Qiyou</p>
 <p>Ms Yap Jen Huey</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yap_jen_huey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yap_jen_huey@moe.edu.sg</a></p></td>
+<p><a href="mailto:yap_jen_huey@moe.edu.sg" rel="noopener noreferrer nofollow" target="">yap_jen_huey@moe.edu.sg</a></p></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -345,8 +345,8 @@ Mr Chua Qiyou</p>
 	Mr Terance Wong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_lee_jiun_karen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_lee_jiun_karen@moe.edu.sg</a>
-<br><a href="mailto:wong_foh_peng_terance@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_foh_peng_terance@moe.edu.sg</a>
+<p><a href="mailto:ng_lee_jiun_karen@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ng_lee_jiun_karen@moe.edu.sg</a>
+<br><a href="mailto:wong_foh_peng_terance@moe.edu.sg" rel="noopener noreferrer nofollow" target="">wong_foh_peng_terance@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -359,8 +359,8 @@ Mr Chua Qiyou</p>
 	Mr James Wong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:teo_zhi_yi_isabelle@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_zhi_yi_isabelle@moe.edu.sg</a>
-<br><a href="mailto:wong_kin_wah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_kin_wah@moe.edu.sg</a>
+<p><a href="mailto:teo_zhi_yi_isabelle@moe.edu.sg" rel="noopener noreferrer nofollow" target="">teo_zhi_yi_isabelle@moe.edu.sg</a>
+<br><a href="mailto:wong_kin_wah@moe.edu.sg" rel="noopener noreferrer nofollow" target="">wong_kin_wah@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -374,8 +374,8 @@ Mr Chua Qiyou</p>
 
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_peck_lin_maggie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_peck_lin_maggie@moe.edu.sg</a>
-<br><a href="mailto:ng_siong_teck_patrick@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_siong_teck_patrick@moe.edu.sg</a>
+<p><a href="mailto:lee_peck_lin_maggie@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lee_peck_lin_maggie@moe.edu.sg</a>
+<br><a href="mailto:ng_siong_teck_patrick@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ng_siong_teck_patrick@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -388,8 +388,8 @@ Mr Chua Qiyou</p>
 	Mr Wang Qiming</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:philomina_angelus_gomez@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">philomina_angelus_gomez@moe.edu.sg</a><br><br>
-<a href="mailto:wang_qiming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_qiming@moe.edu.sg</a>
+<p><a href="mailto:philomina_angelus_gomez@moe.edu.sg" rel="noopener noreferrer nofollow" target="">philomina_angelus_gomez@moe.edu.sg</a><br><br>
+<a href="mailto:wang_qiming@moe.edu.sg" rel="noopener noreferrer nofollow" target="">wang_qiming@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -403,8 +403,8 @@ Mr Chua Qiyou</p>
 
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:du_liang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">du_liang@moe.edu.sg</a>
-<br><a href="mailto:toh_boon_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh_boon_hui@moe.edu.sg</a>
+<p><a href="mailto:du_liang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">du_liang@moe.edu.sg</a>
+<br><a href="mailto:toh_boon_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="">toh_boon_hui@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -417,8 +417,8 @@ Mr Chua Qiyou</p>
 	Mdm Zaynab Abdul Rahman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_en_yaw_philip@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_en_yaw_philip@moe.edu.sg</a>
-<br><a href="mailto:zaynab_abdul_rahman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zaynab_abdul_rahman@moe.edu.sg</a>
+<p><a href="mailto:tan_en_yaw_philip@moe.edu.sg" rel="noopener noreferrer nofollow" target="">tan_en_yaw_philip@moe.edu.sg</a>
+<br><a href="mailto:zaynab_abdul_rahman@moe.edu.sg" rel="noopener noreferrer nofollow" target="">zaynab_abdul_rahman@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -431,7 +431,7 @@ Mr Chua Qiyou</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_hannah_mohamed_elyas@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_hannah_mohamed_elyas@moe.edu.sg</a>
+<p><a href="mailto:nur_hannah_mohamed_elyas@moe.edu.sg" rel="noopener noreferrer nofollow" target="">nur_hannah_mohamed_elyas@moe.edu.sg</a>
 </p>
 </td>
 </tr>
