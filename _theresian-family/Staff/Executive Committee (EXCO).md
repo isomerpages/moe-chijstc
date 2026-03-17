@@ -191,7 +191,7 @@ variant: tiptap
 <p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_qiu_yin_dawn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_qiu_yin_dawn@moe.edu.sg</a>
+<p><a href="mailto:dawn_tan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dawn_tan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
