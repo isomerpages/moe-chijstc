@@ -327,56 +327,8 @@ variant: markdown
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Clara Ang (Mrs)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher, Character &amp; Citizenship Education</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chijstcs@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Afdillah Aman (Mr)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher, Educational Support</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chijstcs@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Patrick Ng (Mr)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher, Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chijstcs@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>James Wong (Mr)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher, Physics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chijstcs@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+
+<tr><td rowspan="1" colspan="1">
 <p>Lisa Lam (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
