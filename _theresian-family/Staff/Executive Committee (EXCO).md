@@ -71,7 +71,7 @@ variant: tiptap
 <p>Vice-Principal (Administration)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="chijstcs@moe.edu.sg" rel="noopener nofollow" target="_blank">chijstcs@moe.edu.sg</a>
+<p><a href="mailto:chijstcs@moe.edu.sg" rel="noopener nofollow" target="_blank">chijstcs@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -347,7 +347,7 @@ variant: tiptap
 <p>Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="tang_mun_wah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tang_mun_wah@moe.edu.sg</a>
+<p><a href="mailto:tang_mun_wah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tang_mun_wah@moe.edu.sg</a>
 </p>
 </td>
 </tr>
