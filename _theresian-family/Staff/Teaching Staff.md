@@ -91,7 +91,7 @@ Mr Chua Qiyou</p>
 <p>Ms Alicia Lim<br>
 	Ms Alfie Yang</p>
 </td><td rowspan="1" colspan="1">
-<p><a href="mailto:alicia_lim_jia_yu@moe.edu.sg" rel="noopener noreferrer nofollow" target="">alicia_lim_jia_yu@moe.edu.sg</a>
+<p><a href="mailto:alicia_lim_jia_yu@moe.edu.sg" rel="noopener noreferrer nofollow" target="">alicia_lim_jia_yu@moe.edu.sg</a><br>
 <a href="mailto:alfie_yang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">alfie_yang@moe.edu.sg</a>
 </p>
 </td>
@@ -107,7 +107,7 @@ Mr Chua Qiyou</p>
 	Mr Keith Koh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:meninder_kaur@moe.edu.sg" rel="noopener noreferrer nofollow" target="">meninder_kaur@moe.edu.sg</a>
+<p><a href="mailto:meninder_kaur@moe.edu.sg" rel="noopener noreferrer nofollow" target="">meninder_kaur@moe.edu.sg</a><br>
 	<a href="mailto:keith_koh@moe.edu.sg" rel="noopener noreferrer nofollow" target="">keith_koh@moe.edu.sg</a>
 </p>
 </td>
