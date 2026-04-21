@@ -4,7 +4,7 @@ permalink: /direct-school-admission-dsa/
 description: ""
 variant: tiptap
 ---
-<p><strong>DIRECT SCHOOL ADMISSION FOR SECONDARY SCHOOLS (DSA – SEC)</strong>
+<p><strong>DIRECT SCHOOL ADMISSION FOR SECONDARY SCHOOLS (DSA – SEC) gtest</strong>
 </p>
 <p>CHIJ St. Theresa’s Convent invites current Primary Six students who seek
 to bring out the best in themselves through Sports as part of our distinctive
