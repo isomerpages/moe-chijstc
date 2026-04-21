@@ -158,3 +158,108 @@ Ms Megalai D/O Rajandran</p>
 
 </tbody>
 </table>
+
+_\* Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer._&nbsp;**_For more information on DSA-Sec, please refer to the MOE website at&nbsp;[https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)_**
+
+<h4><strong><u>Key Dates for DSA</u></strong></h4>
+
+<table style="width:100%; border-collapse:collapse; font-size:14px; line-height:1.4;">
+<tbody>
+
+<tr style="background:#f2f2f2;">
+<td style="border:1px solid #ccc; padding:10px;"><strong>Date</strong></td>
+<td style="border:1px solid #ccc; padding:10px;"><strong>Details</strong></td>
+</tr>
+
+<tr>
+<td style="border:1px solid #ccc; padding:10px; vertical-align:top;">
+6 May 2026, 11am to 2 June 2026, 4.30pm
+</td>
+<td style="border:1px solid #ccc; padding:10px;">
+<p><strong>Application is open</strong> for all Primary Six female students studying in national schools, Returning Singaporeans, Permanent Residents and International Students.</p>
+<p>Applications should be made via a common online portal from the 2026 DSA-Sec Exercise by MOE.</p>
+</td>
+</tr>
+
+<tr>
+<td style="border:1px solid #ccc; padding:10px; vertical-align:top;">
+29 Jun 2026 – 28 Aug 2026
+</td>
+<td style="border:1px solid #ccc; padding:10px;">
+Shortlisted applicants will be contacted via phone/email to come down to the school to carry out a performance task and undergo face-to-face interviews.
+</td>
+</tr>
+
+<tr>
+<td style="border:1px solid #ccc; padding:10px; vertical-align:top;">
+Between 17 and 28 Aug 2026
+</td>
+<td style="border:1px solid #ccc; padding:10px;">
+<p><strong>Notice of Selection Outcome for DSA-Sec application</strong></p>
+<p>Letters will be issued to all candidates informing them on the status of their application:</p>
+<p>(i) Confirmed Offer (CO), (ii) Wait List (WL) or (iii) Rejected.</p>
+</td>
+</tr>
+
+<tr>
+<td style="border:1px solid #ccc; padding:10px; vertical-align:top;">
+19 Oct 2026, 9am to 23 Oct 2026, 4.30pm
+</td>
+<td style="border:1px solid #ccc; padding:10px;">
+<strong>School Preference Submission (SPS)</strong>
+</td>
+</tr>
+
+<tr>
+<td style="border:1px solid #ccc; padding:10px; vertical-align:top;">
+Mid Nov 2026
+</td>
+<td style="border:1px solid #ccc; padding:10px;">
+<strong>DSA Allocation</strong>
+</td>
+</tr>
+
+<tr>
+<td style="border:1px solid #ccc; padding:10px; vertical-align:top;">
+Late Nov 2026
+</td>
+<td style="border:1px solid #ccc; padding:10px;">
+<strong>Release of DSA school posting results by MOE</strong>
+</td>
+</tr>
+
+</tbody>
+</table>
+
+<h4><strong><u>Talent Development Opportunities</u></strong></h4>
+
+<table style="width:100%; border-collapse:collapse; font-size:14px; line-height:1.4;">
+<tbody>
+
+<tr style="background:#f2f2f2;">
+<td style="border:1px solid #ccc; padding:10px;"><strong>Talent Area</strong></td>
+<td style="border:1px solid #ccc; padding:10px;">
+<strong>Programmes, activities and/or opportunities that students can expect to participate in for each talent area</strong>
+</td>
+</tr>
+
+<tr>
+<td style="border:1px solid #ccc; padding:10px; vertical-align:top;">
+Hockey, Netball, Softball, Floorball, Track &amp; Field (Throws, Sprints, Long-distance Track, and Cross-Country)
+</td>
+<td style="border:1px solid #ccc; padding:10px;">
+Successful DSA (LLP) applicants will have opportunities to participate in the National Schools Games, friendly competitions and overseas training trips. They will also have various opportunities to develop their leadership potential.
+</td>
+</tr>
+
+<tr>
+<td style="border:1px solid #ccc; padding:10px; vertical-align:top;">
+English Drama &amp; Modern Dance
+</td>
+<td style="border:1px solid #ccc; padding:10px;">
+Successful DSA applicants will have opportunities to participate in the Singapore Youth Festival, external competitions and performances. They will also have various opportunities to develop their leadership potential.
+</td>
+</tr>
+
+</tbody>
+</table>
