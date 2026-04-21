@@ -228,15 +228,13 @@ be showcased at the DSA selection</p>
 <p><strong>Application is open</strong>&nbsp;for all Primary Six female students
 studying in national schools, Returning Singaporeans, Permanent Residents
 and International Students.</p>
-<p>Applications should be made via a common online portal from the&nbsp;2025&nbsp;DSA-Sec
+<p>Applications should be made via a common online portal from the&nbsp;2026&nbsp;DSA-Sec
 Exercise by MOE.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>30 Jun 2025
-<br>to
-<br>4 Sep 2025</p>
+<p>29 Jun 2026 – 28 Aug 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Shortlisted applicants will be contacted via phone/email, to come down
@@ -246,7 +244,7 @@ a performance task, and undergo face-to-face interviews.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>29 Jun 2026 – 28 Aug 2026</p>
+<p>Between 17 and 28 Aug 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Notice of Selection Outcome for DSA-Sec application</strong>
@@ -276,7 +274,7 @@ of their application:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Late Nov 2025</p>
+<p>Late Nov 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Release of DSA school posting results by MOE.</strong>
