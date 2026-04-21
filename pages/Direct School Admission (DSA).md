@@ -4,8 +4,8 @@ permalink: /direct-school-admission-dsa/
 description: ""
 variant: markdown
 ---
-<p><strong>DIRECT SCHOOL ADMISSION FOR SECONDARY SCHOOLS (DSA – SEC) gtest</strong>
-</p>
+<p><strong></strong></p><h3><strong>DIRECT SCHOOL ADMISSION FOR SECONDARY SCHOOLS (DSA – SEC)</strong></h3>
+<p></p>
 <p>CHIJ St. Theresa’s Convent invites current Primary Six students who seek
 to bring out the best in themselves through Sports as part of our distinctive
 programmes - our Learning for Life Programme (LLP), or our Performing Arts,
