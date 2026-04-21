@@ -9,7 +9,7 @@ variant: tiptap
 <p>CHIJ St. Theresa’s Convent invites current Primary Six students who seek
 to bring out the best in themselves through Sports as part of our distinctive
 programmes - our Learning for Life Programme (LLP), or our Performing Arts,
-to join the school through the 2025 Direct School Admission – Secondary
+to join the school through the 2026 Direct School Admission – Secondary
 (DSA-SEC) Exercise.</p>
 <p>Parents and students are encouraged to choose schools wisely based on
 the student’s aptitudes and strengths, bearing in mind the school’s academic
