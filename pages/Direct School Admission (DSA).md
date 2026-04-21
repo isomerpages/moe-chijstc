@@ -197,7 +197,7 @@ be showcased at the DSA selection</p>
 <p>&nbsp;Email:
 <br><a href="mailto:shehana_zulazmi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shehana_zulazmi@moe.edu.sg</a>
 </p>
-<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
 <p>DSA (Modern Dance) Coordinator:
 <br>Ms Megalai D/O Rajandran</p>
 <p>&nbsp;Email:
