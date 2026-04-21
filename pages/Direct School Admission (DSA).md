@@ -2,14 +2,14 @@
 title: Direct School Admission (DSA)
 permalink: /direct-school-admission-dsa/
 description: ""
-variant: tiptap
+variant: markdown
 ---
-<p><strong>DIRECT SCHOOL ADMISSION FOR SECONDARY SCHOOLS (DSA – SEC)</strong>
-</p>
+<h3><strong>DIRECT SCHOOL ADMISSION FOR SECONDARY SCHOOLS (DSA – SEC)</strong></h3>
+<p></p>
 <p>CHIJ St. Theresa’s Convent invites current Primary Six students who seek
 to bring out the best in themselves through Sports as part of our distinctive
 programmes - our Learning for Life Programme (LLP), or our Performing Arts,
-to join the school through the 2025 Direct School Admission – Secondary
+to join the school through the 2026 Direct School Admission – Secondary
 (DSA-SEC) Exercise.</p>
 <p>Parents and students are encouraged to choose schools wisely based on
 the student’s aptitudes and strengths, bearing in mind the school’s academic
@@ -39,10 +39,12 @@ find out more information about our LLP – Developing Self-directed, Confident
 <a href="https://www.chijsttheresasconvent.moe.edu.sg/theresian-family/students/co-curricular-activities-cca/performing-arts/dance-and-movement/" rel="noopener noreferrer nofollow" target="_blank">Modern Dance</a>(Dance and Movement)</p>
 <p><strong><u>Centralised DSA-Sec Application Process</u></strong>
 <br>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
-The application is free-of-charge and will be open from&nbsp;<strong><u>7 May 2025 to 3 June 2025, 3pm</u></strong>.</p>
+The application is free-of-charge and will be open from&nbsp;<strong><u>6 May 2026, 11am to 2 June 2026, 4.30pm</u></strong>.</p>
 <p>For more details, please refer to the MOE website –&nbsp;<a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
 <p><strong><u>Note:</u></strong>
 <br><strong>We regret that we will not be able to consider&nbsp;applications that are not done through the centralised portal or if they are submitted after the deadline.</strong>
+</p>
+<p>
 <br>More information regarding the DSA can be found on the MOE website:&nbsp;
 <br><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
 </p>
@@ -184,9 +186,10 @@ minute solo dance routine in any International Dance genre of choice, to
 be showcased at the DSA selection</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>DSA Coordinator:Mr Darren Ng</p>
-<p>&nbsp;Email:</p>
-<p><a href="mailto:ng_yong_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_yong_sheng@moe.edu.sg</a>
+<p>DSA Coordinator:
+	<br>Mr Darren Ng</p>
+	<p>&nbsp;Email:
+		<br><a href="mailto:ng_yong_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_yong_sheng@moe.edu.sg</a>
 </p>
 <p></p>
 <p>DSA (English Drama) Coordinator:
@@ -194,11 +197,11 @@ be showcased at the DSA selection</p>
 <p>&nbsp;Email:
 <br><a href="mailto:shehana_zulazmi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shehana_zulazmi@moe.edu.sg</a>
 </p>
-<p>&nbsp;</p>
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
 <p>DSA (Modern Dance) Coordinator:
-<br>Ms Miroshini d/o Kannathasan</p>
+<br>Ms Megalai D/O Rajandran</p>
 <p>&nbsp;Email:
-<br><a href="mailto:miroshini_kannathasan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">miroshini_kannathasan@moe.edu.sg</a>
+<br><a href="mailto:megalai_rajandran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">megalai_rajandran@moe.edu.sg</a>
 </p>
 <p></p>
 </td>
@@ -222,21 +225,19 @@ be showcased at the DSA selection</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7 May 2025 to 3 June 2025, 3pm</p>
+<p>6 May 2026, 11am to &nbsp;&nbsp;&nbsp;2 June 2026, 4.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Application is open</strong>&nbsp;for all Primary Six female students
 studying in national schools, Returning Singaporeans, Permanent Residents
 and International Students.</p>
-<p>Applications should be made via a common online portal from the&nbsp;2025&nbsp;DSA-Sec
+<p>Applications should be made via a common online portal from the&nbsp;2026&nbsp;DSA-Sec
 Exercise by MOE.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>30 Jun 2025
-<br>to
-<br>4 Sep 2025</p>
+<p>29 Jun 2026 – 28 Aug 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Shortlisted applicants will be contacted via phone/email, to come down
@@ -246,7 +247,7 @@ a performance task, and undergo face-to-face interviews.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>25 Aug 2025 to 4 Sep 2025</p>
+<p>Between 17 and 28 Aug 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Notice of Selection Outcome for DSA-Sec application</strong>
@@ -258,7 +259,7 @@ of their application:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>27 Oct to 31 Oct 2025</p>
+<p>19 Oct 2026, 9am to &nbsp;&nbsp;&nbsp;23 Oct 2026, 4.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>School Preference Submission (SPS)</strong>
@@ -267,7 +268,7 @@ of their application:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mid-end Nov 2025</p>
+<p>Mid Nov 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>DSA Allocation</strong>
@@ -276,7 +277,7 @@ of their application:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Late Nov 2025</p>
+<p>Late Nov 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Release of DSA school posting results by MOE.</strong>
