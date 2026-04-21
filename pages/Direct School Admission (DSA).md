@@ -2,9 +2,10 @@
 title: Direct School Admission (DSA)
 permalink: /direct-school-admission-dsa/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<p><strong></strong></p><h3><strong>DIRECT SCHOOL ADMISSION FOR SECONDARY SCHOOLS (DSA – SEC)</strong></h3>
+<p></p>
+<h3><strong>DIRECT SCHOOL ADMISSION FOR SECONDARY SCHOOLS (DSA – SEC)</strong></h3>
 <p></p>
 <p>CHIJ St. Theresa’s Convent invites current Primary Six students who seek
 to bring out the best in themselves through Sports as part of our distinctive
@@ -43,6 +44,8 @@ The application is free-of-charge and will be open from&nbsp;<strong><u>6 May 20
 <p>For more details, please refer to the MOE website –&nbsp;<a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
 <p><strong><u>Note:</u></strong>
 <br><strong>We regret that we will not be able to consider&nbsp;applications that are not done through the centralised portal or if they are submitted after the deadline.</strong>
+</p>
+<p>
 <br>More information regarding the DSA can be found on the MOE website:&nbsp;
 <br><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
 </p>
