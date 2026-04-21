@@ -39,7 +39,7 @@ find out more information about our LLP – Developing Self-directed, Confident
 <a href="https://www.chijsttheresasconvent.moe.edu.sg/theresian-family/students/co-curricular-activities-cca/performing-arts/dance-and-movement/" rel="noopener noreferrer nofollow" target="_blank">Modern Dance</a>(Dance and Movement)</p>
 <p><strong><u>Centralised DSA-Sec Application Process</u></strong>
 <br>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
-The application is free-of-charge and will be open from&nbsp;<strong><u>7 May 2025 to 3 June 2025, 3pm</u></strong>.</p>
+The application is free-of-charge and will be open from&nbsp;<strong><u>6 May 2026, 11am to 2 June 2026, 4.30pm</u></strong>.</p>
 <p>For more details, please refer to the MOE website –&nbsp;<a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
 <p><strong><u>Note:</u></strong>
 <br><strong>We regret that we will not be able to consider&nbsp;applications that are not done through the centralised portal or if they are submitted after the deadline.</strong>
@@ -222,7 +222,7 @@ be showcased at the DSA selection</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7 May 2025 to 3 June 2025, 3pm</p>
+<p>6 May 2026, 11am to &nbsp;&nbsp;&nbsp;2 June 2026, 4.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Application is open</strong>&nbsp;for all Primary Six female students
@@ -246,7 +246,7 @@ a performance task, and undergo face-to-face interviews.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>25 Aug 2025 to 4 Sep 2025</p>
+<p>29 Jun 2026 – 28 Aug 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Notice of Selection Outcome for DSA-Sec application</strong>
@@ -258,7 +258,7 @@ of their application:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>27 Oct to 31 Oct 2025</p>
+<p>19 Oct 2026, 9am to &nbsp;&nbsp;&nbsp;23 Oct 2026, 4.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>School Preference Submission (SPS)</strong>
@@ -267,7 +267,7 @@ of their application:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mid-end Nov 2025</p>
+<p>Mid Nov 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>DSA Allocation</strong>
