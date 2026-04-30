@@ -4,7 +4,7 @@ permalink: /others/announcement/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Collection of School Graduction Certificate (SGC) for 2025 Sec 4/5 students</strong></h4>
+<h4><strong>Collection of School Graduation Certificate (SGC) for 2025 Sec 4/5 students</strong></h4>
 <p>Dear graduands of 2025 Sec 4/5,</p>
 <p>Your SGCs are ready for collection. You may collect them from the General
 Office during the school operating hours from 0800h to 1700 h.</p>
