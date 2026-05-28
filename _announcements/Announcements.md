@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>School Closure at 5:00 PM in view of Eat with Your Family Day</strong></h4>
-<p>[ease be informed that the school will close at 5:00 PM tomorrow in observance
+<p>Pease be informed that the school will close at 5:00 PM tomorrow in observance
 of Eat With Your Family Day.</p>
 <hr>
 <h4><strong>Collection of School Graduation Certificate (SGC) for 2025 Sec 4/5 students</strong></h4>
