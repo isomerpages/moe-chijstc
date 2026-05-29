@@ -12,7 +12,7 @@ relocated from <strong>Block B Level 2</strong> to the <strong>Library (Block B 
 foyer to the temporary General Office located at the Library (Block B Level
 3).</p>
 <p>&nbsp;Thank you for your understanding.</p>
-<p>&nbsp;</p>
+<hr>
 <h4><strong>School Closure at 5:00 PM on 29 May in view of Eat with Your Family Day</strong></h4>
 <p>Please be informed that the school will close at 5:00 PM on 29 May in
 view of Eat With Your Family Day.</p>
