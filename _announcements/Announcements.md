@@ -4,6 +4,15 @@ permalink: /others/announcement/
 description: ""
 variant: tiptap
 ---
+<h4><strong>Temporary Relocation of General Office (5–19 June)</strong></h4>
+<p>The General Office is undergoing renovation works in June.</p>
+<p>&nbsp;From <strong>5 to 19 June</strong>, the General Office will be temporarily
+relocated from <strong>Block B Level 2</strong> to the <strong>Library (Block B Level 3)</strong>.</p>
+<p>&nbsp;Upon arrival, please follow the directional signages at the school
+foyer to the temporary General Office located at the Library (Block B Level
+3).</p>
+<p>&nbsp;Thank you for your understanding.</p>
+<p>&nbsp;</p>
 <h4><strong>School Closure at 5:00 PM on 29 May in view of Eat with Your Family Day</strong></h4>
 <p>Please be informed that the school will close at 5:00 PM on 29 May in
 view of Eat With Your Family Day.</p>
