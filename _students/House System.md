@@ -11,7 +11,7 @@ variant: markdown
 <li>To promote and inculcate the Olympic Values through sports and physical activities</li>
 </ul>
 <p>The Theresian House system is made up of six different Houses named after ex-principals from CHIJ St Theresa’s Convent.&nbsp;Each House committee consists of three House Leaders, one Cheer Captain, three Cheer Vice Captains and two publicity-in-charge. These six houses form the basis of competition at our annual IFD Sports Carnival and Inter-House challenges. The House leaders with their House committee members plan and organise several House physical and aesthetic activities for all. The activities intend to bring out the School and House spirit and enhance cohesion. All House activities aim to engage and enthuse all Theresians with a myriad of activities in a competitive and fun manner to earn House points throughout the year. The House with the most accumulated House points at the end of the year will be crowned the House Champion!</p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%; font-size: 12px" border="1">
 <tbody>
 <tr>
 <td style="width: 33.3333%; text-align: center;"><strong><u>CAROLINE</u></strong></td>
