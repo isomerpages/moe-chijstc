@@ -28,11 +28,8 @@ variant: markdown
 <div>History: Named after former Principal who provided education and spiritual needs, Sister Caroline Labbe (1949 - 1952)&nbsp;</div>
 </td>
 <td style="width: 33.3333%;">Motto: With Soring Freedom<br>Mascot: Eagle<br>House Colour: Yellow<br>History: Named after former Principal who led the school during the post-war, Sister Catherine Samy (1945 - 1949)&nbsp;</td>
-<td style="width: 33.3333%;">
-<p>Motto: Unceasing Commitment<br>Mascot: Phoenix<br>House Colour: Red<br>History: Named after first STC Principal Madame St. Ignatius (1933 - 1945)&nbsp;</p>
-</td>
-</tr>
-<tr>
+	<td style="width: 33.3333%;">Motto: Unceasing Commitment<br>Mascot: Phoenix<br>House Colour: Red<br>History: Named after first STC Principal Madame St. Ignatius (1933 - 1945)</td>
+</tr><tr>
 <td style="width: 33.3333%; text-align: center;"><strong><u>ISABEL</u></strong></td>
 <td style="width: 33.3333%; text-align: center;"><strong><u>JOSEPH</u></strong></td>
 <td style="width: 33.3333%; text-align: center;"><strong><u>MARIE</u></strong></td>
