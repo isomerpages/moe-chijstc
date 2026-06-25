@@ -3,7 +3,7 @@ title: Executive Committee (EXCO)
 permalink: /theresian-family/staff/executive-committee-exco/
 description: ""
 third_nav_title: Staff
-variant: markdown
+variant: tiptap
 ---
 <p>&nbsp;</p>
 <table style="minWidth: 75px">
@@ -209,13 +209,13 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Angela Yang (Ms)</p>
+<p>Tan Keng Seng (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Year Head (Secondary 3)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:angela_yang_hui_hui@moe.edu.sg" rel="noopener nofollow" target="">angela_yang_hui_hui@moe.edu.sg</a>
+<p><a href="mailto:tan_keng_seng@moe.edu.sg" rel="noopener noreferrer nofollow" target="">tan_keng_seng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
