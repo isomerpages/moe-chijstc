@@ -307,7 +307,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:haslinda_ramat@moe.edu.sg" rel="noopener noreferrer nofollow" target="">haslinda_ramat@moe.edu.sg</a>
-<br><a href="mailto:goh_sian_yang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_siang_yang@moe.edu.sg</a>
+<br><a href="mailto:goh_sian_yang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_sian_yang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
