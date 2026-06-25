@@ -331,11 +331,9 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Evelyn Jaynesh</p>
-<p>Ms Yap Jen Huey</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:poon_siow_wei_evelyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">poon_siow_wei_evelyn@moe.edu.sg</a>
-<br><a href="mailto:yap_jen_huey@moe.edu.sg" rel="noopener noreferrer nofollow" target="">yap_jen_huey@moe.edu.sg</a>
 </p>
 </td>
 </tr>
