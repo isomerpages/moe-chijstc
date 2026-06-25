@@ -205,7 +205,7 @@ variant: markdown
 <br>Ms Esther Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_jit_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="">tan_jit_hong@moe.edu.sg</a> 
+<p><a href="mailto:tan_jit_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="">tan_jit_hong@moe.edu.sg</a> <br>
 <a href="mailto:lee_shu_fen_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lee_shu_fen_a@moe.edu.sg</a>
 </p>
 </td>
@@ -307,7 +307,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:haslinda_ramat@moe.edu.sg" rel="noopener noreferrer nofollow" target="">haslinda_ramat@moe.edu.sg</a>
-<br><a href="mailto:goh_siang_yang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_siang_yang@moe.edu.sg</a>
+<br><a href="mailto:goh_sian_yang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_siang_yang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
