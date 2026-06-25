@@ -3,7 +3,7 @@ title: Teaching Staff
 permalink: /theresian-family/staff/teaching-staff/
 description: ""
 third_nav_title: Staff
-variant: markdown
+variant: tiptap
 ---
 <p>&nbsp;</p>
 <table style="minWidth: 75px">
@@ -21,7 +21,8 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p><strong>Form Teachers</strong>
 </p>
-	</td><td rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Email</strong>
 </p>
 </td>
@@ -30,13 +31,13 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p>1 St. Anne (1A)</p>
 </td>
-	<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Ms Shehana Binte Zulazmi
-<br>Ms Tang Li Hua
-</p></td>
+<br>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:shehana_zulazmi@moe.edu.sg" rel="noopener noreferrer nofollow" target="">shehana_zulazmi@moe.edu.sg</a>
-	</p><p><a href="mailto:tang_li_hua_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="">tang_li_hua_b@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -59,8 +60,8 @@ variant: markdown
 <p>1 St. Clare (1C)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Afdillah Aman<br>
-Mdm Choy Cheng Mun</p>
+<p>Mr Afdillah Aman
+<br>Mdm Choy Cheng Mun</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:afdillah_aman@moe.edu.sg" rel="noopener noreferrer nofollow" target="">afdillah_aman@moe.edu.sg</a> 
@@ -73,42 +74,40 @@ Mdm Choy Cheng Mun</p>
 <p>1 St. Deirdre (1D)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Gunasunthari Velraj<br>
-Mr Chua Qiyou</p>
-</td><td rowspan="1" colspan="1">
-<p><a href="mailto:velraj_gunasunthari@moe.edu.sg" rel="noopener noreferrer nofollow" target="">velraj_gunasunthari@moe.edu.sg</a> <br>
-<br><a href="mailto:chua_qiyou@moe.edu.sg" rel="noopener noreferrer nofollow" target="">chua_qiyou@moe.edu.sg</a>
+<p>Ms Gunasunthari Velraj
+<br>
 </p>
 </td>
-
+<td rowspan="1" colspan="1">
+<p><a href="mailto:velraj_gunasunthari@moe.edu.sg" rel="noopener noreferrer nofollow" target="">velraj_gunasunthari@moe.edu.sg</a> 
+</p>
+</td>
 </tr>
 <tr>
-	
 <td rowspan="1" colspan="1">
 <p>1 St. Elizabeth (1E)</p>
 </td>
-	<td rowspan="1" colspan="1">
-<p>Ms Alicia Lim<br>
-	Ms Alfie Yang</p>
-</td><td rowspan="1" colspan="1">
-<p><a href="mailto:alicia_lim_jia_yu@moe.edu.sg" rel="noopener noreferrer nofollow" target="">alicia_lim_jia_yu@moe.edu.sg</a><br>
-<a href="mailto:alfie_yang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">alfie_yang@moe.edu.sg</a>
+<td rowspan="1" colspan="1">
+<p>Ms Alicia Lim
+<br>Ms Alfie Yang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:alicia_lim_jia_yu@moe.edu.sg" rel="noopener noreferrer nofollow" target="">alicia_lim_jia_yu@moe.edu.sg</a>
+<br><a href="mailto:alfie_yang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">alfie_yang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-	
-	
 <td rowspan="1" colspan="1">
 <p>1 St. Faustina (1F)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Meninder Kaur<br>
-	Mr Keith Koh</p>
+<p>Ms Meninder Kaur
+<br>Mr Keith Koh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:meninder_kaur@moe.edu.sg" rel="noopener noreferrer nofollow" target="">meninder_kaur@moe.edu.sg</a><br>
-	<a href="mailto:keith_koh@moe.edu.sg" rel="noopener noreferrer nofollow" target="">keith_koh@moe.edu.sg</a>
+<p><a href="mailto:meninder_kaur@moe.edu.sg" rel="noopener noreferrer nofollow" target="">meninder_kaur@moe.edu.sg</a>
+<br><a href="mailto:keith_koh@moe.edu.sg" rel="noopener noreferrer nofollow" target="">keith_koh@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -131,11 +130,12 @@ Mr Chua Qiyou</p>
 <p>2 St. Anne (2A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Kasthuri D/O Mahanthran<br>
-	Mr Ngiam Xing Hao</p>
+<p>Mrs Kasthuri D/O Mahanthran
+<br>Mr Ngiam Xing Hao</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kasthuri_mahanthran@moe.edu.sg" rel="noopener noreferrer nofollow" target="">kasthuri_mahanthran@moe.edu.sg</a><br>
+<p><a href="mailto:kasthuri_mahanthran@moe.edu.sg" rel="noopener noreferrer nofollow" target="">kasthuri_mahanthran@moe.edu.sg</a>
+<br>
 <br><a href="mailto:ngiam_xing_hao@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ngiam_xing_hao@moe.edu.sg</a>
 </p>
 </td>
@@ -145,15 +145,12 @@ Mr Chua Qiyou</p>
 <p>2 St. Bernadette (2B)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ho Yeng Yeng<br>
-	Mr Sekaran S/O Chinna Govanden</p>
-
+<p>Ms Ho Yeng Yeng
+<br>Mr Sekaran S/O Chinna Govanden</p>
 </td>
-	
-	
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ho_yeng_yeng@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ho_yeng_yeng@moe.edu.sg</a><br>
-	<a href="mailto:sekaran_chinna_govanden@moe.edu.sg" rel="noopener noreferrer nofollow" target="">sekaran_chinna_govanden@moe.edu.sg</a>
+<p><a href="mailto:ho_yeng_yeng@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ho_yeng_yeng@moe.edu.sg</a>
+<br><a href="mailto:sekaran_chinna_govanden@moe.edu.sg" rel="noopener noreferrer nofollow" target="">sekaran_chinna_govanden@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -162,8 +159,8 @@ Mr Chua Qiyou</p>
 <p>2 St. Clare (2C)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Pek Aik Soon<br>
-	Ms Quek Ygee Leng</p>
+<p>Mr Pek Aik Soon
+<br>Ms Quek Ygee Leng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:pek_aik_soon@moe.edu.sg" rel="noopener noreferrer nofollow" target="">pek_aik_soon@moe.edu.sg</a>
@@ -176,11 +173,12 @@ Mr Chua Qiyou</p>
 <p>2 St. Deirdre (2D)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Shirley Sim<br>Ms Tay Ngee Peng</p>
+<p>Ms Shirley Sim
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sim_ai_ling_shirley@moe.edu.sg" rel="noopener noreferrer nofollow" target="">sim_ai_ling_shirley@moe.edu.sg</a>
-<br><a href="mailto:tay_ngee_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="">tay_ngee_peng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -189,12 +187,13 @@ Mr Chua Qiyou</p>
 <p>2 St. Elizabeth (2E)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Clara Ang<br>
-	Mr Dillon Num Jun Feng</p>
+<p>Mrs Clara Ang
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wong_kit_han_clara@moe.edu.sg" rel="noopener noreferrer nofollow" target="">wong_kit_han_clara@moe.edu.sg</a>
-<br><a href="mailto:dillon_num_jun_feng@moe.edu.sg" rel="noopener noreferrer nofollow" target="">dillon_num_jun_feng@moe.edu.sg</a></p>
+</p>
 </td>
 </tr>
 <tr>
@@ -202,12 +201,12 @@ Mr Chua Qiyou</p>
 <p>2 St. Faustina (2F)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Jit Hong<br>
-	Ms Esther Lee</p>
+<p>Mr Tan Jit Hong
+<br>Ms Esther Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_jit_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="">tan_jit_hong@moe.edu.sg</a>
-	<a href="mailto:lee_shu_fen_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lee_shu_fen_a@moe.edu.sg</a>
+<p><a href="mailto:tan_jit_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="">tan_jit_hong@moe.edu.sg</a> 
+<a href="mailto:lee_shu_fen_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lee_shu_fen_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -216,9 +215,8 @@ Mr Chua Qiyou</p>
 <p>2 St. Gemma (2G)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Eunice Hung<br>
-	Mr Lim Choon Hong</p>
-
+<p>Ms Eunice Hung
+<br>Mr Lim Choon Hong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:hung_pek_hui_eunice@moe.edu.sg" rel="noopener noreferrer nofollow" target="">hung_pek_hui_eunice@moe.edu.sg</a>
@@ -231,8 +229,8 @@ Mr Chua Qiyou</p>
 <p>3 St. Anne (3A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Edgar Seow<br>
-	Ms Evelyn Yau</p>
+<p>Mr Edgar Seow
+<br>Ms Evelyn Yau</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:seow_siang_kim_edgar@moe.edu.sg" rel="noopener noreferrer nofollow" target="">seow_siang_kim_edgar@moe.edu.sg</a>
@@ -245,11 +243,12 @@ Mr Chua Qiyou</p>
 <p>3 St. Bernadette (3B)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Miroshini D/O Kannathasan<br>
-	Mr Samuel Zou</p>
+<p>Ms Miroshini D/O Kannathasan
+<br>Mr Samuel Zou</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:miroshini_kannathasan@moe.edu.sg" rel="noopener noreferrer nofollow" target="">miroshini_kannathasan@moe.edu.sg</a><br>
+<p><a href="mailto:miroshini_kannathasan@moe.edu.sg" rel="noopener noreferrer nofollow" target="">miroshini_kannathasan@moe.edu.sg</a>
+<br>
 <br><a href="mailto:zou_en_samuel@moe.edu.sg" rel="noopener noreferrer nofollow" target="">zou_en_samuel@moe.edu.sg</a>
 </p>
 </td>
@@ -259,14 +258,14 @@ Mr Chua Qiyou</p>
 <p>3 St. Clare (3C)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Alwyn Lee<br>
-	Mdm Joy See
+<p>Mr Alwyn Lee
+<br>Mdm Joy See
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_zhong_hao_alwyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lee_zhong_hao_alwyn@moe.edu.sg</a>
-	<a href="mailto:see_jia_hui_joy@moe.edu.sg" rel="noopener noreferrer nofollow" target="">see_jia_hui_joy@schools.moe.edu.sg</a>
+<p><a href="mailto:lee_zhong_hao_alwyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lee_zhong_hao_alwyn@moe.edu.sg</a> 
+<a href="mailto:see_jia_hui_joy@moe.edu.sg" rel="noopener noreferrer nofollow" target="">see_jia_hui_joy@schools.moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -275,8 +274,8 @@ Mr Chua Qiyou</p>
 <p>3 St. Deirdre (3D)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Dora Lee<br>
-	Mr Lua Jiong How</p>
+<p>Ms Dora Lee
+<br>Mr Lua Jiong How</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:dora_lee_bee_poh@moe.edu.sg" rel="noopener noreferrer nofollow" target="">dora_lee_bee_poh@moe.edu.sg</a>
@@ -289,8 +288,8 @@ Mr Chua Qiyou</p>
 <p>3 St. Elizabeth (3E)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Li Ziyi<br>
-	Ms Megalai Rajandran</p>
+<p>Ms Li Ziyi
+<br>Ms Megalai Rajandran</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:li_ziyi@moe.edu.sg" rel="noopener noreferrer nofollow" target="">li_ziyi@moe.edu.sg</a>
@@ -303,12 +302,12 @@ Mr Chua Qiyou</p>
 <p>3 St. Faustina (3F)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Haslinda Ramat<br>
-	Mr Andrew Lau</p>
+<p>Mdm Haslinda Ramat
+<br>Mr Goh Sian Yang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:haslinda_ramat@moe.edu.sg" rel="noopener noreferrer nofollow" target="">haslinda_ramat@moe.edu.sg</a>
-<br><a href="mailto:andrew_lau_fu_yang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">andrew_lau_fu_yang@moe.edu.sg</a>
+<br><a href="mailto:goh_siang_yang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_siang_yang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -317,8 +316,8 @@ Mr Chua Qiyou</p>
 <p>3 St. Gemma (3G)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Valarie Lee<br>
-	Mr Mark Tan</p>
+<p>Mrs Valarie Lee
+<br>Mr Mark Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:leong_kai_yun_valarie@moe.edu.sg" rel="noopener noreferrer nofollow" target="">leong_kai_yun_valarie@moe.edu.sg</a>
@@ -331,18 +330,22 @@ Mr Chua Qiyou</p>
 <p>4 St. Anne (4A)</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Evelyn Jaynesh</p>
 <p>Ms Yap Jen Huey</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yap_jen_huey@moe.edu.sg" rel="noopener noreferrer nofollow" target="">yap_jen_huey@moe.edu.sg</a></p></td>
+<p><a href="mailto:poon_siow_wei_evelyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">poon_siow_wei_evelyn@moe.edu.sg</a>
+<br><a href="mailto:yap_jen_huey@moe.edu.sg" rel="noopener noreferrer nofollow" target="">yap_jen_huey@moe.edu.sg</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>4 St. Bernadette (4B)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Karen Ng<br>
-	Mr Terance Wong</p>
+<p>Ms Karen Ng
+<br>Mr Terance Wong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_lee_jiun_karen@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ng_lee_jiun_karen@moe.edu.sg</a>
@@ -355,8 +358,8 @@ Mr Chua Qiyou</p>
 <p>4 St. Clare (4C)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Isabelle Teo<br>
-	Mr James Wong</p>
+<p>Ms Isabelle Teo
+<br>Mr James Wong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:teo_zhi_yi_isabelle@moe.edu.sg" rel="noopener noreferrer nofollow" target="">teo_zhi_yi_isabelle@moe.edu.sg</a>
@@ -369,9 +372,8 @@ Mr Chua Qiyou</p>
 <p>4 St. Deirdre (4D)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Maggie Dabbs<br>
-	Mr Patrick Ng</p>
-
+<p>Mrs Maggie Dabbs
+<br>Mr Patrick Ng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_peck_lin_maggie@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lee_peck_lin_maggie@moe.edu.sg</a>
@@ -384,12 +386,13 @@ Mr Chua Qiyou</p>
 <p>4 St. Elizabeth (4E)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Philomina Gomez<br>
-	Mr Wang Qiming</p>
+<p>Mrs Philomina Gomez
+<br>Mr Wang Qiming</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:philomina_angelus_gomez@moe.edu.sg" rel="noopener noreferrer nofollow" target="">philomina_angelus_gomez@moe.edu.sg</a><br><br>
-<a href="mailto:wang_qiming@moe.edu.sg" rel="noopener noreferrer nofollow" target="">wang_qiming@moe.edu.sg</a>
+<p><a href="mailto:philomina_angelus_gomez@moe.edu.sg" rel="noopener noreferrer nofollow" target="">philomina_angelus_gomez@moe.edu.sg</a>
+<br>
+<br><a href="mailto:wang_qiming@moe.edu.sg" rel="noopener noreferrer nofollow" target="">wang_qiming@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -398,9 +401,8 @@ Mr Chua Qiyou</p>
 <p>4 St. Faustina (4F)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Du Liang<br>
-	Mr Toh Boon Hui</p>
-
+<p>Mdm Du Liang
+<br>Mr Toh Boon Hui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:du_liang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">du_liang@moe.edu.sg</a>
@@ -413,8 +415,8 @@ Mr Chua Qiyou</p>
 <p>4 St. Gemma (4G)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Philip Tan<br>
-	Mdm Zaynab Abdul Rahman</p>
+<p>Mr Philip Tan
+<br>Mdm Zaynab Abdul Rahman</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_en_yaw_philip@moe.edu.sg" rel="noopener noreferrer nofollow" target="">tan_en_yaw_philip@moe.edu.sg</a>
