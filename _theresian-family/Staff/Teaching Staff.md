@@ -79,7 +79,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:velraj_gunasunthari@moe.edu.sg" rel="noopener noreferrer nofollow" target="">velraj_gunasunthari@moe.edu.sg</a> 
+<p><a href="mailto:velraj_gunasunthari@moe.edu.sg" rel="noopener noreferrer nofollow" target="">velraj_gunasunthari@moe.edu.sg</a>
 </p>
 </td>
 </tr>
