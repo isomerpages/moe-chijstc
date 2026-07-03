@@ -67,7 +67,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026_Sem_2_Assessment_for_Sec_1_3__Term_3_.pdf" rel="noopener nofollow" target="_blank">Sec 1-3 WA Schedule (Term 3)</a>
+<p><a href="/files/2026_Sem_2_Assessment_for_Sec_1_3__Term_3_.pdf" rel="noopener nofollow" target="_blank">Sec 1 to 3 WA Schedule (Term 3)</a>
 </p>
 </td>
 </tr>
