@@ -7,8 +7,7 @@ variant: tiptap
 <h4><strong>School Access Points&nbsp;</strong></h4>
 <p></p>
 <p>Please refer to the operating hours below for access to the school premises
-during school term and school holidays.</p>
-<p>&nbsp;</p>
+during school term and school holidays.&nbsp;</p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -107,9 +106,7 @@ during school term and school holidays.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Notes:</strong>
+<p><strong>&nbsp;Notes:</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -120,8 +117,7 @@ stated.</p>
 <p>All visitors are required to report to the Guardhouse upon arrival.</p>
 </li>
 </ol>
-<p>&nbsp;</p>
-<p><a href="https://www.moe.gov.sg/calendar" rel="noopener" target="_blank">School terms and holidays&nbsp;</a>
+<p>&nbsp;<a href="https://www.moe.gov.sg/calendar" rel="noopener" target="_blank">School terms and holidays&nbsp;</a>
 </p>
 <h4><strong>Contact number:&nbsp;</strong></h4>
 <p>64775777 (Tel), 64775700 (Fax)</p>
