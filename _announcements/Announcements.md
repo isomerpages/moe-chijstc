@@ -4,18 +4,77 @@ permalink: /others/announcement/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Temporary Relocation of General Office (5–19 June)</strong></h4>
-<p>The General Office is undergoing renovation works in June.</p>
-<p>&nbsp;From <strong>5 to 19 June</strong>, the General Office will be temporarily
-relocated from <strong>Block B Level 2</strong> to the <strong>Library (Block B Level 3)</strong>.</p>
-<p>&nbsp;Upon arrival, please follow the directional signages at the school
-foyer to the temporary General Office located at the Library (Block B Level
-3).</p>
-<p>&nbsp;Thank you for your understanding.</p>
-<hr>
-<h4><strong>School Closure at 5:00 PM on 29 May in view of Eat with Your Family Day</strong></h4>
-<p>Please be informed that the school will close at 5:00 PM on 29 May in
-view of Eat With Your Family Day.</p>
+<h4><strong>Edusave Character Award 2026 (ECHA)</strong></h4>
+<p>MOE introduced the Edusave Character Award (ECHA) in 2012 to<strong> </strong>enable
+schools to recognise students who demonstrate exemplary character and outstanding
+personal qualities through their behaviour and actions.&nbsp; This is part
+of the larger goal to foster an inclusive and stronger Singapore as we
+broaden the qualities and achievements to be encouraged and applauded.
+The award also supports schools’ continuing efforts in nurturing students
+of good values and character, who are active contributors and concerned
+citizens.</p>
+<p><strong>Objectives</strong>
+</p>
+<p>The objectives of the ECHA are:</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (a)&nbsp; To send a clear and strong signal
+of the importance that MOE places on character and values, on par with
+achievements in the academic domain; and</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (b)&nbsp; To recognise outstanding students
+in each school who are exemplary in character, and who can be role models
+to inspire others.</p>
+<p><strong>Form of Award</strong>
+</p>
+<p>Similar to the practice for other Edusave awards, the ECHA awardees will
+receive a certificate and an award voucher.<strong>&nbsp;</strong>
+</p>
+<p><strong>Nomination and Selection Process</strong>
+</p>
+<p>The nominations for ECHA 2026 are open to staff, students and parents.</p>
+<p>The selection process will be managed in <strong>three</strong> stages and
+will involve representatives of at least 2 distinct groups of key stakeholders
+at each stage of the selection process to provide a diversity of perspectives
+and to enhance its robustness.</p>
+<p><strong>Eligibility Criteria</strong>
+</p>
+<p>Students must satisfy the following eligibility criteria to be considered
+for ECHA:</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The nominee is a <strong>Singapore citizen</strong>.</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The nominee is a role model who has shown consistent and exemplary behaviour
+in her conduct and attitude.</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+(a) The nominee has demonstrated clearly aspects of the school values:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Love :</strong> With commitment,
+she loves God and others.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Truth :</strong> With conscience,
+she stands up for truth.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Justice :</strong> With compassion,
+she strives for justice for&nbsp; the disadvantaged.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Freedom :</strong>&nbsp;
+With courage, she is free to choose truth, justice and love;</p>
+<p>and / or</p>
+<p>(b)<strong> In her efforts to be a person for others, </strong>the<strong> </strong>nominee
+has demonstrated a high level of <strong>civic responsibility,</strong> showing
+concerns about issues related to her community or issues faced by others.
+She could have initiated simple action or played an active role to address
+these issues and demonstrate commitment to making a difference;</p>
+<p>and / or</p>
+<p>(c)<strong> </strong>The nominee has demonstrated <strong>resilience</strong>,
+i.e. persevered despite facing difficult circumstances (e.g. financial
+problems, health issues, family issues, peer resistance, etc.) and has
+managed to overcome the odds for instance, and still being able to do commendably
+well in her academic and non-academic domains.</p>
+<p>The nomination must state <strong>clear evidence</strong> of how the nominee
+has demonstrated the school values and that she is a role model for others.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Submission of Nominations</strong>
+</p>
+<p>The nomination can be done through the online form: <a href="https://go.gov.sg/stcecha2026p" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/stcecha2026p</a>.
+&nbsp;</p>
+<p>All nominations must reach the school by 17<sup>th</sup> July 2026 (Friday)
+5pm.</p>
 <hr>
 <h4><strong>Collection of School Graduation Certificate (SGC) for 2025 Sec 4/5 students</strong></h4>
 <p>Dear graduands of 2025 Sec 4/5,</p>
@@ -30,137 +89,6 @@ Office during the school operating hours from 0800h to 1700 h.</p>
 <p>Please refer to the attachment below for details of the CCA schedule.</p>
 <p><a href="/files/Student Matters/CCA_Master_Schedule_2026__with_emails_.pdf" rel="noopener nofollow" target="_blank">CCA Schedule</a>
 </p>
-<hr>
-<h4><strong>2025 GCE O-Level Results Release</strong></h4>
-<p>&nbsp;Dear Parents/ Guardians,</p>
-<p>&nbsp;The 2025 O-Level results will be released next Wednesday, 14 January
-2026. All students are to return to their Secondary schools to collect
-their results. Details are as follows for your reference.</p>
-<p>&nbsp;<strong>Date and time of release of results</strong>: 14 January
-2026, 2pm
-<br><strong>Venue for students to report to</strong>: School Hall &nbsp;</p>
-<p><strong>Time of students reporting to venue in school</strong>: 1.30pm&nbsp;&nbsp;
-<br><strong>Attire</strong>: IJ Blue with Blouse</p>
-<p>&nbsp;You are welcomed to be with your daughters/ wards during the results
-release. You will be invited to be seated in the School Hall at 1.45pm.</p>
-<p>&nbsp;As this is an official school event, please help remind your daughters/
-wards to be in the proper attire and grooming. Students who are not dressed
-in accordance with our attire and grooming standards may not be allowed
-to enter the school hall for the release of the results. &nbsp;</p>
-<p>&nbsp;For students who are unable to collect their results in person,
-you can appoint a proxy to collect a physical copy of their results from
-the school. Proxies are required to produce the relevant documents for
-the school’s verification when collecting the results. Please see the
-<a href="/files/Exam TT/Authorisation_letter_for_collection_of_results.pdf" rel="noopener noreferrer nofollow" target="_blank">Letter of Authorisation</a>(Appointment of proxy for school candidates
-who are unable to collect their results in person) as attached for your
-completion. Please print out this letter for the school’s verification
-when collecting their results. Do contact the school through their Form
-Teacher for assistance if they are unable to appoint a proxy before 13
-January 2026. Do also note that the results will be released to the proxies
-only after the results release is over in the School Hall.</p>
-<p>&nbsp;While we await the results, let us also remember to celebrate the
-efforts of each one of our Theresians, regardless of the results. We can
-show support for our students by showing them through our words and actions
-that their grades do not define who they are.</p>
-<p>&nbsp;Your support to your daughters/ wards during this milestone is important.
-Use this opportunity to have open conversations and guide them as they
-consider their next steps. Please refer below for useful resources to guide
-your conversations with your daughters/ wards. They include resources on
-social and emotional support as well as education and career guidance.</p>
-<p>&nbsp;<strong>Resources for Parents:</strong>
-</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><em>Link Description</em></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><em>Link</em></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><em>Remarks</em></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Booking Form for ECG Counselling Appointments at the ECG Centre @ MOE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/moe-ecg-centre" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-ecg-centre</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Students may contact the ECG Counsellor in their schools or make an ECG
-counselling appointment with the ECG Centre @ MOE from 7 - 21 January 2026
-(Weekdays: 9.00 am to 5.00 pm; Saturdays: 9.00 am to 12.00 pm) through
-the appointment booking form.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Education and Career Guidance (ECG) Parent Resource</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="http://go.gov.sg/nlevel-ecgparentresources" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/nlevel-ecgparentresources</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Social and Emotional learning: Resources for Parents</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="http://go.gov.sg/olevel-selparentresources" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/olevel-selparentresources</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>@explore.ecg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/ecg-instagram" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ecg-instagram</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Resource for parents/ guardians to engage their daughters/ wards in ECG
-exploration through bite-sized content featuring conversation starters,
-insights into industries, as well as pathway-related information.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tips and Resources for Parents</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Exam TT/2025_O_Level_Parent_Information_Sheet.pdf" rel="noopener nofollow" target="_blank">Supporting Your Teen Upon Results Release</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;The school will be praying for our students for every success this
-Wednesday. More importantly, we believe that they have done their best!&nbsp;</p>
-<p>&nbsp;Thank you and may God bless you,</p>
-<p>CHIJ STC</p>
 <hr>
 <h4><strong>2025 Year End Message from Ms Vivienne Lim, Chairperson, <br>IJ Board of Management<br></strong></h4>
 <p></p>
