@@ -63,7 +63,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Sec 1-3 WA Semester 2</strong>
+<p><strong>Sec 1 to 3 WA Semester 2</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
