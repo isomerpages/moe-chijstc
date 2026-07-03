@@ -54,5 +54,25 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4></h4>
+<h4><strong>Semester 2 Weighted Assessment Schedule</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sec 1-3 WA Semester 2</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Exam TT/Sec_1_WA_Schedule_updated_term_2.pdf" rel="noopener nofollow" target="_blank">Sec 1 WA Sche</a>
+<a href="/files/2026_Sem_2_Assessment_for_Sec_1_3__Term_3_.pdf" rel="noopener nofollow" target="_blank">Sec 1-3 WA Schedule (Term 3)</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p></p>
