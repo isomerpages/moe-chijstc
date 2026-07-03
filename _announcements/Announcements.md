@@ -67,9 +67,7 @@ managed to overcome the odds for instance, and still being able to do commendabl
 well in her academic and non-academic domains.</p>
 <p>The nomination must state <strong>clear evidence</strong> of how the nominee
 has demonstrated the school values and that she is a role model for others.</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Submission of Nominations</strong>
+<p><strong>&nbsp;Submission of Nominations</strong>
 </p>
 <p>The nomination can be done through the online form: <a href="https://go.gov.sg/stcecha2026p" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/stcecha2026p</a>.
 &nbsp;</p>
