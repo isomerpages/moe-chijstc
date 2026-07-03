@@ -75,7 +75,6 @@ during school term and school holidays.&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <h4><strong>General Office Operating Hours</strong></h4>
 <p>Please refer to the operating hours of our General Office below.</p>
 <p><strong>&nbsp;</strong>
