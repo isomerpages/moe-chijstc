@@ -23,10 +23,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/ECHA_Nomination_Form_2025.pdf" rel="noopener nofollow" target="_blank">ECHA Nomination Form</a>
-</p>
-</li>
-<li>
 <p><a href="/others/exam-timetable" rel="noopener noreferrer nofollow" target="">Exam Timetable</a>
 </p>
 </li>
